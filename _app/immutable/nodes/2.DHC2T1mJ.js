@@ -18300,7 +18300,7 @@ function jd(e, t) {
             location.reload()
         }
         p().includes(d.data.Chapter) ? (B(Yr, p().filter(D => D !== d.data.Chapter)), O(b.target).attr("fill", D => D.data[c()] == -1 ? "#FFE" : De(D))) : (p().push(d.data.Chapter), B(Yr, p()), O(b.target).attr("fill", D => {
-            if (D.data[c()] == -1) return "#EEE";
+            if (D.data[c()] == -1) return "#FCFCFC";
             const W = He(De(D)),
                 j = ((W.r + W.g + W.b) / 3).toFixed(0);
             return Dt(j, j, j, .7).toString()
@@ -18402,7 +18402,7 @@ function jd(e, t) {
             };
         return b.append("g").selectAll("g").data(dt).join("g").attr("class", "bars").attr("stroke", "#DDD").attr("stroke-width", 1).call(j => j.selectAll("rect").data(K => K).join("rect").attr("fill", K => {
             if (p().includes(K.data.Chapter)) {
-                if (K.data[c()] == -1) return "#EEE";
+                if (K.data[c()] == -1) return "#FCFCFC";
                 const oe = He(De(K)),
                     ye = ((oe.r + oe.g + oe.b) / 3).toFixed(0);
                 return Dt(ye, ye, ye, .7).toString()
@@ -18462,7 +18462,7 @@ function jd(e, t) {
         const d = b.map(S => S.item.Chapter);
         O("svg").selectAll(".bars rect").attr("fill", S => {
             if (p().includes(S.data.Chapter)) {
-                if (S.data[c()] == -1) return "#EEE";
+                if (S.data[c()] == -1) return "#FCFCFC";
                 const D = He(De(S)),
                     W = ((D.r + D.g + D.b) / 3).toFixed(0);
                 return Dt(W, W, W, .7).toString()
