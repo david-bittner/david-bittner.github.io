@@ -9916,7 +9916,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
 
 
 
-    Au = "100 Tage Lernplan M2 – H2026",
+    Au = "100-Tage-Lernplan M2 – H2026",
     Pu = 100,
     vu = [0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100],
     zu = 100,
@@ -18220,7 +18220,7 @@ function jd(e, t) {
             },
             type: "interactive"
         }]) : d.Kartenzahl && U(y).showContextMenu(b, d, [{
-            label: d.Kartenzahl.toString() + " Anki Karten",
+            label: d.Kartenzahl.toString() + " Anki-Karten",
             action: () => {},
             type: "header"
         }, {
@@ -18280,7 +18280,7 @@ function jd(e, t) {
     }
     const ze = b => b.attr("transform", `translate(${I.left},0)`).call(qs(Me).tickValues(U(E).pageTickValues.map(d => d * J)).tickFormat(d => (d / J).toFixed(0).toString())).call(d => d.select(".tick:last-of-type text").clone().attr("class", "y-axis-label-left").attr("x", 3).text("Seitenzahl")),
         Er = b => b.attr("transform", `translate(${I.left},0)`).call(qs(Je).tickValues(Or(...Ya(Je.domain()), 4)).tickFormat(d => d.toFixed(0).toString())).call(d => d.select(".tick:last-of-type text").clone().attr("class", "y-axis-label-left").attr("x", 3).text("Fragenzahl")),
-        Ft = b => b.attr("transform", `translate(${C-I.right},0)`).call(Jc(Ye).tickValues(Or(...Ya(Ye.domain()), 4)).tickFormat(d => d.toFixed(0).toString())).call(d => d.select(".tick:last-of-type text").clone().attr("class", "y-axis-label-right").attr("x", -3).text("Anki Karten")),
+        Ft = b => b.attr("transform", `translate(${C-I.right},0)`).call(Jc(Ye).tickValues(Or(...Ya(Ye.domain()), 4)).tickFormat(d => d.toFixed(0).toString())).call(d => d.select(".tick:last-of-type text").clone().attr("class", "y-axis-label-right").attr("x", -3).text("Anki-Karten")),
         ut = b => b.attr("transform", `translate(0,${f-I.bottom})`).call($s(w).tickValues(Or(...Ya(w.domain()), Math.round(C / 40 * l().k))).tickSizeInner(0).tickSizeOuter(0)),
         Xt = b => b.attr("transform", `translate(0,${f-I.bottom+A})`).call($s(w).tickValues(0).tickSizeInner(0).tickSizeOuter(0)),
         Cr = el;
@@ -18380,7 +18380,7 @@ function jd(e, t) {
                 let oe = "",
                     ye = "",
                     Go = i() && K.data && K.data.Length ? `, ${(K.data.Length/J).toFixed(0)} Seiten` : "";
-                c() === "Imppact" && (ye = "IMPPact"), c() === "ExamQuestionsPer10Pages" && (ye = "Relevanz"), K.data && K.data.Chapter && (oe = `<p style="margin: 0"><b>${K.data.Chapter}</b> - <i style="font-size:small">${ye} ${K.data[c()]!==-1?K.data[c()].toFixed(2):"n.a."}${Go}</i></p>`), K.Fragenzahl && (oe = `${K.Fragenzahl} Fragen`), K.name && (oe = K.name), K.Kartenzahl && (oe = `${K.Kartenzahl} Anki Karten`);
+                c() === "Imppact" && (ye = "IMPPact"), c() === "ExamQuestionsPer10Pages" && (ye = "Relevanz"), K.data && K.data.Chapter && (oe = `<p style="margin: 0"><b>${K.data.Chapter}</b> - <i style="font-size:small">${ye} ${K.data[c()]!==-1?K.data[c()].toFixed(2):"n.a."}${Go}</i></p>`), K.Fragenzahl && (oe = `${K.Fragenzahl} Fragen`), K.name && (oe = K.name), K.Kartenzahl && (oe = `${K.Kartenzahl} Anki-Karten`);
                 const wt = O("#svg_tooltip");
                 wt.html(oe);
 
