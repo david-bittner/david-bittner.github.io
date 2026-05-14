@@ -3895,7 +3895,7 @@ function bl(e, t) {
         n = T(s, !0);
     Z(s), Z(a), Ne(() => Xe(n, r())), q(e, a)
 }
-var fl = te('<h3 class="svelte-1nss1s">Einstellungen</h3> <div class="svelte-1nss1s"></div> <div id="parent" class="svelte-1nss1s"><div id="centerH" class="svelte-1nss1s"><button id="changePlan" class="svelte-1nss1s">Lernplan ändern</button></div></div> <hr class="svelte-1nss1s"> <div class="svelte-1nss1s"><label><input type="checkbox"> Top 100 bzw. Top 30 Kapitel hervorheben</label></div> <div class="svelte-1nss1s"><label><input type="checkbox"> Seitenanzahl neben dem IMPPact anzeigen</label> <!></div> <div class="svelte-1nss1s"><label><input type="checkbox"> Tage bis Examen unten links anzeigen</label></div> <div class="svelte-1nss1s"><label><input type="checkbox"> Fortschritt in Prozent unten links anzeigen</label></div> <hr class="svelte-1nss1s"> <div class="svelte-1nss1s">Zeige die Anki-Karteikarten von <label><input type="radio" name="showLernkartenDeck"> Aus &nbsp;&nbsp;</label> <label><input type="radio" name="showLernkartenDeck"> <a href="https://next.amboss.com/de/article/B80zK3" target="_blank">Ankiphil</a> &nbsp;&nbsp;</label> <label><input type="radio" name="showLernkartenDeck"> <a href="https://linktr.ee/Anki_Germany" target="_blank">Ankizin</a></label></div> <div class="svelte-1nss1s"><label><input type="radio" name="showLernkartenType"> Nur "Highest Yield" &nbsp;&nbsp;</label> <label><input type="radio" name="showLernkartenType"> Min. 1x vom IMPP gefragt &nbsp;&nbsp;</label> <label><input type="radio" name="showLernkartenType"> Alle</label></div> <hr class="svelte-1nss1s"> <div class="svelte-1nss1s">Zeige auf der x-Achse Markierungen alle <label><input type="radio" name="WeekDividers"> Aus</label> <label><input type="radio" name="WeekDividers"> 5</label> <label><input type="radio" name="WeekDividers"> 6</label> <label><input type="radio" name="WeekDividers"> 7</label> Tage</div> <div class="svelte-1nss1s">Verschoben um <input style="display: inline" type="range" min="0" max="6" class="slider" id="shiftWeekSlider"> </div> <br> <div class="svelte-1nss1s">Fragebalken Größe: <input style="display: inline" type="range" min="50" max="300" step="10" class="slider" id="shiftXSlider"> </div> <hr class="svelte-1nss1s"> <div class="svelte-1nss1s"><div class="svelte-1nss1s">Bestimme die Relevanz von Kapiteln als <br> <label><input type="radio" name="importanceName"> IMPPact</label> <br> <label><input type="radio" name="importanceName"> gestellte Examensfragen pro 10 Seiten Stoff</label></div></div> <br> <div class="svelte-1nss1s"><div class="svelte-1nss1s"><label><input type="radio" name="SortBy"> Nach Relevanz sortieren</label> <label><input type="radio" name="SortBy"> chronologisch wie bei Amboss</label></div> <div class="svelte-1nss1s"><label><input type="checkbox"> Nach <b>Top Kapiteln</b> sortieren, unabhängig vom Tag</label></div></div>', 1);
+var fl = te('<h3 class="svelte-1nss1s">Einstellungen</h3> <div class="svelte-1nss1s"></div> <div id="parent" class="svelte-1nss1s"><div id="centerH" class="svelte-1nss1s"><button id="changePlan" class="svelte-1nss1s">Lernplan ändern</button></div></div> <hr class="svelte-1nss1s"> <div class="svelte-1nss1s"><label><input type="checkbox"> Top 100 bzw. Top 30 Kapitel hervorheben</label></div> <div class="svelte-1nss1s"><label><input type="checkbox"> Seitenanzahl neben dem IMPPact anzeigen</label> <!></div> <div class="svelte-1nss1s"><label><input type="checkbox"> Tage bis Examen unten links anzeigen</label></div> <div class="svelte-1nss1s"><label><input type="checkbox"> Fortschritt in Prozent unten links anzeigen</label></div> <hr class="svelte-1nss1s"> <div class="svelte-1nss1s">Zeige die Anki-Karteikarten von <label><input type="radio" name="showLernkartenDeck"> Aus &nbsp;&nbsp;</label> <label><input type="radio" name="showLernkartenDeck"> <a href="https://next.amboss.com/de/article/B80zK3" target="_blank">Ankiphil</a> &nbsp;&nbsp;</label> <label><input type="radio" name="showLernkartenDeck"> <a href="https://linktr.ee/Anki_Germany" target="_blank">Ankizin</a></label></div> <div class="svelte-1nss1s"><label><input type="radio" name="showLernkartenType"> Nur "High Yield" &nbsp;&nbsp;</label> <label><input type="radio" name="showLernkartenType"> Min. 1x vom IMPP gefragt &nbsp;&nbsp;</label> <label><input type="radio" name="showLernkartenType"> Alle</label></div> <hr class="svelte-1nss1s"> <div class="svelte-1nss1s">Zeige auf der x-Achse Markierungen alle <label><input type="radio" name="WeekDividers"> Aus</label> <label><input type="radio" name="WeekDividers"> 5</label> <label><input type="radio" name="WeekDividers"> 6</label> <label><input type="radio" name="WeekDividers"> 7</label> Tage</div> <div class="svelte-1nss1s">Verschoben um <input style="display: inline" type="range" min="0" max="6" class="slider" id="shiftWeekSlider"> </div> <br> <div class="svelte-1nss1s">Fragebalken Größe: <input style="display: inline" type="range" min="50" max="300" step="10" class="slider" id="shiftXSlider"> </div> <hr class="svelte-1nss1s"> <div class="svelte-1nss1s"><div class="svelte-1nss1s">Bestimme die Relevanz von Kapiteln als <br> <label><input type="radio" name="importanceName"> IMPPact</label> <br> <label><input type="radio" name="importanceName"> gestellte Examensfragen pro 10 Seiten Stoff</label></div></div> <br> <div class="svelte-1nss1s"><div class="svelte-1nss1s"><label><input type="radio" name="SortBy"> Nach Relevanz sortieren</label> <label><input type="radio" name="SortBy"> chronologisch wie bei Amboss</label></div> <div class="svelte-1nss1s"><label><input type="checkbox"> Nach <b>Top Kapiteln</b> sortieren, unabhängig vom Tag</label></div></div>', 1);
 
 function Il(e, t) {
     Ge(t, !1);
@@ -7986,7 +7986,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
     }, {
         Day: 58,    Importance: 1,    Subject: "Urologie",    Chapter: "Nierenzellkarzinom",    Length: "1236",    Imppact: 1,    Url: "https://next.amboss.com/de/courses/KR0ULf/b0YHen/article/Ki0Usf",    Error: 0
     }, {
-        Day: 58,    Importance: 2,    Subject: "Urologie",    Chapter: "Benignes Prostatasyndrom",    Length: "1166",    Imppact: 1,    Url: "https://next.amboss.com/de/courses/KR0ULf/b0YHen/article/pi0Lsf",    Error: 0
+        Day: 58,    Importance: 2,    Subject: "Urologie",    Chapter: "Benignes Prostatasyndrom",    Length: "1166",    Imppact: 1,    Url: "https://next.amboss.com/de/courses/KR0ULf/b0YHen/article/AQ0RAf",    Error: 0
     }, {
         Day: 58,    Importance: 3,    Subject: "Urologie",    Chapter: "Prostatakarzinom",    Length: "1006",    Imppact: 1,    Url: "https://next.amboss.com/de/courses/KR0ULf/b0YHen/article/Ji0ssf",    Error: 0
     }, {
@@ -9921,7 +9921,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
     vu = [0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100],
     zu = 100,
     Zu = [46, 46, 61, 83, 50, 50, 68, 90, 64, 63, 89, 85, 70, 88, 46, 46, 90, 62, 102, 88, 78, 61, 77, 45, 68, 76, 87, 75, 50, 53, 42, 52, 63, 75, 109, 66, 82, 90, 56, 101, 92, 67, 77, 60, 44, 57, 72, 49, 54, 60, 67, 74, 72, 70, 68, 67, 72, 77, 52, 49, 74, 74, 91, 94, 102, 95, 84, 96, 115, 92, 93, 91, 96, 38, 35, 40, 36, 35, 101, 76, 72, 69, 53, 108, 90, 103, 103, 105, 105, 104, 103, 105, 105, 105, 103, 104, 103, 105, 106, 105],
-    Tu = ["https://next.amboss.com/de/courses/pi0Lsf/OcYIcL", "https://next.amboss.com/de/courses/pi0Lsf/lcYvcL", "https://next.amboss.com/de/courses/pi0Lsf/NcY-cL", "https://next.amboss.com/de/courses/pi0Lsf/mcYV1L", "https://next.amboss.com/de/courses/pi0Lsf/5cYi1L", "https://next.amboss.com/de/courses/pi0Lsf/McYM1L", "https://next.amboss.com/de/courses/pi0Lsf/ncY71L", "https://next.amboss.com/de/courses/pi0Lsf/LcYw1L", "https://next.amboss.com/de/courses/pi0Lsf/ocY0WL", "https://next.amboss.com/de/courses/pi0Lsf/KcYUWL", "https://next.amboss.com/de/courses/pi0Lsf/6cYjWL", "https://next.amboss.com/de/courses/pi0Lsf/pcYLWL", "https://next.amboss.com/de/courses/pi0Lsf/JcYsWL", "https://next.amboss.com/de/courses/pi0Lsf/qcYCWL", "https://next.amboss.com/de/courses/pi0Lsf/IcYYdL", "https://next.amboss.com/de/courses/pi0Lsf/rcYfdL", "https://next.amboss.com/de/courses/pi0Lsf/7cY4dL", "https://next.amboss.com/de/courses/pi0Lsf/HcYKdL", "https://next.amboss.com/de/courses/pi0Lsf/scYtdL", "https://next.amboss.com/de/courses/pi0Lsf/GcYBdL", "https://next.amboss.com/de/courses/pi0Lsf/tcYXVL", "https://next.amboss.com/de/courses/pi0Lsf/FcYgVL", "https://next.amboss.com/de/courses/pi0Lsf/8cYOVL", "https://next.amboss.com/de/courses/pi0Lsf/ucYpVL", "https://next.amboss.com/de/courses/pi0Lsf/EcY8VL", "https://next.amboss.com/de/courses/pi0Lsf/vcYAVL", "https://next.amboss.com/de/courses/pi0Lsf/DcY1eL", "https://next.amboss.com/de/courses/pi0Lsf/wcYheL", "https://next.amboss.com/de/courses/pi0Lsf/9cYNeL", "https://next.amboss.com/de/courses/pi0Lsf/CcYqeL", "https://next.amboss.com/de/courses/pi0Lsf/xcYEeL", "https://next.amboss.com/de/courses/pi0Lsf/BcYzeL", "https://next.amboss.com/de/courses/pi0Lsf/ycYdUL", "https://next.amboss.com/de/courses/pi0Lsf/AcYRUL", "https://next.amboss.com/de/courses/pi0Lsf/_cY5UL", "https://next.amboss.com/de/courses/pi0Lsf/zcYrUL", "https://next.amboss.com/de/courses/pi0Lsf/-cYDUL", "https://next.amboss.com/de/courses/pi0Lsf/Z1YZ2L", "https://next.amboss.com/de/courses/pi0Lsf/01Ye2L", "https://next.amboss.com/de/courses/pi0Lsf/a1YQ2L", "https://next.amboss.com/de/courses/pi0Lsf/Y1Yn2L", "https://next.amboss.com/de/courses/pi0Lsf/b1YH2L", "https://next.amboss.com/de/courses/pi0Lsf/X1Y92L", "https://next.amboss.com/de/courses/pi0Lsf/c1YafL", "https://next.amboss.com/de/courses/pi0Lsf/11Y2fL", "https://next.amboss.com/de/courses/pi0Lsf/W1YPfL", "https://next.amboss.com/de/courses/pi0Lsf/d1YofL", "https://next.amboss.com/de/courses/pi0Lsf/V1YGfL", "https://next.amboss.com/de/courses/pi0Lsf/e1YxfL", "https://next.amboss.com/de/courses/pi0Lsf/U1YbTL", "https://next.amboss.com/de/courses/pi0Lsf/21YTTL", "https://next.amboss.com/de/courses/pi0Lsf/f1YkTL", "https://next.amboss.com/de/courses/pi0Lsf/T1Y6TL", "https://next.amboss.com/de/courses/pi0Lsf/g1YFTL", "https://next.amboss.com/de/courses/pi0Lsf/S1YyTL", "https://next.amboss.com/de/courses/pi0Lsf/h1YcgL", "https://next.amboss.com/de/courses/pi0Lsf/31YSgL", "https://next.amboss.com/de/courses/pi0Lsf/R1YlgL", "https://next.amboss.com/de/courses/pi0Lsf/i1YJgL", "https://next.amboss.com/de/courses/pi0Lsf/Q1YugL", "https://next.amboss.com/de/courses/pi0Lsf/j1Y_gL", "https://next.amboss.com/de/courses/pi0Lsf/P1YWSL", "https://next.amboss.com/de/courses/pi0Lsf/41Y3SL", "https://next.amboss.com/de/courses/pi0Lsf/k1YmSL", "https://next.amboss.com/de/courses/pi0Lsf/O1YISL", "https://next.amboss.com/de/courses/pi0Lsf/l1YvSL", "https://next.amboss.com/de/courses/pi0Lsf/N1Y-SL", "https://next.amboss.com/de/courses/pi0Lsf/m1YVhL", "https://next.amboss.com/de/courses/pi0Lsf/51YihL", "https://next.amboss.com/de/courses/pi0Lsf/M1YMhL", "https://next.amboss.com/de/courses/pi0Lsf/n1Y7hL", "https://next.amboss.com/de/courses/pi0Lsf/L1YwhL", "https://next.amboss.com/de/courses/pi0Lsf/o1Y03L", "https://next.amboss.com/de/courses/pi0Lsf/K1YU3L", "https://next.amboss.com/de/courses/pi0Lsf/61Yj3L", "https://next.amboss.com/de/courses/pi0Lsf/p1YL3L", "https://next.amboss.com/de/courses/pi0Lsf/J1Ys3L", "https://next.amboss.com/de/courses/pi0Lsf/q1YC3L", "https://next.amboss.com/de/courses/pi0Lsf/I1YYRL", "https://next.amboss.com/de/courses/pi0Lsf/r1YfRL", "https://next.amboss.com/de/courses/pi0Lsf/71Y4RL", "https://next.amboss.com/de/courses/pi0Lsf/H1YKRL", "https://next.amboss.com/de/courses/pi0Lsf/s1YtRL", "https://next.amboss.com/de/courses/pi0Lsf/G1YBRL", "https://next.amboss.com/de/courses/pi0Lsf/t1YXiL", "https://next.amboss.com/de/courses/pi0Lsf/F1YgiL", "https://next.amboss.com/de/courses/pi0Lsf/81YOiL", "https://next.amboss.com/de/courses/pi0Lsf/u1YpiL", "https://next.amboss.com/de/courses/pi0Lsf/E1Y8iL", "https://next.amboss.com/de/courses/pi0Lsf/v1YAiL", "https://next.amboss.com/de/courses/pi0Lsf/D1Y1QL", "https://next.amboss.com/de/courses/pi0Lsf/w1YhQL", "https://next.amboss.com/de/courses/pi0Lsf/91YNQL", "https://next.amboss.com/de/courses/pi0Lsf/C1YqQL", "https://next.amboss.com/de/courses/pi0Lsf/x1YEQL", "https://next.amboss.com/de/courses/pi0Lsf/B1YzQL", "https://next.amboss.com/de/courses/pi0Lsf/y1YdjL", "https://next.amboss.com/de/courses/pi0Lsf/A1YRjL", "https://next.amboss.com/de/courses/pi0Lsf/_1Y5jL", "https://next.amboss.com/de/courses/pi0Lsf/z1YrjL"],
+    Tu = ["https://next.amboss.com/de/courses/AQ0RAf/IiYYGK", "https://next.amboss.com/de/courses/AQ0RAf/riYfGK", "https://next.amboss.com/de/courses/AQ0RAf/7iY4GK", "https://next.amboss.com/de/courses/AQ0RAf/HiYKGK", "https://next.amboss.com/de/courses/AQ0RAf/siYtGK", "https://next.amboss.com/de/courses/AQ0RAf/GiYBGK", "https://next.amboss.com/de/courses/AQ0RAf/tiYXtK", "https://next.amboss.com/de/courses/AQ0RAf/FiYgtK", "https://next.amboss.com/de/courses/AQ0RAf/8iYOtK", "https://next.amboss.com/de/courses/AQ0RAf/uiYptK", "https://next.amboss.com/de/courses/AQ0RAf/EiY8tK", "https://next.amboss.com/de/courses/AQ0RAf/viYAtK", "https://next.amboss.com/de/courses/AQ0RAf/DiY1FK", "https://next.amboss.com/de/courses/AQ0RAf/wiYhFK", "https://next.amboss.com/de/courses/AQ0RAf/9iYNFK", "https://next.amboss.com/de/courses/AQ0RAf/CiYqFK", "https://next.amboss.com/de/courses/AQ0RAf/xiYEFK", "https://next.amboss.com/de/courses/AQ0RAf/BiYzFK", "https://next.amboss.com/de/courses/AQ0RAf/yiYd8K", "https://next.amboss.com/de/courses/AQ0RAf/AiYR8K", "https://next.amboss.com/de/courses/AQ0RAf/_iY58K", "https://next.amboss.com/de/courses/AQ0RAf/ziYr8K", "https://next.amboss.com/de/courses/AQ0RAf/-iYD8K", "https://next.amboss.com/de/courses/AQ0RAf/ZQYZuK", "https://next.amboss.com/de/courses/AQ0RAf/0QYeuK", "https://next.amboss.com/de/courses/AQ0RAf/aQYQuK", "https://next.amboss.com/de/courses/AQ0RAf/YQYnuK", "https://next.amboss.com/de/courses/AQ0RAf/bQYHuK", "https://next.amboss.com/de/courses/AQ0RAf/XQY9uK", "https://next.amboss.com/de/courses/AQ0RAf/cQYaEK", "https://next.amboss.com/de/courses/AQ0RAf/1QY2EK", "https://next.amboss.com/de/courses/AQ0RAf/WQYPEK", "https://next.amboss.com/de/courses/AQ0RAf/dQYoEK", "https://next.amboss.com/de/courses/AQ0RAf/VQYGEK", "https://next.amboss.com/de/courses/AQ0RAf/eQYxEK", "https://next.amboss.com/de/courses/AQ0RAf/UQYbvK", "https://next.amboss.com/de/courses/AQ0RAf/2QYTvK", "https://next.amboss.com/de/courses/AQ0RAf/fQYkvK", "https://next.amboss.com/de/courses/AQ0RAf/TQY6vK", "https://next.amboss.com/de/courses/AQ0RAf/gQYFvK", "https://next.amboss.com/de/courses/AQ0RAf/SQYyvK", "https://next.amboss.com/de/courses/AQ0RAf/hQYcDK", "https://next.amboss.com/de/courses/AQ0RAf/3QYSDK", "https://next.amboss.com/de/courses/AQ0RAf/RQYlDK", "https://next.amboss.com/de/courses/AQ0RAf/iQYJDK", "https://next.amboss.com/de/courses/AQ0RAf/QQYuDK", "https://next.amboss.com/de/courses/AQ0RAf/jQY_DK", "https://next.amboss.com/de/courses/AQ0RAf/PQYWwK", "https://next.amboss.com/de/courses/AQ0RAf/4QY3wK", "https://next.amboss.com/de/courses/AQ0RAf/kQYmwK", "https://next.amboss.com/de/courses/AQ0RAf/OQYIwK", "https://next.amboss.com/de/courses/AQ0RAf/lQYvwK", "https://next.amboss.com/de/courses/AQ0RAf/NQY-wK", "https://next.amboss.com/de/courses/AQ0RAf/mQYV9K", "https://next.amboss.com/de/courses/AQ0RAf/5QYi9K", "https://next.amboss.com/de/courses/AQ0RAf/MQYM9K", "https://next.amboss.com/de/courses/AQ0RAf/nQY79K", "https://next.amboss.com/de/courses/AQ0RAf/LQYw9K", "https://next.amboss.com/de/courses/AQ0RAf/oQY0CK", "https://next.amboss.com/de/courses/AQ0RAf/KQYUCK", "https://next.amboss.com/de/courses/AQ0RAf/6QYjCK", "https://next.amboss.com/de/courses/AQ0RAf/pQYLCK", "https://next.amboss.com/de/courses/AQ0RAf/JQYsCK", "https://next.amboss.com/de/courses/AQ0RAf/qQYCCK", "https://next.amboss.com/de/courses/AQ0RAf/IQYYxK", "https://next.amboss.com/de/courses/AQ0RAf/rQYfxK", "https://next.amboss.com/de/courses/AQ0RAf/7QY4xK", "https://next.amboss.com/de/courses/AQ0RAf/HQYKxK", "https://next.amboss.com/de/courses/AQ0RAf/sQYtxK", "https://next.amboss.com/de/courses/AQ0RAf/GQYBxK", "https://next.amboss.com/de/courses/AQ0RAf/tQYXBK", "https://next.amboss.com/de/courses/AQ0RAf/FQYgBK", "https://next.amboss.com/de/courses/AQ0RAf/8QYOBK", "https://next.amboss.com/de/courses/AQ0RAf/uQYpBK", "https://next.amboss.com/de/courses/AQ0RAf/EQY8BK", "https://next.amboss.com/de/courses/AQ0RAf/vQYABK", "https://next.amboss.com/de/courses/AQ0RAf/DQY1yK", "https://next.amboss.com/de/courses/AQ0RAf/wQYhyK", "https://next.amboss.com/de/courses/AQ0RAf/9QYNyK", "https://next.amboss.com/de/courses/AQ0RAf/CQYqyK", "https://next.amboss.com/de/courses/AQ0RAf/xQYEyK", "https://next.amboss.com/de/courses/AQ0RAf/BQYzyK", "https://next.amboss.com/de/courses/AQ0RAf/yQYdAK", "https://next.amboss.com/de/courses/AQ0RAf/AQYRAK", "https://next.amboss.com/de/courses/AQ0RAf/_QY5AK", "https://next.amboss.com/de/courses/AQ0RAf/zQYrAK", "https://next.amboss.com/de/courses/AQ0RAf/-QYDAK", "https://next.amboss.com/de/courses/AQ0RAf/ZjYZ_K", "https://next.amboss.com/de/courses/AQ0RAf/0jYe_K", "https://next.amboss.com/de/courses/AQ0RAf/ajYQ_K", "https://next.amboss.com/de/courses/AQ0RAf/YjYn_K", "https://next.amboss.com/de/courses/AQ0RAf/bjYH_K", "https://next.amboss.com/de/courses/AQ0RAf/XjY9_K", "https://next.amboss.com/de/courses/AQ0RAf/cjYazK", "https://next.amboss.com/de/courses/AQ0RAf/1jY2zK", "https://next.amboss.com/de/courses/AQ0RAf/WjYPzK", "https://next.amboss.com/de/courses/AQ0RAf/djYozK", "https://next.amboss.com/de/courses/AQ0RAf/VjYGzK", "https://next.amboss.com/de/courses/AQ0RAf/ejYxzK", "https://next.amboss.com/de/courses/AQ0RAf/UjYb-K"],
     wu = [{
         Day: 1,
         Importance: 1,
@@ -9929,7 +9929,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Handbuch - Vorbereitung auf das Zweite Staatsexamen",
         Length: "2626",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/OcYIcL/article/Wn0PHg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/IiYYGK/article/Wn0PHg",
         Error: 0
     }, {
         Day: 1,
@@ -9938,7 +9938,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Kreuztipps zum Zweiten Staatsexamen",
         Length: "3512",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/OcYIcL/article/UL0bCg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/IiYYGK/article/UL0bCg",
         Error: 0
     }, {
         Day: 1,
@@ -9947,7 +9947,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Untersuchungsmethoden in der Kardiologie",
         Length: "1326",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/OcYIcL/article/rM0fJg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/IiYYGK/article/rM0fJg",
         Error: 0
     }, {
         Day: 1,
@@ -9956,7 +9956,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "EKG",
         Length: "2796",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/OcYIcL/article/pl0LBT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/IiYYGK/article/pl0LBT",
         Error: 0
     }, {
         Day: 1,
@@ -9965,7 +9965,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Herzrhythmusstörungen",
         Length: "1388",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/OcYIcL/article/7S04af",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/IiYYGK/article/7S04af",
         Error: 0
     }, {
         Day: 1,
@@ -9974,7 +9974,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Supraventrikuläre Extrasystolen",
         Length: "186",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/OcYIcL/article/sS0taf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/IiYYGK/article/sS0taf",
         Error: 0
     }, {
         Day: 1,
@@ -9983,7 +9983,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Vorhofflimmern",
         Length: "2230",
         Imppact: 3,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/OcYIcL/article/GS0Baf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/IiYYGK/article/GS0Baf",
         Error: 0
     }, {
         Day: 1,
@@ -9992,7 +9992,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Sick-Sinus-Syndrom",
         Length: "257",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/OcYIcL/article/HS0Kaf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/IiYYGK/article/HS0Kaf",
         Error: 0
     }, {
         Day: 1,
@@ -10001,7 +10001,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "AV-Block",
         Length: "791",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/OcYIcL/article/I50Ylg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/IiYYGK/article/I50Ylg",
         Error: 0
     }, {
         Day: 1,
@@ -10010,7 +10010,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "AV-Knoten-Reentrytachykardie",
         Length: "428",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/OcYIcL/article/tS0XYf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/IiYYGK/article/tS0XYf",
         Error: 0
     }, {
         Day: 1,
@@ -10019,7 +10019,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Atrioventrikuläre Reentrytachykardie",
         Length: "328",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/OcYIcL/article/FS0gYf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/IiYYGK/article/FS0gYf",
         Error: 0
     }, {
         Day: 2,
@@ -10028,7 +10028,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Ventrikuläre Extrasystolen",
         Length: "369",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/lcYvcL/article/8S0OYf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/riYfGK/article/8S0OYf",
         Error: 0
     }, {
         Day: 2,
@@ -10037,7 +10037,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Ventrikuläre Tachykardie",
         Length: "604",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/lcYvcL/article/ES08Yf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/riYfGK/article/ES08Yf",
         Error: 0
     }, {
         Day: 2,
@@ -10046,7 +10046,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Kammerflattern und -flimmern",
         Length: "288",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/lcYvcL/article/vS0AYf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/riYfGK/article/vS0AYf",
         Error: 0
     }, {
         Day: 2,
@@ -10055,7 +10055,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Herzschrittmacher",
         Length: "1375",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/lcYvcL/article/ql0CBT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/riYfGK/article/ql0CBT",
         Error: 0
     }, {
         Day: 2,
@@ -10064,7 +10064,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Synkope",
         Length: "1392",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/lcYvcL/article/b50Hig",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/riYfGK/article/b50Hig",
         Error: 0
     }, {
         Day: 2,
@@ -10073,7 +10073,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Subclavian-Steal-Syndrom",
         Length: "355",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/lcYvcL/article/bM0HMg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/riYfGK/article/bM0HMg",
         Error: 0
     }, {
         Day: 3,
@@ -10082,7 +10082,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Dyslipidämien",
         Length: "894",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/NcY-cL/article/on008g",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/7iY4GK/article/on008g",
         Error: 0
     }, {
         Day: 3,
@@ -10091,7 +10091,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Atherosklerose und kardiovaskuläre Prävention",
         Length: "1275",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/NcY-cL/article/s70tMh",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/7iY4GK/article/s70tMh",
         Error: 0
     }, {
         Day: 3,
@@ -10100,7 +10100,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Koronare Herzkrankheit",
         Length: "1999",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/NcY-cL/article/DS01bf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/7iY4GK/article/DS01bf",
         Error: 0
     }, {
         Day: 3,
@@ -10109,7 +10109,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Thoraxschmerz",
         Length: "559",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/NcY-cL/article/ML0Myg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/7iY4GK/article/ML0Myg",
         Error: 0
     }, {
         Day: 3,
@@ -10118,7 +10118,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Akutes Koronarsyndrom",
         Length: "919",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/NcY-cL/article/p70L5h",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/7iY4GK/article/p70L5h",
         Error: 0
     }, {
         Day: 3,
@@ -10127,7 +10127,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Myokardinfarkt",
         Length: "3415",
         Imppact: 3,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/NcY-cL/article/wS0hbf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/7iY4GK/article/wS0hbf",
         Error: 0
     }, {
         Day: 3,
@@ -10136,7 +10136,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Herzkatheteruntersuchung",
         Length: "1473",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/NcY-cL/article/rl0fyT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/7iY4GK/article/rl0fyT",
         Error: 0
     }, {
         Day: 4,
@@ -10145,7 +10145,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Herzinsuffizienz",
         Length: "3075",
         Imppact: 2,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/mcYV1L/article/rS0faf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/HiYKGK/article/rS0faf",
         Error: 0
     }, {
         Day: 4,
@@ -10154,7 +10154,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Kardiomyopathien",
         Length: "857",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/mcYV1L/article/yS0dXf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/HiYKGK/article/yS0dXf",
         Error: 0
     }, {
         Day: 4,
@@ -10163,7 +10163,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Dilatative Kardiomyopathie",
         Length: "621",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/mcYV1L/article/AS0RXf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/HiYKGK/article/AS0RXf",
         Error: 0
     }, {
         Day: 4,
@@ -10172,7 +10172,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Hypertrophe Kardiomyopathie",
         Length: "751",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/mcYV1L/article/_S05Xf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/HiYKGK/article/_S05Xf",
         Error: 0
     }, {
         Day: 4,
@@ -10181,7 +10181,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Herzklappenerkrankungen",
         Length: "947",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/mcYV1L/article/-S0DXf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/HiYKGK/article/-S0DXf",
         Error: 0
     }, {
         Day: 4,
@@ -10190,7 +10190,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Aortenklappenstenose",
         Length: "1341",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/mcYV1L/article/Zh0Zcf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/HiYKGK/article/Zh0Zcf",
         Error: 0
     }, {
         Day: 4,
@@ -10199,7 +10199,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Aortenklappeninsuffizienz",
         Length: "545",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/mcYV1L/article/0h0ecf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/HiYKGK/article/0h0ecf",
         Error: 0
     }, {
         Day: 4,
@@ -10208,7 +10208,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Mitralklappenstenose",
         Length: "655",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/mcYV1L/article/Yh0ncf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/HiYKGK/article/Yh0ncf",
         Error: 0
     }, {
         Day: 4,
@@ -10217,7 +10217,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Mitralklappeninsuffizienz",
         Length: "817",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/mcYV1L/article/PI0W1h",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/HiYKGK/article/PI0W1h",
         Error: 0
     }, {
         Day: 5,
@@ -10226,7 +10226,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Infektiöse Endokarditis",
         Length: "1141",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/5cYi1L/article/CS0qbf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/siYtGK/article/CS0qbf",
         Error: 0
     }, {
         Day: 5,
@@ -10235,7 +10235,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Rheumatisches Fieber",
         Length: "868",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/5cYi1L/article/9S0Nbf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/siYtGK/article/9S0Nbf",
         Error: 0
     }, {
         Day: 5,
@@ -10244,7 +10244,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Myokarditis",
         Length: "1500",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/5cYi1L/article/xS0Ebf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/siYtGK/article/xS0Ebf",
         Error: 0
     }, {
         Day: 5,
@@ -10253,7 +10253,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Perikarditis",
         Length: "1968",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/5cYi1L/article/Gu0Bs3",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/siYtGK/article/Gu0Bs3",
         Error: 0
     }, {
         Day: 5,
@@ -10262,7 +10262,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Coxsackievirus-Infektionen",
         Length: "627",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/5cYi1L/article/E408OT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/siYtGK/article/E408OT",
         Error: 0
     }, {
         Day: 5,
@@ -10271,7 +10271,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Perikarderguss und Perikardtamponade",
         Length: "824",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/5cYi1L/article/uh0pff",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/siYtGK/article/uh0pff",
         Error: 0
     }, {
         Day: 6,
@@ -10280,7 +10280,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Arterielle Hypertonie",
         Length: "3342",
         Imppact: 2,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/McYM1L/article/Xh09cf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/GiYBGK/article/Xh09cf",
         Error: 0
     }, {
         Day: 6,
@@ -10289,7 +10289,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Pulmonale Hypertonie",
         Length: "1303",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/McYM1L/article/w50hmg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/GiYBGK/article/w50hmg",
         Error: 0
     }, {
         Day: 6,
@@ -10298,7 +10298,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Varikosis und chronisch-venöse Insuffizienz",
         Length: "1035",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/McYM1L/article/gh0FWf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/GiYBGK/article/gh0FWf",
         Error: 0
     }, {
         Day: 6,
@@ -10307,7 +10307,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Phlebothrombose",
         Length: "2141",
         Imppact: 2,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/McYM1L/article/fh0kWf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/GiYBGK/article/fh0kWf",
         Error: 0
     }, {
         Day: 6,
@@ -10316,7 +10316,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Lungenembolie",
         Length: "2100",
         Imppact: 2,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/McYM1L/article/oh00Uf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/GiYBGK/article/oh00Uf",
         Error: 0
     }, {
         Day: 7,
@@ -10325,7 +10325,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Periphere arterielle Verschlusskrankheit",
         Length: "1874",
         Imppact: 2,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/ncY71L/article/ch0a1f",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/tiYXtK/article/ch0a1f",
         Error: 0
     }, {
         Day: 7,
@@ -10334,7 +10334,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Erythrozytenmorphologie und Hämoglobinvarianten",
         Length: "611",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/ncY71L/article/WS0PA2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/tiYXtK/article/WS0PA2",
         Error: 0
     }, {
         Day: 7,
@@ -10343,7 +10343,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Anämie",
         Length: "1318",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/ncY71L/article/6T0j72",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/tiYXtK/article/6T0j72",
         Error: 0
     }, {
         Day: 7,
@@ -10352,7 +10352,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Eisenmangel",
         Length: "1409",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/ncY71L/article/pT0L72",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/tiYXtK/article/pT0L72",
         Error: 0
     }, {
         Day: 7,
@@ -10361,7 +10361,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Hämolytische Anämie",
         Length: "1013",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/ncY71L/article/rT0fH2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/tiYXtK/article/rT0fH2",
         Error: 0
     }, {
         Day: 7,
@@ -10370,7 +10370,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Kugelzellanämie",
         Length: "427",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/ncY71L/article/7T04H2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/tiYXtK/article/7T04H2",
         Error: 0
     }, {
         Day: 7,
@@ -10379,7 +10379,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Glucose-6-phosphat-Dehydrogenase-Mangel",
         Length: "524",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/ncY71L/article/HT0KH2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/tiYXtK/article/HT0KH2",
         Error: 0
     }, {
         Day: 7,
@@ -10388,7 +10388,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Sichelzellkrankheit",
         Length: "659",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/ncY71L/article/GT0BH2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/tiYXtK/article/GT0BH2",
         Error: 0
     }, {
         Day: 7,
@@ -10397,7 +10397,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Thalassämie",
         Length: "945",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/ncY71L/article/tT0Xs2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/tiYXtK/article/tT0Xs2",
         Error: 0
     }, {
         Day: 7,
@@ -10406,7 +10406,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Myelodysplastische Syndrome",
         Length: "674",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/ncY71L/article/3T0Sq2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/tiYXtK/article/3T0Sq2",
         Error: 0
     }, {
         Day: 8,
@@ -10415,7 +10415,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Akute Leukämien",
         Length: "1756",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/LcYw1L/article/iT0Jq2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/FiYgtK/article/iT0Jq2",
         Error: 0
     }, {
         Day: 8,
@@ -10424,7 +10424,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Myeloproliferative Neoplasien",
         Length: "827",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/LcYw1L/article/lT0vI2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/FiYgtK/article/lT0vI2",
         Error: 0
     }, {
         Day: 8,
@@ -10433,7 +10433,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Chronische myeloische Leukämie",
         Length: "1093",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/LcYw1L/article/PT0WI2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/FiYgtK/article/PT0WI2",
         Error: 0
     }, {
         Day: 8,
@@ -10442,7 +10442,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Polycythaemia vera",
         Length: "692",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/LcYw1L/article/kT0mI2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/FiYgtK/article/kT0mI2",
         Error: 0
     }, {
         Day: 8,
@@ -10451,7 +10451,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Hodgkin-Lymphom",
         Length: "1472",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/LcYw1L/article/mT0Vr2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/FiYgtK/article/mT0Vr2",
         Error: 0
     }, {
         Day: 8,
@@ -10460,7 +10460,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Non-Hodgkin-Lymphome",
         Length: "1558",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/LcYw1L/article/NT0-I2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/FiYgtK/article/NT0-I2",
         Error: 0
     }, {
         Day: 8,
@@ -10469,7 +10469,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Multiples Myelom",
         Length: "1442",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/LcYw1L/article/5T0ir2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/FiYgtK/article/5T0ir2",
         Error: 0
     }, {
         Day: 8,
@@ -10478,7 +10478,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Chronische lymphatische Leukämie",
         Length: "1179",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/LcYw1L/article/jT0_q2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/FiYgtK/article/jT0_q2",
         Error: 0
     }, {
         Day: 8,
@@ -10487,7 +10487,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "MALT-Lymphom",
         Length: "382",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/LcYw1L/article/LT0wr2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/FiYgtK/article/LT0wr2",
         Error: 0
     }, {
         Day: 8,
@@ -10496,7 +10496,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Kutane Lymphome",
         Length: "657",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/LcYw1L/article/oT0072",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/FiYgtK/article/oT0072",
         Error: 0
     }, {
         Day: 9,
@@ -10505,7 +10505,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Blutgerinnung und hämorrhagische Diathesen",
         Length: "2260",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/ocY0WL/article/8T0Os2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/8iYOtK/article/8T0Os2",
         Error: 0
     }, {
         Day: 9,
@@ -10514,7 +10514,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Von-Willebrand-Syndrom",
         Length: "531",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/ocY0WL/article/V90GmR",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/8iYOtK/article/V90GmR",
         Error: 0
     }, {
         Day: 9,
@@ -10523,7 +10523,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Hämophilie",
         Length: "489",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/ocY0WL/article/uT0ps2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/8iYOtK/article/uT0ps2",
         Error: 0
     }, {
         Day: 9,
@@ -10532,7 +10532,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Antiphospholipid-Syndrom",
         Length: "572",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/ocY0WL/article/hR0c5f",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/8iYOtK/article/hR0c5f",
         Error: 0
     }, {
         Day: 9,
@@ -10541,7 +10541,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Thrombozytopenien",
         Length: "822",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/ocY0WL/article/wT0hG2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/8iYOtK/article/wT0hG2",
         Error: 0
     }, {
         Day: 9,
@@ -10550,7 +10550,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Thrombotische Mikroangiopathie",
         Length: "783",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/ocY0WL/article/xT0EG2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/8iYOtK/article/xT0EG2",
         Error: 0
     }, {
         Day: 9,
@@ -10559,7 +10559,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Splenomegalie",
         Length: "360",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/ocY0WL/article/KT0U72",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/8iYOtK/article/KT0U72",
         Error: 0
     }, {
         Day: 9,
@@ -10568,7 +10568,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Asplenie",
         Length: "541",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/ocY0WL/article/v40AOT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/8iYOtK/article/v40AOT",
         Error: 0
     }, {
         Day: 10,
@@ -10577,7 +10577,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Klinische Untersuchung der Lunge",
         Length: "716",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/KcYUWL/article/tl0XAT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/uiYptK/article/tl0XAT",
         Error: 0
     }, {
         Day: 10,
@@ -10586,7 +10586,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Lungenfunktionsuntersuchung",
         Length: "1130",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/KcYUWL/article/Fl0gAT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/uiYptK/article/Fl0gAT",
         Error: 0
     }, {
         Day: 10,
@@ -10595,7 +10595,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Akute Bronchitis",
         Length: "524",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/KcYUWL/article/hh0cdf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/uiYptK/article/hh0cdf",
         Error: 0
     }, {
         Day: 10,
@@ -10604,7 +10604,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Pneumonie",
         Length: "1907",
         Imppact: 2,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/KcYUWL/article/mh0Vef",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/uiYptK/article/mh0Vef",
         Error: 0
     }, {
         Day: 10,
@@ -10613,7 +10613,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Ambulant erworbene Pneumonie",
         Length: "1576",
         Imppact: 2,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/KcYUWL/article/wYahrQ",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/uiYptK/article/wYahrQ",
         Error: 0
     }, {
         Day: 10,
@@ -10622,7 +10622,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Nosokomiale Pneumonie",
         Length: "620",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/KcYUWL/article/KZaUcQ",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/uiYptK/article/KZaUcQ",
         Error: 0
     }, {
         Day: 10,
@@ -10631,7 +10631,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Akute unkomplizierte Atemwegsinfektionen",
         Length: "385",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/KcYUWL/article/Ax0R_R",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/uiYptK/article/Ax0R_R",
         Error: 0
     }, {
         Day: 10,
@@ -10640,7 +10640,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Legionellose",
         Length: "592",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/KcYUWL/article/Vf0GO2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/uiYptK/article/Vf0GO2",
         Error: 0
     }, {
         Day: 10,
@@ -10649,7 +10649,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Pneumocystis-jirovecii-Pneumonie",
         Length: "541",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/KcYUWL/article/If0Yn2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/uiYptK/article/If0Yn2",
         Error: 0
     }, {
         Day: 10,
@@ -10658,7 +10658,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Tuberkulose",
         Length: "3426",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/KcYUWL/article/5h0ief",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/uiYptK/article/5h0ief",
         Error: 0
     }, {
         Day: 10,
@@ -10667,7 +10667,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Sarkoidose",
         Length: "1429",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/KcYUWL/article/Mh0Mef",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/uiYptK/article/Mh0Mef",
         Error: 0
     }, {
         Day: 11,
@@ -10676,7 +10676,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Lungenkarzinom",
         Length: "2774",
         Imppact: 4,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/6cYjWL/article/nh07ef",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/EiY8tK/article/nh07ef",
         Error: 0
     }, {
         Day: 11,
@@ -10685,7 +10685,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Pleuraerguss",
         Length: "1482",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/6cYjWL/article/F50gNg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/EiY8tK/article/F50gNg",
         Error: 0
     }, {
         Day: 11,
@@ -10694,7 +10694,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Atelektase",
         Length: "412",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/6cYjWL/article/sM0tJg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/EiY8tK/article/sM0tJg",
         Error: 0
     }, {
         Day: 11,
@@ -10703,7 +10703,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Asthma bronchiale",
         Length: "2209",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/6cYjWL/article/Ph0WVf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/EiY8tK/article/Ph0WVf",
         Error: 0
     }, {
         Day: 11,
@@ -10712,7 +10712,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Chronisch-obstruktive Lungenerkrankung",
         Length: "3046",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/6cYjWL/article/3h0Sdf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/EiY8tK/article/3h0Sdf",
         Error: 0
     }, {
         Day: 11,
@@ -10721,7 +10721,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Interstitielle Lungenparenchymerkrankungen",
         Length: "614",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/6cYjWL/article/Nh0-Vf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/EiY8tK/article/Nh0-Vf",
         Error: 0
     }, {
         Day: 11,
@@ -10730,7 +10730,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Exogen-allergische Alveolitis",
         Length: "565",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/6cYjWL/article/kh0mVf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/EiY8tK/article/kh0mVf",
         Error: 0
     }, {
         Day: 11,
@@ -10739,7 +10739,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Schlafbezogene Atmungsstörungen",
         Length: "853",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/6cYjWL/article/Lh0wef",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/EiY8tK/article/Lh0wef",
         Error: 0
     }, {
         Day: 11,
@@ -10748,7 +10748,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Husten",
         Length: "1569",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/6cYjWL/article/3L0Sxg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/EiY8tK/article/3L0Sxg",
         Error: 0
     }, {
         Day: 12,
@@ -10757,7 +10757,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Achalasie",
         Length: "388",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/pcYLWL/article/ug0pC2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/viYAtK/article/ug0pC2",
         Error: 0
     }, {
         Day: 12,
@@ -10766,7 +10766,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Gastrointestinale Blutung",
         Length: "989",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/pcYLWL/article/ZS0Zy2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/viYAtK/article/ZS0Zy2",
         Error: 0
     }, {
         Day: 12,
@@ -10775,7 +10775,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Mallory-Weiss-Syndrom",
         Length: "240",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/pcYLWL/article/9g0Nx2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/viYAtK/article/9g0Nx2",
         Error: 0
     }, {
         Day: 12,
@@ -10784,7 +10784,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Gastroösophageale Refluxkrankheit",
         Length: "1082",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/pcYLWL/article/vg0AC2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/viYAtK/article/vg0AC2",
         Error: 0
     }, {
         Day: 12,
@@ -10793,7 +10793,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Gastroduodenale Ulkuskrankheit",
         Length: "1525",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/pcYLWL/article/zg0rB2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/viYAtK/article/zg0rB2",
         Error: 0
     }, {
         Day: 12,
@@ -10802,7 +10802,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Chronische Gastritis",
         Length: "1295",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/pcYLWL/article/Ag0RB2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/viYAtK/article/Ag0RB2",
         Error: 0
     }, {
         Day: 12,
@@ -10811,7 +10811,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Malassimilation",
         Length: "689",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/pcYLWL/article/0S0ey2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/viYAtK/article/0S0ey2",
         Error: 0
     }, {
         Day: 12,
@@ -10820,7 +10820,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Zöliakie",
         Length: "1943",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/pcYLWL/article/YS0ny2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/viYAtK/article/YS0ny2",
         Error: 0
     }, {
         Day: 12,
@@ -10829,7 +10829,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Lactoseintoleranz",
         Length: "523",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/pcYLWL/article/bS0Hy2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/viYAtK/article/bS0Hy2",
         Error: 0
     }, {
         Day: 13,
@@ -10838,7 +10838,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Morbus Crohn",
         Length: "2630",
         Imppact: 2,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/JcYsWL/article/VS0GA2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/DiY1FK/article/VS0GA2",
         Error: 0
     }, {
         Day: 13,
@@ -10847,7 +10847,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Colitis ulcerosa",
         Length: "1693",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/JcYsWL/article/eS0xA2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/DiY1FK/article/eS0xA2",
         Error: 0
     }, {
         Day: 13,
@@ -10856,7 +10856,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Divertikulose, Divertikelkrankheit und Divertikulitis",
         Length: "1914",
         Imppact: 2,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/JcYsWL/article/1S02A2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/DiY1FK/article/1S02A2",
         Error: 0
     }, {
         Day: 13,
@@ -10865,7 +10865,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Reizdarmsyndrom",
         Length: "464",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/JcYsWL/article/XS09y2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/DiY1FK/article/XS09y2",
         Error: 0
     }, {
         Day: 13,
@@ -10874,7 +10874,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Gutartige Leberraumforderungen",
         Length: "580",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/JcYsWL/article/pS0L0f",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/DiY1FK/article/pS0L0f",
         Error: 0
     }, {
         Day: 13,
@@ -10883,7 +10883,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Leberabszess",
         Length: "240",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/JcYsWL/article/Lo0wcS",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/DiY1FK/article/Lo0wcS",
         Error: 0
     }, {
         Day: 14,
@@ -10892,7 +10892,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Hepatitis A",
         Length: "641",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/qcYCWL/article/kS0m-2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/wiYhFK/article/kS0m-2",
         Error: 0
     }, {
         Day: 14,
@@ -10901,7 +10901,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Hepatitis B und HBV-Infektion",
         Length: "2431",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/qcYCWL/article/OS0I-2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/wiYhFK/article/OS0I-2",
         Error: 0
     }, {
         Day: 14,
@@ -10910,7 +10910,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Hepatitis C und HCV-Infektion",
         Length: "1578",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/qcYCWL/article/lS0v-2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/wiYhFK/article/lS0v-2",
         Error: 0
     }, {
         Day: 14,
@@ -10919,7 +10919,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Alkoholtoxischer Leberschaden",
         Length: "1522",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/qcYCWL/article/5S0iZf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/wiYhFK/article/5S0iZf",
         Error: 0
     }, {
         Day: 14,
@@ -10928,7 +10928,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Autoimmunhepatitis",
         Length: "569",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/qcYCWL/article/JM0spg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/wiYhFK/article/JM0spg",
         Error: 0
     }, {
         Day: 14,
@@ -10937,7 +10937,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Primär biliäre Cholangitis",
         Length: "50",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/qcYCWL/article/MS0MZf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/wiYhFK/article/MS0MZf",
         Error: 0
     }, {
         Day: 14,
@@ -10946,7 +10946,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Primär sklerosierende Cholangitis",
         Length: "809",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/qcYCWL/article/nS07Zf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/wiYhFK/article/nS07Zf",
         Error: 0
     }, {
         Day: 14,
@@ -10955,7 +10955,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Morbus Wilson",
         Length: "581",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/qcYCWL/article/IS0Yaf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/wiYhFK/article/IS0Yaf",
         Error: 0
     }, {
         Day: 14,
@@ -10964,7 +10964,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Hämochromatose",
         Length: "953",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/qcYCWL/article/qS0C0f",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/wiYhFK/article/qS0C0f",
         Error: 0
     }, {
         Day: 14,
@@ -10973,7 +10973,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Leberzirrhose",
         Length: "2096",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/qcYCWL/article/PS0W-2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/wiYhFK/article/PS0W-2",
         Error: 0
     }, {
         Day: 14,
@@ -10982,7 +10982,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Portale Hypertension",
         Length: "1158",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/qcYCWL/article/LS0wZf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/wiYhFK/article/LS0wZf",
         Error: 0
     }, {
         Day: 15,
@@ -10991,7 +10991,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Ikterus und Cholestase",
         Length: "1154",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/IcYYdL/article/jS0_z2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/9iYNFK/article/jS0_z2",
         Error: 0
     }, {
         Day: 15,
@@ -11000,7 +11000,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Akute Pankreatitis",
         Length: "2151",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/IcYYdL/article/SS0y_2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/9iYNFK/article/SS0y_2",
         Error: 0
     }, {
         Day: 15,
@@ -11009,7 +11009,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Chronische Pankreatitis",
         Length: "1467",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/IcYYdL/article/hS0cz2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/9iYNFK/article/hS0cz2",
         Error: 0
     }, {
         Day: 15,
@@ -11018,7 +11018,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Pankreaskarzinom",
         Length: "1239",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/IcYYdL/article/3S0Sz2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/9iYNFK/article/3S0Sz2",
         Error: 0
     }, {
         Day: 15,
@@ -11027,7 +11027,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Aszites",
         Length: "1129",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/IcYYdL/article/KS0U0f",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/9iYNFK/article/KS0U0f",
         Error: 0
     }, {
         Day: 16,
@@ -11036,7 +11036,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Hypophysenvorderlappeninsuffizienz",
         Length: "863",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/rcYfdL/article/-T0Dt2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/CiYqFK/article/-T0Dt2",
         Error: 0
     }, {
         Day: 16,
@@ -11045,7 +11045,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Prolaktinom",
         Length: "881",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/rcYfdL/article/0g0eF2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/CiYqFK/article/0g0eF2",
         Error: 0
     }, {
         Day: 16,
@@ -11054,7 +11054,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Akromegalie",
         Length: "538",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/rcYfdL/article/ag0QF2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/CiYqFK/article/ag0QF2",
         Error: 0
     }, {
         Day: 16,
@@ -11063,7 +11063,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Nebennierenrindeninsuffizienz",
         Length: "1031",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/rcYfdL/article/Ug0bu2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/CiYqFK/article/Ug0bu2",
         Error: 0
     }, {
         Day: 16,
@@ -11072,7 +11072,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Primärer Hyperaldosteronismus",
         Length: "626",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/rcYfdL/article/2g0Tu2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/CiYqFK/article/2g0Tu2",
         Error: 0
     }, {
         Day: 16,
@@ -11081,7 +11081,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Cushing-Syndrom",
         Length: "1022",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/rcYfdL/article/fg0ku2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/CiYqFK/article/fg0ku2",
         Error: 0
     }, {
         Day: 16,
@@ -11090,7 +11090,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Phäochromozytom",
         Length: "688",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/rcYfdL/article/Tg06u2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/CiYqFK/article/Tg06u2",
         Error: 0
     }, {
         Day: 16,
@@ -11099,7 +11099,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Multiple endokrine Neoplasie",
         Length: "302",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/rcYfdL/article/hg0cE2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/CiYqFK/article/hg0cE2",
         Error: 0
     }, {
         Day: 17,
@@ -11108,7 +11108,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Struma",
         Length: "637",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/7cY4dL/article/Yg0nF2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/xiYEFK/article/Yg0nF2",
         Error: 0
     }, {
         Day: 17,
@@ -11117,7 +11117,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Anti-Schilddrüsen-Antikörper",
         Length: "281",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/7cY4dL/article/YM0nMg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/xiYEFK/article/YM0nMg",
         Error: 0
     }, {
         Day: 17,
@@ -11126,7 +11126,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Hyperthyreose",
         Length: "1785",
         Imppact: 2,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/7cY4dL/article/bg0HF2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/xiYEFK/article/bg0HF2",
         Error: 0
     }, {
         Day: 17,
@@ -11135,7 +11135,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Hypothyreose",
         Length: "1408",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/7cY4dL/article/cg0a82",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/xiYEFK/article/cg0a82",
         Error: 0
     }, {
         Day: 17,
@@ -11144,7 +11144,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Hashimoto-Thyreoiditis",
         Length: "800",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/7cY4dL/article/1g0282",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/xiYEFK/article/1g0282",
         Error: 0
     }, {
         Day: 17,
@@ -11153,7 +11153,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Thyreoiditis de Quervain",
         Length: "359",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/7cY4dL/article/dg0o82",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/xiYEFK/article/dg0o82",
         Error: 0
     }, {
         Day: 17,
@@ -11162,7 +11162,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Hyperparathyreoidismus",
         Length: "1013",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/7cY4dL/article/gg0Fu2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/xiYEFK/article/gg0Fu2",
         Error: 0
     }, {
         Day: 18,
@@ -11171,7 +11171,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Metabolisches Syndrom",
         Length: "807",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/HcYKdL/article/4g03v2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/BiYzFK/article/4g03v2",
         Error: 0
     }, {
         Day: 18,
@@ -11180,7 +11180,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Diabetes mellitus",
         Length: "4881",
         Imppact: 3,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/HcYKdL/article/3g0SE2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/BiYzFK/article/3g0SE2",
         Error: 0
     }, {
         Day: 18,
@@ -11189,7 +11189,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Hyperglykämisches Koma",
         Length: "1233",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/HcYKdL/article/jg0_E2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/BiYzFK/article/jg0_E2",
         Error: 0
     }, {
         Day: 18,
@@ -11198,7 +11198,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Hypoglykämie",
         Length: "787",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/HcYKdL/article/Pg0Wv2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/BiYzFK/article/Pg0Wv2",
         Error: 0
     }, {
         Day: 19,
@@ -11207,7 +11207,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Diagnostik von Erkrankungen der Niere und der ableitenden Harnwege",
         Length: "773",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/scYtdL/article/kg0mv2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/yiYd8K/article/kg0mv2",
         Error: 0
     }, {
         Day: 19,
@@ -11216,7 +11216,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Dehydratation",
         Length: "484",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/scYtdL/article/Ig0Y92",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/yiYd8K/article/Ig0Y92",
         Error: 0
     }, {
         Day: 19,
@@ -11225,7 +11225,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Ödeme",
         Length: "390",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/scYtdL/article/SM0yLg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/yiYd8K/article/SM0yLg",
         Error: 0
     }, {
         Day: 19,
@@ -11234,7 +11234,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Elektrolytstörungen Natrium",
         Length: "1264",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/scYtdL/article/rg0f92",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/yiYd8K/article/rg0f92",
         Error: 0
     }, {
         Day: 19,
@@ -11243,7 +11243,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Elektrolytstörungen Kalium",
         Length: "1133",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/scYtdL/article/7g0492",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/yiYd8K/article/7g0492",
         Error: 0
     }, {
         Day: 19,
@@ -11252,7 +11252,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Elektrolytstörungen Calcium",
         Length: "1958",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/scYtdL/article/Hg0K92",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/yiYd8K/article/Hg0K92",
         Error: 0
     }, {
         Day: 19,
@@ -11261,7 +11261,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Akute Nierenfunktionseinschränkung",
         Length: "1512",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/scYtdL/article/Og0Iv2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/yiYd8K/article/Og0Iv2",
         Error: 0
     }, {
         Day: 19,
@@ -11270,7 +11270,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Chronische Nierenkrankheit",
         Length: "1637",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/scYtdL/article/lg0vv2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/yiYd8K/article/lg0vv2",
         Error: 0
     }, {
         Day: 19,
@@ -11279,7 +11279,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Transplantation",
         Length: "2359",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/scYtdL/article/gn0Fsg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/yiYd8K/article/gn0Fsg",
         Error: 0
     }, {
         Day: 20,
@@ -11288,7 +11288,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Diabetes insipidus",
         Length: "757",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/GcYBdL/article/_T05t2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/AiYR8K/article/_T05t2",
         Error: 0
     }, {
         Day: 20,
@@ -11297,7 +11297,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Syndrom der inadäquaten ADH-Sekretion",
         Length: "496",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/GcYBdL/article/zT0rt2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/AiYR8K/article/zT0rt2",
         Error: 0
     }, {
         Day: 20,
@@ -11306,7 +11306,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Grundlagen nephrologischer Krankheitsbilder",
         Length: "937",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/GcYBdL/article/mg0VD2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/AiYR8K/article/mg0VD2",
         Error: 0
     }, {
         Day: 20,
@@ -11315,7 +11315,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Infektassoziierte Glomerulonephritiden",
         Length: "783",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/GcYBdL/article/Lg0wD2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/AiYR8K/article/Lg0wD2",
         Error: 0
     }, {
         Day: 20,
@@ -11324,7 +11324,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Rapid-progressive Glomerulonephritis",
         Length: "942",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/GcYBdL/article/og00w2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/AiYR8K/article/og00w2",
         Error: 0
     }, {
         Day: 20,
@@ -11333,7 +11333,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Nephrotisches Syndrom",
         Length: "1298",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/GcYBdL/article/Mg0MD2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/AiYR8K/article/Mg0MD2",
         Error: 0
     }, {
         Day: 20,
@@ -11342,7 +11342,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "IgA-Nephropathie",
         Length: "358",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/GcYBdL/article/GE0BC3",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/AiYR8K/article/GE0BC3",
         Error: 0
     }, {
         Day: 20,
@@ -11351,7 +11351,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Renale tubuläre Partialfunktionsstörungen",
         Length: "579",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/GcYBdL/article/2l0TwT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/AiYR8K/article/2l0TwT",
         Error: 0
     }, {
         Day: 20,
@@ -11360,7 +11360,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Proteinurie",
         Length: "1100",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/GcYBdL/article/0Q0euf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/AiYR8K/article/0Q0euf",
         Error: 0
     }, {
         Day: 20,
@@ -11369,7 +11369,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Nierenersatzverfahren",
         Length: "849",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/GcYBdL/article/S50yjg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/AiYR8K/article/S50yjg",
         Error: 0
     }, {
         Day: 21,
@@ -11378,7 +11378,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Immunsystem",
         Length: "2062",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/tcYXVL/article/x50Emg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/_iY58K/article/x50Emg",
         Error: 0
     }, {
         Day: 21,
@@ -11387,7 +11387,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Fieber und Entzündungsreaktionen",
         Length: "1429",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/tcYXVL/article/j50_Pg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/_iY58K/article/j50_Pg",
         Error: 0
     }, {
         Day: 21,
@@ -11396,7 +11396,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Allergische Erkrankungen",
         Length: "2620",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/tcYXVL/article/ek0x5T",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/_iY58K/article/ek0x5T",
         Error: 0
     }, {
         Day: 21,
@@ -11405,7 +11405,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Kontaktekzem",
         Length: "610",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/tcYXVL/article/q90CoR",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/_iY58K/article/q90CoR",
         Error: 0
     }, {
         Day: 21,
@@ -11414,7 +11414,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Anaphylaxie",
         Length: "971",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/tcYXVL/article/nt07V3",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/_iY58K/article/nt07V3",
         Error: 0
     }, {
         Day: 21,
@@ -11423,7 +11423,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Raynaud-Syndrom",
         Length: "594",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/tcYXVL/article/Uh0bWf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/_iY58K/article/Uh0bWf",
         Error: 0
     }, {
         Day: 21,
@@ -11432,7 +11432,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Fibromyalgiesyndrom",
         Length: "520",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/tcYXVL/article/2T0TJ2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/_iY58K/article/2T0TJ2",
         Error: 0
     }, {
         Day: 22,
@@ -11441,7 +11441,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Rheumatoide Arthritis",
         Length: "1905",
         Imppact: 2,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/FcYgVL/article/-f0DK2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/ziYr8K/article/-f0DK2",
         Error: 0
     }, {
         Day: 22,
@@ -11450,7 +11450,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Axiale Spondylarthritis",
         Length: "1184",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/FcYgVL/article/ZT0Z62",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/ziYr8K/article/ZT0Z62",
         Error: 0
     }, {
         Day: 22,
@@ -11459,7 +11459,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Reaktive Arthritis",
         Length: "548",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/FcYgVL/article/0T0e62",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/ziYr8K/article/0T0e62",
         Error: 0
     }, {
         Day: 22,
@@ -11468,7 +11468,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Psoriasis-Arthritis",
         Length: "482",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/FcYgVL/article/1Xa2CQ",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/ziYr8K/article/1Xa2CQ",
         Error: 0
     }, {
         Day: 22,
@@ -11477,7 +11477,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Hyperurikämie und Gicht",
         Length: "1506",
         Imppact: 2,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/FcYgVL/article/YT0n62",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/ziYr8K/article/YT0n62",
         Error: 0
     }, {
         Day: 23,
@@ -11486,7 +11486,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Kollagenosen",
         Length: "329",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/8cYOVL/article/WT0Pp2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/-iYD8K/article/WT0Pp2",
         Error: 0
     }, {
         Day: 23,
@@ -11495,7 +11495,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Systemischer Lupus erythematodes",
         Length: "2017",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/8cYOVL/article/dT0op2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/-iYD8K/article/dT0op2",
         Error: 0
     }, {
         Day: 23,
@@ -11504,7 +11504,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Polymyositis und Dermatomyositis",
         Length: "651",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/8cYOVL/article/VT0Gp2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/-iYD8K/article/VT0Gp2",
         Error: 0
     }, {
         Day: 23,
@@ -11513,7 +11513,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Systemische Sklerose",
         Length: "1483",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/8cYOVL/article/eT0xp2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/-iYD8K/article/eT0xp2",
         Error: 0
     }, {
         Day: 23,
@@ -11522,7 +11522,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Vaskulitiden",
         Length: "845",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/8cYOVL/article/fT0kJ2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/-iYD8K/article/fT0kJ2",
         Error: 0
     }, {
         Day: 23,
@@ -11531,7 +11531,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Riesenzellarteriitis",
         Length: "1225",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/8cYOVL/article/1T02p2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/-iYD8K/article/1T02p2",
         Error: 0
     }, {
         Day: 23,
@@ -11540,7 +11540,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Polymyalgia rheumatica",
         Length: "706",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/8cYOVL/article/I90YKR",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/-iYD8K/article/I90YKR",
         Error: 0
     }, {
         Day: 23,
@@ -11549,7 +11549,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Granulomatose mit Polyangiitis",
         Length: "1002",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/8cYOVL/article/TT06J2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/-iYD8K/article/TT06J2",
         Error: 0
     }, {
         Day: 23,
@@ -11558,7 +11558,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Kawasaki-Syndrom",
         Length: "841",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/8cYOVL/article/hT0cq2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/-iYD8K/article/hT0cq2",
         Error: 0
     }, {
         Day: 23,
@@ -11567,7 +11567,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Thrombangiitis obliterans",
         Length: "328",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/8cYOVL/article/2h0TWf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/-iYD8K/article/2h0TWf",
         Error: 0
     }, {
         Day: 23,
@@ -11576,7 +11576,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Rheumatologische Antikörperdiagnostik",
         Length: "400",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/8cYOVL/article/ul0pAT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/-iYD8K/article/ul0pAT",
         Error: 0
     }, {
         Day: 24,
@@ -11585,7 +11585,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Mikrobiologische Untersuchungen",
         Length: "615",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/ucYpVL/article/n507kg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/ZQYZuK/article/n507kg",
         Error: 0
     }, {
         Day: 24,
@@ -11594,7 +11594,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Blutkulturen",
         Length: "752",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/ucYpVL/article/7l04yT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/ZQYZuK/article/7l04yT",
         Error: 0
     }, {
         Day: 24,
@@ -11603,7 +11603,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Sepsis",
         Length: "2723",
         Imppact: 3,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/ucYpVL/article/xm0E3g",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/ZQYZuK/article/xm0E3g",
         Error: 0
     }, {
         Day: 24,
@@ -11612,7 +11612,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Durchfall",
         Length: "665",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/ucYpVL/article/6M0jpg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/ZQYZuK/article/6M0jpg",
         Error: 0
     }, {
         Day: 24,
@@ -11621,7 +11621,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Lebensmittelvergiftung",
         Length: "1090",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/ucYpVL/article/Pf0Wm2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/ZQYZuK/article/Pf0Wm2",
         Error: 0
     }, {
         Day: 24,
@@ -11630,7 +11630,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Norovirus-Infektion",
         Length: "845",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/ucYpVL/article/Gf0Bn2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/ZQYZuK/article/Gf0Bn2",
         Error: 0
     }, {
         Day: 24,
@@ -11639,7 +11639,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Rotavirus-Infektion",
         Length: "552",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/ucYpVL/article/SJ0ytS",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/ZQYZuK/article/SJ0ytS",
         Error: 0
     }, {
         Day: 24,
@@ -11648,7 +11648,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Bakterielle Durchfallerkrankungen",
         Length: "1094",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/ucYpVL/article/oM00pg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/ZQYZuK/article/oM00pg",
         Error: 0
     }, {
         Day: 24,
@@ -11657,7 +11657,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Darmpathogene E.-coli-Infektion",
         Length: "991",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/ucYpVL/article/yf0dK2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/ZQYZuK/article/yf0dK2",
         Error: 0
     }, {
         Day: 24,
@@ -11666,7 +11666,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Clostridioides-difficile-Infektion",
         Length: "806",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/ucYpVL/article/dS0oA2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/ZQYZuK/article/dS0oA2",
         Error: 0
     }, {
         Day: 24,
@@ -11675,7 +11675,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Amöbiasis",
         Length: "922",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/ucYpVL/article/6f0jM2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/ZQYZuK/article/6f0jM2",
         Error: 0
     }, {
         Day: 24,
@@ -11684,7 +11684,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Giardiasis",
         Length: "551",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/ucYpVL/article/fJ0ktS",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/ZQYZuK/article/fJ0ktS",
         Error: 0
     }, {
         Day: 25,
@@ -11693,7 +11693,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Erkrankungen durch Staphylokokken",
         Length: "946",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/EcY8VL/article/Vl0GDT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/0QYeuK/article/Vl0GDT",
         Error: 0
     }, {
         Day: 25,
@@ -11702,7 +11702,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Erkrankungen durch Streptokokken",
         Length: "447",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/EcY8VL/article/dl0oDT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/0QYeuK/article/dl0oDT",
         Error: 0
     }, {
         Day: 25,
@@ -11711,7 +11711,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Toxische Schocksyndrome",
         Length: "437",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/EcY8VL/article/yJ0d9S",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/0QYeuK/article/yJ0d9S",
         Error: 0
     }, {
         Day: 25,
@@ -11720,7 +11720,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Chlamydien-Infektionen",
         Length: "930",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/EcY8VL/article/ff0kl2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/0QYeuK/article/ff0kl2",
         Error: 0
     }, {
         Day: 25,
@@ -11729,7 +11729,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Lyme-Borreliose",
         Length: "1558",
         Imppact: 3,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/EcY8VL/article/4f03m2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/0QYeuK/article/4f03m2",
         Error: 0
     }, {
         Day: 25,
@@ -11738,7 +11738,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Brucellose",
         Length: "366",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/EcY8VL/article/lf0vm2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/0QYeuK/article/lf0vm2",
         Error: 0
     }, {
         Day: 25,
@@ -11747,7 +11747,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Typhus, Paratyphus",
         Length: "959",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/EcY8VL/article/Qf0uN2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/0QYeuK/article/Qf0uN2",
         Error: 0
     }, {
         Day: 25,
@@ -11756,7 +11756,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Milzbrand",
         Length: "407",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/EcY8VL/article/Of0Im2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/0QYeuK/article/Of0Im2",
         Error: 0
     }, {
         Day: 25,
@@ -11765,7 +11765,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Leptospirose",
         Length: "453",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/EcY8VL/article/kf0mm2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/0QYeuK/article/kf0mm2",
         Error: 0
     }, {
         Day: 25,
@@ -11774,7 +11774,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Diphtherie",
         Length: "566",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/EcY8VL/article/df0oO2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/0QYeuK/article/df0oO2",
         Error: 0
     }, {
         Day: 25,
@@ -11783,7 +11783,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Listeriose",
         Length: "408",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/EcY8VL/article/Nf0-m2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/0QYeuK/article/Nf0-m2",
         Error: 0
     }, {
         Day: 25,
@@ -11792,7 +11792,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Katzenkratzkrankheit",
         Length: "303",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/EcY8VL/article/d80ol3",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/0QYeuK/article/d80ol3",
         Error: 0
     }, {
         Day: 26,
@@ -11801,7 +11801,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "COVID-19",
         Length: "3263",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/vcYAVL/article/gG0FAh",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/aQYQuK/article/gG0FAh",
         Error: 0
     }, {
         Day: 26,
@@ -11810,7 +11810,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Influenza",
         Length: "1541",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/vcYAVL/article/Bm0z3g",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/aQYQuK/article/Bm0z3g",
         Error: 0
     }, {
         Day: 26,
@@ -11819,7 +11819,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Herpesvirus-Infektionen",
         Length: "1359",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/vcYAVL/article/Mf0M52",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/aQYQuK/article/Mf0M52",
         Error: 0
     }, {
         Day: 26,
@@ -11828,7 +11828,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Zytomegalievirus-Infektionen",
         Length: "534",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/vcYAVL/article/nf0752",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/aQYQuK/article/nf0752",
         Error: 0
     }, {
         Day: 26,
@@ -11837,7 +11837,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Infektiöse Mononukleose",
         Length: "896",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/vcYAVL/article/Lf0w52",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/aQYQuK/article/Lf0w52",
         Error: 0
     }, {
         Day: 26,
@@ -11846,7 +11846,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "HIV-Infektion",
         Length: "3407",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/vcYAVL/article/mf0V52",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/aQYQuK/article/mf0V52",
         Error: 0
     }, {
         Day: 26,
@@ -11855,7 +11855,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Virales hämorrhagisches Fieber",
         Length: "1293",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/vcYAVL/article/aL0Qwg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/aQYQuK/article/aL0Qwg",
         Error: 0
     }, {
         Day: 26,
@@ -11864,7 +11864,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Gelbfieber",
         Length: "558",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/vcYAVL/article/U50bjg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/aQYQuK/article/U50bjg",
         Error: 0
     }, {
         Day: 26,
@@ -11873,7 +11873,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Denguefieber",
         Length: "949",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/vcYAVL/article/350SPg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/aQYQuK/article/350SPg",
         Error: 0
     }, {
         Day: 26,
@@ -11882,7 +11882,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Zika-Virus-Infektion",
         Length: "549",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/vcYAVL/article/RJ0lFS",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/aQYQuK/article/RJ0lFS",
         Error: 0
     }, {
         Day: 26,
@@ -11891,7 +11891,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Mpox",
         Length: "622",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/vcYAVL/article/wA0hNi",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/aQYQuK/article/wA0hNi",
         Error: 0
     }, {
         Day: 26,
@@ -11900,7 +11900,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Tollwut",
         Length: "923",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/vcYAVL/article/Gh0B2f",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/aQYQuK/article/Gh0B2f",
         Error: 0
     }, {
         Day: 27,
@@ -11909,7 +11909,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Aspergillose",
         Length: "918",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/DcY1eL/article/7f04n2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/YQYnuK/article/7f04n2",
         Error: 0
     }, {
         Day: 27,
@@ -11918,7 +11918,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Malaria",
         Length: "1761",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/DcY1eL/article/Kf0UM2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/YQYnuK/article/Kf0UM2",
         Error: 0
     }, {
         Day: 27,
@@ -11927,7 +11927,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Toxoplasmose",
         Length: "617",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/DcY1eL/article/pf0LM2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/YQYnuK/article/pf0LM2",
         Error: 0
     }, {
         Day: 27,
@@ -11936,7 +11936,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Leishmaniose",
         Length: "646",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/DcY1eL/article/qf0CM2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/YQYnuK/article/qf0CM2",
         Error: 0
     }, {
         Day: 27,
@@ -11945,7 +11945,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Chagas-Krankheit",
         Length: "637",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/DcY1eL/article/cK0a2S",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/YQYnuK/article/cK0a2S",
         Error: 0
     }, {
         Day: 27,
@@ -11954,7 +11954,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Schlafkrankheit",
         Length: "403",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/DcY1eL/article/T506jg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/YQYnuK/article/T506jg",
         Error: 0
     }, {
         Day: 27,
@@ -11963,7 +11963,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Wurmerkrankungen",
         Length: "1296",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/DcY1eL/article/Ff0gL2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/YQYnuK/article/Ff0gL2",
         Error: 0
     }, {
         Day: 27,
@@ -11972,7 +11972,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Echinokokkose",
         Length: "575",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/DcY1eL/article/9f0No2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/YQYnuK/article/9f0No2",
         Error: 0
     }, {
         Day: 27,
@@ -11981,7 +11981,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Schistosomiasis",
         Length: "820",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/DcY1eL/article/xf0Eo2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/YQYnuK/article/xf0Eo2",
         Error: 0
     }, {
         Day: 27,
@@ -11990,7 +11990,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Lepra",
         Length: "619",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/DcY1eL/article/Xk09mT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/YQYnuK/article/Xk09mT",
         Error: 0
     }, {
         Day: 27,
@@ -11999,7 +11999,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Seltene Zoonosen",
         Length: "381",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/DcY1eL/article/250Tjg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/YQYnuK/article/250Tjg",
         Error: 0
     }, {
         Day: 28,
@@ -12008,7 +12008,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Antisepsis",
         Length: "1091",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/wcYheL/article/WQ0PEf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/bQYHuK/article/WQ0PEf",
         Error: 0
     }, {
         Day: 28,
@@ -12017,7 +12017,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Nosokomiale Infektionen",
         Length: "2637",
         Imppact: 2,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/wcYheL/article/_f05K2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/bQYHuK/article/_f05K2",
         Error: 0
     }, {
         Day: 28,
@@ -12026,7 +12026,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Lymphknotenschwellung",
         Length: "1917",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/wcYheL/article/iL0Jxg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/bQYHuK/article/iL0Jxg",
         Error: 0
     }, {
         Day: 28,
@@ -12035,7 +12035,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Impfungen allgemein",
         Length: "1901",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/wcYheL/article/_m05Rg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/bQYHuK/article/_m05Rg",
         Error: 0
     }, {
         Day: 28,
@@ -12044,7 +12044,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Impfempfehlungen der STIKO",
         Length: "1638",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/wcYheL/article/zm0rRg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/bQYHuK/article/zm0rRg",
         Error: 0
     }, {
         Day: 28,
@@ -12053,7 +12053,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Infektionsschutzgesetz",
         Length: "1550",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/wcYheL/article/aQ0Quf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/bQYHuK/article/aQ0Quf",
         Error: 0
     }, {
         Day: 28,
@@ -12062,7 +12062,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Wasserhygiene",
         Length: "502",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/wcYheL/article/bQ0Huf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/bQYHuK/article/bQ0Huf",
         Error: 0
     }, {
         Day: 29,
@@ -12071,7 +12071,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Das neugeborene Kind",
         Length: "1528",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/9cYNeL/article/a40Q3T",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/XQY9uK/article/a40Q3T",
         Error: 0
     }, {
         Day: 29,
@@ -12080,7 +12080,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Geburtstraumen",
         Length: "1123",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/9cYNeL/article/S40yiT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/XQY9uK/article/S40yiT",
         Error: 0
     }, {
         Day: 29,
@@ -12089,7 +12089,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Perinatale Asphyxie und hypoxisch-ischämische Enzephalopathie",
         Length: "824",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/9cYNeL/article/h40cQT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/XQY9uK/article/h40cQT",
         Error: 0
     }, {
         Day: 29,
@@ -12098,7 +12098,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Zerebralparese",
         Length: "393",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/9cYNeL/article/tM0Xqg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/XQY9uK/article/tM0Xqg",
         Error: 0
     }, {
         Day: 29,
@@ -12107,7 +12107,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Neugeboreneninfektion",
         Length: "844",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/9cYNeL/article/gM0FLg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/XQY9uK/article/gM0FLg",
         Error: 0
     }, {
         Day: 29,
@@ -12116,7 +12116,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Omphalitis",
         Length: "296",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/9cYNeL/article/Jv0saR",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/XQY9uK/article/Jv0saR",
         Error: 0
     }, {
         Day: 29,
@@ -12125,7 +12125,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Atemnotsyndrom des Neugeborenen",
         Length: "1251",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/9cYNeL/article/340SQT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/XQY9uK/article/340SQT",
         Error: 0
     }, {
         Day: 29,
@@ -12134,7 +12134,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Embryofetopathien durch Noxen",
         Length: "476",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/9cYNeL/article/V40GRT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/XQY9uK/article/V40GRT",
         Error: 0
     }, {
         Day: 29,
@@ -12143,7 +12143,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Embryofetopathien durch Infektionserreger",
         Length: "1293",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/9cYNeL/article/d40oRT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/XQY9uK/article/d40oRT",
         Error: 0
     }, {
         Day: 29,
@@ -12152,7 +12152,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Plötzlicher Säuglingstod",
         Length: "535",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/9cYNeL/article/T406iT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/XQY9uK/article/T406iT",
         Error: 0
     }, {
         Day: 29,
@@ -12161,7 +12161,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Kinderschutzmedizin",
         Length: "1757",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/9cYNeL/article/mP0V2T",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/XQY9uK/article/mP0V2T",
         Error: 0
     }, {
         Day: 30,
@@ -12170,7 +12170,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Icterus neonatorum",
         Length: "956",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/CcYqeL/article/R40lQT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/cQYaEK/article/R40lQT",
         Error: 0
     }, {
         Day: 30,
@@ -12179,7 +12179,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Morbus haemolyticus neonatorum",
         Length: "685",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/CcYqeL/article/i40JQT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/cQYaEK/article/i40JQT",
         Error: 0
     }, {
         Day: 30,
@@ -12188,7 +12188,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Morbus haemorrhagicus neonatorum",
         Length: "318",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/CcYqeL/article/Q40uQT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/cQYaEK/article/Q40uQT",
         Error: 0
     }, {
         Day: 30,
@@ -12197,7 +12197,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Hyperbilirubinämie-Syndrome",
         Length: "569",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/CcYqeL/article/iM0Jog",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/cQYaEK/article/iM0Jog",
         Error: 0
     }, {
         Day: 30,
@@ -12206,7 +12206,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Angeborene Störungen des Kohlenhydratstoffwechsels",
         Length: "778",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/CcYqeL/article/lM0vKg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/cQYaEK/article/lM0vKg",
         Error: 0
     }, {
         Day: 30,
@@ -12215,7 +12215,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Nahrungsmittelallergie",
         Length: "1311",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/CcYqeL/article/QM0uog",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/cQYaEK/article/QM0uog",
         Error: 0
     }, {
         Day: 30,
@@ -12224,7 +12224,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Entwicklung des Kindes",
         Length: "1030",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/CcYqeL/article/b40H3T",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/cQYaEK/article/b40H3T",
         Error: 0
     }, {
         Day: 30,
@@ -12233,7 +12233,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Kindervorsorgeuntersuchungen",
         Length: "1411",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/CcYqeL/article/xH0Esh",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/cQYaEK/article/xH0Esh",
         Error: 0
     }, {
         Day: 30,
@@ -12242,7 +12242,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Enuresis und funktionelle Harninkontinenz im Kindes- und Jugendalter",
         Length: "497",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/CcYqeL/article/HP0KTT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/cQYaEK/article/HP0KTT",
         Error: 0
     }, {
         Day: 30,
@@ -12251,7 +12251,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Kleinwuchs",
         Length: "725",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/CcYqeL/article/c40aRT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/cQYaEK/article/c40aRT",
         Error: 0
     }, {
         Day: 30,
@@ -12260,7 +12260,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Großwuchs",
         Length: "550",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/CcYqeL/article/1402RT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/cQYaEK/article/1402RT",
         Error: 0
     }, {
         Day: 30,
@@ -12269,7 +12269,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Pubertät",
         Length: "714",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/CcYqeL/article/PM0WKg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/cQYaEK/article/PM0WKg",
         Error: 0
     }, {
         Day: 31,
@@ -12278,7 +12278,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Neuroblastom",
         Length: "511",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/xcYEeL/article/940NlT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/1QY2EK/article/940NlT",
         Error: 0
     }, {
         Day: 31,
@@ -12287,7 +12287,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Nephroblastom",
         Length: "541",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/xcYEeL/article/zi0r8f",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/1QY2EK/article/zi0r8f",
         Error: 0
     }, {
         Day: 31,
@@ -12296,7 +12296,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Retinoblastom",
         Length: "477",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/xcYEeL/article/C40qlT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/1QY2EK/article/C40qlT",
         Error: 0
     }, {
         Day: 31,
@@ -12305,7 +12305,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Lippen-Kiefer-Gaumen-Spalte",
         Length: "459",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/xcYEeL/article/FM0gqg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/1QY2EK/article/FM0gqg",
         Error: 0
     }, {
         Day: 31,
@@ -12314,7 +12314,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Zystische Fibrose",
         Length: "1900",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/xcYEeL/article/L40wPT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/1QY2EK/article/L40wPT",
         Error: 0
     }, {
         Day: 31,
@@ -12323,7 +12323,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Adrenogenitales Syndrom",
         Length: "1808",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/xcYEeL/article/W40PRT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/1QY2EK/article/W40PRT",
         Error: 0
     }, {
         Day: 31,
@@ -12332,7 +12332,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Seltene hereditäre Stoffwechselerkrankungen",
         Length: "1443",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/xcYEeL/article/vR0AKf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/1QY2EK/article/vR0AKf",
         Error: 0
     }, {
         Day: 31,
@@ -12341,7 +12341,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Seltene hereditäre Syndrome",
         Length: "1380",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/xcYEeL/article/240TiT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/1QY2EK/article/240TiT",
         Error: 0
     }, {
         Day: 32,
@@ -12350,7 +12350,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Atopische Dermatitis",
         Length: "87",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/BcYzeL/article/A40RNT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/WQYPEK/article/A40RNT",
         Error: 0
     }, {
         Day: 32,
@@ -12359,7 +12359,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Windeldermatitis",
         Length: "51",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/BcYzeL/article/1J02GS",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/WQYPEK/article/1J02GS",
         Error: 0
     }, {
         Day: 32,
@@ -12368,7 +12368,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Masern",
         Length: "101",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/BcYzeL/article/r40fkT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/WQYPEK/article/r40fkT",
         Error: 0
     }, {
         Day: 32,
@@ -12377,7 +12377,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Scharlach",
         Length: "925",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/BcYzeL/article/F40gOT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/WQYPEK/article/F40gOT",
         Error: 0
     }, {
         Day: 32,
@@ -12386,7 +12386,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Röteln",
         Length: "690",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/BcYzeL/article/7404kT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/WQYPEK/article/7404kT",
         Error: 0
     }, {
         Day: 32,
@@ -12395,7 +12395,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Ringelröteln",
         Length: "606",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/BcYzeL/article/G40BkT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/WQYPEK/article/G40BkT",
         Error: 0
     }, {
         Day: 32,
@@ -12404,7 +12404,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Exanthema subitum",
         Length: "503",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/BcYzeL/article/s40tkT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/WQYPEK/article/s40tkT",
         Error: 0
     }, {
         Day: 32,
@@ -12413,7 +12413,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Windpocken",
         Length: "1507",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/BcYzeL/article/I40YkT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/WQYPEK/article/I40YkT",
         Error: 0
     }, {
         Day: 32,
@@ -12422,7 +12422,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "IgA-Vaskulitis",
         Length: "592",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/BcYzeL/article/BT0zG2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/WQYPEK/article/BT0zG2",
         Error: 0
     }, {
         Day: 32,
@@ -12431,7 +12431,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Mumps",
         Length: "667",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/BcYzeL/article/H40KkT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/WQYPEK/article/H40KkT",
         Error: 0
     }, {
         Day: 32,
@@ -12440,7 +12440,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Pertussis",
         Length: "818",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/BcYzeL/article/840OOT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/WQYPEK/article/840OOT",
         Error: 0
     }, {
         Day: 32,
@@ -12449,7 +12449,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Poliomyelitis",
         Length: "983",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/BcYzeL/article/t40XOT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/WQYPEK/article/t40XOT",
         Error: 0
     }, {
         Day: 32,
@@ -12458,7 +12458,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Fieberkrampf",
         Length: "677",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/BcYzeL/article/D401lT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/WQYPEK/article/D401lT",
         Error: 0
     }, {
         Day: 33,
@@ -12467,7 +12467,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Akute Bronchiolitis im Säuglingsalter",
         Length: "597",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/ycYdUL/article/EF08P3",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/dQYoEK/article/EF08P3",
         Error: 0
     }, {
         Day: 33,
@@ -12476,7 +12476,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Pseudokrupp",
         Length: "771",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/ycYdUL/article/n407PT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/dQYoEK/article/n407PT",
         Error: 0
     }, {
         Day: 33,
@@ -12485,7 +12485,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Epiglottitis",
         Length: "677",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/ycYdUL/article/f50kjg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/dQYoEK/article/f50kjg",
         Error: 0
     }, {
         Day: 33,
@@ -12494,7 +12494,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Fremdkörperaspiration",
         Length: "912",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/ycYdUL/article/K50UOg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/dQYoEK/article/K50UOg",
         Error: 0
     }, {
         Day: 33,
@@ -12503,7 +12503,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Azyanotische angeborene Herzfehler",
         Length: "1749",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/ycYdUL/article/4403jT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/dQYoEK/article/4403jT",
         Error: 0
     }, {
         Day: 33,
@@ -12512,7 +12512,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Ventrikelseptumdefekt",
         Length: "599",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/ycYdUL/article/ew0x3R",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/dQYoEK/article/ew0x3R",
         Error: 0
     }, {
         Day: 33,
@@ -12521,7 +12521,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Atriumseptumdefekt",
         Length: "606",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/ycYdUL/article/1w023R",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/dQYoEK/article/1w023R",
         Error: 0
     }, {
         Day: 33,
@@ -12530,7 +12530,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Zyanotische angeborene Herzfehler",
         Length: "1348",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/ycYdUL/article/mw0VjR",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/dQYoEK/article/mw0VjR",
         Error: 0
     }, {
         Day: 33,
@@ -12539,7 +12539,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Fallot-Tetralogie",
         Length: "746",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/ycYdUL/article/rw0f4R",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/dQYoEK/article/rw0f4R",
         Error: 0
     }, {
         Day: 33,
@@ -12548,7 +12548,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Choanalatresie",
         Length: "314",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/ycYdUL/article/M40MPT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/dQYoEK/article/M40MPT",
         Error: 0
     }, {
         Day: 33,
@@ -12557,7 +12557,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Ösophagusatresie",
         Length: "548",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/ycYdUL/article/K40U4T",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/dQYoEK/article/K40U4T",
         Error: 0
     }, {
         Day: 33,
@@ -12566,7 +12566,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Hypertrophe Pylorusstenose",
         Length: "232",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/ycYdUL/article/J40s4T",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/dQYoEK/article/J40s4T",
         Error: 0
     }, {
         Day: 33,
@@ -12575,7 +12575,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Duodenalatresie",
         Length: "46",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/ycYdUL/article/640j4T",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/dQYoEK/article/640j4T",
         Error: 0
     }, {
         Day: 33,
@@ -12584,7 +12584,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Morbus Hirschsprung",
         Length: "656",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/ycYdUL/article/q40C4T",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/dQYoEK/article/q40C4T",
         Error: 0
     }, {
         Day: 33,
@@ -12593,7 +12593,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Viszerale Fehlbildungen",
         Length: "68",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/ycYdUL/article/p40L4T",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/dQYoEK/article/p40L4T",
         Error: 0
     }, {
         Day: 33,
@@ -12602,7 +12602,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Nekrotisierende Enterokolitis",
         Length: "769",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/ycYdUL/article/o4004T",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/dQYoEK/article/o4004T",
         Error: 0
     }, {
         Day: 33,
@@ -12611,7 +12611,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Darminvagination",
         Length: "736",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/ycYdUL/article/Ah0Rgf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/dQYoEK/article/Ah0Rgf",
         Error: 0
     }, {
         Day: 34,
@@ -12620,7 +12620,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Hüftgelenkdysplasie und Hüftgelenkluxation",
         Length: "668",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/AcYRUL/article/NQ0-wf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/VQYGEK/article/NQ0-wf",
         Error: 0
     }, {
         Day: 34,
@@ -12629,7 +12629,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Morbus Perthes",
         Length: "1451",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/AcYRUL/article/mQ0V9f",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/VQYGEK/article/mQ0V9f",
         Error: 0
     }, {
         Day: 34,
@@ -12638,7 +12638,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Epiphyseolysis capitis femoris",
         Length: "781",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/AcYRUL/article/MQ0M9f",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/VQYGEK/article/MQ0M9f",
         Error: 0
     }, {
         Day: 34,
@@ -12647,7 +12647,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Juvenile idiopathische Arthritis",
         Length: "1174",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/AcYRUL/article/w40hlT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/VQYGEK/article/w40hlT",
         Error: 0
     }, {
         Day: 34,
@@ -12656,7 +12656,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Morbus Scheuermann",
         Length: "257",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/AcYRUL/article/jQ0_Df",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/VQYGEK/article/jQ0_Df",
         Error: 0
     }, {
         Day: 34,
@@ -12665,7 +12665,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Kraniosynostosen",
         Length: "280",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/AcYRUL/article/g40FiT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/VQYGEK/article/g40FiT",
         Error: 0
     }, {
         Day: 34,
@@ -12674,7 +12674,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Hydrozephalus",
         Length: "325",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/AcYRUL/article/EM08qg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/VQYGEK/article/EM08qg",
         Error: 0
     }, {
         Day: 34,
@@ -12683,7 +12683,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Fehlbildungen des kraniozervikalen Übergangs",
         Length: "416",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/AcYRUL/article/Am0RRg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/VQYGEK/article/Am0RRg",
         Error: 0
     }, {
         Day: 34,
@@ -12692,7 +12692,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Neuralrohrdefekte",
         Length: "736",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/AcYRUL/article/el0xDT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/VQYGEK/article/el0xDT",
         Error: 0
     }, {
         Day: 35,
@@ -12701,7 +12701,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Humangenetik (Klinik)",
         Length: "2354",
         Imppact: 3,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/_cY5UL/article/y50d5g",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/eQYxEK/article/y50d5g",
         Error: 0
     }, {
         Day: 35,
@@ -12710,7 +12710,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Chromosomenaberrationen",
         Length: "1088",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/_cY5UL/article/e40xRT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/eQYxEK/article/e40xRT",
         Error: 0
     }, {
         Day: 35,
@@ -12719,7 +12719,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Trisomie 21",
         Length: "1194",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/_cY5UL/article/U40biT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/eQYxEK/article/U40biT",
         Error: 0
     }, {
         Day: 35,
@@ -12728,7 +12728,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Ehlers-Danlos-Syndrom und Marfan-Syndrom",
         Length: "686",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/_cY5UL/article/hk0cnT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/eQYxEK/article/hk0cnT",
         Error: 0
     }, {
         Day: 36,
@@ -12737,7 +12737,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Grundlagen der Dermatologie",
         Length: "1488",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/zcYrUL/article/_405NT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/UQYbvK/article/_405NT",
         Error: 0
     }, {
         Day: 36,
@@ -12746,7 +12746,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Herpes zoster",
         Length: "1232",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/zcYrUL/article/HR0Kof",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/UQYbvK/article/HR0Kof",
         Error: 0
     }, {
         Day: 36,
@@ -12755,7 +12755,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Molluscum contagiosum",
         Length: "290",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/zcYrUL/article/-40DNT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/UQYbvK/article/-40DNT",
         Error: 0
     }, {
         Day: 36,
@@ -12764,7 +12764,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Impetigo contagiosa",
         Length: "385",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/zcYrUL/article/ak0QmT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/UQYbvK/article/ak0QmT",
         Error: 0
     }, {
         Day: 36,
@@ -12773,7 +12773,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Staphylococcal scalded Skin Syndrome",
         Length: "451",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/zcYrUL/article/Yk0nmT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/UQYbvK/article/Yk0nmT",
         Error: 0
     }, {
         Day: 36,
@@ -12782,7 +12782,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Intertriginöse Dermatosen",
         Length: "658",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/zcYrUL/article/0k0emT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/UQYbvK/article/0k0emT",
         Error: 0
     }, {
         Day: 36,
@@ -12791,7 +12791,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Allgemeine Mykologie",
         Length: "853",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/zcYrUL/article/KM0Upg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/UQYbvK/article/KM0Upg",
         Error: 0
     }, {
         Day: 36,
@@ -12800,7 +12800,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Dermatophytosen",
         Length: "777",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/zcYrUL/article/Hf0Kn2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/UQYbvK/article/Hf0Kn2",
         Error: 0
     }, {
         Day: 36,
@@ -12809,7 +12809,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Onychomykose",
         Length: "508",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/zcYrUL/article/-J0D9S",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/UQYbvK/article/-J0D9S",
         Error: 0
     }, {
         Day: 36,
@@ -12818,7 +12818,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Kandidosen",
         Length: "807",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/zcYrUL/article/rf0fn2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/UQYbvK/article/rf0fn2",
         Error: 0
     }, {
         Day: 36,
@@ -12827,7 +12827,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Pityriasis versicolor",
         Length: "238",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/zcYrUL/article/Zk0ZmT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/UQYbvK/article/Zk0ZmT",
         Error: 0
     }, {
         Day: 36,
@@ -12836,7 +12836,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Skabies",
         Length: "726",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/zcYrUL/article/ck0a5T",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/UQYbvK/article/ck0a5T",
         Error: 0
     }, {
         Day: 36,
@@ -12845,7 +12845,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Lauserkrankungen",
         Length: "646",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/zcYrUL/article/1k025T",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/UQYbvK/article/1k025T",
         Error: 0
     }, {
         Day: 36,
@@ -12854,7 +12854,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Fotodermatosen",
         Length: "591",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/zcYrUL/article/dk0o5T",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/UQYbvK/article/dk0o5T",
         Error: 0
     }, {
         Day: 36,
@@ -12863,7 +12863,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Porphyrien",
         Length: "912",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/zcYrUL/article/mk0VoT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/UQYbvK/article/mk0VoT",
         Error: 0
     }, {
         Day: 36,
@@ -12872,7 +12872,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Angioödem",
         Length: "1083",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/zcYrUL/article/2k0TMT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/UQYbvK/article/2k0TMT",
         Error: 0
     }, {
         Day: 36,
@@ -12881,7 +12881,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Urtikaria",
         Length: "693",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/zcYrUL/article/dD0oWR",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/UQYbvK/article/dD0oWR",
         Error: 0
     }, {
         Day: 37,
@@ -12890,7 +12890,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Erythema nodosum",
         Length: "501",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/-cYDUL/article/Fk0gpT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/2QYTvK/article/Fk0gpT",
         Error: 0
     }, {
         Day: 37,
@@ -12899,7 +12899,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Erythema exsudativum multiforme",
         Length: "450",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/-cYDUL/article/Tk06MT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/2QYTvK/article/Tk06MT",
         Error: 0
     }, {
         Day: 37,
@@ -12908,7 +12908,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Epidermale Nekrolyse",
         Length: "638",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/-cYDUL/article/Ko0U1S",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/2QYTvK/article/Ko0U1S",
         Error: 0
     }, {
         Day: 37,
@@ -12917,7 +12917,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Blasenbildende Autoimmundermatosen",
         Length: "1876",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/-cYDUL/article/jk0_nT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/2QYTvK/article/jk0_nT",
         Error: 0
     }, {
         Day: 37,
@@ -12926,7 +12926,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Psoriasis vulgaris",
         Length: "1658",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/-cYDUL/article/4k03LT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/2QYTvK/article/4k03LT",
         Error: 0
     }, {
         Day: 37,
@@ -12935,7 +12935,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Lichen ruber planus",
         Length: "618",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/-cYDUL/article/5k0ioT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/2QYTvK/article/5k0ioT",
         Error: 0
     }, {
         Day: 37,
@@ -12944,7 +12944,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Ichthyosen",
         Length: "173",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/-cYDUL/article/Qk0unT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/2QYTvK/article/Qk0unT",
         Error: 0
     }, {
         Day: 37,
@@ -12953,7 +12953,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Pityriasis rosea",
         Length: "305",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/-cYDUL/article/Pk0WLT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/2QYTvK/article/Pk0WLT",
         Error: 0
     }, {
         Day: 37,
@@ -12962,7 +12962,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Seborrhoisches Ekzem",
         Length: "434",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/-cYDUL/article/Vk0G5T",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/2QYTvK/article/Vk0G5T",
         Error: 0
     }, {
         Day: 37,
@@ -12971,7 +12971,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Acne vulgaris",
         Length: "1033",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/-cYDUL/article/nk07oT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/2QYTvK/article/nk07oT",
         Error: 0
     }, {
         Day: 37,
@@ -12980,7 +12980,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Rosazea",
         Length: "538",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/-cYDUL/article/Lk0woT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/2QYTvK/article/Lk0woT",
         Error: 0
     }, {
         Day: 37,
@@ -12989,7 +12989,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Granulomatöse Hauterkrankungen",
         Length: "284",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/-cYDUL/article/Kk0UKT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/2QYTvK/article/Kk0UKT",
         Error: 0
     }, {
         Day: 38,
@@ -12998,7 +12998,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Benigne Hauttumoren",
         Length: "1399",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/Z1YZ2L/article/6k0jKT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/fQYkvK/article/6k0jKT",
         Error: 0
     }, {
         Day: 38,
@@ -13007,7 +13007,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Aktinische Keratose",
         Length: "451",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/Z1YZ2L/article/pk0LKT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/fQYkvK/article/pk0LKT",
         Error: 0
     }, {
         Day: 38,
@@ -13016,7 +13016,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Malignes Melanom",
         Length: "1888",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/Z1YZ2L/article/qk0CKT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/fQYkvK/article/qk0CKT",
         Error: 0
     }, {
         Day: 38,
@@ -13025,7 +13025,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Plattenepithelkarzinom der Haut",
         Length: "1222",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/Z1YZ2L/article/Ik0Y6T",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/fQYkvK/article/Ik0Y6T",
         Error: 0
     }, {
         Day: 38,
@@ -13034,7 +13034,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Basalzellkarzinom",
         Length: "742",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/Z1YZ2L/article/rk0f6T",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/fQYkvK/article/rk0f6T",
         Error: 0
     }, {
         Day: 38,
@@ -13043,7 +13043,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Parapsoriasis en plaques",
         Length: "306",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/Z1YZ2L/article/kk0mLT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/fQYkvK/article/kk0mLT",
         Error: 0
     }, {
         Day: 38,
@@ -13052,7 +13052,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Vitiligo",
         Length: "258",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/Z1YZ2L/article/7k046T",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/fQYkvK/article/7k046T",
         Error: 0
     }, {
         Day: 38,
@@ -13061,7 +13061,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Alopezien",
         Length: "771",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/Z1YZ2L/article/tk0XpT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/fQYkvK/article/tk0XpT",
         Error: 0
     }, {
         Day: 38,
@@ -13070,7 +13070,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Sexuell übertragbare Infektionen",
         Length: "479",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/Z1YZ2L/article/IM0YJg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/fQYkvK/article/IM0YJg",
         Error: 0
     }, {
         Day: 38,
@@ -13079,7 +13079,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Gonorrhö",
         Length: "491",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/Z1YZ2L/article/Hk0K6T",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/fQYkvK/article/Hk0K6T",
         Error: 0
     }, {
         Day: 38,
@@ -13088,7 +13088,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Syphilis",
         Length: "1604",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/Z1YZ2L/article/sk0t6T",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/fQYkvK/article/sk0t6T",
         Error: 0
     }, {
         Day: 38,
@@ -13097,7 +13097,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Ulcus molle",
         Length: "309",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/Z1YZ2L/article/650jOg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/fQYkvK/article/650jOg",
         Error: 0
     }, {
         Day: 38,
@@ -13106,7 +13106,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Sammelsurium der Dermatologie",
         Length: "499",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/Z1YZ2L/article/eM0xng",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/fQYkvK/article/eM0xng",
         Error: 0
     }, {
         Day: 38,
@@ -13115,7 +13115,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Periorale Dermatitis",
         Length: "417",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/Z1YZ2L/article/rF0fj3",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/fQYkvK/article/rF0fj3",
         Error: 0
     }, {
         Day: 39,
@@ -13124,7 +13124,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Lokalanästhetika",
         Length: "670",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/01Ye2L/article/wN0hWg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/TQY6vK/article/wN0hWg",
         Error: 0
     }, {
         Day: 39,
@@ -13133,7 +13133,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Regionalanästhesie",
         Length: "1734",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/01Ye2L/article/Sl0ywT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/TQY6vK/article/Sl0ywT",
         Error: 0
     }, {
         Day: 39,
@@ -13142,7 +13142,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Allgemeinanästhesie",
         Length: "2206",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/01Ye2L/article/hl0c9T",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/TQY6vK/article/hl0c9T",
         Error: 0
     }, {
         Day: 39,
@@ -13151,7 +13151,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Maschinelle Beatmung",
         Length: "1291",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/01Ye2L/article/970NLh",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/TQY6vK/article/970NLh",
         Error: 0
     }, {
         Day: 39,
@@ -13160,7 +13160,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Rapid Sequence Induction",
         Length: "1234",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/01Ye2L/article/gl0FwT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/TQY6vK/article/gl0FwT",
         Error: 0
     }, {
         Day: 39,
@@ -13169,7 +13169,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Inhalationsanästhetika",
         Length: "729",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/01Ye2L/article/EN081g",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/TQY6vK/article/EN081g",
         Error: 0
     }, {
         Day: 39,
@@ -13178,7 +13178,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Injektionsanästhetika",
         Length: "565",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/01Ye2L/article/vN0A1g",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/TQY6vK/article/vN0A1g",
         Error: 0
     }, {
         Day: 39,
@@ -13187,7 +13187,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Muskelrelaxanzien",
         Length: "1020",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/01Ye2L/article/DN01Wg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/TQY6vK/article/DN01Wg",
         Error: 0
     }, {
         Day: 39,
@@ -13196,7 +13196,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Benzodiazepine",
         Length: "644",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/01Ye2L/article/CN0qWg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/TQY6vK/article/CN0qWg",
         Error: 0
     }, {
         Day: 39,
@@ -13205,7 +13205,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Maligne Hyperthermie",
         Length: "701",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/01Ye2L/article/sg0t92",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/TQY6vK/article/sg0t92",
         Error: 0
     }, {
         Day: 40,
@@ -13214,7 +13214,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Grundlagen der Schmerztherapie",
         Length: "1661",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/a1YQ2L/article/xN0EWg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/gQYFvK/article/xN0EWg",
         Error: 0
     }, {
         Day: 40,
@@ -13223,7 +13223,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Nicht-Opioid-Analgetika",
         Length: "1037",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/a1YQ2L/article/BN0zWg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/gQYFvK/article/BN0zWg",
         Error: 0
     }, {
         Day: 40,
@@ -13232,7 +13232,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Opioide",
         Length: "1022",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/a1YQ2L/article/yN0ddg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/gQYFvK/article/yN0ddg",
         Error: 0
     }, {
         Day: 40,
@@ -13241,7 +13241,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Pulsoxymetrie und Blutgasanalyse",
         Length: "1459",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/a1YQ2L/article/8l0OAT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/gQYFvK/article/8l0OAT",
         Error: 0
     }, {
         Day: 40,
@@ -13250,7 +13250,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Flüssigkeits- und Volumentherapie",
         Length: "1373",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/a1YQ2L/article/fM0kLg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/gQYFvK/article/fM0kLg",
         Error: 0
     }, {
         Day: 40,
@@ -13259,7 +13259,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Künstliche Ernährung",
         Length: "584",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/a1YQ2L/article/9t0Nf3",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/gQYFvK/article/9t0Nf3",
         Error: 0
     }, {
         Day: 40,
@@ -13268,7 +13268,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Transfusionen",
         Length: "1993",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/a1YQ2L/article/2M0TLg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/gQYFvK/article/2M0TLg",
         Error: 0
     }, {
         Day: 40,
@@ -13277,7 +13277,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Präklinische Traumaversorgung",
         Length: "1502",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/a1YQ2L/article/4N03Yg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/gQYFvK/article/4N03Yg",
         Error: 0
     }, {
         Day: 40,
@@ -13286,7 +13286,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Grundlagen der Reanimation",
         Length: "1372",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/a1YQ2L/article/kN0mYg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/gQYFvK/article/kN0mYg",
         Error: 0
     }, {
         Day: 40,
@@ -13295,7 +13295,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Reanimation - AMBOSS-SOP",
         Length: "822",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/a1YQ2L/article/L70wmh",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/gQYFvK/article/L70wmh",
         Error: 0
     }, {
         Day: 40,
@@ -13304,7 +13304,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Polytrauma",
         Length: "808",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/a1YQ2L/article/-y0D3i",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/gQYFvK/article/-y0D3i",
         Error: 0
     }, {
         Day: 41,
@@ -13313,7 +13313,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Schock",
         Length: "1766",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/Y1Yn2L/article/kO0msT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/SQYyvK/article/kO0msT",
         Error: 0
     }, {
         Day: 41,
@@ -13322,7 +13322,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Acute Respiratory Distress Syndrome",
         Length: "1226",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/Y1Yn2L/article/tg0XC2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/SQYyvK/article/tg0XC2",
         Error: 0
     }, {
         Day: 41,
@@ -13331,7 +13331,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Rhabdomyolyse und Crush-Syndrom",
         Length: "406",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/Y1Yn2L/article/4O03sT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/SQYyvK/article/4O03sT",
         Error: 0
     }, {
         Day: 41,
@@ -13340,7 +13340,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Verbrennung",
         Length: "1036",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/Y1Yn2L/article/Jh0sUf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/SQYyvK/article/Jh0sUf",
         Error: 0
     }, {
         Day: 41,
@@ -13349,7 +13349,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Hypothermie und Erfrierungen",
         Length: "898",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/Y1Yn2L/article/kK0mgS",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/SQYyvK/article/kK0mgS",
         Error: 0
     }, {
         Day: 41,
@@ -13358,7 +13358,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Thoraxtrauma",
         Length: "818",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/Y1Yn2L/article/8h0Off",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/SQYyvK/article/8h0Off",
         Error: 0
     }, {
         Day: 41,
@@ -13367,7 +13367,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Pneumothorax",
         Length: "2103",
         Imppact: 2,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/Y1Yn2L/article/vh0Aff",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/SQYyvK/article/vh0Aff",
         Error: 0
     }, {
         Day: 41,
@@ -13376,7 +13376,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Intoxikation mit Kohlenstoffmonoxid oder -dioxid",
         Length: "550",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/Y1Yn2L/article/4h03Vf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/SQYyvK/article/4h03Vf",
         Error: 0
     }, {
         Day: 42,
@@ -13385,7 +13385,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Akute Wunden und Wundverschluss",
         Length: "1449",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/b1YH2L/article/ph0LUf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/hQYcDK/article/ph0LUf",
         Error: 0
     }, {
         Day: 42,
@@ -13394,7 +13394,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Chronische Wunden und Wundbehandlung",
         Length: "1567",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/b1YH2L/article/f70kOh",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/hQYcDK/article/f70kOh",
         Error: 0
     }, {
         Day: 42,
@@ -13403,7 +13403,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Bakterielle Infektionen von Haut und Weichgewebe",
         Length: "1902",
         Imppact: 2,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/b1YH2L/article/qh0CUf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/hQYcDK/article/qh0CUf",
         Error: 0
     }, {
         Day: 42,
@@ -13412,7 +13412,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Paronychie und Panaritium",
         Length: "503",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/b1YH2L/article/rh0f2f",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/hQYcDK/article/rh0f2f",
         Error: 0
     }, {
         Day: 42,
@@ -13421,7 +13421,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Tetanus",
         Length: "754",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/b1YH2L/article/ef0xO2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/hQYcDK/article/ef0xO2",
         Error: 0
     }, {
         Day: 42,
@@ -13430,7 +13430,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Aktinomykose",
         Length: "480",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/b1YH2L/article/7h042f",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/hQYcDK/article/7h042f",
         Error: 0
     }, {
         Day: 42,
@@ -13439,7 +13439,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Perioperatives Management",
         Length: "2058",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/b1YH2L/article/550ikg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/hQYcDK/article/550ikg",
         Error: 0
     }, {
         Day: 42,
@@ -13448,7 +13448,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Laparoskopische Chirurgie",
         Length: "520",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/b1YH2L/article/B50zmg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/hQYcDK/article/B50zmg",
         Error: 0
     }, {
         Day: 42,
@@ -13457,7 +13457,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Koronararterielle Bypasschirurgie",
         Length: "557",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/b1YH2L/article/6l0jBT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/hQYcDK/article/6l0jBT",
         Error: 0
     }, {
         Day: 42,
@@ -13466,7 +13466,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Aneurysma",
         Length: "533",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/b1YH2L/article/Wh0P1f",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/hQYcDK/article/Wh0P1f",
         Error: 0
     }, {
         Day: 42,
@@ -13475,7 +13475,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Aortenaneurysma",
         Length: "1205",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/b1YH2L/article/dh0o1f",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/hQYcDK/article/dh0o1f",
         Error: 0
     }, {
         Day: 42,
@@ -13484,7 +13484,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Aortendissektion",
         Length: "1743",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/b1YH2L/article/M50Mkg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/hQYcDK/article/M50Mkg",
         Error: 0
     }, {
         Day: 42,
@@ -13493,7 +13493,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Akuter arterieller Extremitätenverschluss",
         Length: "1082",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/b1YH2L/article/1h021f",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/hQYcDK/article/1h021f",
         Error: 0
     }, {
         Day: 43,
@@ -13502,7 +13502,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Schilddrüsenkarzinom",
         Length: "1442",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/X1Y92L/article/Vg0G82",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/3QYSDK/article/Vg0G82",
         Error: 0
     }, {
         Day: 43,
@@ -13511,7 +13511,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Schilddrüsenchirurgie",
         Length: "600",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/X1Y92L/article/wl0h_T",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/3QYSDK/article/wl0h_T",
         Error: 0
     }, {
         Day: 43,
@@ -13520,7 +13520,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Ösophagusdivertikel",
         Length: "600",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/X1Y92L/article/Eg08C2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/3QYSDK/article/Eg08C2",
         Error: 0
     }, {
         Day: 43,
@@ -13529,7 +13529,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Boerhaave-Syndrom",
         Length: "340",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/X1Y92L/article/wg0hx2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/3QYSDK/article/wg0hx2",
         Error: 0
     }, {
         Day: 43,
@@ -13538,7 +13538,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Ösophaguskarzinom",
         Length: "1151",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/X1Y92L/article/Cg0qx2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/3QYSDK/article/Cg0qx2",
         Error: 0
     }, {
         Day: 43,
@@ -13547,7 +13547,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Zwerchfellhernie",
         Length: "1573",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/X1Y92L/article/Ch0qTf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/3QYSDK/article/Ch0qTf",
         Error: 0
     }, {
         Day: 43,
@@ -13556,7 +13556,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Milzruptur",
         Length: "1052",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/X1Y92L/article/Bh0zTf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/3QYSDK/article/Bh0zTf",
         Error: 0
     }, {
         Day: 43,
@@ -13565,7 +13565,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Magenkarzinom",
         Length: "2132",
         Imppact: 2,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/X1Y92L/article/-g0DB2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/3QYSDK/article/-g0DB2",
         Error: 0
     }, {
         Day: 43,
@@ -13574,7 +13574,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Neuroendokrine Neoplasien",
         Length: "2438",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/X1Y92L/article/_h05gf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/3QYSDK/article/_h05gf",
         Error: 0
     }, {
         Day: 43,
@@ -13583,7 +13583,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Akutes Abdomen",
         Length: "3408",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/X1Y92L/article/N50-4g",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/3QYSDK/article/N50-4g",
         Error: 0
     }, {
         Day: 43,
@@ -13592,7 +13592,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Peritonitis",
         Length: "867",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/X1Y92L/article/GM0BJg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/3QYSDK/article/GM0BJg",
         Error: 0
     }, {
         Day: 43,
@@ -13601,7 +13601,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Ileus",
         Length: "1633",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/X1Y92L/article/230T3f",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/3QYSDK/article/230T3f",
         Error: 0
     }, {
         Day: 44,
@@ -13610,7 +13610,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Mesenteriale Ischämie",
         Length: "1186",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/c1YafL/article/cS0aA2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/RQYlDK/article/cS0aA2",
         Error: 0
     }, {
         Day: 44,
@@ -13619,7 +13619,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Appendizitis",
         Length: "1679",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/c1YafL/article/a30QSf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/RQYlDK/article/a30QSf",
         Error: 0
     }, {
         Day: 44,
@@ -13628,7 +13628,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Kolonpolypen",
         Length: "737",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/c1YafL/article/US0b_2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/RQYlDK/article/US0b_2",
         Error: 0
     }, {
         Day: 44,
@@ -13637,7 +13637,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Kolorektales Karzinom",
         Length: "3040",
         Imppact: 2,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/c1YafL/article/TS06_2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/RQYlDK/article/TS06_2",
         Error: 0
     }, {
         Day: 44,
@@ -13646,7 +13646,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Hereditäres, nicht-polypöses Kolonkarzinom",
         Length: "953",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/c1YafL/article/fS0k_2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/RQYlDK/article/fS0k_2",
         Error: 0
     }, {
         Day: 44,
@@ -13655,7 +13655,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Obstipation",
         Length: "1696",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/c1YafL/article/CM0qIg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/RQYlDK/article/CM0qIg",
         Error: 0
     }, {
         Day: 44,
@@ -13664,7 +13664,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Darmchirurgie",
         Length: "2028",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/c1YafL/article/Cl0q_T",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/RQYlDK/article/Cl0q_T",
         Error: 0
     }, {
         Day: 45,
@@ -13673,7 +13673,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Cholelithiasis, Cholezystitis und Cholangitis",
         Length: "2356",
         Imppact: 2,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/11Y2fL/article/V30Ghf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/iQYJDK/article/V30Ghf",
         Error: 0
     }, {
         Day: 45,
@@ -13682,7 +13682,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Biliäre Karzinome",
         Length: "547",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/11Y2fL/article/e30xhf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/iQYJDK/article/e30xhf",
         Error: 0
     }, {
         Day: 45,
@@ -13691,7 +13691,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Hepatozelluläres Karzinom",
         Length: "1102",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/11Y2fL/article/6S0j0f",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/iQYJDK/article/6S0j0f",
         Error: 0
     }, {
         Day: 45,
@@ -13700,7 +13700,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Pankreas- und Leberchirurgie",
         Length: "835",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/11Y2fL/article/Bl0z_T",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/iQYJDK/article/Bl0z_T",
         Error: 0
     }, {
         Day: 45,
@@ -13709,7 +13709,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Anal- und Rektumprolaps",
         Length: "428",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/11Y2fL/article/W30Phf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/iQYJDK/article/W30Phf",
         Error: 0
     }, {
         Day: 45,
@@ -13718,7 +13718,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Hämorrhoiden und Hämorrhoidalleiden",
         Length: "891",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/11Y2fL/article/c30ahf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/iQYJDK/article/c30ahf",
         Error: 0
     }, {
         Day: 45,
@@ -13727,7 +13727,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Analvenenthrombose",
         Length: "388",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/11Y2fL/article/1302hf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/iQYJDK/article/1302hf",
         Error: 0
     }, {
         Day: 45,
@@ -13736,7 +13736,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Analfissur",
         Length: "639",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/11Y2fL/article/X309Sf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/iQYJDK/article/X309Sf",
         Error: 0
     }, {
         Day: 45,
@@ -13745,7 +13745,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Analabszess und Analfistel",
         Length: "684",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/11Y2fL/article/b30HSf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/iQYJDK/article/b30HSf",
         Error: 0
     }, {
         Day: 45,
@@ -13754,7 +13754,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Analkarzinom",
         Length: "685",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/11Y2fL/article/gS0F_2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/iQYJDK/article/gS0F_2",
         Error: 0
     }, {
         Day: 45,
@@ -13763,7 +13763,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Sinus pilonidalis",
         Length: "572",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/11Y2fL/article/Y30nSf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/iQYJDK/article/Y30nSf",
         Error: 0
     }, {
         Day: 45,
@@ -13772,7 +13772,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Hernien",
         Length: "1414",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/11Y2fL/article/030eSf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/iQYJDK/article/030eSf",
         Error: 0
     }, {
         Day: 45,
@@ -13781,7 +13781,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Leistenhernie",
         Length: "1290",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/11Y2fL/article/zh0rgf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/iQYJDK/article/zh0rgf",
         Error: 0
     }, {
         Day: 45,
@@ -13790,7 +13790,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Schenkelhernie",
         Length: "502",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/11Y2fL/article/Z30ZSf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/iQYJDK/article/Z30ZSf",
         Error: 0
     }, {
         Day: 46,
@@ -13799,7 +13799,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Allgemeine Frakturlehre",
         Length: "1111",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/W1YPfL/article/T3063f",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/QQYuDK/article/T3063f",
         Error: 0
     }, {
         Day: 46,
@@ -13808,7 +13808,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Konservative Verfahren in der Frakturversorgung",
         Length: "429",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/W1YPfL/article/Dl01_T",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/QQYuDK/article/Dl01_T",
         Error: 0
     }, {
         Day: 46,
@@ -13817,7 +13817,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Operative Verfahren der Unfallchirurgie/Orthopädie",
         Length: "1073",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/W1YPfL/article/vl0AAT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/QQYuDK/article/vl0AAT",
         Error: 0
     }, {
         Day: 46,
@@ -13826,7 +13826,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Frakturen im Kindesalter",
         Length: "582",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/W1YPfL/article/g30F3f",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/QQYuDK/article/g30F3f",
         Error: 0
     }, {
         Day: 46,
@@ -13835,7 +13835,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Kompartmentsyndrom",
         Length: "746",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/W1YPfL/article/330SRf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/QQYuDK/article/330SRf",
         Error: 0
     }, {
         Day: 46,
@@ -13844,7 +13844,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Claviculafraktur",
         Length: "467",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/W1YPfL/article/i30JRf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/QQYuDK/article/i30JRf",
         Error: 0
     }, {
         Day: 46,
@@ -13853,7 +13853,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Luxation des Akromioklavikulargelenks",
         Length: "638",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/W1YPfL/article/Q30uRf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/QQYuDK/article/Q30uRf",
         Error: 0
     }, {
         Day: 46,
@@ -13862,7 +13862,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Humerusfraktur",
         Length: "769",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/W1YPfL/article/j30_Rf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/QQYuDK/article/j30_Rf",
         Error: 0
     }, {
         Day: 46,
@@ -13871,7 +13871,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Distale Radiusfraktur",
         Length: "757",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/W1YPfL/article/O30Iif",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/QQYuDK/article/O30Iif",
         Error: 0
     }, {
         Day: 46,
@@ -13880,7 +13880,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Schaftfrakturen des Unterarmes",
         Length: "381",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/W1YPfL/article/yr0dPh",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/QQYuDK/article/yr0dPh",
         Error: 0
     }, {
         Day: 47,
@@ -13889,7 +13889,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Kahnbeinfraktur",
         Length: "573",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/d1YofL/article/l30vif",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/jQY_DK/article/l30vif",
         Error: 0
     }, {
         Day: 47,
@@ -13898,7 +13898,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Mittelhandfrakturen",
         Length: "469",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/d1YofL/article/Wl0PDT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/jQY_DK/article/Wl0PDT",
         Error: 0
     }, {
         Day: 47,
@@ -13907,7 +13907,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Wirbelsäulenverletzungen",
         Length: "1417",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/d1YofL/article/M30MQf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/jQY_DK/article/M30MQf",
         Error: 0
     }, {
         Day: 47,
@@ -13916,7 +13916,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Beckenringfrakturen",
         Length: "1172",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/d1YofL/article/n307Qf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/jQY_DK/article/n307Qf",
         Error: 0
     }, {
         Day: 47,
@@ -13925,7 +13925,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Proximale Femurfrakturen",
         Length: "1392",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/d1YofL/article/L30wQf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/jQY_DK/article/L30wQf",
         Error: 0
     }, {
         Day: 47,
@@ -13934,7 +13934,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Femurschaft- und distale Femurfrakturen",
         Length: "595",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/d1YofL/article/o300jf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/jQY_DK/article/o300jf",
         Error: 0
     }, {
         Day: 47,
@@ -13943,7 +13943,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Frakturen des Unterschenkels",
         Length: "519",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/d1YofL/article/K30Ujf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/jQY_DK/article/K30Ujf",
         Error: 0
     }, {
         Day: 47,
@@ -13952,7 +13952,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Sprunggelenksfraktur",
         Length: "693",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/d1YofL/article/630jjf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/jQY_DK/article/630jjf",
         Error: 0
     }, {
         Day: 48,
@@ -13961,7 +13961,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Orthopädische Untersuchungszeichen",
         Length: "952",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/V1YGfL/article/zl0rzT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/PQYWwK/article/zl0rzT",
         Error: 0
     }, {
         Day: 48,
@@ -13970,7 +13970,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Arthrose",
         Length: "1063",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/V1YGfL/article/bT0H62",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/PQYWwK/article/bT0H62",
         Error: 0
     }, {
         Day: 48,
@@ -13979,7 +13979,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Osteomalazie und Rachitis",
         Length: "610",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/V1YGfL/article/XT0962",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/PQYWwK/article/XT0962",
         Error: 0
     }, {
         Day: 48,
@@ -13988,7 +13988,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Osteodystrophia deformans",
         Length: "507",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/V1YGfL/article/FQ0gBf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/PQYWwK/article/FQ0gBf",
         Error: 0
     }, {
         Day: 48,
@@ -13997,7 +13997,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Osteoporose",
         Length: "1747",
         Imppact: 2,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/V1YGfL/article/cT0ap2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/PQYWwK/article/cT0ap2",
         Error: 0
     }, {
         Day: 48,
@@ -14006,7 +14006,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Laborkonstellation Knochenerkrankungen",
         Length: "153",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/V1YGfL/article/eQ0xEf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/PQYWwK/article/eQ0xEf",
         Error: 0
     }, {
         Day: 48,
@@ -14015,7 +14015,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Seronegative Spondylarthritis",
         Length: "263",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/V1YGfL/article/J30sjf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/PQYWwK/article/J30sjf",
         Error: 0
     }, {
         Day: 48,
@@ -14024,7 +14024,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Osteomyelitis",
         Length: "851",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/V1YGfL/article/th0Xff",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/PQYWwK/article/th0Xff",
         Error: 0
     }, {
         Day: 48,
@@ -14033,7 +14033,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Spondylodiszitis",
         Length: "676",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/V1YGfL/article/k-0mxi",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/PQYWwK/article/k-0mxi",
         Error: 0
     }, {
         Day: 48,
@@ -14042,7 +14042,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Bakterielle Arthritis",
         Length: "608",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/V1YGfL/article/0M0eMg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/PQYWwK/article/0M0eMg",
         Error: 0
     }, {
         Day: 49,
@@ -14051,7 +14051,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Benigne Knochentumoren",
         Length: "1448",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/e1YxfL/article/7Q04xf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/4QY3wK/article/7Q04xf",
         Error: 0
     }, {
         Day: 49,
@@ -14060,7 +14060,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Maligne Knochentumoren",
         Length: "1395",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/e1YxfL/article/HQ0Kxf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/4QY3wK/article/HQ0Kxf",
         Error: 0
     }, {
         Day: 49,
@@ -14069,7 +14069,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Wirbelgleiten",
         Length: "774",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/e1YxfL/article/PQ0Wwf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/4QY3wK/article/PQ0Wwf",
         Error: 0
     }, {
         Day: 49,
@@ -14078,7 +14078,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Bandscheibenprolaps",
         Length: "2413",
         Imppact: 3,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/e1YxfL/article/ji0_rf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/4QY3wK/article/ji0_rf",
         Error: 0
     }, {
         Day: 49,
@@ -14087,7 +14087,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Adoleszente idiopathische Skoliose",
         Length: "919",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/e1YxfL/article/4Q03wf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/4QY3wK/article/4Q03wf",
         Error: 0
     }, {
         Day: 49,
@@ -14096,7 +14096,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Rückenschmerz",
         Length: "1311",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/e1YxfL/article/nL07yg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/4QY3wK/article/nL07yg",
         Error: 0
     }, {
         Day: 50,
@@ -14105,7 +14105,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Morbus Dupuytren",
         Length: "416",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/U1YbTL/article/hQ0cDf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/kQYmwK/article/hQ0cDf",
         Error: 0
     }, {
         Day: 50,
@@ -14114,7 +14114,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Tendovaginitis",
         Length: "479",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/U1YbTL/article/3Q0SDf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/kQYmwK/article/3Q0SDf",
         Error: 0
     }, {
         Day: 50,
@@ -14123,7 +14123,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Tendinopathie",
         Length: "526",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/U1YbTL/article/vQ0ABf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/kQYmwK/article/vQ0ABf",
         Error: 0
     }, {
         Day: 50,
@@ -14132,7 +14132,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Komplexes regionales Schmerzsyndrom",
         Length: "770",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/U1YbTL/article/R30lRf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/kQYmwK/article/R30lRf",
         Error: 0
     }, {
         Day: 50,
@@ -14141,7 +14141,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Thoracic-Outlet-Syndrom",
         Length: "510",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/U1YbTL/article/QQ0uDf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/kQYmwK/article/QQ0uDf",
         Error: 0
     }, {
         Day: 50,
@@ -14150,7 +14150,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Weichteilläsionen der Schulter",
         Length: "1792",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/U1YbTL/article/UQ0bvf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/kQYmwK/article/UQ0bvf",
         Error: 0
     }, {
         Day: 50,
@@ -14159,7 +14159,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Schultergelenkluxation",
         Length: "1074",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/U1YbTL/article/P30Wif",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/kQYmwK/article/P30Wif",
         Error: 0
     }, {
         Day: 50,
@@ -14168,7 +14168,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Bizepssehnenruptur",
         Length: "578",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/U1YbTL/article/gQ0Fvf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/kQYmwK/article/gQ0Fvf",
         Error: 0
     }, {
         Day: 50,
@@ -14177,7 +14177,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Luxationen des Ellenbogengelenks",
         Length: "501",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/U1YbTL/article/0l0evT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/kQYmwK/article/0l0evT",
         Error: 0
     }, {
         Day: 50,
@@ -14186,7 +14186,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Radiuskopf-Subluxation",
         Length: "412",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/U1YbTL/article/4303if",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/kQYmwK/article/4303if",
         Error: 0
     }, {
         Day: 50,
@@ -14195,7 +14195,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Karpaltunnelsyndrom",
         Length: "743",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/U1YbTL/article/sR0tof",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/kQYmwK/article/sR0tof",
         Error: 0
     }, {
         Day: 50,
@@ -14204,7 +14204,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Sehnenverletzung der Hand",
         Length: "876",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/U1YbTL/article/N30-if",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/kQYmwK/article/N30-if",
         Error: 0
     }, {
         Day: 50,
@@ -14213,7 +14213,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Sammelsurium der Unfallchirurgie und Orthopädie",
         Length: "836",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/U1YbTL/article/i50JPg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/kQYmwK/article/i50JPg",
         Error: 0
     }, {
         Day: 51,
@@ -14222,7 +14222,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Osteochondrosis dissecans",
         Length: "395",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/21YTTL/article/JQ0sCf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/OQYIwK/article/JQ0sCf",
         Error: 0
     }, {
         Day: 51,
@@ -14231,7 +14231,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Osteonekrosen",
         Length: "926",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/21YTTL/article/rQ0fxf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/OQYIwK/article/rQ0fxf",
         Error: 0
     }, {
         Day: 51,
@@ -14240,7 +14240,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Aseptische Femurkopfnekrose im Erwachsenenalter",
         Length: "439",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/21YTTL/article/5Q0i9f",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/OQYIwK/article/5Q0i9f",
         Error: 0
     }, {
         Day: 51,
@@ -14249,7 +14249,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Fehlstellungen der unteren Extremität",
         Length: "993",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/21YTTL/article/lQ0vwf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/OQYIwK/article/lQ0vwf",
         Error: 0
     }, {
         Day: 51,
@@ -14258,7 +14258,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Koxarthrose",
         Length: "887",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/21YTTL/article/LQ0w9f",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/OQYIwK/article/LQ0w9f",
         Error: 0
     }, {
         Day: 51,
@@ -14267,7 +14267,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Gonarthrose",
         Length: "690",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/21YTTL/article/jba_tQ",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/OQYIwK/article/jba_tQ",
         Error: 0
     }, {
         Day: 51,
@@ -14276,7 +14276,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Sportverletzungen",
         Length: "1085",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/21YTTL/article/AM0Rrg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/OQYIwK/article/AM0Rrg",
         Error: 0
     }, {
         Day: 51,
@@ -14285,7 +14285,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Meniskusruptur",
         Length: "801",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/21YTTL/article/oQ00Cf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/OQYIwK/article/oQ00Cf",
         Error: 0
     }, {
         Day: 51,
@@ -14294,7 +14294,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Patellaluxation",
         Length: "625",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/21YTTL/article/KQ0UCf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/OQYIwK/article/KQ0UCf",
         Error: 0
     }, {
         Day: 51,
@@ -14303,7 +14303,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Bandverletzungen des Knies",
         Length: "1140",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/21YTTL/article/pQ0LCf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/OQYIwK/article/pQ0LCf",
         Error: 0
     }, {
         Day: 51,
@@ -14312,7 +14312,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Achillessehnenruptur",
         Length: "723",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/21YTTL/article/p30Ljf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/OQYIwK/article/p30Ljf",
         Error: 0
     }, {
         Day: 51,
@@ -14321,7 +14321,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Fußdeformitäten",
         Length: "1626",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/21YTTL/article/qQ0CCf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/OQYIwK/article/qQ0CCf",
         Error: 0
     }, {
         Day: 51,
@@ -14330,7 +14330,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Zehendeformitäten",
         Length: "540",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/21YTTL/article/IQ0Yxf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/OQYIwK/article/IQ0Yxf",
         Error: 0
     }, {
         Day: 52,
@@ -14339,7 +14339,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Diagnostik in der Gynäkologie",
         Length: "3049",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/f1YkTL/article/SN0y0g",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/lQYvwK/article/SN0y0g",
         Error: 0
     }, {
         Day: 52,
@@ -14348,7 +14348,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Fehlbildungen der weiblichen Geschlechtsorgane",
         Length: "884",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/f1YkTL/article/vk0ApT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/lQYvwK/article/vk0ApT",
         Error: 0
     }, {
         Day: 52,
@@ -14357,7 +14357,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Androgenresistenz",
         Length: "528",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/f1YkTL/article/9k0NJT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/lQYvwK/article/9k0NJT",
         Error: 0
     }, {
         Day: 52,
@@ -14366,7 +14366,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Östrogenwirkung und assoziierte Erkrankungen",
         Length: "572",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/f1YkTL/article/uk0ppT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/lQYvwK/article/uk0ppT",
         Error: 0
     }, {
         Day: 52,
@@ -14375,7 +14375,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Menstruationszyklus und Zyklusanomalien",
         Length: "1458",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/f1YkTL/article/Ek08pT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/lQYvwK/article/Ek08pT",
         Error: 0
     }, {
         Day: 52,
@@ -14384,7 +14384,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Endometriose",
         Length: "1270",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/f1YkTL/article/-k0DqT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/lQYvwK/article/-k0DqT",
         Error: 0
     }, {
         Day: 52,
@@ -14393,7 +14393,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Polyzystisches Ovarialsyndrom",
         Length: "681",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/f1YkTL/article/AO0RET",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/lQYvwK/article/AO0RET",
         Error: 0
     }, {
         Day: 52,
@@ -14402,7 +14402,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Klimakterium",
         Length: "867",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/f1YkTL/article/BO0zuT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/lQYvwK/article/BO0zuT",
         Error: 0
     }, {
         Day: 52,
@@ -14411,7 +14411,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Entzündungen des weiblichen Genitaltrakts",
         Length: "1659",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/f1YkTL/article/xk0EJT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/lQYvwK/article/xk0EJT",
         Error: 0
     }, {
         Day: 52,
@@ -14420,7 +14420,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Entzündliche und benigne Veränderungen der Mamma",
         Length: "925",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/f1YkTL/article/Ak0RqT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/lQYvwK/article/Ak0RqT",
         Error: 0
     }, {
         Day: 53,
@@ -14429,7 +14429,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Mammakarzinom",
         Length: "4793",
         Imppact: 4,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/T1Y6TL/article/_k05qT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/NQY-wK/article/_k05qT",
         Error: 0
     }, {
         Day: 53,
@@ -14438,7 +14438,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Uterusmyom",
         Length: "1513",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/T1Y6TL/article/zk0rqT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/NQY-wK/article/zk0rqT",
         Error: 0
     }, {
         Day: 53,
@@ -14447,7 +14447,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Benigne Ovarialtumoren",
         Length: "449",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/T1Y6TL/article/-H0DGh",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/NQY-wK/article/-H0DGh",
         Error: 0
     }, {
         Day: 53,
@@ -14456,7 +14456,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Maligne Ovarialtumoren",
         Length: "2736",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/T1Y6TL/article/aO0QIT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/NQY-wK/article/aO0QIT",
         Error: 0
     }, {
         Day: 54,
@@ -14465,7 +14465,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Infektion mit humanen Papillomaviren",
         Length: "1511",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/g1YFTL/article/zO0rET",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/mQYV9K/article/zO0rET",
         Error: 0
     }, {
         Day: 54,
@@ -14474,7 +14474,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Zervixkarzinom",
         Length: "2587",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/g1YFTL/article/ZO0ZIT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/mQYV9K/article/ZO0ZIT",
         Error: 0
     }, {
         Day: 54,
@@ -14483,7 +14483,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Endometriumkarzinom",
         Length: "1564",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/g1YFTL/article/0O0eIT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/mQYV9K/article/0O0eIT",
         Error: 0
     }, {
         Day: 54,
@@ -14492,7 +14492,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Vulvakarzinom",
         Length: "1098",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/g1YFTL/article/bO0HIT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/mQYV9K/article/bO0HIT",
         Error: 0
     }, {
         Day: 55,
@@ -14501,7 +14501,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Schwangerschaftsabbruch",
         Length: "1243",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/S1YyTL/article/Dk01JT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/5QYi9K/article/Dk01JT",
         Error: 0
     }, {
         Day: 55,
@@ -14510,7 +14510,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Sterilität, Infertilität und Impotenz",
         Length: "1860",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/S1YyTL/article/RM0log",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/5QYi9K/article/RM0log",
         Error: 0
     }, {
         Day: 55,
@@ -14519,7 +14519,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Nicht-hormonelle Kontrazeption",
         Length: "870",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/S1YyTL/article/Ck0qJT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/5QYi9K/article/Ck0qJT",
         Error: 0
     }, {
         Day: 55,
@@ -14528,7 +14528,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Schwangerschaft",
         Length: "1890",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/S1YyTL/article/dO0orT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/5QYi9K/article/dO0orT",
         Error: 0
     }, {
         Day: 55,
@@ -14537,7 +14537,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Vorsorgeuntersuchungen in der Schwangerschaft",
         Length: "1380",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/S1YyTL/article/RN0lag",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/5QYi9K/article/RN0lag",
         Error: 0
     }, {
         Day: 55,
@@ -14546,7 +14546,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Pränataldiagnostik",
         Length: "677",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/S1YyTL/article/--0D-i",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/5QYi9K/article/--0D-i",
         Error: 0
     }, {
         Day: 55,
@@ -14555,7 +14555,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Kardiotokografie (CTG)",
         Length: "896",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/S1YyTL/article/uG0pa3",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/5QYi9K/article/uG0pa3",
         Error: 0
     }, {
         Day: 55,
@@ -14564,7 +14564,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Mehrlingsschwangerschaft",
         Length: "670",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/S1YyTL/article/Yl0nvT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/5QYi9K/article/Yl0nvT",
         Error: 0
     }, {
         Day: 55,
@@ -14573,7 +14573,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Extrauteringravidität",
         Length: "863",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/S1YyTL/article/fO0k7T",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/5QYi9K/article/fO0k7T",
         Error: 0
     }, {
         Day: 55,
@@ -14582,7 +14582,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Fruchtwasseranomalien",
         Length: "710",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/S1YyTL/article/PJ0W8S",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/5QYi9K/article/PJ0W8S",
         Error: 0
     }, {
         Day: 56,
@@ -14591,7 +14591,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Hypertensive Schwangerschaftserkrankungen",
         Length: "1561",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/h1YcgL/article/VO0GrT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/MQYM9K/article/VO0GrT",
         Error: 0
     }, {
         Day: 56,
@@ -14600,7 +14600,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "HELLP-Syndrom",
         Length: "582",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/h1YcgL/article/sG0t03",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/MQYM9K/article/sG0t03",
         Error: 0
     }, {
         Day: 56,
@@ -14609,7 +14609,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Blutungen während der Schwangerschaft",
         Length: "708",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/h1YcgL/article/mM0V6g",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/MQYM9K/article/mM0V6g",
         Error: 0
     }, {
         Day: 56,
@@ -14618,7 +14618,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Intra- und postpartale Blutungen",
         Length: "1249",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/h1YcgL/article/SG0yAh",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/MQYM9K/article/SG0yAh",
         Error: 0
     }, {
         Day: 56,
@@ -14627,7 +14627,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Fetale Wachstumsrestriktion",
         Length: "516",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/h1YcgL/article/al0QvT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/MQYM9K/article/al0QvT",
         Error: 0
     }, {
         Day: 56,
@@ -14636,7 +14636,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Vorzeitige Plazentalösung",
         Length: "819",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/h1YcgL/article/UO0b7T",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/MQYM9K/article/UO0b7T",
         Error: 0
     }, {
         Day: 56,
@@ -14645,7 +14645,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Placenta praevia",
         Length: "667",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/h1YcgL/article/oI00dh",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/MQYM9K/article/oI00dh",
         Error: 0
     }, {
         Day: 56,
@@ -14654,7 +14654,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Nabelschnurkomplikationen",
         Length: "586",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/h1YcgL/article/jJ0_FS",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/MQYM9K/article/jJ0_FS",
         Error: 0
     }, {
         Day: 56,
@@ -14663,7 +14663,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Trophoblasttumoren",
         Length: "631",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/h1YcgL/article/2O0T7T",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/MQYM9K/article/2O0T7T",
         Error: 0
     }, {
         Day: 56,
@@ -14672,7 +14672,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Geburtsablauf",
         Length: "955",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/h1YcgL/article/3O0SHT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/MQYM9K/article/3O0SHT",
         Error: 0
     }, {
         Day: 56,
@@ -14681,7 +14681,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Geburtsmechanik",
         Length: "1873",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/h1YcgL/article/Xl09vT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/MQYM9K/article/Xl09vT",
         Error: 0
     }, {
         Day: 56,
@@ -14690,7 +14690,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Geburtseinleitung",
         Length: "517",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/h1YcgL/article/0t0eX3",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/MQYM9K/article/0t0eX3",
         Error: 0
     }, {
         Day: 56,
@@ -14699,7 +14699,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Operative Geburtshilfe",
         Length: "735",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/h1YcgL/article/zG0rb3",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/MQYM9K/article/zG0rb3",
         Error: 0
     }, {
         Day: 56,
@@ -14708,7 +14708,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Drohende Frühgeburt",
         Length: "1071",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/h1YcgL/article/gO0F7T",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/MQYM9K/article/gO0F7T",
         Error: 0
     }, {
         Day: 56,
@@ -14717,7 +14717,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Abort und intrauteriner Fruchttod",
         Length: "949",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/h1YcgL/article/MD0MUR",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/MQYM9K/article/MD0MUR",
         Error: 0
     }, {
         Day: 56,
@@ -14726,7 +14726,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Uterusruptur",
         Length: "639",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/h1YcgL/article/RO0lHT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/MQYM9K/article/RO0lHT",
         Error: 0
     }, {
         Day: 56,
@@ -14735,7 +14735,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Wochenbett",
         Length: "1410",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/h1YcgL/article/iO0JHT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/MQYM9K/article/iO0JHT",
         Error: 0
     }, {
         Day: 57,
@@ -14744,7 +14744,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Apparative Diagnostik in der Urologie",
         Length: "688",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/31YSgL/article/c50aQg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/c50aQg",
         Error: 0
     }, {
         Day: 57,
@@ -14753,7 +14753,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Kongenitale Anomalien der Nieren und ableitenden Harnwege",
         Length: "796",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/31YSgL/article/Oi0I7f",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/Oi0I7f",
         Error: 0
     }, {
         Day: 57,
@@ -14762,7 +14762,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Polyzystische Nierenerkrankung",
         Length: "1253",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/31YSgL/article/li0v7f",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/li0v7f",
         Error: 0
     }, {
         Day: 57,
@@ -14771,7 +14771,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Blasenekstrophie, Fehlanlagen der männlichen Harnröhre und Palmure",
         Length: "489",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/31YSgL/article/Mi0MHf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/Mi0MHf",
         Error: 0
     }, {
         Day: 57,
@@ -14780,7 +14780,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Balanitis und Balanoposthitis",
         Length: "398",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/31YSgL/article/oi00sf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/oi00sf",
         Error: 0
     }, {
         Day: 57,
@@ -14789,7 +14789,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Phimose",
         Length: "480",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/31YSgL/article/_J059S",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/_J059S",
         Error: 0
     }, {
         Day: 57,
@@ -14798,7 +14798,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Hodenhochstand",
         Length: "579",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/31YSgL/article/ni07Hf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/ni07Hf",
         Error: 0
     }, {
         Day: 57,
@@ -14807,7 +14807,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Harninkontinenz",
         Length: "546",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/31YSgL/article/ZQ0Zuf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/ZQ0Zuf",
         Error: 0
     }, {
         Day: 57,
@@ -14816,7 +14816,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Belastungsinkontinenz",
         Length: "439",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/31YSgL/article/Ai0R8f",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/Ai0R8f",
         Error: 0
     }, {
         Day: 57,
@@ -14825,7 +14825,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Dranginkontinenz",
         Length: "635",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/31YSgL/article/yi0d8f",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/yi0d8f",
         Error: 0
     }, {
         Day: 57,
@@ -14834,7 +14834,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Harnverhalt",
         Length: "695",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/31YSgL/article/Ci0qFf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/Ci0qFf",
         Error: 0
     }, {
         Day: 57,
@@ -14843,7 +14843,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Harnabflussstörungen",
         Length: "1040",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/31YSgL/article/Ni0-7f",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/Ni0-7f",
         Error: 0
     }, {
         Day: 57,
@@ -14852,7 +14852,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Vesikoureteraler Reflux",
         Length: "811",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/31YSgL/article/-i0D8f",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/-i0D8f",
         Error: 0
     }, {
         Day: 57,
@@ -14861,7 +14861,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Morbus Ormond",
         Length: "298",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/31YSgL/article/9h0NTf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/9h0NTf",
         Error: 0
     }, {
         Day: 57,
@@ -14870,7 +14870,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Urozystitis",
         Length: "970",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/31YSgL/article/7i04Gf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/7i04Gf",
         Error: 0
     }, {
         Day: 57,
@@ -14879,7 +14879,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Urethritis",
         Length: "285",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/31YSgL/article/ui0ptf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/ui0ptf",
         Error: 0
     }, {
         Day: 57,
@@ -14888,7 +14888,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Pyelonephritis",
         Length: "852",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/31YSgL/article/Hi0KGf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/Hi0KGf",
         Error: 0
     }, {
         Day: 57,
@@ -14897,7 +14897,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Perinephritischer Abszess",
         Length: "301",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/31YSgL/article/si0tGf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/si0tGf",
         Error: 0
     }, {
         Day: 57,
@@ -14906,7 +14906,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Prostatitis",
         Length: "547",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/31YSgL/article/ti0Xtf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/ti0Xtf",
         Error: 0
     }, {
         Day: 57,
@@ -14915,7 +14915,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Epididymitis und Orchitis",
         Length: "456",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/31YSgL/article/Fi0gtf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/Fi0gtf",
         Error: 0
     }, {
         Day: 57,
@@ -14924,7 +14924,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Hydrocele testis, Varikozele und Spermatozele",
         Length: "493",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/31YSgL/article/AJ0R9S",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/AJ0R9S",
         Error: 0
     }, {
         Day: 57,
@@ -14933,7 +14933,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Skrotalabszess",
         Length: "169",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/31YSgL/article/vi0Atf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/vi0Atf",
         Error: 0
     }, {
         Day: 58,
@@ -14942,7 +14942,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Nierenzellkarzinom",
         Length: "1173",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/R1YlgL/article/Ki0Usf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/LQYw9K/article/Ki0Usf",
         Error: 0
     }, {
         Day: 58,
@@ -14951,7 +14951,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Benignes Prostatasyndrom",
         Length: "1175",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/R1YlgL/article/pi0Lsf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/LQYw9K/article/AQ0RAf",
         Error: 0
     }, {
         Day: 58,
@@ -14960,7 +14960,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Prostatakarzinom",
         Length: "1007",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/R1YlgL/article/Ji0ssf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/LQYw9K/article/Ji0ssf",
         Error: 0
     }, {
         Day: 58,
@@ -14969,7 +14969,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Urothelkarzinom",
         Length: "1288",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/R1YlgL/article/6i0jsf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/LQYw9K/article/6i0jsf",
         Error: 0
     }, {
         Day: 58,
@@ -14978,7 +14978,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Maligne Hodentumoren",
         Length: "932",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/R1YlgL/article/Ii0YGf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/LQYw9K/article/Ii0YGf",
         Error: 0
     }, {
         Day: 58,
@@ -14987,7 +14987,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Peniskarzinom",
         Length: "712",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/R1YlgL/article/ri0fGf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/LQYw9K/article/ri0fGf",
         Error: 0
     }, {
         Day: 58,
@@ -14996,7 +14996,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Urolithiasis",
         Length: "1524",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/R1YlgL/article/qg0Cw2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/LQYw9K/article/qg0Cw2",
         Error: 0
     }, {
         Day: 58,
@@ -15005,7 +15005,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Traumatische Verletzungen der Niere und der ableitenden Harnwege",
         Length: "447",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/R1YlgL/article/9i0NFf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/LQYw9K/article/9i0NFf",
         Error: 0
     }, {
         Day: 58,
@@ -15014,7 +15014,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Hodentorsion",
         Length: "629",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/R1YlgL/article/Li0wHf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/LQYw9K/article/Li0wHf",
         Error: 0
     }, {
         Day: 58,
@@ -15023,7 +15023,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Priapismus",
         Length: "446",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/R1YlgL/article/xi0EFf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/LQYw9K/article/xi0EFf",
         Error: 0
     }, {
         Day: 58,
@@ -15032,7 +15032,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Penisruptur",
         Length: "261",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/R1YlgL/article/Bi0zFf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/LQYw9K/article/Bi0zFf",
         Error: 0
     }, {
         Day: 58,
@@ -15041,7 +15041,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Sexuelle Funktionsstörungen",
         Length: "695",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/R1YlgL/article/uM0pqg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/LQYw9K/article/uM0pqg",
         Error: 0
     }, {
         Day: 58,
@@ -15050,7 +15050,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Spermiogramm",
         Length: "382",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/R1YlgL/article/_i058f",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/LQYw9K/article/_i058f",
         Error: 0
     }, {
         Day: 59,
@@ -15059,7 +15059,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Audiometrische Verfahren in der HNO",
         Length: "2082",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/i1YJgL/article/NN0-Yg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/oQY0CK/article/NN0-Yg",
         Error: 0
     }, {
         Day: 59,
@@ -15068,7 +15068,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Othämatom und Otserom",
         Length: "207",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/i1YJgL/article/qj0CYT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/oQY0CK/article/qj0CYT",
         Error: 0
     }, {
         Day: 59,
@@ -15077,7 +15077,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Otitis externa",
         Length: "519",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/i1YJgL/article/mj0VaT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/oQY0CK/article/mj0VaT",
         Error: 0
     }, {
         Day: 59,
@@ -15086,7 +15086,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Akute Otitis media",
         Length: "516",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/i1YJgL/article/Mj0MaT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/oQY0CK/article/Mj0MaT",
         Error: 0
     }, {
         Day: 59,
@@ -15095,7 +15095,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Mastoiditis und Labyrinthitis",
         Length: "761",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/i1YJgL/article/zJ0r9S",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/oQY0CK/article/zJ0r9S",
         Error: 0
     }, {
         Day: 59,
@@ -15104,7 +15104,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Tubenfunktionsstörungen",
         Length: "775",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/i1YJgL/article/5j0iaT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/oQY0CK/article/5j0iaT",
         Error: 0
     }, {
         Day: 59,
@@ -15113,7 +15113,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Otosklerose",
         Length: "356",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/i1YJgL/article/Kj0UYT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/oQY0CK/article/Kj0UYT",
         Error: 0
     }, {
         Day: 59,
@@ -15122,7 +15122,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Chronische Otitis media",
         Length: "1044",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/i1YJgL/article/Lj0waT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/oQY0CK/article/Lj0waT",
         Error: 0
     }, {
         Day: 59,
@@ -15131,7 +15131,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Glomustumor",
         Length: "301",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/i1YJgL/article/oj00YT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/oQY0CK/article/oj00YT",
         Error: 0
     }, {
         Day: 59,
@@ -15140,7 +15140,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Hörsturz",
         Length: "591",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/i1YJgL/article/6j0jYT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/oQY0CK/article/6j0jYT",
         Error: 0
     }, {
         Day: 59,
@@ -15149,7 +15149,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Akustisches Trauma",
         Length: "706",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/i1YJgL/article/Jj0sYT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/oQY0CK/article/Jj0sYT",
         Error: 0
     }, {
         Day: 59,
@@ -15158,7 +15158,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Tinnitus",
         Length: "751",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/i1YJgL/article/wn0hvg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/oQY0CK/article/wn0hvg",
         Error: 0
     }, {
         Day: 59,
@@ -15167,7 +15167,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Benigner paroxysmaler Lagerungsschwindel",
         Length: "739",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/i1YJgL/article/Ti06If",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/oQY0CK/article/Ti06If",
         Error: 0
     }, {
         Day: 59,
@@ -15176,7 +15176,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Morbus Menière",
         Length: "776",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/i1YJgL/article/gi0FIf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/oQY0CK/article/gi0FIf",
         Error: 0
     }, {
         Day: 59,
@@ -15185,7 +15185,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Neuropathia vestibularis",
         Length: "672",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/i1YJgL/article/Si0yIf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/oQY0CK/article/Si0yIf",
         Error: 0
     }, {
         Day: 59,
@@ -15194,7 +15194,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Epistaxis",
         Length: "529",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/i1YJgL/article/Hj0KbT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/oQY0CK/article/Hj0KbT",
         Error: 0
     }, {
         Day: 59,
@@ -15203,7 +15203,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Tumoren der Nasenhaupthöhle und Nasennebenhöhlen",
         Length: "555",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/i1YJgL/article/d50oQg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/oQY0CK/article/d50oQg",
         Error: 0
     }, {
         Day: 59,
@@ -15212,7 +15212,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Sinusitis",
         Length: "1314",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/i1YJgL/article/sj0tbT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/oQY0CK/article/sj0tbT",
         Error: 0
     }, {
         Day: 59,
@@ -15221,7 +15221,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Allergische Rhinitis",
         Length: "430",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/i1YJgL/article/K-0Uyi",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/oQY0CK/article/K-0Uyi",
         Error: 0
     }, {
         Day: 59,
@@ -15230,7 +15230,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Gesichts- und Felsenbeinfrakturen",
         Length: "1128",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/i1YJgL/article/8j0OXT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/oQY0CK/article/8j0OXT",
         Error: 0
     }, {
         Day: 60,
@@ -15239,7 +15239,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Adenoide Vegetationen",
         Length: "451",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/Q1YugL/article/Dj01cT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/KQYUCK/article/Dj01cT",
         Error: 0
     }, {
         Day: 60,
@@ -15248,7 +15248,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Juveniles Angiofibrom",
         Length: "315",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/Q1YugL/article/xj0EcT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/KQYUCK/article/xj0EcT",
         Error: 0
     }, {
         Day: 60,
@@ -15257,7 +15257,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Zungenveränderungen",
         Length: "351",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/Q1YugL/article/9j0NcT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/KQYUCK/article/9j0NcT",
         Error: 0
     }, {
         Day: 60,
@@ -15266,7 +15266,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Akute bakterielle Tonsillopharyngitis",
         Length: "1361",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/Q1YugL/article/wj0hcT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/KQYUCK/article/wj0hcT",
         Error: 0
     }, {
         Day: 60,
@@ -15275,7 +15275,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Peritonsillar-, Parapharyngeal- und Retropharyngealabszess",
         Length: "659",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/Q1YugL/article/7M04Jg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/KQYUCK/article/7M04Jg",
         Error: 0
     }, {
         Day: 60,
@@ -15284,7 +15284,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Pharynxkarzinom",
         Length: "1247",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/Q1YugL/article/Cj0qcT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/KQYUCK/article/Cj0qcT",
         Error: 0
     }, {
         Day: 60,
@@ -15293,7 +15293,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Kehlkopflähmung",
         Length: "740",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/Q1YugL/article/_j051T",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/KQYUCK/article/_j051T",
         Error: 0
     }, {
         Day: 60,
@@ -15302,7 +15302,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Benigne Tumoren und Präkanzerosen des Larynx",
         Length: "763",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/Q1YugL/article/zj0r1T",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/KQYUCK/article/zj0r1T",
         Error: 0
     }, {
         Day: 60,
@@ -15311,7 +15311,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Larynxkarzinom",
         Length: "855",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/Q1YugL/article/ZP0ZWT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/KQYUCK/article/ZP0ZWT",
         Error: 0
     }, {
         Day: 60,
@@ -15320,7 +15320,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Halszyste und Halsfistel",
         Length: "570",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/Q1YugL/article/aP0QWT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/KQYUCK/article/aP0QWT",
         Error: 0
     }, {
         Day: 60,
@@ -15329,7 +15329,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Kopfspeicheldrüsenerkrankungen",
         Length: "1236",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/Q1YugL/article/bP0HWT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/KQYUCK/article/bP0HWT",
         Error: 0
     }, {
         Day: 60,
@@ -15338,7 +15338,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Sjögren-Syndrom",
         Length: "620",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/Q1YugL/article/XP09WT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/KQYUCK/article/XP09WT",
         Error: 0
     }, {
         Day: 60,
@@ -15347,7 +15347,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Sprach- und Sprechentwicklungsstörungen",
         Length: "599",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/Q1YugL/article/WP0PdT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/KQYUCK/article/WP0PdT",
         Error: 0
     }, {
         Day: 60,
@@ -15356,7 +15356,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Sammelsurium der HNO",
         Length: "829",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/Q1YugL/article/a50Qig",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/KQYUCK/article/a50Qig",
         Error: 0
     }, {
         Day: 61,
@@ -15365,7 +15365,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Untersuchungsmethoden in der Augenheilkunde",
         Length: "1107",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/j1Y_gL/article/aM0QMg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/6QYjCK/article/aM0QMg",
         Error: 0
     }, {
         Day: 61,
@@ -15374,7 +15374,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Störungen der Lidstellung",
         Length: "522",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/j1Y_gL/article/lO0vsT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/6QYjCK/article/lO0vsT",
         Error: 0
     }, {
         Day: 61,
@@ -15383,7 +15383,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Entzündungen der Augenlider",
         Length: "415",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/j1Y_gL/article/NO0-sT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/6QYjCK/article/NO0-sT",
         Error: 0
     }, {
         Day: 61,
@@ -15392,7 +15392,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Erkrankungen des Tränenapparats",
         Length: "501",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/j1Y_gL/article/5O0iGT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/6QYjCK/article/5O0iGT",
         Error: 0
     }, {
         Day: 61,
@@ -15401,7 +15401,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Infektiöse Konjunktivitis",
         Length: "515",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/j1Y_gL/article/MO0MGT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/6QYjCK/article/MO0MGT",
         Error: 0
     }, {
         Day: 61,
@@ -15410,7 +15410,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Nicht-infektiöse Konjunktivitis",
         Length: "513",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/j1Y_gL/article/gr0Fgh",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/6QYjCK/article/gr0Fgh",
         Error: 0
     }, {
         Day: 61,
@@ -15419,7 +15419,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Allergische Konjunktivitiden",
         Length: "509",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/j1Y_gL/article/Tr06gh",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/6QYjCK/article/Tr06gh",
         Error: 0
     }, {
         Day: 61,
@@ -15428,7 +15428,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Degenerationen, Dystrophien und Tumoren der Konjunktiven",
         Length: "719",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/j1Y_gL/article/nO07GT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/6QYjCK/article/nO07GT",
         Error: 0
     }, {
         Day: 61,
@@ -15437,7 +15437,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Erkrankungen der Hornhaut",
         Length: "816",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/j1Y_gL/article/9O0NuT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/6QYjCK/article/9O0NuT",
         Error: 0
     }, {
         Day: 61,
@@ -15446,7 +15446,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Keratitis",
         Length: "875",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/j1Y_gL/article/oO00tT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/6QYjCK/article/oO00tT",
         Error: 0
     }, {
         Day: 61,
@@ -15455,7 +15455,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Entzündungen der Sklera",
         Length: "316",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/j1Y_gL/article/KO0UtT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/6QYjCK/article/KO0UtT",
         Error: 0
     }, {
         Day: 61,
@@ -15464,7 +15464,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Erkrankungen der Linse",
         Length: "325",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/j1Y_gL/article/6O0jtT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/6QYjCK/article/6O0jtT",
         Error: 0
     }, {
         Day: 61,
@@ -15473,7 +15473,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Katarakt",
         Length: "999",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/j1Y_gL/article/pO0LtT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/6QYjCK/article/pO0LtT",
         Error: 0
     }, {
         Day: 61,
@@ -15482,7 +15482,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Erkrankungen der Uvea",
         Length: "1021",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/j1Y_gL/article/JO0stT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/6QYjCK/article/JO0stT",
         Error: 0
     }, {
         Day: 61,
@@ -15491,7 +15491,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Aderhautmelanom",
         Length: "428",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/j1Y_gL/article/NM0-Kg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/6QYjCK/article/NM0-Kg",
         Error: 0
     }, {
         Day: 62,
@@ -15500,7 +15500,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Pupillenstörungen",
         Length: "464",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/P1YWSL/article/qO0CtT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/pQYLCK/article/qO0CtT",
         Error: 0
     }, {
         Day: 62,
@@ -15509,7 +15509,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Störungen der optischen Wahrnehmung",
         Length: "603",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/P1YWSL/article/jM0_og",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/pQYLCK/article/jM0_og",
         Error: 0
     }, {
         Day: 62,
@@ -15518,7 +15518,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Erkrankungen des Glaskörpers",
         Length: "779",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/P1YWSL/article/rO0fFT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/pQYLCK/article/rO0fFT",
         Error: 0
     }, {
         Day: 62,
@@ -15527,7 +15527,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Endophthalmitis",
         Length: "315",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/P1YWSL/article/4M03Kg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/pQYLCK/article/4M03Kg",
         Error: 0
     }, {
         Day: 62,
@@ -15536,7 +15536,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Glaukom",
         Length: "1606",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/P1YWSL/article/IO0YFT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/pQYLCK/article/IO0YFT",
         Error: 0
     }, {
         Day: 62,
@@ -15545,7 +15545,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Erkrankungen der Netzhaut",
         Length: "1415",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/P1YWSL/article/sO0tFT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/pQYLCK/article/sO0tFT",
         Error: 0
     }, {
         Day: 62,
@@ -15554,7 +15554,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Retinale Gefäßverschlüsse",
         Length: "748",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/P1YWSL/article/HO0KFT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/pQYLCK/article/HO0KFT",
         Error: 0
     }, {
         Day: 62,
@@ -15563,7 +15563,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Netzhautablösung",
         Length: "559",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/P1YWSL/article/tO0X8T",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/pQYLCK/article/tO0X8T",
         Error: 0
     }, {
         Day: 62,
@@ -15572,7 +15572,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Altersbedingte Makuladegeneration",
         Length: "956",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/P1YWSL/article/GO0BFT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/pQYLCK/article/GO0BFT",
         Error: 0
     }, {
         Day: 62,
@@ -15581,7 +15581,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Störungen der Sehbahn",
         Length: "957",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/P1YWSL/article/FO0g8T",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/pQYLCK/article/FO0g8T",
         Error: 0
     }, {
         Day: 62,
@@ -15590,7 +15590,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Erkrankungen der Augenhöhle",
         Length: "635",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/P1YWSL/article/G50Blg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/pQYLCK/article/G50Blg",
         Error: 0
     }, {
         Day: 62,
@@ -15599,7 +15599,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Horner-Syndrom",
         Length: "327",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/P1YWSL/article/Ui0bIf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/pQYLCK/article/Ui0bIf",
         Error: 0
     }, {
         Day: 62,
@@ -15608,7 +15608,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Störungen der Optik",
         Length: "1082",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/P1YWSL/article/8O0O8T",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/pQYLCK/article/8O0O8T",
         Error: 0
     }, {
         Day: 62,
@@ -15617,7 +15617,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Störungen der Bulbusmotilität und Strabismus",
         Length: "706",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/P1YWSL/article/uO0p8T",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/pQYLCK/article/uO0p8T",
         Error: 0
     }, {
         Day: 62,
@@ -15626,7 +15626,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Traumatische Augenverletzungen",
         Length: "847",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/P1YWSL/article/EO088T",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/pQYLCK/article/EO088T",
         Error: 0
     }, {
         Day: 63,
@@ -15635,7 +15635,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Neurologische Untersuchung",
         Length: "8478",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/41Y3SL/article/o500Og",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/JQYsCK/article/o500Og",
         Error: 0
     }, {
         Day: 63,
@@ -15644,7 +15644,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Neurophysiologische Diagnostik",
         Length: "831",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/41Y3SL/article/Cn0qvg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/JQYsCK/article/Cn0qvg",
         Error: 0
     }, {
         Day: 63,
@@ -15653,7 +15653,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Liquorpunktion",
         Length: "1120",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/41Y3SL/article/-l0DzT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/JQYsCK/article/-l0DzT",
         Error: 0
     }, {
         Day: 63,
@@ -15662,7 +15662,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Tremor",
         Length: "461",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/41Y3SL/article/x30Ekf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/JQYsCK/article/x30Ekf",
         Error: 0
     }, {
         Day: 63,
@@ -15671,7 +15671,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Parkinson-Syndrom und Parkinson-Krankheit",
         Length: "2375",
         Imppact: 2,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/41Y3SL/article/C30qkf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/JQYsCK/article/C30qkf",
         Error: 0
     }, {
         Day: 63,
@@ -15680,7 +15680,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Atypische Parkinson-Syndrome",
         Length: "688",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/41Y3SL/article/B30zkf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/JQYsCK/article/B30zkf",
         Error: 0
     }, {
         Day: 63,
@@ -15689,7 +15689,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Huntington-Erkrankung",
         Length: "735",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/41Y3SL/article/y30dOf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/JQYsCK/article/y30dOf",
         Error: 0
     }, {
         Day: 63,
@@ -15698,7 +15698,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Restless-Legs-Syndrom",
         Length: "611",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/41Y3SL/article/z30rOf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/JQYsCK/article/z30rOf",
         Error: 0
     }, {
         Day: 63,
@@ -15707,7 +15707,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Grundlagen der Kleinhirnerkrankungen",
         Length: "501",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/41Y3SL/article/BR0z6f",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/JQYsCK/article/BR0z6f",
         Error: 0
     }, {
         Day: 64,
@@ -15716,7 +15716,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Epileptische Anfälle",
         Length: "1615",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/k1YmSL/article/RR0l5f",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/qQYCCK/article/RR0l5f",
         Error: 0
     }, {
         Day: 64,
@@ -15725,7 +15725,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Status epilepticus",
         Length: "599",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/k1YmSL/article/FG0ga3",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/qQYCCK/article/FG0ga3",
         Error: 0
     }, {
         Day: 64,
@@ -15734,7 +15734,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Epilepsien und Epilepsiesyndrome",
         Length: "1230",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/k1YmSL/article/jR0_5f",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/qQYCCK/article/jR0_5f",
         Error: 0
     }, {
         Day: 64,
@@ -15743,7 +15743,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Transiente globale Amnesie",
         Length: "321",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/k1YmSL/article/4R03Mf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/qQYCCK/article/4R03Mf",
         Error: 0
     }, {
         Day: 64,
@@ -15752,7 +15752,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Narkolepsie",
         Length: "897",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/k1YmSL/article/kR0mMf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/qQYCCK/article/kR0mMf",
         Error: 0
     }, {
         Day: 64,
@@ -15761,7 +15761,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Vigilanzminderung",
         Length: "1138",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/k1YmSL/article/eR0xNf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/qQYCCK/article/eR0xNf",
         Error: 0
     }, {
         Day: 64,
@@ -15770,7 +15770,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Schädel-Hirn-Trauma",
         Length: "819",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/k1YmSL/article/l70vNh",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/qQYCCK/article/l70vNh",
         Error: 0
     }, {
         Day: 64,
@@ -15779,7 +15779,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Intrakranielle Druckerhöhung",
         Length: "1412",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/k1YmSL/article/r70fMh",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/qQYCCK/article/r70fMh",
         Error: 0
     }, {
         Day: 64,
@@ -15788,7 +15788,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Irreversibler Hirnfunktionsausfall",
         Length: "702",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/k1YmSL/article/KI0Udh",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/qQYCCK/article/KI0Udh",
         Error: 0
     }, {
         Day: 64,
@@ -15797,7 +15797,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Epidurales Hämatom",
         Length: "559",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/k1YmSL/article/VR0GNf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/qQYCCK/article/VR0GNf",
         Error: 0
     }, {
         Day: 64,
@@ -15806,7 +15806,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Subdurales Hämatom",
         Length: "713",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/k1YmSL/article/dR0oNf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/qQYCCK/article/dR0oNf",
         Error: 0
     }, {
         Day: 64,
@@ -15815,7 +15815,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Subarachnoidalblutung",
         Length: "1653",
         Imppact: 2,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/k1YmSL/article/2R0Tmf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/qQYCCK/article/2R0Tmf",
         Error: 0
     }, {
         Day: 65,
@@ -15824,7 +15824,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Idiopathische intrakranielle Hypertension",
         Length: "501",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/O1YISL/article/u30p4f",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/IQYYxK/article/u30p4f",
         Error: 0
     }, {
         Day: 65,
@@ -15833,7 +15833,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Normaldruckhydrozephalus",
         Length: "552",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/O1YISL/article/E3084f",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/IQYYxK/article/E3084f",
         Error: 0
     }, {
         Day: 65,
@@ -15842,7 +15842,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Hirnnerven-Syndrome",
         Length: "1263",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/O1YISL/article/tR0XKf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/IQYYxK/article/tR0XKf",
         Error: 0
     }, {
         Day: 65,
@@ -15851,7 +15851,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Syndrome der Schädelbasis",
         Length: "751",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/O1YISL/article/P50W4g",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/IQYYxK/article/P50W4g",
         Error: 0
     }, {
         Day: 65,
@@ -15860,7 +15860,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Komplettes Querschnittsyndrom",
         Length: "402",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/O1YISL/article/Wi0Pqf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/IQYYxK/article/Wi0Pqf",
         Error: 0
     }, {
         Day: 65,
@@ -15869,7 +15869,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Inkomplette Querschnittsyndrome",
         Length: "509",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/O1YISL/article/NR0-Mf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/IQYYxK/article/NR0-Mf",
         Error: 0
     }, {
         Day: 65,
@@ -15878,7 +15878,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Arteria-spinalis-anterior-Syndrom",
         Length: "386",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/O1YISL/article/5R0inf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/IQYYxK/article/5R0inf",
         Error: 0
     }, {
         Day: 65,
@@ -15887,7 +15887,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Syndrom der reaktionslosen Wachheit",
         Length: "342",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/O1YISL/article/Yi0nJf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/IQYYxK/article/Yi0nJf",
         Error: 0
     }, {
         Day: 65,
@@ -15896,7 +15896,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Locked-in-Syndrom",
         Length: "169",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/O1YISL/article/bi0HJf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/IQYYxK/article/bi0HJf",
         Error: 0
     }, {
         Day: 66,
@@ -15905,7 +15905,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Tumoren des zentralen Nervensystems",
         Length: "1026",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/l1YvSL/article/H50Klg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/rQYfxK/article/H50Klg",
         Error: 0
     }, {
         Day: 66,
@@ -15914,7 +15914,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Gliome",
         Length: "870",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/l1YvSL/article/7504lg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/rQYfxK/article/7504lg",
         Error: 0
     }, {
         Day: 66,
@@ -15923,7 +15923,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Meningeom",
         Length: "541",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/l1YvSL/article/I30YPf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/rQYfxK/article/I30YPf",
         Error: 0
     }, {
         Day: 66,
@@ -15932,7 +15932,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Vestibularisschwannom und andere Neurinome",
         Length: "754",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/l1YvSL/article/H30KPf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/rQYfxK/article/H30KPf",
         Error: 0
     }, {
         Day: 66,
@@ -15941,7 +15941,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Meningeosis neoplastica",
         Length: "306",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/l1YvSL/article/XR09lf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/rQYfxK/article/XR09lf",
         Error: 0
     }, {
         Day: 66,
@@ -15950,7 +15950,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Meningitis",
         Length: "2466",
         Imppact: 4,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/l1YvSL/article/ZR0Zlf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/rQYfxK/article/ZR0Zlf",
         Error: 0
     }, {
         Day: 66,
@@ -15959,7 +15959,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "FSME-Virus-Infektion",
         Length: "552",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/l1YvSL/article/Sr0ygh",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/rQYfxK/article/Sr0ygh",
         Error: 0
     }, {
         Day: 66,
@@ -15968,7 +15968,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Hirnabszess",
         Length: "519",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/l1YvSL/article/1R02Nf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/rQYfxK/article/1R02Nf",
         Error: 0
     }, {
         Day: 66,
@@ -15977,7 +15977,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Herpes-simplex-Enzephalitis",
         Length: "989",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/l1YvSL/article/YR0nlf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/rQYfxK/article/YR0nlf",
         Error: 0
     }, {
         Day: 66,
@@ -15986,7 +15986,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Creutzfeldt-Jakob-Krankheit",
         Length: "503",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/l1YvSL/article/cR0aNf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/rQYfxK/article/cR0aNf",
         Error: 0
     }, {
         Day: 67,
@@ -15995,7 +15995,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Ischämischer Schlaganfall",
         Length: "3536",
         Imppact: 5,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/N1Y-SL/article/UR0bmf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/7QY4xK/article/UR0bmf",
         Error: 0
     }, {
         Day: 67,
@@ -16004,7 +16004,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Intrazerebrale Blutung",
         Length: "1212",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/N1Y-SL/article/fR0kmf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/7QY4xK/article/fR0kmf",
         Error: 0
     }, {
         Day: 67,
@@ -16013,7 +16013,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Zerebrale Sinus- und Venenthrombose",
         Length: "799",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/N1Y-SL/article/SR0ymf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/7QY4xK/article/SR0ymf",
         Error: 0
     }, {
         Day: 67,
@@ -16022,7 +16022,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Karotis- und Vertebralisdissektion",
         Length: "631",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/N1Y-SL/article/Pi0W7f",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/7QY4xK/article/Pi0W7f",
         Error: 0
     }, {
         Day: 67,
@@ -16031,7 +16031,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Carotis-Sinus-cavernosus-Fistel",
         Length: "285",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/N1Y-SL/article/2i0TIf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/7QY4xK/article/2i0TIf",
         Error: 0
     }, {
         Day: 67,
@@ -16040,7 +16040,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Fibromuskuläre Dysplasie",
         Length: "149",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/N1Y-SL/article/3R0S5f",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/7QY4xK/article/3R0S5f",
         Error: 0
     }, {
         Day: 67,
@@ -16049,7 +16049,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Kopfschmerzen",
         Length: "1318",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/N1Y-SL/article/YL0nwg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/7QY4xK/article/YL0nwg",
         Error: 0
     }, {
         Day: 67,
@@ -16058,7 +16058,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Migräne",
         Length: "1503",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/N1Y-SL/article/hi0crf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/7QY4xK/article/hi0crf",
         Error: 0
     }, {
         Day: 67,
@@ -16067,7 +16067,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Kopfschmerz vom Spannungstyp",
         Length: "437",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/N1Y-SL/article/3i0Srf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/7QY4xK/article/3i0Srf",
         Error: 0
     }, {
         Day: 67,
@@ -16076,7 +16076,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Cluster-Kopfschmerz",
         Length: "480",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/N1Y-SL/article/Ri0lrf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/7QY4xK/article/Ri0lrf",
         Error: 0
     }, {
         Day: 67,
@@ -16085,7 +16085,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Trigeminusneuralgie",
         Length: "617",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/N1Y-SL/article/ii0Jrf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/7QY4xK/article/ii0Jrf",
         Error: 0
     }, {
         Day: 67,
@@ -16094,7 +16094,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Kopfschmerz bei Medikamentenübergebrauch",
         Length: "347",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/N1Y-SL/article/dq0oxS",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/7QY4xK/article/dq0oxS",
         Error: 0
     }, {
         Day: 68,
@@ -16103,7 +16103,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Multiple Sklerose",
         Length: "2308",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/m1YVhL/article/WR0PNf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/HQYKxK/article/WR0PNf",
         Error: 0
     }, {
         Day: 68,
@@ -16112,7 +16112,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Neuromyelitis-optica-Spektrum-Erkrankungen",
         Length: "408",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/m1YVhL/article/OI0I1h",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/HQYKxK/article/OI0I1h",
         Error: 0
     }, {
         Day: 68,
@@ -16121,7 +16121,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Amyotrophe Lateralsklerose",
         Length: "1343",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/m1YVhL/article/LR0wnf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/HQYKxK/article/LR0wnf",
         Error: 0
     }, {
         Day: 68,
@@ -16130,7 +16130,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Spinale Muskelatrophien",
         Length: "498",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/m1YVhL/article/MR0Mnf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/HQYKxK/article/MR0Mnf",
         Error: 0
     }, {
         Day: 68,
@@ -16139,7 +16139,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Myasthenia gravis",
         Length: "1388",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/m1YVhL/article/DR016f",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/HQYKxK/article/DR016f",
         Error: 0
     }, {
         Day: 68,
@@ -16148,7 +16148,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Myotone Dystrophien und nicht-dystrophe Myotonien",
         Length: "1110",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/m1YVhL/article/uR0pKf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/HQYKxK/article/uR0pKf",
         Error: 0
     }, {
         Day: 68,
@@ -16157,7 +16157,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Progressive Muskeldystrophien",
         Length: "905",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/m1YVhL/article/8R0OKf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/HQYKxK/article/8R0OKf",
         Error: 0
     }, {
         Day: 68,
@@ -16166,7 +16166,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Stiff-Person-Syndrom",
         Length: "337",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/m1YVhL/article/wR0h6f",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/HQYKxK/article/wR0h6f",
         Error: 0
     }, {
         Day: 68,
@@ -16175,7 +16175,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Dystonie",
         Length: "399",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/m1YVhL/article/A30ROf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/HQYKxK/article/A30ROf",
         Error: 0
     }, {
         Day: 68,
@@ -16184,7 +16184,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Hereditäre spastische Paraplegie",
         Length: "212",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/m1YVhL/article/oR00Lf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/HQYKxK/article/oR00Lf",
         Error: 0
     }, {
         Day: 68,
@@ -16193,7 +16193,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Friedreich-Ataxie",
         Length: "511",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/m1YVhL/article/KR0ULf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/HQYKxK/article/KR0ULf",
         Error: 0
     }, {
         Day: 69,
@@ -16202,7 +16202,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Zervikale Myelopathie",
         Length: "365",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/51YihL/article/X509ig",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/sQYtxK/article/X509ig",
         Error: 0
     }, {
         Day: 69,
@@ -16211,7 +16211,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Degenerative Spinalkanalstenose",
         Length: "509",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/51YihL/article/JR0sLf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/sQYtxK/article/JR0sLf",
         Error: 0
     }, {
         Day: 69,
@@ -16220,7 +16220,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Periphere Nervenläsionen",
         Length: "1056",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/51YihL/article/Zi0ZJf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/sQYtxK/article/Zi0ZJf",
         Error: 0
     }, {
         Day: 69,
@@ -16229,7 +16229,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Nervus-radialis-Lähmung",
         Length: "504",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/51YihL/article/_R05pf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/sQYtxK/article/_R05pf",
         Error: 0
     }, {
         Day: 69,
@@ -16238,7 +16238,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Nervus-ulnaris-Lähmung",
         Length: "771",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/51YihL/article/AR0Rpf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/sQYtxK/article/AR0Rpf",
         Error: 0
     }, {
         Day: 69,
@@ -16247,7 +16247,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Nervus-medianus-Lähmung",
         Length: "619",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/51YihL/article/zR0rpf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/sQYtxK/article/zR0rpf",
         Error: 0
     }, {
         Day: 69,
@@ -16256,7 +16256,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Neuralgische Schulteramyotrophie",
         Length: "219",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/51YihL/article/0i0eJf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/sQYtxK/article/0i0eJf",
         Error: 0
     }, {
         Day: 69,
@@ -16265,7 +16265,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Periphere Fazialisparese",
         Length: "954",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/51YihL/article/FR0gKf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/sQYtxK/article/FR0gKf",
         Error: 0
     }, {
         Day: 69,
@@ -16274,7 +16274,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Polyneuropathie",
         Length: "2327",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/51YihL/article/qR0CLf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/sQYtxK/article/qR0CLf",
         Error: 0
     }, {
         Day: 69,
@@ -16283,7 +16283,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Guillain-Barré-Syndrom",
         Length: "1344",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/51YihL/article/7R04of",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/sQYtxK/article/7R04of",
         Error: 0
     }, {
         Day: 69,
@@ -16292,7 +16292,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Vitamin-B12-Mangel",
         Length: "1037",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/51YihL/article/6R0jLf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/sQYtxK/article/6R0jLf",
         Error: 0
     }, {
         Day: 70,
@@ -16301,7 +16301,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Psychopathologischer Befund",
         Length: "2061",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/M1YMhL/article/pM0Lpg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/GQYBxK/article/pM0Lpg",
         Error: 0
     }, {
         Day: 70,
@@ -16310,7 +16310,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Psychotherapeutische Verfahren (Klinik)",
         Length: "2238",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/M1YMhL/article/PN0WYg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/GQYBxK/article/PN0WYg",
         Error: 0
     }, {
         Day: 70,
@@ -16319,7 +16319,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Delir",
         Length: "1581",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/M1YMhL/article/6P0jfT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/GQYBxK/article/6P0jfT",
         Error: 0
     }, {
         Day: 70,
@@ -16328,7 +16328,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Demenzen",
         Length: "1598",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/M1YMhL/article/v30A4f",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/GQYBxK/article/v30A4f",
         Error: 0
     }, {
         Day: 70,
@@ -16337,7 +16337,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Alzheimer-Krankheit",
         Length: "701",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/M1YMhL/article/D301kf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/GQYBxK/article/D301kf",
         Error: 0
     }, {
         Day: 70,
@@ -16346,7 +16346,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Frontotemporale Demenz",
         Length: "535",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/M1YMhL/article/w30hkf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/GQYBxK/article/w30hkf",
         Error: 0
     }, {
         Day: 70,
@@ -16355,7 +16355,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Vaskuläre Demenz",
         Length: "463",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/M1YMhL/article/930Nkf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/GQYBxK/article/930Nkf",
         Error: 0
     }, {
         Day: 70,
@@ -16364,7 +16364,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Somatoforme Störungen",
         Length: "593",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/M1YMhL/article/MP0M2T",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/GQYBxK/article/MP0M2T",
         Error: 0
     }, {
         Day: 70,
@@ -16373,7 +16373,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Unipolare Depression",
         Length: "1584",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/M1YMhL/article/PP0WUT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/GQYBxK/article/PP0WUT",
         Error: 0
     }, {
         Day: 70,
@@ -16382,7 +16382,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Bipolare affektive Störung",
         Length: "1489",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/M1YMhL/article/4P03UT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/GQYBxK/article/4P03UT",
         Error: 0
     }, {
         Day: 70,
@@ -16391,7 +16391,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Neuromodulationsverfahren",
         Length: "428",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/M1YMhL/article/wM0hIg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/GQYBxK/article/wM0hIg",
         Error: 0
     }, {
         Day: 71,
@@ -16400,7 +16400,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Zwangsstörungen",
         Length: "751",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/n1Y7hL/article/OP0IUT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/tQYXBK/article/OP0IUT",
         Error: 0
     }, {
         Day: 71,
@@ -16409,7 +16409,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Reaktionen auf schwere Belastungen und Anpassungsstörungen",
         Length: "1359",
         Imppact: 2,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/n1Y7hL/article/lP0vUT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/tQYXBK/article/lP0vUT",
         Error: 0
     }, {
         Day: 71,
@@ -16418,7 +16418,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Dissoziative Störungen",
         Length: "654",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/n1Y7hL/article/NP0-UT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/tQYXBK/article/NP0-UT",
         Error: 0
     }, {
         Day: 71,
@@ -16427,7 +16427,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Opioide (Intoxikation und Abhängigkeit)",
         Length: "635",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/n1Y7hL/article/Ar0RPh",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/tQYXBK/article/Ar0RPh",
         Error: 0
     }, {
         Day: 71,
@@ -16436,7 +16436,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Cannabinoide",
         Length: "605",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/n1Y7hL/article/_r05Ph",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/tQYXBK/article/_r05Ph",
         Error: 0
     }, {
         Day: 71,
@@ -16445,7 +16445,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Sedativa (Intoxikation und Abhängigkeit)",
         Length: "531",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/n1Y7hL/article/zr0rPh",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/tQYXBK/article/zr0rPh",
         Error: 0
     }, {
         Day: 71,
@@ -16454,7 +16454,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Rauchen und Tabakkonsum",
         Length: "445",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/n1Y7hL/article/Z70Z4h",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/tQYXBK/article/Z70Z4h",
         Error: 0
     }, {
         Day: 71,
@@ -16463,7 +16463,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Psychostimulanzien",
         Length: "592",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/n1Y7hL/article/-r0DPh",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/tQYXBK/article/-r0DPh",
         Error: 0
     }, {
         Day: 71,
@@ -16472,7 +16472,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Alkoholbezogene Störungen",
         Length: "1975",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/n1Y7hL/article/KP0UfT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/tQYXBK/article/KP0UfT",
         Error: 0
     }, {
         Day: 71,
@@ -16481,7 +16481,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Wernicke-Enzephalopathie",
         Length: "678",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/n1Y7hL/article/9R0N6f",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/tQYXBK/article/9R0N6f",
         Error: 0
     }, {
         Day: 71,
@@ -16490,7 +16490,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Schizophrenie",
         Length: "2520",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/n1Y7hL/article/pP0LfT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/tQYXBK/article/pP0LfT",
         Error: 0
     }, {
         Day: 72,
@@ -16499,7 +16499,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Persönlichkeitsstörungen",
         Length: "743",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/L1YwhL/article/nP072T",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/FQYgBK/article/nP072T",
         Error: 0
     }, {
         Day: 72,
@@ -16508,7 +16508,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Borderline-Persönlichkeitsstörung",
         Length: "752",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/L1YwhL/article/LP0w2T",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/FQYgBK/article/LP0w2T",
         Error: 0
     }, {
         Day: 72,
@@ -16517,7 +16517,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Tiefgreifende Entwicklungsstörungen",
         Length: "1057",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/L1YwhL/article/IP0YTT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/FQYgBK/article/IP0YTT",
         Error: 0
     }, {
         Day: 72,
@@ -16526,7 +16526,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Tic-Störungen",
         Length: "595",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/L1YwhL/article/sP0tTT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/FQYgBK/article/sP0tTT",
         Error: 0
     }, {
         Day: 72,
@@ -16535,7 +16535,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Essstörungen",
         Length: "1462",
         Imppact: 2,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/L1YwhL/article/GP0BTT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/FQYgBK/article/GP0BTT",
         Error: 0
     }, {
         Day: 72,
@@ -16544,7 +16544,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Angststörungen",
         Length: "1126",
         Imppact: 2,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/L1YwhL/article/kP0mUT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/FQYgBK/article/kP0mUT",
         Error: 0
     }, {
         Day: 72,
@@ -16553,7 +16553,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Insomnien",
         Length: "612",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/L1YwhL/article/t70Xnh",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/FQYgBK/article/t70Xnh",
         Error: 0
     }, {
         Day: 72,
@@ -16562,7 +16562,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Parasomnien",
         Length: "664",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/L1YwhL/article/tP0XgT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/FQYgBK/article/tP0XgT",
         Error: 0
     }, {
         Day: 73,
@@ -16571,7 +16571,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Verhaltens- und emotionale Störungen im Kindes- und Jugendalter",
         Length: "608",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/o1Y03L/article/_5055g",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/8QYOBK/article/_5055g",
         Error: 0
     }, {
         Day: 73,
@@ -16580,7 +16580,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Aufmerksamkeitsdefizit-/Hyperaktivitätsstörung",
         Length: "590",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/o1Y03L/article/rP0fTT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/8QYOBK/article/rP0fTT",
         Error: 0
     }, {
         Day: 73,
@@ -16589,7 +16589,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Geschlechtsinkongruenz",
         Length: "423",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/o1Y03L/article/DM01Ig",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/8QYOBK/article/DM01Ig",
         Error: 0
     }, {
         Day: 73,
@@ -16598,7 +16598,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Paraphile Störungen",
         Length: "321",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/o1Y03L/article/Xr09fh",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/8QYOBK/article/Xr09fh",
         Error: 0
     }, {
         Day: 73,
@@ -16607,7 +16607,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Suizidalität",
         Length: "2122",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/o1Y03L/article/8P0OgT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/8QYOBK/article/8P0OgT",
         Error: 0
     }, {
         Day: 73,
@@ -16616,7 +16616,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Betreuung und Zwangsmaßnahmen",
         Length: "1383",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/o1Y03L/article/uP0pgT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/8QYOBK/article/uP0pgT",
         Error: 0
     }, {
         Day: 74,
@@ -16625,7 +16625,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Pharmakologische Grundlagen",
         Length: "1932",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/K1YU3L/article/7N04cg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/uQYpBK/article/7N04cg",
         Error: 0
     }, {
         Day: 74,
@@ -16634,7 +16634,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Arzneimittelrezept",
         Length: "613",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/K1YU3L/article/XM09Mg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/uQYpBK/article/XM09Mg",
         Error: 0
     }, {
         Day: 74,
@@ -16643,7 +16643,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Parasympathomimetika",
         Length: "446",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/K1YU3L/article/HN0Kcg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/uQYpBK/article/HN0Kcg",
         Error: 0
     }, {
         Day: 74,
@@ -16652,7 +16652,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Parasympatholytika",
         Length: "637",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/K1YU3L/article/sN0tcg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/uQYpBK/article/sN0tcg",
         Error: 0
     }, {
         Day: 74,
@@ -16661,7 +16661,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Anticholinerges Syndrom",
         Length: "628",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/K1YU3L/article/Yt0nX3",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/uQYpBK/article/Yt0nX3",
         Error: 0
     }, {
         Day: 74,
@@ -16670,7 +16670,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "β2-Sympathomimetika",
         Length: "290",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/K1YU3L/article/GN0Bcg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/uQYpBK/article/GN0Bcg",
         Error: 0
     }, {
         Day: 74,
@@ -16679,7 +16679,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Sympathomimetika",
         Length: "1050",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/K1YU3L/article/tN0X1g",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/uQYpBK/article/tN0X1g",
         Error: 0
     }, {
         Day: 74,
@@ -16688,7 +16688,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Antisympathotonika",
         Length: "705",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/K1YU3L/article/8N0O1g",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/uQYpBK/article/8N0O1g",
         Error: 0
     }, {
         Day: 74,
@@ -16697,7 +16697,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Betablocker",
         Length: "857",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/K1YU3L/article/uN0p1g",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/uQYpBK/article/uN0p1g",
         Error: 0
     }, {
         Day: 74,
@@ -16706,7 +16706,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Calciumantagonisten",
         Length: "602",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/K1YU3L/article/cm0aeg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/uQYpBK/article/cm0aeg",
         Error: 0
     }, {
         Day: 74,
@@ -16715,7 +16715,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "RAAS-Inhibitoren",
         Length: "778",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/K1YU3L/article/1m02eg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/uQYpBK/article/1m02eg",
         Error: 0
     }, {
         Day: 75,
@@ -16724,7 +16724,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Amiodaron",
         Length: "512",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/61Yj3L/article/Xm09Vg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/EQY8BK/article/Xm09Vg",
         Error: 0
     }, {
         Day: 75,
@@ -16733,7 +16733,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Nitrate und Molsidomin",
         Length: "406",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/61Yj3L/article/Wm0Peg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/EQY8BK/article/Wm0Peg",
         Error: 0
     }, {
         Day: 75,
@@ -16742,7 +16742,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Phosphodiesterase-Hemmer",
         Length: "449",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/61Yj3L/article/em0xeg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/EQY8BK/article/em0xeg",
         Error: 0
     }, {
         Day: 75,
@@ -16751,7 +16751,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Herzglykoside",
         Length: "664",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/61Yj3L/article/Vm0Geg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/EQY8BK/article/Vm0Geg",
         Error: 0
     }, {
         Day: 75,
@@ -16760,7 +16760,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Thrombozytenaggregationshemmer",
         Length: "996",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/61Yj3L/article/Um0bUg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/EQY8BK/article/Um0bUg",
         Error: 0
     }, {
         Day: 75,
@@ -16769,7 +16769,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Parenterale Antikoagulanzien",
         Length: "974",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/61Yj3L/article/2m0TUg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/EQY8BK/article/2m0TUg",
         Error: 0
     }, {
         Day: 75,
@@ -16778,7 +16778,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Orale Antikoagulanzien",
         Length: "1658",
         Imppact: 2,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/61Yj3L/article/Tm06Ug",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/EQY8BK/article/Tm06Ug",
         Error: 0
     }, {
         Day: 75,
@@ -16787,7 +16787,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Diuretika",
         Length: "364",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/61Yj3L/article/gm0FUg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/EQY8BK/article/gm0FUg",
         Error: 0
     }, {
         Day: 75,
@@ -16796,7 +16796,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Thiaziddiuretika",
         Length: "429",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/61Yj3L/article/Sm0yUg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/EQY8BK/article/Sm0yUg",
         Error: 0
     }, {
         Day: 75,
@@ -16805,7 +16805,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Schleifendiuretika",
         Length: "589",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/61Yj3L/article/hm0c2g",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/EQY8BK/article/hm0c2g",
         Error: 0
     }, {
         Day: 75,
@@ -16814,7 +16814,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Kaliumsparende Diuretika",
         Length: "564",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/61Yj3L/article/3m0S2g",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/EQY8BK/article/3m0S2g",
         Error: 0
     }, {
         Day: 75,
@@ -16823,7 +16823,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Überblick über Vergiftungen",
         Length: "1153",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/61Yj3L/article/Af0RK2",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/EQY8BK/article/Af0RK2",
         Error: 0
     }, {
         Day: 76,
@@ -16832,7 +16832,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Antihistaminika",
         Length: "501",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/p1YL3L/article/Pm0Wfg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/vQYABK/article/Pm0Wfg",
         Error: 0
     }, {
         Day: 76,
@@ -16841,7 +16841,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Glucocorticoide",
         Length: "926",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/p1YL3L/article/km0mfg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/vQYABK/article/km0mfg",
         Error: 0
     }, {
         Day: 76,
@@ -16850,7 +16850,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Protonenpumpenhemmer",
         Length: "272",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/p1YL3L/article/rm0fSg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/vQYABK/article/rm0fSg",
         Error: 0
     }, {
         Day: 76,
@@ -16859,7 +16859,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Lipidsenker",
         Length: "1010",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/p1YL3L/article/am0QVg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/vQYABK/article/am0QVg",
         Error: 0
     }, {
         Day: 76,
@@ -16868,7 +16868,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Antidiabetika",
         Length: "1393",
         Imppact: 2,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/p1YL3L/article/7m04Sg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/vQYABK/article/7m04Sg",
         Error: 0
     }, {
         Day: 76,
@@ -16877,7 +16877,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Insuline",
         Length: "616",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/p1YL3L/article/Gm0BSg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/vQYABK/article/Gm0BSg",
         Error: 0
     }, {
         Day: 76,
@@ -16886,7 +16886,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Bisphosphonate und andere antiosteoporotische Medikamente",
         Length: "575",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/p1YL3L/article/tm0Xhg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/vQYABK/article/tm0Xhg",
         Error: 0
     }, {
         Day: 76,
@@ -16895,7 +16895,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Thyreostatika",
         Length: "402",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/p1YL3L/article/Fm0ghg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/vQYABK/article/Fm0ghg",
         Error: 0
     }, {
         Day: 76,
@@ -16904,7 +16904,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Hormonelle Kontrazeption",
         Length: "1248",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/p1YL3L/article/Em08hg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/vQYABK/article/Em08hg",
         Error: 0
     }, {
         Day: 76,
@@ -16913,7 +16913,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Pharmakotherapie in der Schwangerschaft",
         Length: "469",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/p1YL3L/article/dm0oeg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/vQYABK/article/dm0oeg",
         Error: 0
     }, {
         Day: 77,
@@ -16922,7 +16922,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Antipsychotika",
         Length: "1491",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/J1Ys3L/article/AN0Rdg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/DQY1yK/article/AN0Rdg",
         Error: 0
     }, {
         Day: 77,
@@ -16931,7 +16931,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Antidepressiva",
         Length: "1131",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/J1Ys3L/article/_N05dg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/DQY1yK/article/_N05dg",
         Error: 0
     }, {
         Day: 77,
@@ -16940,7 +16940,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Lithium",
         Length: "855",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/J1Ys3L/article/zN0rdg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/DQY1yK/article/zN0rdg",
         Error: 0
     }, {
         Day: 77,
@@ -16949,7 +16949,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Anfallssuppressiva",
         Length: "676",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/J1Ys3L/article/-N0Ddg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/DQY1yK/article/-N0Ddg",
         Error: 0
     }, {
         Day: 77,
@@ -16958,7 +16958,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Parkinson-Medikamente",
         Length: "880",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/J1Ys3L/article/Zm0ZVg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/DQY1yK/article/Zm0ZVg",
         Error: 0
     }, {
         Day: 78,
@@ -16967,7 +16967,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Antibiotika",
         Length: "2664",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/q1YC3L/article/mm0VTg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/wQYhyK/article/mm0VTg",
         Error: 0
     }, {
         Day: 78,
@@ -16976,7 +16976,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Virostatika",
         Length: "799",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/q1YC3L/article/pm0Lgg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/wQYhyK/article/pm0Lgg",
         Error: 0
     }, {
         Day: 78,
@@ -16985,7 +16985,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Interferontherapie",
         Length: "356",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/q1YC3L/article/1K022S",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/wQYhyK/article/1K022S",
         Error: 0
     }, {
         Day: 78,
@@ -16994,7 +16994,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Antimykotika",
         Length: "583",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/q1YC3L/article/6m0jgg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/wQYhyK/article/6m0jgg",
         Error: 0
     }, {
         Day: 78,
@@ -17003,7 +17003,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Immunsuppressiva",
         Length: "1954",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/q1YC3L/article/qM0Cpg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/wQYhyK/article/qM0Cpg",
         Error: 0
     }, {
         Day: 78,
@@ -17012,7 +17012,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Chloroquin und Hydroxychloroquin",
         Length: "241",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/q1YC3L/article/8M0Oqg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/wQYhyK/article/8M0Oqg",
         Error: 0
     }, {
         Day: 78,
@@ -17021,7 +17021,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Zytostatika",
         Length: "1559",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/q1YC3L/article/4m03fg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/wQYhyK/article/4m03fg",
         Error: 0
     }, {
         Day: 78,
@@ -17030,7 +17030,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Medikamente der zielgerichteten Tumortherapie",
         Length: "1197",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/q1YC3L/article/TE06E3",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/wQYhyK/article/TE06E3",
         Error: 0
     }, {
         Day: 78,
@@ -17039,7 +17039,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Antiemetika",
         Length: "639",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/q1YC3L/article/qm0Cgg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/wQYhyK/article/qm0Cgg",
         Error: 0
     }, {
         Day: 79,
@@ -17048,7 +17048,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Röntgen",
         Length: "1265",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/I1YYRL/article/in0JGg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/9QYNyK/article/in0JGg",
         Error: 0
     }, {
         Day: 79,
@@ -17057,7 +17057,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Computertomografie",
         Length: "1064",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/I1YYRL/article/KN0UXg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/9QYNyK/article/KN0UXg",
         Error: 0
     }, {
         Day: 79,
@@ -17066,7 +17066,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Magnetresonanztomografie",
         Length: "997",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/I1YYRL/article/pN0LXg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/9QYNyK/article/pN0LXg",
         Error: 0
     }, {
         Day: 79,
@@ -17075,7 +17075,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Strahlentherapie",
         Length: "545",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/I1YYRL/article/L50wkg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/9QYNyK/article/L50wkg",
         Error: 0
     }, {
         Day: 79,
@@ -17084,7 +17084,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Radioiodtherapie",
         Length: "362",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/I1YYRL/article/Gl0ByT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/9QYNyK/article/Gl0ByT",
         Error: 0
     }, {
         Day: 79,
@@ -17093,7 +17093,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Schilddrüsenszintigrafie",
         Length: "550",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/I1YYRL/article/il0J9T",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/9QYNyK/article/il0J9T",
         Error: 0
     }, {
         Day: 79,
@@ -17102,7 +17102,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Knochenszintigrafie",
         Length: "373",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/I1YYRL/article/JN0sXg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/9QYNyK/article/JN0sXg",
         Error: 0
     }, {
         Day: 79,
@@ -17111,7 +17111,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Ösophagusbreischluck und Störungen der Ösophagusmotilität",
         Length: "330",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/I1YYRL/article/D501mg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/9QYNyK/article/D501mg",
         Error: 0
     }, {
         Day: 79,
@@ -17120,7 +17120,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Tag 79 M2-Lernplan - Wiederholung des Querschnittbereichs Radiologie",
         Length: "191",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/I1YYRL/article/Bq0z0h",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/9QYNyK/article/Bq0z0h",
         Error: 0
     }, {
         Day: 80,
@@ -17129,7 +17129,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Arbeitsmedizinische Organe und Gesetze",
         Length: "946",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/r1YfRL/article/wQ0hyf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/CQYqyK/article/wQ0hyf",
         Error: 0
     }, {
         Day: 80,
@@ -17138,7 +17138,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Verhütung und Früherkennung beruflich bedingter Schäden",
         Length: "498",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/r1YfRL/article/9Q0Nyf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/CQYqyK/article/9Q0Nyf",
         Error: 0
     }, {
         Day: 80,
@@ -17147,7 +17147,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Anerkennung von Berufskrankheiten",
         Length: "363",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/r1YfRL/article/yQ0dAf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/CQYqyK/article/yQ0dAf",
         Error: 0
     }, {
         Day: 80,
@@ -17156,7 +17156,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Messkriterien der Arbeitsplatzbelastung",
         Length: "430",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/r1YfRL/article/BQ0zyf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/CQYqyK/article/BQ0zyf",
         Error: 0
     }, {
         Day: 80,
@@ -17165,7 +17165,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Berufskrankheiten durch physikalische Belastungen",
         Length: "516",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/r1YfRL/article/-Q0DAf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/CQYqyK/article/-Q0DAf",
         Error: 0
     }, {
         Day: 80,
@@ -17174,7 +17174,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Erkrankungen durch Metalle",
         Length: "866",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/r1YfRL/article/AQ0RAf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/CQYqyK/article/AQ0RAf",
         Error: 0
     }, {
         Day: 80,
@@ -17183,7 +17183,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Erkrankungen durch organische Lösungsmittel, Insektizide, Halogenkohlenwasserstoffe, Benzol und Homologe",
         Length: "961",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/r1YfRL/article/zQ0rAf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/CQYqyK/article/zQ0rAf",
         Error: 0
     }, {
         Day: 80,
@@ -17192,7 +17192,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Lungenerkrankungen durch Inhalation anorganischer Stäube",
         Length: "304",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/r1YfRL/article/aj0Q_f",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/CQYqyK/article/aj0Q_f",
         Error: 0
     }, {
         Day: 80,
@@ -17201,7 +17201,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Asbestose und Mesotheliom",
         Length: "653",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/r1YfRL/article/lh0vVf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/CQYqyK/article/lh0vVf",
         Error: 0
     }, {
         Day: 80,
@@ -17210,7 +17210,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Silikose",
         Length: "509",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/r1YfRL/article/Oh0IVf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/CQYqyK/article/Oh0IVf",
         Error: 0
     }, {
         Day: 80,
@@ -17219,7 +17219,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Lungenerkrankungen durch Inhalation organischer Stäube",
         Length: "316",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/r1YfRL/article/Yj0n_f",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/CQYqyK/article/Yj0n_f",
         Error: 0
     }, {
         Day: 80,
@@ -17228,7 +17228,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Erkrankungen durch Einwirkung reizender Gase",
         Length: "341",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/r1YfRL/article/_Q05Af",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/CQYqyK/article/_Q05Af",
         Error: 0
     }, {
         Day: 80,
@@ -17237,7 +17237,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Berufserkrankungen der Haut",
         Length: "365",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/r1YfRL/article/RQ0lDf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/CQYqyK/article/RQ0lDf",
         Error: 0
     }, {
         Day: 80,
@@ -17246,7 +17246,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Erkrankungen durch chlorierte und polyzyklische aromatische Kohlenwasserstoffe",
         Length: "287",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/r1YfRL/article/050eig",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/CQYqyK/article/050eig",
         Error: 0
     }, {
         Day: 81,
@@ -17255,7 +17255,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Ärztliche Rechtskunde",
         Length: "3545",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/71Y4RL/article/DO01uT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/xQYEyK/article/DO01uT",
         Error: 0
     }, {
         Day: 81,
@@ -17264,7 +17264,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Thanatologie",
         Length: "1647",
         Imppact: 2,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/71Y4RL/article/vP0AgT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/xQYEyK/article/vP0AgT",
         Error: 0
     }, {
         Day: 81,
@@ -17273,7 +17273,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Verletzungen und Gewalteinwirkung",
         Length: "836",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/71Y4RL/article/9P0NST",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/xQYEyK/article/9P0NST",
         Error: 0
     }, {
         Day: 82,
@@ -17282,7 +17282,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Strangulation und Ersticken",
         Length: "833",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/H1YKRL/article/BP0zST",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/BQYzyK/article/BP0zST",
         Error: 0
     }, {
         Day: 82,
@@ -17291,7 +17291,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Ertrinken",
         Length: "582",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/H1YKRL/article/AP0RhT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/BQYzyK/article/AP0RhT",
         Error: 0
     }, {
         Day: 82,
@@ -17300,7 +17300,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Zeichen thermischer Schädigungen",
         Length: "683",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/H1YKRL/article/Z40Z3T",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/BQYzyK/article/Z40Z3T",
         Error: 0
     }, {
         Day: 82,
@@ -17309,7 +17309,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Schussverletzungen",
         Length: "560",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/H1YKRL/article/_P05hT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/BQYzyK/article/_P05hT",
         Error: 0
     }, {
         Day: 82,
@@ -17318,7 +17318,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Spurensicherung",
         Length: "408",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/H1YKRL/article/zP0rhT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/BQYzyK/article/zP0rhT",
         Error: 0
     }, {
         Day: 82,
@@ -17327,7 +17327,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Artifizielle Störungen",
         Length: "183",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/H1YKRL/article/040e3T",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/BQYzyK/article/040e3T",
         Error: 0
     }, {
         Day: 83,
@@ -17336,7 +17336,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Zelluläre Veränderungen und Anpassungsreaktionen",
         Length: "1162",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/s1YtRL/article/VP0GdT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/yQYdAK/article/VP0GdT",
         Error: 0
     }, {
         Day: 83,
@@ -17345,7 +17345,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Untersuchungsmethoden in der Pathologie",
         Length: "1129",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/s1YtRL/article/dP0odT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/yQYdAK/article/dP0odT",
         Error: 0
     }, {
         Day: 83,
@@ -17354,7 +17354,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Allgemeine Onkologie",
         Length: "2181",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/s1YtRL/article/WM0Png",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/yQYdAK/article/WM0Png",
         Error: 0
     }, {
         Day: 83,
@@ -17363,7 +17363,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Tumormarker",
         Length: "492",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/s1YtRL/article/ol00BT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/yQYdAK/article/ol00BT",
         Error: 0
     }, {
         Day: 83,
@@ -17372,7 +17372,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Neurokutane Syndrome",
         Length: "679",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/s1YtRL/article/Rk0lnT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/yQYdAK/article/Rk0lnT",
         Error: 0
     }, {
         Day: 83,
@@ -17381,7 +17381,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Paraneoplastische Syndrome",
         Length: "765",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/s1YtRL/article/lk0vLT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/yQYdAK/article/lk0vLT",
         Error: 0
     }, {
         Day: 83,
@@ -17390,7 +17390,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Systemische Amyloidose",
         Length: "838",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/s1YtRL/article/fP0kVT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/yQYdAK/article/fP0kVT",
         Error: 0
     }, {
         Day: 84,
@@ -17399,7 +17399,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Grundbegriffe medizinischer Forschung",
         Length: "743",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/G1YBRL/article/nn07Fg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/AQYRAK/article/nn07Fg",
         Error: 0
     }, {
         Day: 84,
@@ -17408,7 +17408,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Angewandte Statistik",
         Length: "2782",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/G1YBRL/article/CI0qUh",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/AQYRAK/article/CI0qUh",
         Error: 0
     }, {
         Day: 84,
@@ -17417,7 +17417,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Epidemiologie und Wahrscheinlichkeiten",
         Length: "2621",
         Imppact: 5,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/G1YBRL/article/Xj09_f",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/AQYRAK/article/Xj09_f",
         Error: 0
     }, {
         Day: 84,
@@ -17426,7 +17426,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Studientypen der medizinischen Forschung",
         Length: "2315",
         Imppact: 2,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/G1YBRL/article/1j02zf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/AQYRAK/article/1j02zf",
         Error: 0
     }, {
         Day: 84,
@@ -17435,7 +17435,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Sammelsurium der Epidemiologie",
         Length: "1299",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/G1YBRL/article/dr0oTh",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/AQYRAK/article/dr0oTh",
         Error: 0
     }, {
         Day: 84,
@@ -17444,7 +17444,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Diagnose- und Klassifikationssysteme",
         Length: "1199",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/G1YBRL/article/dj0ozf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/AQYRAK/article/dj0ozf",
         Error: 0
     }, {
         Day: 84,
@@ -17453,7 +17453,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Qualitätsmanagement",
         Length: "570",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/G1YBRL/article/TM06Lg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/AQYRAK/article/TM06Lg",
         Error: 0
     }, {
         Day: 84,
@@ -17462,7 +17462,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Prävention",
         Length: "923",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/G1YBRL/article/Wj0Pzf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/AQYRAK/article/Wj0Pzf",
         Error: 0
     }, {
         Day: 85,
@@ -17471,7 +17471,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Soziale Sicherung",
         Length: "1462",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/t1YXiL/article/Uj0b-f",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/_QY5AK/article/Uj0b-f",
         Error: 0
     }, {
         Day: 85,
@@ -17480,7 +17480,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Gesetzliche Unfallversicherung",
         Length: "745",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/t1YXiL/article/jP0_eT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/_QY5AK/article/jP0_eT",
         Error: 0
     }, {
         Day: 85,
@@ -17489,7 +17489,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Gesetzliche Krankenversicherung",
         Length: "2505",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/t1YXiL/article/HM0KJg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/_QY5AK/article/HM0KJg",
         Error: 0
     }, {
         Day: 85,
@@ -17498,7 +17498,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Ökonomische Aspekte von Gesundheit und Krankheit",
         Length: "440",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/t1YXiL/article/2j0T-f",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/_QY5AK/article/2j0T-f",
         Error: 0
     }, {
         Day: 85,
@@ -17507,7 +17507,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Behinderung und Einschränkung der Arbeitsfähigkeit",
         Length: "622",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/t1YXiL/article/ej0xzf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/_QY5AK/article/ej0xzf",
         Error: 0
     }, {
         Day: 85,
@@ -17516,7 +17516,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Grundlagen der allgemeinmedizinischen Versorgung",
         Length: "1310",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/t1YXiL/article/Rn0lGg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/_QY5AK/article/Rn0lGg",
         Error: 0
     }, {
         Day: 85,
@@ -17525,7 +17525,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Übersicht Geriatrie",
         Length: "1258",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/t1YXiL/article/On0Itg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/_QY5AK/article/On0Itg",
         Error: 0
     }, {
         Day: 85,
@@ -17534,7 +17534,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Palliativmedizinische Aspekte",
         Length: "2655",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/t1YXiL/article/3n0SGg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/_QY5AK/article/3n0SGg",
         Error: 0
     }, {
         Day: 85,
@@ -17543,7 +17543,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Rehabilitation",
         Length: "1148",
         Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/t1YXiL/article/kn0mtg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/_QY5AK/article/kn0mtg",
         Error: 0
     }, {
         Day: 85,
@@ -17552,7 +17552,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Physikalische Therapie",
         Length: "782",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/t1YXiL/article/WN0PZg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/_QY5AK/article/WN0PZg",
         Error: 0
     }, {
         Day: 85,
@@ -17561,7 +17561,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Phytotherapeutika",
         Length: "1310",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/t1YXiL/article/Rj0lZT",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/_QY5AK/article/Rj0lZT",
         Error: 0
     }, {
         Day: 85,
@@ -17570,7 +17570,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Komplementärmedizin einschließlich Naturheilkunde",
         Length: "871",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/t1YXiL/article/VN0GZg",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/_QY5AK/article/VN0GZg",
         Error: 0
     }, {
         Day: 85,
@@ -17579,7 +17579,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Zweites Staatsexamen",
         Length: "1028",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/t1YXiL/article/eL0x9g",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/_QY5AK/article/eL0x9g",
         Error: 0
     }, {
         Day: 86,
@@ -17588,7 +17588,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Tag 86 Lernplan 2. STEX – Wiederholungs- und Probe-Examenszeit",
         Length: "223",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/F1YgiL/article/yq0dah",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/zQYrAK/article/yq0dah",
         Error: 0
     }, {
         Day: 87,
@@ -17597,7 +17597,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Tag 87 Lernplan 2. STEX – Wiederholungs- und Probe-Examenszeit",
         Length: "223",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/81YOiL/article/Aq0Rah",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/-QYDAK/article/Aq0Rah",
         Error: 0
     }, {
         Day: 88,
@@ -17606,7 +17606,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Tag 88 Lernplan 2. STEX – Wiederholungs- und Probe-Examenszeit",
         Length: "223",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/u1YpiL/article/_q05ah",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/ZjYZ_K/article/_q05ah",
         Error: 0
     }, {
         Day: 89,
@@ -17615,7 +17615,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Tag 89 Lernplan 2. STEX – Wiederholungs- und Probe-Examenszeit",
         Length: "223",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/E1Y8iL/article/zq0rah",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/0jYe_K/article/zq0rah",
         Error: 0
     }, {
         Day: 90,
@@ -17624,7 +17624,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Tag 90 Lernplan 2. STEX – Wiederholungs- und Probe-Examenszeit",
         Length: "223",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/v1YAiL/article/-q0Dah",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/ajYQ_K/article/-q0Dah",
         Error: 0
     }, {
         Day: 91,
@@ -17633,7 +17633,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Tag 91 Lernplan 2. STEX – Wiederholungs- und Probe-Examenszeit",
         Length: "222",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/D1Y1QL/article/ZI0ZYh",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/YjYn_K/article/ZI0ZYh",
         Error: 0
     }, {
         Day: 92,
@@ -17642,7 +17642,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Tag 92 Lernplan 2. STEX – Wiederholungs- und Probe-Examenszeit",
         Length: "224",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/w1YhQL/article/0I0eYh",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/bjYH_K/article/0I0eYh",
         Error: 0
     }, {
         Day: 93,
@@ -17651,7 +17651,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Tag 93 Lernplan 2. STEX – Wiederholungs- und Probe-Examenszeit",
         Length: "224",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/91YNQL/article/aI0QYh",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/XjY9_K/article/aI0QYh",
         Error: 0
     }, {
         Day: 94,
@@ -17660,7 +17660,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Tag 94 Lernplan 2. STEX – Wiederholungs- und Probe-Examenszeit",
         Length: "223",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/C1YqQL/article/YI0nYh",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/cjYazK/article/YI0nYh",
         Error: 0
     }, {
         Day: 95,
@@ -17669,7 +17669,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Tag 95 Lernplan 2. STEX – Wiederholungs- und Probe-Examenszeit",
         Length: "223",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/x1YEQL/article/bI0HYh",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/1jY2zK/article/bI0HYh",
         Error: 0
     }, {
         Day: 96,
@@ -17678,7 +17678,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Tag 96 Lernplan 2. STEX – Wiederholungs- und Probe-Examenszeit",
         Length: "223",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/B1YzQL/article/XI09Yh",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/WjYPzK/article/XI09Yh",
         Error: 0
     }, {
         Day: 97,
@@ -17687,7 +17687,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Tag 97 Lernplan 2. STEX – Wiederholungs- und Probe-Examenszeit",
         Length: "223",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/y1YdjL/article/cI0abh",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/djYozK/article/cI0abh",
         Error: 0
     }, {
         Day: 98,
@@ -17696,7 +17696,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Tag 98 Lernplan 2. STEX – Wiederholungs- und Probe-Examenszeit",
         Length: "223",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/A1YRjL/article/1I02bh",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/VjYGzK/article/1I02bh",
         Error: 0
     }, {
         Day: 99,
@@ -17705,7 +17705,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Chapter: "Tag 99 Lernplan 2. STEX – Wiederholungs- und Probe-Examenszeit",
         Length: "223",
         Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/pi0Lsf/_1Y5jL/article/WI0Pbh",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/ejYxzK/article/WI0Pbh",
         Error: 0
     }],
     hs = {
