@@ -3895,7 +3895,7 @@ function bl(e, t) {
         n = T(s, !0);
     Z(s), Z(a), Ne(() => Xe(n, r())), q(e, a)
 }
-var fl = te('<h3 class="svelte-1nss1s">Einstellungen</h3> <div class="svelte-1nss1s"></div> <div id="parent" class="svelte-1nss1s"><div id="centerH" class="svelte-1nss1s"><button id="changePlan" class="svelte-1nss1s">Lernplan ändern</button></div></div> <hr class="svelte-1nss1s"> <div class="svelte-1nss1s"><label><input type="checkbox"> Top 100 bzw. Top 30 Kapitel hervorheben</label></div> <div class="svelte-1nss1s"><label><input type="checkbox"> Seitenanzahl neben dem IMPPact anzeigen</label> <!></div> <div class="svelte-1nss1s"><label><input type="checkbox"> Tage bis Examen unten links anzeigen</label></div> <div class="svelte-1nss1s"><label><input type="checkbox"> Fortschritt in Prozent unten links anzeigen</label></div> <hr class="svelte-1nss1s"> <div class="svelte-1nss1s">Zeige die Anki-Karteikarten von <label><input type="radio" name="showLernkartenDeck"> Aus &nbsp;&nbsp;</label> <label><input type="radio" name="showLernkartenDeck"> <a href="https://next.amboss.com/de/article/B80zK3" target="_blank">Ankiphil</a> &nbsp;&nbsp;</label> <label><input type="radio" name="showLernkartenDeck"> <a href="https://linktr.ee/Anki_Germany" target="_blank">Ankizin</a></label></div> <div class="svelte-1nss1s"><label><input type="radio" name="showLernkartenType"> Nur "High Yield" &nbsp;&nbsp;</label> <label><input type="radio" name="showLernkartenType"> Min. 1x vom IMPP gefragt &nbsp;&nbsp;</label> <label><input type="radio" name="showLernkartenType"> Alle</label></div> <hr class="svelte-1nss1s"> <div class="svelte-1nss1s">Zeige auf der x-Achse Markierungen alle <label><input type="radio" name="WeekDividers"> Aus</label> <label><input type="radio" name="WeekDividers"> 5</label> <label><input type="radio" name="WeekDividers"> 6</label> <label><input type="radio" name="WeekDividers"> 7</label> Tage</div> <div class="svelte-1nss1s">Verschoben um <input style="display: inline" type="range" min="0" max="6" class="slider" id="shiftWeekSlider"> </div> <br> <div class="svelte-1nss1s">Fragebalken Größe: <input style="display: inline" type="range" min="50" max="300" step="10" class="slider" id="shiftXSlider"> </div> <hr class="svelte-1nss1s"> <div class="svelte-1nss1s"><div class="svelte-1nss1s">Bestimme die Relevanz von Kapiteln als <br> <label><input type="radio" name="importanceName"> IMPPact</label> <br> <label><input type="radio" name="importanceName"> gestellte Examensfragen pro 10 Seiten Stoff</label></div></div> <br> <div class="svelte-1nss1s"><div class="svelte-1nss1s"><label><input type="radio" name="SortBy"> Nach Relevanz sortieren</label> <label><input type="radio" name="SortBy"> chronologisch wie bei Amboss</label></div> <div class="svelte-1nss1s"><label><input type="checkbox"> Nach <b>Top Kapiteln</b> sortieren, unabhängig vom Tag</label></div></div>', 1);
+var fl = te('<h3 class="svelte-1nss1s">Einstellungen</h3> <div class="svelte-1nss1s"></div> <div id="parent" class="svelte-1nss1s"><div id="centerH" class="svelte-1nss1s"><button id="changePlan" class="svelte-1nss1s">Lernplan ändern</button></div></div> <hr class="svelte-1nss1s"> <div class="svelte-1nss1s"><label><input type="checkbox"> Top 100 bzw. Top 30 Kapitel hervorheben</label></div> <div class="svelte-1nss1s"><label><input type="checkbox"> Seitenanzahl neben dem IMPPact anzeigen</label> <!></div> <div class="svelte-1nss1s"><label><input type="checkbox"> Tage bis Examen unten links anzeigen</label></div> <div class="svelte-1nss1s"><label><input type="checkbox"> Fortschritt in Prozent unten links anzeigen</label></div> <hr class="svelte-1nss1s"> <div class="svelte-1nss1s">Zeige die Anki-Karteikarten von <label><input type="radio" name="showLernkartenDeck"> Aus &nbsp;&nbsp;</label> <label><input type="radio" name="showLernkartenDeck"> <a href="https://next.amboss.com/de/article/B80zK3" target="_blank">Ankiphil</a> &nbsp;&nbsp;</label> <label><input type="radio" name="showLernkartenDeck"> <a href="https://linktr.ee/Anki_Germany" target="_blank">Ankizin</a></label></div> <div class="svelte-1nss1s"><label><input type="radio" name="showLernkartenType"> Nur "Highest Yield" &nbsp;&nbsp;</label> <label><input type="radio" name="showLernkartenType"> Min. 1x vom IMPP gefragt &nbsp;&nbsp;</label> <label><input type="radio" name="showLernkartenType"> Alle</label></div> <hr class="svelte-1nss1s"> <div class="svelte-1nss1s">Zeige auf der x-Achse Markierungen alle <label><input type="radio" name="WeekDividers"> Aus</label> <label><input type="radio" name="WeekDividers"> 5</label> <label><input type="radio" name="WeekDividers"> 6</label> <label><input type="radio" name="WeekDividers"> 7</label> Tage</div> <div class="svelte-1nss1s">Verschoben um <input style="display: inline" type="range" min="0" max="6" class="slider" id="shiftWeekSlider"> </div> <br> <div class="svelte-1nss1s">Fragebalken Größe: <input style="display: inline" type="range" min="50" max="300" step="10" class="slider" id="shiftXSlider"> </div> <hr class="svelte-1nss1s"> <div class="svelte-1nss1s"><div class="svelte-1nss1s">Bestimme die Relevanz von Kapiteln als <br> <label><input type="radio" name="importanceName"> IMPPact</label> <br> <label><input type="radio" name="importanceName"> gestellte Examensfragen pro 10 Seiten Stoff</label></div></div> <br> <div class="svelte-1nss1s"><div class="svelte-1nss1s"><label><input type="radio" name="SortBy"> Nach Relevanz sortieren</label> <label><input type="radio" name="SortBy"> chronologisch wie bei Amboss</label></div> <div class="svelte-1nss1s"><label><input type="checkbox"> Nach <b>Top Kapiteln</b> sortieren, unabhängig vom Tag</label></div></div>', 1);
 
 function Il(e, t) {
     Ge(t, !1);
@@ -10935,7 +10935,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Importance: 6,
         Subject: "Innere Medizin",
         Chapter: "Primär biliäre Cholangitis",
-        Length: "50",
+        Length: "577",
         Imppact: 0,
         Url: "https://next.amboss.com/de/courses/AQ0RAf/wiYhFK/article/MS0MZf",
         Error: 0
@@ -12348,7 +12348,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Importance: 1,
         Subject: "Pädiatrie",
         Chapter: "Atopische Dermatitis",
-        Length: "87",
+        Length: "1440",
         Imppact: 0,
         Url: "https://next.amboss.com/de/courses/AQ0RAf/WQYPEK/article/A40RNT",
         Error: 0
@@ -12357,7 +12357,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Importance: 2,
         Subject: "Pädiatrie",
         Chapter: "Windeldermatitis",
-        Length: "51",
+        Length: "483",
         Imppact: 0,
         Url: "https://next.amboss.com/de/courses/AQ0RAf/WQYPEK/article/1J02GS",
         Error: 0
@@ -12366,7 +12366,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Importance: 3,
         Subject: "Pädiatrie",
         Chapter: "Masern",
-        Length: "101",
+        Length: "1797",
         Imppact: 1,
         Url: "https://next.amboss.com/de/courses/AQ0RAf/WQYPEK/article/r40fkT",
         Error: 0
@@ -12573,7 +12573,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Importance: 13,
         Subject: "Pädiatrie",
         Chapter: "Duodenalatresie",
-        Length: "46",
+        Length: "353",
         Imppact: 0,
         Url: "https://next.amboss.com/de/courses/AQ0RAf/dQYoEK/article/640j4T",
         Error: 0
@@ -12591,7 +12591,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Importance: 15,
         Subject: "Pädiatrie",
         Chapter: "Viszerale Fehlbildungen",
-        Length: "68",
+        Length: "687",
         Imppact: 0,
         Url: "https://next.amboss.com/de/courses/AQ0RAf/dQYoEK/article/p40L4T",
         Error: 0
@@ -18299,7 +18299,7 @@ function jd(e, t) {
                     }
             location.reload()
         }
-        p().includes(d.data.Chapter) ? (B(Yr, p().filter(D => D !== d.data.Chapter)), O(b.target).attr("fill", D => D.data[c()] == -1 ? "#EFF" : De(D))) : (p().push(d.data.Chapter), B(Yr, p()), O(b.target).attr("fill", D => {
+        p().includes(d.data.Chapter) ? (B(Yr, p().filter(D => D !== d.data.Chapter)), O(b.target).attr("fill", D => D.data[c()] == -1 ? "#FFE" : De(D))) : (p().push(d.data.Chapter), B(Yr, p()), O(b.target).attr("fill", D => {
             if (D.data[c()] == -1) return "#EEE";
             const W = He(De(D)),
                 j = ((W.r + W.g + W.b) / 3).toFixed(0);
@@ -18406,7 +18406,7 @@ function jd(e, t) {
                 const oe = He(De(K)),
                     ye = ((oe.r + oe.g + oe.b) / 3).toFixed(0);
                 return Dt(ye, ye, ye, .7).toString()
-            } else return K.data[c()] == -1 ? "#EFF" : De(K)
+            } else return K.data[c()] == -1 ? "#FFE" : De(K)
         }).attr("x", K => w(K.data.Day)).attr("y", K => Me(K[1])).attr("width", w.bandwidth() - 1).attr("height", K => Me(K[0]) - Me(K[1])).style("cursor", "pointer").on("click", (K, oe) => {
             window.open(oe.data.Url, "_blank").focus()
         }).on("mouseover", d).on("mousemove", S).on("mouseleave", D).on("contextmenu", (K, oe) => Be(K, oe, !1)).on("touchstart", (K, oe) => {
@@ -18466,7 +18466,7 @@ function jd(e, t) {
                 const D = He(De(S)),
                     W = ((D.r + D.g + D.b) / 3).toFixed(0);
                 return Dt(W, W, W, .7).toString()
-            } else return S.data[c()] == -1 ? "#EFF" : De(S)
+            } else return S.data[c()] == -1 ? "#FFE" : De(S)
         }), O("svg").selectAll(".bars rect").filter(S => d.includes(S.data.Chapter)).attr("fill", "red");
         for (const S of b);
     }
