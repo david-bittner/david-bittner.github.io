@@ -12201,7 +12201,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Error: 0
     }, {
         Day: 30,
-        Importance: 6,
+        Importance: 5,
         Subject: "Pädiatrie",
         Chapter: "Nahrungsmittelallergie",
         Length: "1311",
@@ -12210,7 +12210,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Error: 0
     }, {
         Day: 30,
-        Importance: 7,
+        Importance: 6,
         Subject: "Pädiatrie",
         Chapter: "Entwicklung des Kindes",
         Length: "1030",
@@ -12219,7 +12219,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Error: 0
     }, {
         Day: 30,
-        Importance: 8,
+        Importance: 7,
         Subject: "Pädiatrie",
         Chapter: "Kindervorsorgeuntersuchungen",
         Length: "863",
@@ -12228,7 +12228,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Error: 0
     }, {
         Day: 30,
-        Importance: 9,
+        Importance: 8,
         Subject: "Pädiatrie",
         Chapter: "Enuresis und funktionelle Harninkontinenz im Kindes- und Jugendalter",
         Length: "497",
@@ -12237,7 +12237,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Error: 0
     }, {
         Day: 30,
-        Importance: 10,
+        Importance: 9,
         Subject: "Pädiatrie",
         Chapter: "Kleinwuchs",
         Length: "725",
@@ -12246,7 +12246,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Error: 0
     }, {
         Day: 30,
-        Importance: 11,
+        Importance: 10,
         Subject: "Pädiatrie",
         Chapter: "Großwuchs",
         Length: "550",
@@ -12255,7 +12255,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Error: 0
     }, {
         Day: 30,
-        Importance: 12,
+        Importance: 11,
         Subject: "Pädiatrie",
         Chapter: "Pubertät",
         Length: "714",
@@ -15918,7 +15918,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Error: 0
     }, {
         Day: 65,
-        Importance: 9,
+        Importance: 8,
         Subject: "Neurologie",
         Chapter: "Syndrome mit anhaltender minimaler Interaktionsfähigkeit",
         Length: "333",
@@ -16062,7 +16062,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Error: 0
     }, {
         Day: 67,
-        Importance: 7,
+        Importance: 6,
         Subject: "Neurologie",
         Chapter: "Kopfschmerzen",
         Length: "1318",
@@ -16071,7 +16071,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Error: 0
     }, {
         Day: 67,
-        Importance: 8,
+        Importance: 7,
         Subject: "Neurologie",
         Chapter: "Migräne",
         Length: "1503",
@@ -16080,7 +16080,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Error: 0
     }, {
         Day: 67,
-        Importance: 9,
+        Importance: 8,
         Subject: "Neurologie",
         Chapter: "Kopfschmerz vom Spannungstyp",
         Length: "437",
@@ -16089,7 +16089,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Error: 0
     }, {
         Day: 67,
-        Importance: 10,
+        Importance: 9,
         Subject: "Neurologie",
         Chapter: "Cluster-Kopfschmerz",
         Length: "480",
@@ -16098,7 +16098,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Error: 0
     }, {
         Day: 67,
-        Importance: 11,
+        Importance: 10,
         Subject: "Neurologie",
         Chapter: "Trigeminusneuralgie",
         Length: "617",
@@ -16107,7 +16107,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Error: 0
     }, {
         Day: 67,
-        Importance: 12,
+        Importance: 11,
         Subject: "Neurologie",
         Chapter: "Kopfschmerz bei Medikamentenübergebrauch",
         Length: "347",
