@@ -18075,8 +18075,10 @@ function jd(e, t) {
     Qe.subscribe(() => {
         try {
             const b = new Date;
+            b.setHours(0, 0, 0, 0);
             b.setDate(b.getDate() + 1);
             const d = Kn(s());
+            d.setHours(0, 0, 0, 0);
             d.setDate(d.getDate() - 1);
             const S = hl({
                     start: b,
