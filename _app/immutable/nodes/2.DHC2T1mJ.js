@@ -9916,7 +9916,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
 
 
 
-    Au = "100-Tage-Lernplan M2 – H2026",
+    Au = "100 Tage Lernplan M2 – H2026",
     Pu = 100,
     vu = [0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100],
     zu = 100,
@@ -15674,8 +15674,8 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Url: "https://next.amboss.com/de/courses/AQ0RAf/JQYsCK/article/o500Og",
         Error: 0
     }, {
-        Day: 63,
-        Importance: 2,
+        Day: 69,
+        Importance: 1,
         Subject: "Neurologie",
         Chapter: "Neurophysiologische Diagnostik",
         Length: "831",
@@ -15683,8 +15683,8 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Url: "https://next.amboss.com/de/courses/AQ0RAf/JQYsCK/article/Cn0qvg",
         Error: 0
     }, {
-        Day: 63,
-        Importance: 3,
+        Day: 66,
+        Importance: 9,
         Subject: "Neurologie",
         Chapter: "Liquorpunktion",
         Length: "1120",
@@ -15693,7 +15693,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Error: 0
     }, {
         Day: 63,
-        Importance: 4,
+        Importance: 2,
         Subject: "Neurologie",
         Chapter: "Tremor",
         Length: "461",
@@ -15702,7 +15702,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Error: 0
     }, {
         Day: 63,
-        Importance: 5,
+        Importance: 3,
         Subject: "Neurologie",
         Chapter: "Parkinson-Syndrom und Parkinson-Krankheit",
         Length: "2375",
@@ -15711,7 +15711,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Error: 0
     }, {
         Day: 63,
-        Importance: 6,
+        Importance: 4,
         Subject: "Neurologie",
         Chapter: "Atypische Parkinson-Syndrome",
         Length: "688",
@@ -15720,7 +15720,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Error: 0
     }, {
         Day: 63,
-        Importance: 7,
+        Importance: 6,
         Subject: "Neurologie",
         Chapter: "Huntington-Erkrankung",
         Length: "735",
@@ -15729,7 +15729,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Error: 0
     }, {
         Day: 63,
-        Importance: 8,
+        Importance: 7,
         Subject: "Neurologie",
         Chapter: "Restless-Legs-Syndrom",
         Length: "611",
@@ -15738,7 +15738,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Error: 0
     }, {
         Day: 63,
-        Importance: 9,
+        Importance: 8,
         Subject: "Neurologie",
         Chapter: "Grundlagen der Kleinhirnerkrankungen",
         Length: "501",
@@ -15801,7 +15801,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Error: 0
     }, {
         Day: 64,
-        Importance: 7,
+        Importance: 10,
         Subject: "Neurologie",
         Chapter: "Schädel-Hirn-Trauma",
         Length: "819",
@@ -15810,7 +15810,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Error: 0
     }, {
         Day: 64,
-        Importance: 8,
+        Importance: 9,
         Subject: "Neurologie",
         Chapter: "Intrakranielle Druckerhöhung",
         Length: "1412",
@@ -15819,7 +15819,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Error: 0
     }, {
         Day: 64,
-        Importance: 9,
+        Importance: 7,
         Subject: "Neurologie",
         Chapter: "Irreversibler Hirnfunktionsausfall",
         Length: "702",
@@ -15827,8 +15827,8 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Url: "https://next.amboss.com/de/courses/AQ0RAf/qQYCCK/article/KI0Udh",
         Error: 0
     }, {
-        Day: 64,
-        Importance: 10,
+        Day: 65,
+        Importance: 2,
         Subject: "Neurologie",
         Chapter: "Epidurales Hämatom",
         Length: "559",
@@ -15836,8 +15836,8 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Url: "https://next.amboss.com/de/courses/AQ0RAf/qQYCCK/article/VR0GNf",
         Error: 0
     }, {
-        Day: 64,
-        Importance: 11,
+        Day: 65,
+        Importance: 3,
         Subject: "Neurologie",
         Chapter: "Subdurales Hämatom",
         Length: "713",
@@ -15845,8 +15845,8 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Url: "https://next.amboss.com/de/courses/AQ0RAf/qQYCCK/article/dR0oNf",
         Error: 0
     }, {
-        Day: 64,
-        Importance: 12,
+        Day: 65,
+        Importance: 4,
         Subject: "Neurologie",
         Chapter: "Subarachnoidalblutung",
         Length: "1653",
@@ -15854,8 +15854,8 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Url: "https://next.amboss.com/de/courses/AQ0RAf/qQYCCK/article/2R0Tmf",
         Error: 0
     }, {
-        Day: 65,
-        Importance: 1,
+        Day: 66,
+        Importance: 7,
         Subject: "Neurologie",
         Chapter: "Idiopathische intrakranielle Hypertension",
         Length: "501",
@@ -15863,8 +15863,8 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Url: "https://next.amboss.com/de/courses/AQ0RAf/IQYYxK/article/u30p4f",
         Error: 0
     }, {
-        Day: 65,
-        Importance: 2,
+        Day: 63,
+        Importance: 5,
         Subject: "Neurologie",
         Chapter: "Normaldruckhydrozephalus",
         Length: "552",
@@ -15872,8 +15872,8 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Url: "https://next.amboss.com/de/courses/AQ0RAf/IQYYxK/article/E3084f",
         Error: 0
     }, {
-        Day: 65,
-        Importance: 3,
+        Day: 68,
+        Importance: 6,
         Subject: "Neurologie",
         Chapter: "Hirnnerven-Syndrome",
         Length: "1263",
@@ -15881,8 +15881,8 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Url: "https://next.amboss.com/de/courses/AQ0RAf/IQYYxK/article/tR0XKf",
         Error: 0
     }, {
-        Day: 65,
-        Importance: 4,
+        Day: 68,
+        Importance: 8,
         Subject: "Neurologie",
         Chapter: "Syndrome der Schädelbasis",
         Length: "751",
@@ -15890,8 +15890,8 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Url: "https://next.amboss.com/de/courses/AQ0RAf/IQYYxK/article/P50W4g",
         Error: 0
     }, {
-        Day: 65,
-        Importance: 5,
+        Day: 68,
+        Importance: 9,
         Subject: "Neurologie",
         Chapter: "Komplettes Querschnittsyndrom",
         Length: "402",
@@ -15899,8 +15899,8 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Url: "https://next.amboss.com/de/courses/AQ0RAf/IQYYxK/article/Wi0Pqf",
         Error: 0
     }, {
-        Day: 65,
-        Importance: 6,
+        Day: 68,
+        Importance: 10,
         Subject: "Neurologie",
         Chapter: "Inkomplette Querschnittsyndrome",
         Length: "509",
@@ -15908,8 +15908,8 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Url: "https://next.amboss.com/de/courses/AQ0RAf/IQYYxK/article/NR0-Mf",
         Error: 0
     }, {
-        Day: 65,
-        Importance: 7,
+        Day: 68,
+        Importance: 11,
         Subject: "Neurologie",
         Chapter: "Arteria-spinalis-anterior-Syndrom",
         Length: "386",
@@ -15917,7 +15917,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Url: "https://next.amboss.com/de/courses/AQ0RAf/IQYYxK/article/5R0inf",
         Error: 0
     }, {
-        Day: 65,
+        Day: 64,
         Importance: 8,
         Subject: "Neurologie",
         Chapter: "Syndrome mit anhaltender minimaler Interaktionsfähigkeit",
@@ -15926,7 +15926,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Url: "https://next.amboss.com/de/courses/AQ0RAf/IQYYxK/article/bi0HJf",
         Error: 0
     }, {
-        Day: 66,
+        Day: 68,
         Importance: 1,
         Subject: "Neurologie",
         Chapter: "Tumoren des zentralen Nervensystems",
@@ -15935,7 +15935,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Url: "https://next.amboss.com/de/courses/AQ0RAf/rQYfxK/article/H50Klg",
         Error: 0
     }, {
-        Day: 66,
+        Day: 68,
         Importance: 2,
         Subject: "Neurologie",
         Chapter: "Gliome",
@@ -15944,7 +15944,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Url: "https://next.amboss.com/de/courses/AQ0RAf/rQYfxK/article/7504lg",
         Error: 0
     }, {
-        Day: 66,
+        Day: 68,
         Importance: 3,
         Subject: "Neurologie",
         Chapter: "Meningeom",
@@ -15953,7 +15953,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Url: "https://next.amboss.com/de/courses/AQ0RAf/rQYfxK/article/I30YPf",
         Error: 0
     }, {
-        Day: 66,
+        Day: 68,
         Importance: 4,
         Subject: "Neurologie",
         Chapter: "Vestibularisschwannom und andere Neurinome",
@@ -15962,7 +15962,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Url: "https://next.amboss.com/de/courses/AQ0RAf/rQYfxK/article/H30KPf",
         Error: 0
     }, {
-        Day: 66,
+        Day: 68,
         Importance: 5,
         Subject: "Neurologie",
         Chapter: "Meningeosis neoplastica",
@@ -15972,7 +15972,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Error: 0
     }, {
         Day: 66,
-        Importance: 6,
+        Importance: 8,
         Subject: "Neurologie",
         Chapter: "Meningitis",
         Length: "2466",
@@ -15981,7 +15981,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Error: 0
     }, {
         Day: 66,
-        Importance: 7,
+        Importance: 10,
         Subject: "Neurologie",
         Chapter: "FSME-Virus-Infektion",
         Length: "552",
@@ -15990,7 +15990,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Error: 0
     }, {
         Day: 66,
-        Importance: 8,
+        Importance: 12,
         Subject: "Neurologie",
         Chapter: "Hirnabszess",
         Length: "519",
@@ -15999,7 +15999,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Error: 0
     }, {
         Day: 66,
-        Importance: 9,
+        Importance: 11,
         Subject: "Neurologie",
         Chapter: "Herpes-simplex-Enzephalitis",
         Length: "989",
@@ -16008,7 +16008,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Error: 0
     }, {
         Day: 66,
-        Importance: 10,
+        Importance: 13,
         Subject: "Neurologie",
         Chapter: "Creutzfeldt-Jakob-Krankheit",
         Length: "503",
@@ -16016,8 +16016,8 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Url: "https://next.amboss.com/de/courses/AQ0RAf/rQYfxK/article/cR0aNf",
         Error: 0
     }, {
-        Day: 67,
-        Importance: 1,
+        Day: 65,
+        Importance: 5,
         Subject: "Neurologie",
         Chapter: "Ischämischer Schlaganfall",
         Length: "3536",
@@ -16025,8 +16025,8 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Url: "https://next.amboss.com/de/courses/AQ0RAf/7QY4xK/article/UR0bmf",
         Error: 0
     }, {
-        Day: 67,
-        Importance: 2,
+        Day: 65,
+        Importance: 1,
         Subject: "Neurologie",
         Chapter: "Intrazerebrale Blutung",
         Length: "1212",
@@ -16034,8 +16034,8 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Url: "https://next.amboss.com/de/courses/AQ0RAf/7QY4xK/article/fR0kmf",
         Error: 0
     }, {
-        Day: 67,
-        Importance: 3,
+        Day: 65,
+        Importance: 7,
         Subject: "Neurologie",
         Chapter: "Zerebrale Sinus- und Venenthrombose",
         Length: "799",
@@ -16043,8 +16043,8 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Url: "https://next.amboss.com/de/courses/AQ0RAf/7QY4xK/article/SR0ymf",
         Error: 0
     }, {
-        Day: 67,
-        Importance: 4,
+        Day: 65,
+        Importance: 6,
         Subject: "Neurologie",
         Chapter: "Karotis- und Vertebralisdissektion",
         Length: "631",
@@ -16052,8 +16052,8 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Url: "https://next.amboss.com/de/courses/AQ0RAf/7QY4xK/article/Pi0W7f",
         Error: 0
     }, {
-        Day: 67,
-        Importance: 5,
+        Day: 65,
+        Importance: 8,
         Subject: "Neurologie",
         Chapter: "Carotis-Sinus-cavernosus-Fistel",
         Length: "285",
@@ -16061,8 +16061,8 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Url: "https://next.amboss.com/de/courses/AQ0RAf/7QY4xK/article/2i0TIf",
         Error: 0
     }, {
-        Day: 67,
-        Importance: 6,
+        Day: 66,
+        Importance: 1,
         Subject: "Neurologie",
         Chapter: "Kopfschmerzen",
         Length: "1318",
@@ -16070,8 +16070,8 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Url: "https://next.amboss.com/de/courses/AQ0RAf/7QY4xK/article/YL0nwg",
         Error: 0
     }, {
-        Day: 67,
-        Importance: 7,
+        Day: 66,
+        Importance: 2,
         Subject: "Neurologie",
         Chapter: "Migräne",
         Length: "1503",
@@ -16079,8 +16079,8 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Url: "https://next.amboss.com/de/courses/AQ0RAf/7QY4xK/article/hi0crf",
         Error: 0
     }, {
-        Day: 67,
-        Importance: 8,
+        Day: 66,
+        Importance: 3,
         Subject: "Neurologie",
         Chapter: "Kopfschmerz vom Spannungstyp",
         Length: "437",
@@ -16088,8 +16088,8 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Url: "https://next.amboss.com/de/courses/AQ0RAf/7QY4xK/article/3i0Srf",
         Error: 0
     }, {
-        Day: 67,
-        Importance: 9,
+        Day: 66,
+        Importance: 4,
         Subject: "Neurologie",
         Chapter: "Cluster-Kopfschmerz",
         Length: "480",
@@ -16097,8 +16097,8 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Url: "https://next.amboss.com/de/courses/AQ0RAf/7QY4xK/article/Ri0lrf",
         Error: 0
     }, {
-        Day: 67,
-        Importance: 10,
+        Day: 66,
+        Importance: 5,
         Subject: "Neurologie",
         Chapter: "Trigeminusneuralgie",
         Length: "617",
@@ -16106,8 +16106,8 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Url: "https://next.amboss.com/de/courses/AQ0RAf/7QY4xK/article/ii0Jrf",
         Error: 0
     }, {
-        Day: 67,
-        Importance: 11,
+        Day: 66,
+        Importance: 6,
         Subject: "Neurologie",
         Chapter: "Kopfschmerz bei Medikamentenübergebrauch",
         Length: "347",
@@ -16115,7 +16115,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Url: "https://next.amboss.com/de/courses/AQ0RAf/7QY4xK/article/dq0oxS",
         Error: 0
     }, {
-        Day: 68,
+        Day: 67,
         Importance: 1,
         Subject: "Neurologie",
         Chapter: "Multiple Sklerose",
@@ -16124,7 +16124,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Url: "https://next.amboss.com/de/courses/AQ0RAf/HQYKxK/article/WR0PNf",
         Error: 0
     }, {
-        Day: 68,
+        Day: 67,
         Importance: 2,
         Subject: "Neurologie",
         Chapter: "Neuromyelitis-optica-Spektrum-Erkrankungen",
@@ -16133,7 +16133,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Url: "https://next.amboss.com/de/courses/AQ0RAf/HQYKxK/article/OI0I1h",
         Error: 0
     }, {
-        Day: 68,
+        Day: 67,
         Importance: 3,
         Subject: "Neurologie",
         Chapter: "Amyotrophe Lateralsklerose",
@@ -16142,7 +16142,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Url: "https://next.amboss.com/de/courses/AQ0RAf/HQYKxK/article/LR0wnf",
         Error: 0
     }, {
-        Day: 68,
+        Day: 67,
         Importance: 4,
         Subject: "Neurologie",
         Chapter: "Spinale Muskelatrophien",
@@ -16151,7 +16151,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Url: "https://next.amboss.com/de/courses/AQ0RAf/HQYKxK/article/MR0Mnf",
         Error: 0
     }, {
-        Day: 68,
+        Day: 67,
         Importance: 5,
         Subject: "Neurologie",
         Chapter: "Myasthenia gravis",
@@ -16160,7 +16160,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Url: "https://next.amboss.com/de/courses/AQ0RAf/HQYKxK/article/DR016f",
         Error: 0
     }, {
-        Day: 68,
+        Day: 67,
         Importance: 6,
         Subject: "Neurologie",
         Chapter: "Myotone Dystrophien und nicht-dystrophe Myotonien",
@@ -16169,7 +16169,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Url: "https://next.amboss.com/de/courses/AQ0RAf/HQYKxK/article/uR0pKf",
         Error: 0
     }, {
-        Day: 68,
+        Day: 67,
         Importance: 7,
         Subject: "Neurologie",
         Chapter: "Progressive Muskeldystrophien",
@@ -16178,7 +16178,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Url: "https://next.amboss.com/de/courses/AQ0RAf/HQYKxK/article/8R0OKf",
         Error: 0
     }, {
-        Day: 68,
+        Day: 67,
         Importance: 8,
         Subject: "Neurologie",
         Chapter: "Stiff-Person-Syndrom",
@@ -16187,7 +16187,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Url: "https://next.amboss.com/de/courses/AQ0RAf/HQYKxK/article/wR0h6f",
         Error: 0
     }, {
-        Day: 68,
+        Day: 67,
         Importance: 9,
         Subject: "Neurologie",
         Chapter: "Dystonie",
@@ -16196,7 +16196,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Url: "https://next.amboss.com/de/courses/AQ0RAf/HQYKxK/article/A30ROf",
         Error: 0
     }, {
-        Day: 68,
+        Day: 67,
         Importance: 10,
         Subject: "Neurologie",
         Chapter: "Hereditäre spastische Paraplegie",
@@ -16205,8 +16205,8 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Url: "https://next.amboss.com/de/courses/AQ0RAf/HQYKxK/article/oR00Lf",
         Error: 0
     }, {
-        Day: 68,
-        Importance: 11,
+        Day: 63,
+        Importance: 9,
         Subject: "Neurologie",
         Chapter: "Friedreich-Ataxie",
         Length: "511",
@@ -16214,8 +16214,8 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Url: "https://next.amboss.com/de/courses/AQ0RAf/HQYKxK/article/KR0ULf",
         Error: 0
     }, {
-        Day: 69,
-        Importance: 1,
+        Day: 68,
+        Importance: 12,
         Subject: "Neurologie",
         Chapter: "Zervikale Myelopathie",
         Length: "365",
@@ -16223,8 +16223,8 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Url: "https://next.amboss.com/de/courses/AQ0RAf/sQYtxK/article/X509ig",
         Error: 0
     }, {
-        Day: 69,
-        Importance: 2,
+        Day: 68,
+        Importance: 13,
         Subject: "Neurologie",
         Chapter: "Degenerative Spinalkanalstenose",
         Length: "509",
@@ -16233,7 +16233,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Error: 0
     }, {
         Day: 69,
-        Importance: 3,
+        Importance: 2,
         Subject: "Neurologie",
         Chapter: "Periphere Nervenläsionen",
         Length: "1056",
@@ -16242,7 +16242,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Error: 0
     }, {
         Day: 69,
-        Importance: 4,
+        Importance: 3,
         Subject: "Neurologie",
         Chapter: "Läsion des N. radialis",
         Length: "504",
@@ -16251,7 +16251,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Error: 0
     }, {
         Day: 69,
-        Importance: 5,
+        Importance: 4,
         Subject: "Neurologie",
         Chapter: "Läsion des N. ulnaris",
         Length: "771",
@@ -16260,7 +16260,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Error: 0
     }, {
         Day: 69,
-        Importance: 6,
+        Importance: 5,
         Subject: "Neurologie",
         Chapter: "Läsion des N. medianus",
         Length: "619",
@@ -16269,7 +16269,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Error: 0
     }, {
         Day: 69,
-        Importance: 7,
+        Importance: 6,
         Subject: "Neurologie",
         Chapter: "Neuralgische Amyotrophie",
         Length: "219",
@@ -16277,8 +16277,8 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Url: "https://next.amboss.com/de/courses/AQ0RAf/sQYtxK/article/0i0eJf",
         Error: 0
     }, {
-        Day: 69,
-        Importance: 8,
+        Day: 68,
+        Importance: 7,
         Subject: "Neurologie",
         Chapter: "Periphere Fazialisparese",
         Length: "954",
@@ -16287,7 +16287,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Error: 0
     }, {
         Day: 69,
-        Importance: 9,
+        Importance: 7,
         Subject: "Neurologie",
         Chapter: "Polyneuropathie",
         Length: "2327",
@@ -16296,7 +16296,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Error: 0
     }, {
         Day: 69,
-        Importance: 10,
+        Importance: 8,
         Subject: "Neurologie",
         Chapter: "Guillain-Barré-Syndrom",
         Length: "1344",
@@ -16305,7 +16305,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Error: 0
     }, {
         Day: 69,
-        Importance: 11,
+        Importance: 9,
         Subject: "Neurologie",
         Chapter: "Vitamin-B12-Mangel",
         Length: "1037",
@@ -18220,7 +18220,7 @@ function jd(e, t) {
             },
             type: "interactive"
         }]) : d.Kartenzahl && U(y).showContextMenu(b, d, [{
-            label: d.Kartenzahl.toString() + " Anki-Karten",
+            label: d.Kartenzahl.toString() + " Anki Karten",
             action: () => {},
             type: "header"
         }, {
@@ -18280,7 +18280,7 @@ function jd(e, t) {
     }
     const ze = b => b.attr("transform", `translate(${I.left},0)`).call(qs(Me).tickValues(U(E).pageTickValues.map(d => d * J)).tickFormat(d => (d / J).toFixed(0).toString())).call(d => d.select(".tick:last-of-type text").clone().attr("class", "y-axis-label-left").attr("x", 3).text("Seitenzahl")),
         Er = b => b.attr("transform", `translate(${I.left},0)`).call(qs(Je).tickValues(Or(...Ya(Je.domain()), 4)).tickFormat(d => d.toFixed(0).toString())).call(d => d.select(".tick:last-of-type text").clone().attr("class", "y-axis-label-left").attr("x", 3).text("Fragenzahl")),
-        Ft = b => b.attr("transform", `translate(${C-I.right},0)`).call(Jc(Ye).tickValues(Or(...Ya(Ye.domain()), 4)).tickFormat(d => d.toFixed(0).toString())).call(d => d.select(".tick:last-of-type text").clone().attr("class", "y-axis-label-right").attr("x", -3).text("Anki-Karten")),
+        Ft = b => b.attr("transform", `translate(${C-I.right},0)`).call(Jc(Ye).tickValues(Or(...Ya(Ye.domain()), 4)).tickFormat(d => d.toFixed(0).toString())).call(d => d.select(".tick:last-of-type text").clone().attr("class", "y-axis-label-right").attr("x", -3).text("Anki Karten")),
         ut = b => b.attr("transform", `translate(0,${f-I.bottom})`).call($s(w).tickValues(Or(...Ya(w.domain()), Math.round(C / 40 * l().k))).tickSizeInner(0).tickSizeOuter(0)),
         Xt = b => b.attr("transform", `translate(0,${f-I.bottom+A})`).call($s(w).tickValues(0).tickSizeInner(0).tickSizeOuter(0)),
         Cr = el;
@@ -18380,7 +18380,7 @@ function jd(e, t) {
                 let oe = "",
                     ye = "",
                     Go = i() && K.data && K.data.Length ? `, ${(K.data.Length/J).toFixed(0)} Seiten` : "";
-                c() === "Imppact" && (ye = "IMPPact"), c() === "ExamQuestionsPer10Pages" && (ye = "Relevanz"), K.data && K.data.Chapter && (oe = `<p style="margin: 0"><b>${K.data.Chapter}</b> - <i style="font-size:small">${ye} ${K.data[c()]!==-1?K.data[c()].toFixed(2):"n.a."}${Go}</i></p>`), K.Fragenzahl && (oe = `${K.Fragenzahl} Fragen`), K.name && (oe = K.name), K.Kartenzahl && (oe = `${K.Kartenzahl} Anki-Karten`);
+                c() === "Imppact" && (ye = "IMPPact"), c() === "ExamQuestionsPer10Pages" && (ye = "Relevanz"), K.data && K.data.Chapter && (oe = `<p style="margin: 0"><b>${K.data.Chapter}</b> - <i style="font-size:small">${ye} ${K.data[c()]!==-1?K.data[c()].toFixed(2):"n.a."}${Go}</i></p>`), K.Fragenzahl && (oe = `${K.Fragenzahl} Fragen`), K.name && (oe = K.name), K.Kartenzahl && (oe = `${K.Kartenzahl} Anki Karten`);
                 const wt = O("#svg_tooltip");
                 wt.html(oe);
 
