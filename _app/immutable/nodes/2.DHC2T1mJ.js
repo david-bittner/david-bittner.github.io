@@ -9916,7 +9916,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
 
 
 
-    Au = "100 Tage Lernplan M2 – H2026",
+    Au = "100-Tage-Lernplan M2 – H2026",
     Pu = 100,
     vu = [0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100],
     zu = 100,
