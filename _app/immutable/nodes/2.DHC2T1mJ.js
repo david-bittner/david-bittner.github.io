@@ -18349,7 +18349,7 @@ function jd(e, t) {
                     }
             location.reload()
         }
-        m().includes(d.Day) ? (B(Kr, m().filter(D => D !== d.Day)), O(b.target).attr("fill", "#fff19c")) : (m().push(d.Day), B(Kr, m()), O(b.target).attr("fill", "#BBB")), ct()
+        m().includes(d.Day) ? (B(Kr, m().filter(D => D !== d.Day)), O(b.target).attr("fill", "#fff19c")) : (m().push(d.Day), B(Kr, m()), O(b.target).attr("fill", "#DDD")), ct()
     }
 
     function gt(b, d, S) {
@@ -18444,7 +18444,7 @@ function jd(e, t) {
             K.preventDefault(), le = !0
         }).on("touchend", (K, oe) => {
             K.preventDefault(), Ke(K) && (le = !0), K.touches.length <= 1 && !le && $(K, oe)
-        })), u() && b.selectAll("rect").filter(j => M.includes(j.data.Chapter)).attr("stroke", $t).attr("stroke-width", 2).attr("height", j => Me(j[0]) - Me(j[1]) - 1).raise(), b.append("g").attr("class", "questionnumber").attr("stroke", "#CCC").selectAll("rect").data(rt).join("rect").attr("fill", j => m().includes(j.Day) ? "#BBB" : "#fff19c").attr("x", j => w(j.Day) + (Y ? w.bandwidth() / 2 : 0)).attr("y", j => f - I.bottom + A).attr("height", j => -(Je(0) - Je(j.Fragenzahl))).attr("width", Y ? w.bandwidth() / 2 : w.bandwidth()).on("mouseover", d).on("mousemove", S).on("mouseleave", W).on("contextmenu", (j, K) => Kt(j, K, !1)).on("touchstart", (j, K) => {
+        })), u() && b.selectAll("rect").filter(j => M.includes(j.data.Chapter)).attr("stroke", $t).attr("stroke-width", 2).attr("height", j => Me(j[0]) - Me(j[1]) - 1).raise(), b.append("g").attr("class", "questionnumber").attr("stroke", "#CCC").selectAll("rect").data(rt).join("rect").attr("fill", j => m().includes(j.Day) ? "#DDD" : "#fff19c").attr("x", j => w(j.Day) + (Y ? w.bandwidth() / 2 : 0)).attr("y", j => f - I.bottom + A).attr("height", j => -(Je(0) - Je(j.Fragenzahl))).attr("width", Y ? w.bandwidth() / 2 : w.bandwidth()).on("mouseover", d).on("mousemove", S).on("mouseleave", W).on("contextmenu", (j, K) => Kt(j, K, !1)).on("touchstart", (j, K) => {
             j.preventDefault(), le = !1, Ke(j) && (le = !0)
         }).on("touchmove", (j, K) => {
             j.preventDefault(), le = !0
