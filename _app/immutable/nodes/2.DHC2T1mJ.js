@@ -17733,6 +17733,15 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Imppact: -1,
         Url: "https://next.amboss.com/de/courses/AQ0RAf/ejYxzK/article/WI0Pbh",
         Error: 0
+    }, {
+        Day: 100,
+        Importance: 1,
+        Subject: "Generalprobe: 2024/H Tag 3",
+        Chapter: "Tag 100 Lernplan 2. STEX – Wiederholungs- und Probe-Examenszeit",
+        Length: "223",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/UjYb-K/article/dI0obh",
+        Error: 0
     }],
     hs = {
         lastUpdated: Ku,
