@@ -15664,32 +15664,13 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Imppact: 0,
         Url: "https://next.amboss.com/de/courses/AQ0RAf/pQYLCK/article/EO088T",
         Error: 0
-    }, {
-        Day: 63,
+    }, {Day: 63,
         Importance: 1,
         Subject: "Neurologie",
         Chapter: "Neurologische Untersuchung",
         Length: "8478",
         Imppact: 1,
         Url: "https://next.amboss.com/de/courses/AQ0RAf/JQYsCK/article/o500Og",
-        Error: 0
-    }, {
-        Day: 69,
-        Importance: 1,
-        Subject: "Neurologie",
-        Chapter: "Neurophysiologische Diagnostik",
-        Length: "831",
-        Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/AQ0RAf/JQYsCK/article/Cn0qvg",
-        Error: 0
-    }, {
-        Day: 66,
-        Importance: 9,
-        Subject: "Neurologie",
-        Chapter: "Liquorpunktion",
-        Length: "1120",
-        Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/AQ0RAf/JQYsCK/article/-l0DzT",
         Error: 0
     }, {
         Day: 63,
@@ -15720,6 +15701,15 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Error: 0
     }, {
         Day: 63,
+        Importance: 5,
+        Subject: "Neurologie",
+        Chapter: "Normaldruckhydrozephalus",
+        Length: "552",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/IQYYxK/article/E3084f",
+        Error: 0
+    }, {
+        Day: 63,
         Importance: 6,
         Subject: "Neurologie",
         Chapter: "Huntington-Erkrankung",
@@ -15744,6 +15734,15 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Length: "501",
         Imppact: 0,
         Url: "https://next.amboss.com/de/courses/AQ0RAf/JQYsCK/article/BR0z6f",
+        Error: 0
+    }, {
+        Day: 63,
+        Importance: 9,
+        Subject: "Neurologie",
+        Chapter: "Friedreich-Ataxie",
+        Length: "511",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/HQYKxK/article/KR0ULf",
         Error: 0
     }, {
         Day: 64,
@@ -15801,12 +15800,21 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Error: 0
     }, {
         Day: 64,
-        Importance: 10,
+        Importance: 7,
         Subject: "Neurologie",
-        Chapter: "Schädel-Hirn-Trauma",
-        Length: "819",
+        Chapter: "Irreversibler Hirnfunktionsausfall",
+        Length: "702",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/AQ0RAf/qQYCCK/article/l70vNh",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/qQYCCK/article/KI0Udh",
+        Error: 0
+    }, {
+        Day: 64,
+        Importance: 8,
+        Subject: "Neurologie",
+        Chapter: "Syndrome mit anhaltender minimaler Interaktionsfähigkeit",
+        Length: "333",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/IQYYxK/article/bi0HJf",
         Error: 0
     }, {
         Day: 64,
@@ -15819,12 +15827,21 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Error: 0
     }, {
         Day: 64,
-        Importance: 7,
+        Importance: 10,
         Subject: "Neurologie",
-        Chapter: "Irreversibler Hirnfunktionsausfall",
-        Length: "702",
+        Chapter: "Schädel-Hirn-Trauma",
+        Length: "819",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/AQ0RAf/qQYCCK/article/KI0Udh",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/qQYCCK/article/l70vNh",
+        Error: 0
+    }, {
+        Day: 65,
+        Importance: 1,
+        Subject: "Neurologie",
+        Chapter: "Intrazerebrale Blutung",
+        Length: "1212",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/7QY4xK/article/fR0kmf",
         Error: 0
     }, {
         Day: 65,
@@ -15854,168 +15871,6 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Url: "https://next.amboss.com/de/courses/AQ0RAf/qQYCCK/article/2R0Tmf",
         Error: 0
     }, {
-        Day: 66,
-        Importance: 7,
-        Subject: "Neurologie",
-        Chapter: "Idiopathische intrakranielle Hypertension",
-        Length: "501",
-        Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/AQ0RAf/IQYYxK/article/u30p4f",
-        Error: 0
-    }, {
-        Day: 63,
-        Importance: 5,
-        Subject: "Neurologie",
-        Chapter: "Normaldruckhydrozephalus",
-        Length: "552",
-        Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/AQ0RAf/IQYYxK/article/E3084f",
-        Error: 0
-    }, {
-        Day: 68,
-        Importance: 6,
-        Subject: "Neurologie",
-        Chapter: "Hirnnerven-Syndrome",
-        Length: "1263",
-        Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/AQ0RAf/IQYYxK/article/tR0XKf",
-        Error: 0
-    }, {
-        Day: 68,
-        Importance: 8,
-        Subject: "Neurologie",
-        Chapter: "Syndrome der Schädelbasis",
-        Length: "751",
-        Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/AQ0RAf/IQYYxK/article/P50W4g",
-        Error: 0
-    }, {
-        Day: 68,
-        Importance: 9,
-        Subject: "Neurologie",
-        Chapter: "Komplettes Querschnittsyndrom",
-        Length: "402",
-        Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/AQ0RAf/IQYYxK/article/Wi0Pqf",
-        Error: 0
-    }, {
-        Day: 68,
-        Importance: 10,
-        Subject: "Neurologie",
-        Chapter: "Inkomplette Querschnittsyndrome",
-        Length: "509",
-        Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/AQ0RAf/IQYYxK/article/NR0-Mf",
-        Error: 0
-    }, {
-        Day: 68,
-        Importance: 11,
-        Subject: "Neurologie",
-        Chapter: "Arteria-spinalis-anterior-Syndrom",
-        Length: "386",
-        Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/AQ0RAf/IQYYxK/article/5R0inf",
-        Error: 0
-    }, {
-        Day: 64,
-        Importance: 8,
-        Subject: "Neurologie",
-        Chapter: "Syndrome mit anhaltender minimaler Interaktionsfähigkeit",
-        Length: "333",
-        Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/AQ0RAf/IQYYxK/article/bi0HJf",
-        Error: 0
-    }, {
-        Day: 68,
-        Importance: 1,
-        Subject: "Neurologie",
-        Chapter: "Tumoren des zentralen Nervensystems",
-        Length: "1026",
-        Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/AQ0RAf/rQYfxK/article/H50Klg",
-        Error: 0
-    }, {
-        Day: 68,
-        Importance: 2,
-        Subject: "Neurologie",
-        Chapter: "Gliome",
-        Length: "870",
-        Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/AQ0RAf/rQYfxK/article/7504lg",
-        Error: 0
-    }, {
-        Day: 68,
-        Importance: 3,
-        Subject: "Neurologie",
-        Chapter: "Meningeom",
-        Length: "541",
-        Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/AQ0RAf/rQYfxK/article/I30YPf",
-        Error: 0
-    }, {
-        Day: 68,
-        Importance: 4,
-        Subject: "Neurologie",
-        Chapter: "Vestibularisschwannom und andere Neurinome",
-        Length: "754",
-        Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/AQ0RAf/rQYfxK/article/H30KPf",
-        Error: 0
-    }, {
-        Day: 68,
-        Importance: 5,
-        Subject: "Neurologie",
-        Chapter: "Meningeosis neoplastica",
-        Length: "306",
-        Imppact: -1,
-        Url: "https://next.amboss.com/de/courses/AQ0RAf/rQYfxK/article/XR09lf",
-        Error: 0
-    }, {
-        Day: 66,
-        Importance: 8,
-        Subject: "Neurologie",
-        Chapter: "Meningitis",
-        Length: "2466",
-        Imppact: 4,
-        Url: "https://next.amboss.com/de/courses/AQ0RAf/rQYfxK/article/ZR0Zlf",
-        Error: 0
-    }, {
-        Day: 66,
-        Importance: 10,
-        Subject: "Neurologie",
-        Chapter: "FSME-Virus-Infektion",
-        Length: "552",
-        Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/AQ0RAf/rQYfxK/article/Sr0ygh",
-        Error: 0
-    }, {
-        Day: 66,
-        Importance: 12,
-        Subject: "Neurologie",
-        Chapter: "Hirnabszess",
-        Length: "519",
-        Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/AQ0RAf/rQYfxK/article/1R02Nf",
-        Error: 0
-    }, {
-        Day: 66,
-        Importance: 11,
-        Subject: "Neurologie",
-        Chapter: "Herpes-simplex-Enzephalitis",
-        Length: "989",
-        Imppact: 1,
-        Url: "https://next.amboss.com/de/courses/AQ0RAf/rQYfxK/article/YR0nlf",
-        Error: 0
-    }, {
-        Day: 66,
-        Importance: 13,
-        Subject: "Neurologie",
-        Chapter: "Creutzfeldt-Jakob-Krankheit",
-        Length: "503",
-        Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/AQ0RAf/rQYfxK/article/cR0aNf",
-        Error: 0
-    }, {
         Day: 65,
         Importance: 5,
         Subject: "Neurologie",
@@ -16026,12 +15881,12 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Error: 0
     }, {
         Day: 65,
-        Importance: 1,
+        Importance: 6,
         Subject: "Neurologie",
-        Chapter: "Intrazerebrale Blutung",
-        Length: "1212",
+        Chapter: "Karotis- und Vertebralisdissektion",
+        Length: "631",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/AQ0RAf/7QY4xK/article/fR0kmf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/7QY4xK/article/Pi0W7f",
         Error: 0
     }, {
         Day: 65,
@@ -16041,15 +15896,6 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Length: "799",
         Imppact: 0,
         Url: "https://next.amboss.com/de/courses/AQ0RAf/7QY4xK/article/SR0ymf",
-        Error: 0
-    }, {
-        Day: 65,
-        Importance: 6,
-        Subject: "Neurologie",
-        Chapter: "Karotis- und Vertebralisdissektion",
-        Length: "631",
-        Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/AQ0RAf/7QY4xK/article/Pi0W7f",
         Error: 0
     }, {
         Day: 65,
@@ -16113,6 +15959,69 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Length: "347",
         Imppact: 0,
         Url: "https://next.amboss.com/de/courses/AQ0RAf/7QY4xK/article/dq0oxS",
+        Error: 0
+    }, {
+        Day: 66,
+        Importance: 7,
+        Subject: "Neurologie",
+        Chapter: "Idiopathische intrakranielle Hypertension",
+        Length: "501",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/IQYYxK/article/u30p4f",
+        Error: 0
+    }, {
+        Day: 66,
+        Importance: 8,
+        Subject: "Neurologie",
+        Chapter: "Meningitis",
+        Length: "2466",
+        Imppact: 4,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/rQYfxK/article/ZR0Zlf",
+        Error: 0
+    }, {
+        Day: 66,
+        Importance: 9,
+        Subject: "Neurologie",
+        Chapter: "Liquorpunktion",
+        Length: "1120",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/JQYsCK/article/-l0DzT",
+        Error: 0
+    }, {
+        Day: 66,
+        Importance: 10,
+        Subject: "Neurologie",
+        Chapter: "FSME-Virus-Infektion",
+        Length: "552",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/rQYfxK/article/Sr0ygh",
+        Error: 0
+    }, {
+        Day: 66,
+        Importance: 11,
+        Subject: "Neurologie",
+        Chapter: "Herpes-simplex-Enzephalitis",
+        Length: "989",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/rQYfxK/article/YR0nlf",
+        Error: 0
+    }, {
+        Day: 66,
+        Importance: 12,
+        Subject: "Neurologie",
+        Chapter: "Hirnabszess",
+        Length: "519",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/rQYfxK/article/1R02Nf",
+        Error: 0
+    }, {
+        Day: 66,
+        Importance: 13,
+        Subject: "Neurologie",
+        Chapter: "Creutzfeldt-Jakob-Krankheit",
+        Length: "503",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/rQYfxK/article/cR0aNf",
         Error: 0
     }, {
         Day: 67,
@@ -16205,13 +16114,103 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Url: "https://next.amboss.com/de/courses/AQ0RAf/HQYKxK/article/oR00Lf",
         Error: 0
     }, {
-        Day: 63,
+        Day: 68,
+        Importance: 1,
+        Subject: "Neurologie",
+        Chapter: "Tumoren des zentralen Nervensystems",
+        Length: "1026",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/rQYfxK/article/H50Klg",
+        Error: 0
+    }, {
+        Day: 68,
+        Importance: 2,
+        Subject: "Neurologie",
+        Chapter: "Gliome",
+        Length: "870",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/rQYfxK/article/7504lg",
+        Error: 0
+    }, {
+        Day: 68,
+        Importance: 3,
+        Subject: "Neurologie",
+        Chapter: "Meningeom",
+        Length: "541",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/rQYfxK/article/I30YPf",
+        Error: 0
+    }, {
+        Day: 68,
+        Importance: 4,
+        Subject: "Neurologie",
+        Chapter: "Vestibularisschwannom und andere Neurinome",
+        Length: "754",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/rQYfxK/article/H30KPf",
+        Error: 0
+    }, {
+        Day: 68,
+        Importance: 5,
+        Subject: "Neurologie",
+        Chapter: "Meningeosis neoplastica",
+        Length: "306",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/rQYfxK/article/XR09lf",
+        Error: 0
+    }, {
+        Day: 68,
+        Importance: 6,
+        Subject: "Neurologie",
+        Chapter: "Hirnnerven-Syndrome",
+        Length: "1263",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/IQYYxK/article/tR0XKf",
+        Error: 0
+    }, {
+        Day: 68,
+        Importance: 7,
+        Subject: "Neurologie",
+        Chapter: "Periphere Fazialisparese",
+        Length: "954",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/sQYtxK/article/FR0gKf",
+        Error: 0
+    }, {
+        Day: 68,
+        Importance: 8,
+        Subject: "Neurologie",
+        Chapter: "Syndrome der Schädelbasis",
+        Length: "751",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/IQYYxK/article/P50W4g",
+        Error: 0
+    }, {
+        Day: 68,
         Importance: 9,
         Subject: "Neurologie",
-        Chapter: "Friedreich-Ataxie",
-        Length: "511",
+        Chapter: "Komplettes Querschnittsyndrom",
+        Length: "402",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/IQYYxK/article/Wi0Pqf",
+        Error: 0
+    }, {
+        Day: 68,
+        Importance: 10,
+        Subject: "Neurologie",
+        Chapter: "Inkomplette Querschnittsyndrome",
+        Length: "509",
         Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/AQ0RAf/HQYKxK/article/KR0ULf",
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/IQYYxK/article/NR0-Mf",
+        Error: 0
+    }, {
+        Day: 68,
+        Importance: 11,
+        Subject: "Neurologie",
+        Chapter: "Arteria-spinalis-anterior-Syndrom",
+        Length: "386",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/IQYYxK/article/5R0inf",
         Error: 0
     }, {
         Day: 68,
@@ -16230,6 +16229,15 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Length: "509",
         Imppact: 0,
         Url: "https://next.amboss.com/de/courses/AQ0RAf/sQYtxK/article/JR0sLf",
+        Error: 0
+    }, {
+        Day: 69,
+        Importance: 1,
+        Subject: "Neurologie",
+        Chapter: "Neurophysiologische Diagnostik",
+        Length: "831",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/JQYsCK/article/Cn0qvg",
         Error: 0
     }, {
         Day: 69,
@@ -16275,15 +16283,6 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Length: "219",
         Imppact: -1,
         Url: "https://next.amboss.com/de/courses/AQ0RAf/sQYtxK/article/0i0eJf",
-        Error: 0
-    }, {
-        Day: 68,
-        Importance: 7,
-        Subject: "Neurologie",
-        Chapter: "Periphere Fazialisparese",
-        Length: "954",
-        Imppact: 0,
-        Url: "https://next.amboss.com/de/courses/AQ0RAf/sQYtxK/article/FR0gKf",
         Error: 0
     }, {
         Day: 69,
