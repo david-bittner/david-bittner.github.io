@@ -18496,7 +18496,7 @@ function jd(e, t) {
             e.preventDefault();
             U(At).openSearch(U(R));
         }
-        if (e.key === "Escape") {
+        if (e.key === "Escape" || e.key === "Enter") {
             U(At).closeSearch();
         }
         }), O("svg").call(ie.transform, da.translate(l().x, l().y).scale(l().k))
