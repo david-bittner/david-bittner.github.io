@@ -5294,7 +5294,7 @@ function m0(e, t) {
     function h() {
         const u = n.search(U(c)),
             x = o.search(U(c)).filter(k => k.matches.some(y => y.value.toLowerCase().includes(U(c).toLowerCase())));
-        m()(u.concat(x)), Ic(r, U(r).open = !1)
+        m()(u.concat(x))
     }
 
     function l(u) {
@@ -5310,7 +5310,7 @@ function m0(e, t) {
                 y = T(k);
             ce(y), ke(y, E => X(a, E), () => U(a));
             var v = P(y, 2);
-            Z(k), ae(4), Wa(y, () => U(c), E => X(c, E)), ue("keydown", y, l), ue("click", v, h), ue("keypress", v, () => {}), q(u, x)
+            Z(k), ae(4), Wa(y, () => U(c), E => X(c, E)), ue("input", y, h), ue("click", v, h), ue("keypress", v, () => {}), q(u, x)
         },
         $$slots: {
             default: !0
