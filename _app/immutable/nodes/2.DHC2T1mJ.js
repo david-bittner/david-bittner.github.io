@@ -5318,6 +5318,9 @@ function m0(e, t) {
         $$legacy: !0
     }), u => X(r, u), () => U(r)), Yt(t, "openSearch", i), Oe({
         openSearch: i,
+        closeSearch: () => {
+            Ic(r, U(r).open = !1)
+        },
         get onClose() {
             return p()
         },
@@ -18492,6 +18495,9 @@ function jd(e, t) {
         if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === "f") {
             e.preventDefault();
             U(At).openSearch(U(R));
+        }
+        if (e.key === "Escape") {
+            U(At).closeSearch();
         }
         }), O("svg").call(ie.transform, da.translate(l().x, l().y).scale(l().k))
     });
