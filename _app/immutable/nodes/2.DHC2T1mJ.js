@@ -5268,7 +5268,7 @@ kt.parseIndex = _l;
 kt.config = N;
 kt.parseQuery = jo;
 r0(t0);
-var i0 = te(`<div id="header" class="svelte-e61xc8"><h3 class="svelte-e61xc8">Suche</h3></div> <div id="searchCombo" class="svelte-e61xc8"><input id="searchField" type="text" placeholder="Suche..." class="svelte-e61xc8"> <button id="searchButton" class="svelte-e61xc8"><i class="fas fa-search"></i></button></div><p>Aktuell werden nur die Kapitelnamen (und Fächer) durchsucht, damit man schnell nachschlagen kann
+var i0 = te(`<div id="header" class="svelte-e61xc8"><h3 class="svelte-e61xc8">Suche</h3></div> <div id="searchCombo" class="svelte-e61xc8"><input id="searchField" type="text" placeholder="Suche..." class="svelte-e61xc8"> <button id="searchButton" class="svelte-e61xc8"><i class="fas fa-search"></i></button></div> <p>Um die rot markierten Kapitel wieder normal anzuzeigen muss man die Seite neuladen.</p> <p>Aktuell werden nur die Kapitelnamen (und Fächer) durchsucht, damit man schnell nachschlagen kann
         an welchem Tag ein bestimmtes Kapitel drankommt.</p>`, 1);
 
 function m0(e, t) {
