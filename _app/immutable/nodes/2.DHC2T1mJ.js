@@ -5279,7 +5279,7 @@ function m0(e, t) {
     const i = u => {
         s = u, n = new kt(s, {
             includeScore: !0,
-            threshold: .2,
+            threshold: 0.0,
             keys: ["Chapter", "Subject"]
         }), o = new kt(s, {
             includeMatches: !0,
