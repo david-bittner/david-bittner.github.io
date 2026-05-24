@@ -18487,7 +18487,13 @@ function jd(e, t) {
         s() === "None" && (window.location.href = "/select"), f = window.innerHeight - g, C = window.innerWidth, pe = [
             [I.left, I.top],
             [C - I.right, f - I.top]
-        ], ie = za().scaleExtent([1, 8]).translateExtent(pe).extent(pe).on("zoom", ne), Ze(), et(), tt(), w = Xr().domain(U(R).map(b => b.Day)).range([I.left, C - I.right]).padding(.1), je(), ct(), window.addEventListener("resize", be), O("svg").call(ie.transform, da.translate(l().x, l().y).scale(l().k))
+        ], ie = za().scaleExtent([1, 8]).translateExtent(pe).extent(pe).on("zoom", ne), Ze(), et(), tt(), w = Xr().domain(U(R).map(b => b.Day)).range([I.left, C - I.right]).padding(.1), je(), ct(), window.addEventListener("resize", be),
+        window.addEventListener("keydown", e => {
+        if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === "f") {
+            e.preventDefault();
+            U(At).openSearch(U(R));
+        }
+        }), O("svg").call(ie.transform, da.translate(l().x, l().y).scale(l().k))
     });
     let at = he(),
         bt = he(),
