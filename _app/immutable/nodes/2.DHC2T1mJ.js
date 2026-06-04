@@ -13847,7 +13847,7 @@ function jd(e, t) {
     function $(b, d) {
         if (d.data && d.data[c()]) {
             let S = "";
-            c() === "Imppact" && (S = "Fragen: "value", "), c() === "ExamQuestionsPer10Pages" && (S = "Relevanz"), U(y).showContextMenu(b, d, [{
+            c() === "Imppact" && (S = "IMPPact"), c() === "ExamQuestionsPer10Pages" && (S = "Relevanz"), U(y).showContextMenu(b, d, [{
                 label: `<span style='font-weight: bold'>${d.data.Chapter}</span> - <span style='font-size: small; font-style: italic'>${S} ` + d.data[c()].toFixed(2) + (i() ? ", " + (d.data.Length / J).toFixed(0) + " Seiten" : "") + "</span>",
                 action: () => {},
                 type: "header"
@@ -14047,7 +14047,7 @@ function jd(e, t) {
                 let oe = "",
                     ye = "",
                     Go = i() && K.data && K.data.Length ? `, ${(K.data.Length/J).toFixed(0)} Seiten` : "";
-                c() === "Imppact" && (ye = "Fragen:"), c() === "ExamQuestionsPer10Pages" && (ye = "Relevanz"), K.data && K.data.Chapter && (oe = `<p style="margin: 0"><b>${K.data.Chapter}</b> - <i style="font-size:small">${ye} ${K.data[c()]!==-1?K.data[c()].toFixed(2):"n.a."}${Go}</i></p>`), K.Fragenzahl && (oe = `${K.Fragenzahl} Fragen`), K.name && (oe = K.name), K.Kartenzahl && (oe = `${K.Kartenzahl} Anki-Karten`);
+                c() === "Imppact" && (ye = "IMPPact"), c() === "ExamQuestionsPer10Pages" && (ye = "Relevanz"), K.data && K.data.Chapter && (oe = `<p style="margin: 0"><b>${K.data.Chapter}</b> - <i style="font-size:small">${ye} ${K.data[c()]!==-1?K.data[c()].toFixed(2):"n.a."}${Go}</i></p>`), K.Fragenzahl && (oe = `${K.Fragenzahl} Fragen`), K.name && (oe = K.name), K.Kartenzahl && (oe = `${K.Kartenzahl} Anki-Karten`);
                 const wt = O("#svg_tooltip");
                 wt.html(oe);
 
