@@ -9437,7 +9437,7 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
         Subject: "Chirurgie",
         Chapter: "Analkarzinom",
         Length: "685",
-        Imppact: 0,
+        Imppact: 0.0,
         Url: "https://next.amboss.com/de/courses/AQ0RAf/iQYJDK/article/gS0F_2",
         Error: 0
     }, {
