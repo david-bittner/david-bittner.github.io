@@ -13952,7 +13952,7 @@ function jd(e, t) {
         Xt = b => b.attr("transform", `translate(0,${f-I.bottom+A})`).call($s(w).tickValues(0).tickSizeInner(0).tickSizeOuter(0)),
         Cr = el;
     let De;
-    De = b => Cr(Math.pow(b.data[c()], .6) / 40);
+    De = b => Cr(Math.pow(b.data[c()], .6) / 13);
     const $t = b => M.includes(b.data.Chapter) && u() ? "#F30" : "#DDD";
     let dt = En().keys(Q).value((b, d) => b.get(d).Length).order(Cn)(Fs(U(R), ([b]) => b, b => b.Day, b => b.Importance).values()).map(b => (b.forEach(d => d.data = d.data.get(b.key)), b)),
         Me;
