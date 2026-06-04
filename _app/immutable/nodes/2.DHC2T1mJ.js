@@ -5580,7826 +5580,7826 @@ const M0 = "04.06.2025",Y0 = "30 Tage Lernplan M1 - H2025",K0 = 36,A0 = [0, 10, 
     Zu = [46, 46, 61, 83, 50, 50, 68, 90, 64, 63, 89, 85, 70, 88, 46, 46, 90, 62, 102, 88, 78, 61, 77, 45, 68, 76, 87, 75, 50, 53, 42, 52, 63, 75, 109, 66, 82, 90, 56, 101, 92, 67, 77, 60, 44, 57, 72, 49, 54, 60, 67, 74, 72, 70, 68, 67, 72, 77, 52, 49, 74, 74, 91, 94, 102, 95, 84, 96, 115, 92, 93, 91, 96, 38, 35, 40, 36, 35, 101, 76, 72, 69, 53, 108, 90, 103, 103, 105, 105, 104, 103, 105, 105, 105, 103, 104, 103, 105, 106, 105],
     Tu = ["https://next.amboss.com/de/courses/AQ0RAf/IiYYGK", "https://next.amboss.com/de/courses/AQ0RAf/riYfGK", "https://next.amboss.com/de/courses/AQ0RAf/7iY4GK", "https://next.amboss.com/de/courses/AQ0RAf/HiYKGK", "https://next.amboss.com/de/courses/AQ0RAf/siYtGK", "https://next.amboss.com/de/courses/AQ0RAf/GiYBGK", "https://next.amboss.com/de/courses/AQ0RAf/tiYXtK", "https://next.amboss.com/de/courses/AQ0RAf/FiYgtK", "https://next.amboss.com/de/courses/AQ0RAf/8iYOtK", "https://next.amboss.com/de/courses/AQ0RAf/uiYptK", "https://next.amboss.com/de/courses/AQ0RAf/EiY8tK", "https://next.amboss.com/de/courses/AQ0RAf/viYAtK", "https://next.amboss.com/de/courses/AQ0RAf/DiY1FK", "https://next.amboss.com/de/courses/AQ0RAf/wiYhFK", "https://next.amboss.com/de/courses/AQ0RAf/9iYNFK", "https://next.amboss.com/de/courses/AQ0RAf/CiYqFK", "https://next.amboss.com/de/courses/AQ0RAf/xiYEFK", "https://next.amboss.com/de/courses/AQ0RAf/BiYzFK", "https://next.amboss.com/de/courses/AQ0RAf/yiYd8K", "https://next.amboss.com/de/courses/AQ0RAf/AiYR8K", "https://next.amboss.com/de/courses/AQ0RAf/_iY58K", "https://next.amboss.com/de/courses/AQ0RAf/ziYr8K", "https://next.amboss.com/de/courses/AQ0RAf/-iYD8K", "https://next.amboss.com/de/courses/AQ0RAf/ZQYZuK", "https://next.amboss.com/de/courses/AQ0RAf/0QYeuK", "https://next.amboss.com/de/courses/AQ0RAf/aQYQuK", "https://next.amboss.com/de/courses/AQ0RAf/YQYnuK", "https://next.amboss.com/de/courses/AQ0RAf/bQYHuK", "https://next.amboss.com/de/courses/AQ0RAf/XQY9uK", "https://next.amboss.com/de/courses/AQ0RAf/cQYaEK", "https://next.amboss.com/de/courses/AQ0RAf/1QY2EK", "https://next.amboss.com/de/courses/AQ0RAf/WQYPEK", "https://next.amboss.com/de/courses/AQ0RAf/dQYoEK", "https://next.amboss.com/de/courses/AQ0RAf/VQYGEK", "https://next.amboss.com/de/courses/AQ0RAf/eQYxEK", "https://next.amboss.com/de/courses/AQ0RAf/UQYbvK", "https://next.amboss.com/de/courses/AQ0RAf/2QYTvK", "https://next.amboss.com/de/courses/AQ0RAf/fQYkvK", "https://next.amboss.com/de/courses/AQ0RAf/TQY6vK", "https://next.amboss.com/de/courses/AQ0RAf/gQYFvK", "https://next.amboss.com/de/courses/AQ0RAf/SQYyvK", "https://next.amboss.com/de/courses/AQ0RAf/hQYcDK", "https://next.amboss.com/de/courses/AQ0RAf/3QYSDK", "https://next.amboss.com/de/courses/AQ0RAf/RQYlDK", "https://next.amboss.com/de/courses/AQ0RAf/iQYJDK", "https://next.amboss.com/de/courses/AQ0RAf/QQYuDK", "https://next.amboss.com/de/courses/AQ0RAf/jQY_DK", "https://next.amboss.com/de/courses/AQ0RAf/PQYWwK", "https://next.amboss.com/de/courses/AQ0RAf/4QY3wK", "https://next.amboss.com/de/courses/AQ0RAf/kQYmwK", "https://next.amboss.com/de/courses/AQ0RAf/OQYIwK", "https://next.amboss.com/de/courses/AQ0RAf/lQYvwK", "https://next.amboss.com/de/courses/AQ0RAf/NQY-wK", "https://next.amboss.com/de/courses/AQ0RAf/mQYV9K", "https://next.amboss.com/de/courses/AQ0RAf/5QYi9K", "https://next.amboss.com/de/courses/AQ0RAf/MQYM9K", "https://next.amboss.com/de/courses/AQ0RAf/nQY79K", "https://next.amboss.com/de/courses/AQ0RAf/LQYw9K", "https://next.amboss.com/de/courses/AQ0RAf/oQY0CK", "https://next.amboss.com/de/courses/AQ0RAf/KQYUCK", "https://next.amboss.com/de/courses/AQ0RAf/6QYjCK", "https://next.amboss.com/de/courses/AQ0RAf/pQYLCK", "https://next.amboss.com/de/courses/AQ0RAf/JQYsCK", "https://next.amboss.com/de/courses/AQ0RAf/qQYCCK", "https://next.amboss.com/de/courses/AQ0RAf/IQYYxK", "https://next.amboss.com/de/courses/AQ0RAf/rQYfxK", "https://next.amboss.com/de/courses/AQ0RAf/7QY4xK", "https://next.amboss.com/de/courses/AQ0RAf/HQYKxK", "https://next.amboss.com/de/courses/AQ0RAf/sQYtxK", "https://next.amboss.com/de/courses/AQ0RAf/GQYBxK", "https://next.amboss.com/de/courses/AQ0RAf/tQYXBK", "https://next.amboss.com/de/courses/AQ0RAf/FQYgBK", "https://next.amboss.com/de/courses/AQ0RAf/8QYOBK", "https://next.amboss.com/de/courses/AQ0RAf/uQYpBK", "https://next.amboss.com/de/courses/AQ0RAf/EQY8BK", "https://next.amboss.com/de/courses/AQ0RAf/vQYABK", "https://next.amboss.com/de/courses/AQ0RAf/DQY1yK", "https://next.amboss.com/de/courses/AQ0RAf/wQYhyK", "https://next.amboss.com/de/courses/AQ0RAf/9QYNyK", "https://next.amboss.com/de/courses/AQ0RAf/CQYqyK", "https://next.amboss.com/de/courses/AQ0RAf/xQYEyK", "https://next.amboss.com/de/courses/AQ0RAf/BQYzyK", "https://next.amboss.com/de/courses/AQ0RAf/yQYdAK", "https://next.amboss.com/de/courses/AQ0RAf/AQYRAK", "https://next.amboss.com/de/courses/AQ0RAf/_QY5AK", "https://next.amboss.com/de/courses/AQ0RAf/zQYrAK", "https://next.amboss.com/de/courses/AQ0RAf/-QYDAK", "https://next.amboss.com/de/courses/AQ0RAf/ZjYZ_K", "https://next.amboss.com/de/courses/AQ0RAf/0jYe_K", "https://next.amboss.com/de/courses/AQ0RAf/ajYQ_K", "https://next.amboss.com/de/courses/AQ0RAf/YjYn_K", "https://next.amboss.com/de/courses/AQ0RAf/bjYH_K", "https://next.amboss.com/de/courses/AQ0RAf/XjY9_K", "https://next.amboss.com/de/courses/AQ0RAf/cjYazK", "https://next.amboss.com/de/courses/AQ0RAf/1jY2zK", "https://next.amboss.com/de/courses/AQ0RAf/WjYPzK", "https://next.amboss.com/de/courses/AQ0RAf/djYozK", "https://next.amboss.com/de/courses/AQ0RAf/VjYGzK", "https://next.amboss.com/de/courses/AQ0RAf/ejYxzK", "https://next.amboss.com/de/courses/AQ0RAf/UjYb-K"],
     wu = [{
-Day: 1,
-Importance: 1,
-Subject: "Innere Medizin",
-Chapter: "Handbuch - Vorbereitung auf das Zweite Staatsexamen",
-Length: "2626",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/IiYYGK/article/Wn0PHg",
-Error: 0
-}, {
-Day: 1,
-Importance: 2,
-Subject: "Innere Medizin",
-Chapter: "Kreuztipps zum Zweiten Staatsexamen",
-Length: "3512",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/IiYYGK/article/UL0bCg",
-Error: 0
-}, {
-Day: 1,
-Importance: 3,
-Subject: "Innere Medizin",
-Chapter: "Untersuchungsmethoden in der Kardiologie",
-Length: "1326",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/IiYYGK/article/rM0fJg",
-Error: 0
-}, {
-Day: 1,
-Importance: 4,
-Subject: "Innere Medizin",
-Chapter: "EKG",
-Length: "2796",
-Imppact: 7,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/IiYYGK/article/pl0LBT",
-Error: 0
-}, {
-Day: 1,
-Importance: 5,
-Subject: "Innere Medizin",
-Chapter: "Herzrhythmusstörungen",
-Length: "1388",
-Imppact: 9,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/IiYYGK/article/7S04af",
-Error: 0
-}, {
-Day: 1,
-Importance: 6,
-Subject: "Innere Medizin",
-Chapter: "Supraventrikuläre Extrasystolen",
-Length: "186",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/IiYYGK/article/sS0taf",
-Error: 0
-}, {
-Day: 1,
-Importance: 7,
-Subject: "Innere Medizin",
-Chapter: "Vorhofflimmern",
-Length: "2230",
-Imppact: 41,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/IiYYGK/article/GS0Baf",
-Error: 0
-}, {
-Day: 1,
-Importance: 8,
-Subject: "Innere Medizin",
-Chapter: "Sick-Sinus-Syndrom",
-Length: "257",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/IiYYGK/article/HS0Kaf",
-Error: 0
-}, {
-Day: 1,
-Importance: 9,
-Subject: "Innere Medizin",
-Chapter: "AV-Block",
-Length: "791",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/IiYYGK/article/I50Ylg",
-Error: 0
-}, {
-Day: 1,
-Importance: 10,
-Subject: "Innere Medizin",
-Chapter: "AV-Knoten-Reentrytachykardie",
-Length: "428",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/IiYYGK/article/tS0XYf",
-Error: 0
-}, {
-Day: 1,
-Importance: 11,
-Subject: "Innere Medizin",
-Chapter: "Atrioventrikuläre Reentrytachykardie",
-Length: "328",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/IiYYGK/article/FS0gYf",
-Error: 0
-}, {
-Day: 2,
-Importance: 1,
-Subject: "Innere Medizin",
-Chapter: "Ventrikuläre Extrasystolen",
-Length: "369",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/riYfGK/article/8S0OYf",
-Error: 0
-}, {
-Day: 2,
-Importance: 2,
-Subject: "Innere Medizin",
-Chapter: "Ventrikuläre Tachykardie",
-Length: "604",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/riYfGK/article/ES08Yf",
-Error: 0
-}, {
-Day: 2,
-Importance: 3,
-Subject: "Innere Medizin",
-Chapter: "Kammerflattern und -flimmern",
-Length: "288",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/riYfGK/article/vS0AYf",
-Error: 0
-}, {
-Day: 2,
-Importance: 4,
-Subject: "Innere Medizin",
-Chapter: "Herzschrittmacher",
-Length: "1375",
-Imppact: 6,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/riYfGK/article/ql0CBT",
-Error: 0
-}, {
-Day: 2,
-Importance: 5,
-Subject: "Innere Medizin",
-Chapter: "Synkope",
-Length: "1392",
-Imppact: 4,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/riYfGK/article/b50Hig",
-Error: 0
-}, {
-Day: 2,
-Importance: 6,
-Subject: "Innere Medizin",
-Chapter: "Subclavian-Steal-Syndrom",
-Length: "355",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/riYfGK/article/bM0HMg",
-Error: 0
-}, {
-Day: 3,
-Importance: 1,
-Subject: "Innere Medizin",
-Chapter: "Dyslipidämien",
-Length: "894",
-Imppact: 4,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/7iY4GK/article/on008g",
-Error: 0
-}, {
-Day: 3,
-Importance: 2,
-Subject: "Innere Medizin",
-Chapter: "Atherosklerose und kardiovaskuläre Prävention",
-Length: "1275",
-Imppact: 8,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/7iY4GK/article/s70tMh",
-Error: 0
-}, {
-Day: 3,
-Importance: 3,
-Subject: "Innere Medizin",
-Chapter: "Koronare Herzkrankheit",
-Length: "1999",
-Imppact: 11,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/7iY4GK/article/DS01bf",
-Error: 0
-}, {
-Day: 3,
-Importance: 4,
-Subject: "Innere Medizin",
-Chapter: "Thoraxschmerz",
-Length: "559",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/7iY4GK/article/ML0Myg",
-Error: 0
-}, {
-Day: 3,
-Importance: 5,
-Subject: "Innere Medizin",
-Chapter: "Akutes Koronarsyndrom",
-Length: "919",
-Imppact: 9,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/7iY4GK/article/p70L5h",
-Error: 0
-}, {
-Day: 3,
-Importance: 6,
-Subject: "Innere Medizin",
-Chapter: "Myokardinfarkt",
-Length: "3415",
-Imppact: 41,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/7iY4GK/article/wS0hbf",
-Error: 0
-}, {
-Day: 3,
-Importance: 7,
-Subject: "Innere Medizin",
-Chapter: "Herzkatheteruntersuchung",
-Length: "1473",
-Imppact: 11,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/7iY4GK/article/rl0fyT",
-Error: 0
-}, {
-Day: 4,
-Importance: 1,
-Subject: "Innere Medizin",
-Chapter: "Herzinsuffizienz",
-Length: "3075",
-Imppact: 29,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/HiYKGK/article/rS0faf",
-Error: 0
-}, {
-Day: 4,
-Importance: 2,
-Subject: "Innere Medizin",
-Chapter: "Kardiomyopathien",
-Length: "857",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/HiYKGK/article/yS0dXf",
-Error: 0
-}, {
-Day: 4,
-Importance: 3,
-Subject: "Innere Medizin",
-Chapter: "Dilatative Kardiomyopathie",
-Length: "621",
-Imppact: 3,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/HiYKGK/article/AS0RXf",
-Error: 0
-}, {
-Day: 4,
-Importance: 4,
-Subject: "Innere Medizin",
-Chapter: "Hypertrophe Kardiomyopathie",
-Length: "751",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/HiYKGK/article/_S05Xf",
-Error: 0
-}, {
-Day: 4,
-Importance: 5,
-Subject: "Innere Medizin",
-Chapter: "Herzklappenerkrankungen",
-Length: "947",
-Imppact: 14,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/HiYKGK/article/-S0DXf",
-Error: 0
-}, {
-Day: 4,
-Importance: 6,
-Subject: "Innere Medizin",
-Chapter: "Aortenklappenstenose",
-Length: "1341",
-Imppact: 16,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/HiYKGK/article/Zh0Zcf",
-Error: 0
-}, {
-Day: 4,
-Importance: 7,
-Subject: "Innere Medizin",
-Chapter: "Aortenklappeninsuffizienz",
-Length: "545",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/HiYKGK/article/0h0ecf",
-Error: 0
-}, {
-Day: 4,
-Importance: 8,
-Subject: "Innere Medizin",
-Chapter: "Mitralklappenstenose",
-Length: "655",
-Imppact: 10,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/HiYKGK/article/Yh0ncf",
-Error: 0
-}, {
-Day: 4,
-Importance: 9,
-Subject: "Innere Medizin",
-Chapter: "Mitralklappeninsuffizienz",
-Length: "817",
-Imppact: 7,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/HiYKGK/article/PI0W1h",
-Error: 0
-}, {
-Day: 5,
-Importance: 1,
-Subject: "Innere Medizin",
-Chapter: "Infektiöse Endokarditis",
-Length: "1141",
-Imppact: 27,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/siYtGK/article/CS0qbf",
-Error: 0
-}, {
-Day: 5,
-Importance: 2,
-Subject: "Innere Medizin",
-Chapter: "Rheumatisches Fieber",
-Length: "868",
-Imppact: 3,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/siYtGK/article/9S0Nbf",
-Error: 0
-}, {
-Day: 5,
-Importance: 3,
-Subject: "Innere Medizin",
-Chapter: "Myokarditis",
-Length: "1500",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/siYtGK/article/xS0Ebf",
-Error: 0
-}, {
-Day: 5,
-Importance: 4,
-Subject: "Innere Medizin",
-Chapter: "Perikarditis",
-Length: "1968",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/siYtGK/article/Gu0Bs3",
-Error: 0
-}, {
-Day: 5,
-Importance: 5,
-Subject: "Innere Medizin",
-Chapter: "Coxsackievirus-Infektionen",
-Length: "627",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/siYtGK/article/E408OT",
-Error: 0
-}, {
-Day: 5,
-Importance: 6,
-Subject: "Innere Medizin",
-Chapter: "Perikarderguss und Perikardtamponade",
-Length: "824",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/siYtGK/article/uh0pff",
-Error: 0
-}, {
-Day: 6,
-Importance: 1,
-Subject: "Innere Medizin",
-Chapter: "Arterielle Hypertonie",
-Length: "3342",
-Imppact: 36,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/GiYBGK/article/Xh09cf",
-Error: 0
-}, {
-Day: 6,
-Importance: 2,
-Subject: "Innere Medizin",
-Chapter: "Pulmonale Hypertonie",
-Length: "1303",
-Imppact: 7,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/GiYBGK/article/w50hmg",
-Error: 0
-}, {
-Day: 6,
-Importance: 3,
-Subject: "Innere Medizin",
-Chapter: "Varikosis und chronisch-venöse Insuffizienz",
-Length: "1035",
-Imppact: 8,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/GiYBGK/article/gh0FWf",
-Error: 0
-}, {
-Day: 6,
-Importance: 4,
-Subject: "Innere Medizin",
-Chapter: "Phlebothrombose",
-Length: "2141",
-Imppact: 32,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/GiYBGK/article/fh0kWf",
-Error: 0
-}, {
-Day: 6,
-Importance: 5,
-Subject: "Innere Medizin",
-Chapter: "Lungenembolie",
-Length: "2100",
-Imppact: 33,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/GiYBGK/article/oh00Uf",
-Error: 0
-}, {
-Day: 7,
-Importance: 1,
-Subject: "Innere Medizin",
-Chapter: "Periphere arterielle Verschlusskrankheit",
-Length: "1874",
-Imppact: 39,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/tiYXtK/article/ch0a1f",
-Error: 0
-}, {
-Day: 7,
-Importance: 2,
-Subject: "Innere Medizin",
-Chapter: "Erythrozytenmorphologie und Hämoglobinvarianten",
-Length: "611",
-Imppact: 6,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/tiYXtK/article/WS0PA2",
-Error: 0
-}, {
-Day: 7,
-Importance: 3,
-Subject: "Innere Medizin",
-Chapter: "Anämie",
-Length: "1318",
-Imppact: 9,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/tiYXtK/article/6T0j72",
-Error: 0
-}, {
-Day: 7,
-Importance: 4,
-Subject: "Innere Medizin",
-Chapter: "Eisenmangel",
-Length: "1409",
-Imppact: 12,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/tiYXtK/article/pT0L72",
-Error: 0
-}, {
-Day: 7,
-Importance: 5,
-Subject: "Innere Medizin",
-Chapter: "Hämolytische Anämie",
-Length: "1013",
-Imppact: 9,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/tiYXtK/article/rT0fH2",
-Error: 0
-}, {
-Day: 7,
-Importance: 6,
-Subject: "Innere Medizin",
-Chapter: "Kugelzellanämie",
-Length: "427",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/tiYXtK/article/7T04H2",
-Error: 0
-}, {
-Day: 7,
-Importance: 7,
-Subject: "Innere Medizin",
-Chapter: "Glucose-6-phosphat-Dehydrogenase-Mangel",
-Length: "524",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/tiYXtK/article/HT0KH2",
-Error: 0
-}, {
-Day: 7,
-Importance: 8,
-Subject: "Innere Medizin",
-Chapter: "Sichelzellkrankheit",
-Length: "659",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/tiYXtK/article/GT0BH2",
-Error: 0
-}, {
-Day: 7,
-Importance: 9,
-Subject: "Innere Medizin",
-Chapter: "Thalassämie",
-Length: "945",
-Imppact: 7,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/tiYXtK/article/tT0Xs2",
-Error: 0
-}, {
-Day: 7,
-Importance: 10,
-Subject: "Innere Medizin",
-Chapter: "Myelodysplastische Syndrome",
-Length: "674",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/tiYXtK/article/3T0Sq2",
-Error: 0
-}, {
-Day: 8,
-Importance: 1,
-Subject: "Innere Medizin",
-Chapter: "Akute Leukämien",
-Length: "1756",
-Imppact: 18,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/FiYgtK/article/iT0Jq2",
-Error: 0
-}, {
-Day: 8,
-Importance: 2,
-Subject: "Innere Medizin",
-Chapter: "Myeloproliferative Neoplasien",
-Length: "827",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/FiYgtK/article/lT0vI2",
-Error: 0
-}, {
-Day: 8,
-Importance: 3,
-Subject: "Innere Medizin",
-Chapter: "Chronische myeloische Leukämie",
-Length: "1093",
-Imppact: 3,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/FiYgtK/article/PT0WI2",
-Error: 0
-}, {
-Day: 8,
-Importance: 4,
-Subject: "Innere Medizin",
-Chapter: "Polycythaemia vera",
-Length: "692",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/FiYgtK/article/kT0mI2",
-Error: 0
-}, {
-Day: 8,
-Importance: 5,
-Subject: "Innere Medizin",
-Chapter: "Hodgkin-Lymphom",
-Length: "1472",
-Imppact: 17,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/FiYgtK/article/mT0Vr2",
-Error: 0
-}, {
-Day: 8,
-Importance: 6,
-Subject: "Innere Medizin",
-Chapter: "Non-Hodgkin-Lymphome",
-Length: "1558",
-Imppact: 17,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/FiYgtK/article/NT0-I2",
-Error: 0
-}, {
-Day: 8,
-Importance: 7,
-Subject: "Innere Medizin",
-Chapter: "Multiples Myelom",
-Length: "1442",
-Imppact: 20,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/FiYgtK/article/5T0ir2",
-Error: 0
-}, {
-Day: 8,
-Importance: 8,
-Subject: "Innere Medizin",
-Chapter: "Chronische lymphatische Leukämie",
-Length: "1179",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/FiYgtK/article/jT0_q2",
-Error: 0
-}, {
-Day: 8,
-Importance: 9,
-Subject: "Innere Medizin",
-Chapter: "MALT-Lymphom",
-Length: "382",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/FiYgtK/article/LT0wr2",
-Error: 0
-}, {
-Day: 8,
-Importance: 10,
-Subject: "Innere Medizin",
-Chapter: "Kutane Lymphome",
-Length: "657",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/FiYgtK/article/oT0072",
-Error: 0
-}, {
-Day: 9,
-Importance: 1,
-Subject: "Innere Medizin",
-Chapter: "Blutgerinnung und hämorrhagische Diathesen",
-Length: "2260",
-Imppact: 9,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/8iYOtK/article/8T0Os2",
-Error: 0
-}, {
-Day: 9,
-Importance: 2,
-Subject: "Innere Medizin",
-Chapter: "Von-Willebrand-Syndrom",
-Length: "531",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/8iYOtK/article/V90GmR",
-Error: 0
-}, {
-Day: 9,
-Importance: 3,
-Subject: "Innere Medizin",
-Chapter: "Hämophilie",
-Length: "489",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/8iYOtK/article/uT0ps2",
-Error: 0
-}, {
-Day: 9,
-Importance: 4,
-Subject: "Innere Medizin",
-Chapter: "Antiphospholipid-Syndrom",
-Length: "572",
-Imppact: 3,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/8iYOtK/article/hR0c5f",
-Error: 0
-}, {
-Day: 9,
-Importance: 5,
-Subject: "Innere Medizin",
-Chapter: "Thrombozytopenien",
-Length: "822",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/8iYOtK/article/wT0hG2",
-Error: 0
-}, {
-Day: 9,
-Importance: 6,
-Subject: "Innere Medizin",
-Chapter: "Thrombotische Mikroangiopathie",
-Length: "783",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/8iYOtK/article/xT0EG2",
-Error: 0
-}, {
-Day: 9,
-Importance: 7,
-Subject: "Innere Medizin",
-Chapter: "Splenomegalie",
-Length: "360",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/8iYOtK/article/KT0U72",
-Error: 0
-}, {
-Day: 9,
-Importance: 8,
-Subject: "Innere Medizin",
-Chapter: "Asplenie und Hyposplenismus",
-Length: "541",
-Imppact: 8,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/8iYOtK/article/v40AOT",
-Error: 0
-}, {
-Day: 10,
-Importance: 1,
-Subject: "Innere Medizin",
-Chapter: "Klinische Untersuchung der Lunge",
-Length: "716",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/uiYptK/article/tl0XAT",
-Error: 0
-}, {
-Day: 10,
-Importance: 2,
-Subject: "Innere Medizin",
-Chapter: "Lungenfunktionsuntersuchung",
-Length: "1130",
-Imppact: 10,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/uiYptK/article/Fl0gAT",
-Error: 0
-}, {
-Day: 10,
-Importance: 3,
-Subject: "Innere Medizin",
-Chapter: "Akute Bronchitis",
-Length: "524",
-Imppact: 7,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/uiYptK/article/hh0cdf",
-Error: 0
-}, {
-Day: 10,
-Importance: 4,
-Subject: "Innere Medizin",
-Chapter: "Pneumonie",
-Length: "1907",
-Imppact: 28,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/uiYptK/article/mh0Vef",
-Error: 0
-}, {
-Day: 10,
-Importance: 5,
-Subject: "Innere Medizin",
-Chapter: "Ambulant erworbene Pneumonie",
-Length: "1576",
-Imppact: 36,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/uiYptK/article/wYahrQ",
-Error: 0
-}, {
-Day: 10,
-Importance: 6,
-Subject: "Innere Medizin",
-Chapter: "Nosokomiale Pneumonie",
-Length: "620",
-Imppact: 9,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/uiYptK/article/KZaUcQ",
-Error: 0
-}, {
-Day: 10,
-Importance: 7,
-Subject: "Innere Medizin",
-Chapter: "Akute unkomplizierte Atemwegsinfektionen",
-Length: "385",
-Imppact: 3,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/uiYptK/article/Ax0R_R",
-Error: 0
-}, {
-Day: 10,
-Importance: 8,
-Subject: "Innere Medizin",
-Chapter: "Legionellose",
-Length: "592",
-Imppact: 16,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/uiYptK/article/Vf0GO2",
-Error: 0
-}, {
-Day: 10,
-Importance: 9,
-Subject: "Innere Medizin",
-Chapter: "Pneumocystis-jirovecii-Pneumonie",
-Length: "541",
-Imppact: 8,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/uiYptK/article/If0Yn2",
-Error: 0
-}, {
-Day: 10,
-Importance: 10,
-Subject: "Innere Medizin",
-Chapter: "Tuberkulose",
-Length: "3426",
-Imppact: 28,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/uiYptK/article/5h0ief",
-Error: 0
-}, {
-Day: 10,
-Importance: 11,
-Subject: "Innere Medizin",
-Chapter: "Sarkoidose",
-Length: "1429",
-Imppact: 23,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/uiYptK/article/Mh0Mef",
-Error: 0
-}, {
-Day: 11,
-Importance: 1,
-Subject: "Innere Medizin",
-Chapter: "Lungenkarzinom",
-Length: "2774",
-Imppact: 59,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/EiY8tK/article/nh07ef",
-Error: 0
-}, {
-Day: 11,
-Importance: 2,
-Subject: "Innere Medizin",
-Chapter: "Pleuraerguss",
-Length: "1482",
-Imppact: 9,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/EiY8tK/article/F50gNg",
-Error: 0
-}, {
-Day: 11,
-Importance: 3,
-Subject: "Innere Medizin",
-Chapter: "Atelektase",
-Length: "412",
-Imppact: 3,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/EiY8tK/article/sM0tJg",
-Error: 0
-}, {
-Day: 11,
-Importance: 4,
-Subject: "Innere Medizin",
-Chapter: "Asthma bronchiale",
-Length: "2209",
-Imppact: 23,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/EiY8tK/article/Ph0WVf",
-Error: 0
-}, {
-Day: 11,
-Importance: 5,
-Subject: "Innere Medizin",
-Chapter: "Chronisch-obstruktive Lungenerkrankung",
-Length: "3046",
-Imppact: 25,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/EiY8tK/article/3h0Sdf",
-Error: 0
-}, {
-Day: 11,
-Importance: 6,
-Subject: "Innere Medizin",
-Chapter: "Interstitielle Lungenparenchymerkrankungen",
-Length: "614",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/EiY8tK/article/Nh0-Vf",
-Error: 0
-}, {
-Day: 11,
-Importance: 7,
-Subject: "Innere Medizin",
-Chapter: "Exogen-allergische Alveolitis",
-Length: "565",
-Imppact: 8,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/EiY8tK/article/kh0mVf",
-Error: 0
-}, {
-Day: 11,
-Importance: 8,
-Subject: "Innere Medizin",
-Chapter: "Schlafbezogene Atmungsstörungen",
-Length: "853",
-Imppact: 12,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/EiY8tK/article/Lh0wef",
-Error: 0
-}, {
-Day: 11,
-Importance: 9,
-Subject: "Innere Medizin",
-Chapter: "Husten",
-Length: "1569",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/EiY8tK/article/3L0Sxg",
-Error: 0
-}, {
-Day: 12,
-Importance: 1,
-Subject: "Innere Medizin",
-Chapter: "Achalasie",
-Length: "388",
-Imppact: 4,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/viYAtK/article/ug0pC2",
-Error: 0
-}, {
-Day: 12,
-Importance: 2,
-Subject: "Innere Medizin",
-Chapter: "Gastrointestinale Blutung",
-Length: "989",
-Imppact: 8,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/viYAtK/article/ZS0Zy2",
-Error: 0
-}, {
-Day: 12,
-Importance: 3,
-Subject: "Innere Medizin",
-Chapter: "Mallory-Weiss-Syndrom",
-Length: "240",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/viYAtK/article/9g0Nx2",
-Error: 0
-}, {
-Day: 12,
-Importance: 4,
-Subject: "Innere Medizin",
-Chapter: "Gastroösophageale Refluxkrankheit",
-Length: "1082",
-Imppact: 8,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/viYAtK/article/vg0AC2",
-Error: 0
-}, {
-Day: 12,
-Importance: 5,
-Subject: "Innere Medizin",
-Chapter: "Gastroduodenale Ulkuskrankheit",
-Length: "1525",
-Imppact: 11,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/viYAtK/article/zg0rB2",
-Error: 0
-}, {
-Day: 12,
-Importance: 6,
-Subject: "Innere Medizin",
-Chapter: "Chronische Gastritis",
-Length: "1295",
-Imppact: 17,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/viYAtK/article/Ag0RB2",
-Error: 0
-}, {
-Day: 12,
-Importance: 7,
-Subject: "Innere Medizin",
-Chapter: "Malassimilation",
-Length: "689",
-Imppact: 6,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/viYAtK/article/0S0ey2",
-Error: 0
-}, {
-Day: 12,
-Importance: 8,
-Subject: "Innere Medizin",
-Chapter: "Zöliakie",
-Length: "1943",
-Imppact: 22,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/viYAtK/article/YS0ny2",
-Error: 0
-}, {
-Day: 12,
-Importance: 9,
-Subject: "Innere Medizin",
-Chapter: "Lactoseintoleranz",
-Length: "523",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/viYAtK/article/bS0Hy2",
-Error: 0
-}, {
-Day: 13,
-Importance: 1,
-Subject: "Innere Medizin",
-Chapter: "Morbus Crohn",
-Length: "2630",
-Imppact: 34,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/DiY1FK/article/VS0GA2",
-Error: 0
-}, {
-Day: 13,
-Importance: 2,
-Subject: "Innere Medizin",
-Chapter: "Colitis ulcerosa",
-Length: "1693",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/DiY1FK/article/eS0xA2",
-Error: 0
-}, {
-Day: 13,
-Importance: 3,
-Subject: "Innere Medizin",
-Chapter: "Divertikulose, Divertikelkrankheit und Divertikulitis",
-Length: "1914",
-Imppact: 40,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/DiY1FK/article/1S02A2",
-Error: 0
-}, {
-Day: 13,
-Importance: 4,
-Subject: "Innere Medizin",
-Chapter: "Reizdarmsyndrom",
-Length: "464",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/DiY1FK/article/XS09y2",
-Error: 0
-}, {
-Day: 13,
-Importance: 5,
-Subject: "Innere Medizin",
-Chapter: "Gutartige Leberraumforderungen",
-Length: "580",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/DiY1FK/article/pS0L0f",
-Error: 0
-}, {
-Day: 13,
-Importance: 6,
-Subject: "Innere Medizin",
-Chapter: "Leberabszess",
-Length: "240",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/DiY1FK/article/Lo0wcS",
-Error: 0
-}, {
-Day: 14,
-Importance: 1,
-Subject: "Innere Medizin",
-Chapter: "Hepatitis A",
-Length: "641",
-Imppact: 7,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/wiYhFK/article/kS0m-2",
-Error: 0
-}, {
-Day: 14,
-Importance: 2,
-Subject: "Innere Medizin",
-Chapter: "Hepatitis B und HBV-Infektion",
-Length: "2431",
-Imppact: 12,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/wiYhFK/article/OS0I-2",
-Error: 0
-}, {
-Day: 14,
-Importance: 3,
-Subject: "Innere Medizin",
-Chapter: "Hepatitis C und HCV-Infektion",
-Length: "1578",
-Imppact: 4,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/wiYhFK/article/lS0v-2",
-Error: 0
-}, {
-Day: 14,
-Importance: 4,
-Subject: "Innere Medizin",
-Chapter: "Alkoholtoxischer Leberschaden",
-Length: "1522",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/wiYhFK/article/5S0iZf",
-Error: 0
-}, {
-Day: 14,
-Importance: 5,
-Subject: "Innere Medizin",
-Chapter: "Autoimmunhepatitis",
-Length: "569",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/wiYhFK/article/JM0spg",
-Error: 0
-}, {
-Day: 14,
-Importance: 6,
-Subject: "Innere Medizin",
-Chapter: "Primär biliäre Cholangitis",
-Length: "577",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/wiYhFK/article/MS0MZf",
-Error: 0
-}, {
-Day: 14,
-Importance: 7,
-Subject: "Innere Medizin",
-Chapter: "Primär sklerosierende Cholangitis",
-Length: "809",
-Imppact: 4,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/wiYhFK/article/nS07Zf",
-Error: 0
-}, {
-Day: 14,
-Importance: 8,
-Subject: "Innere Medizin",
-Chapter: "Morbus Wilson",
-Length: "581",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/wiYhFK/article/IS0Yaf",
-Error: 0
-}, {
-Day: 14,
-Importance: 9,
-Subject: "Innere Medizin",
-Chapter: "Hämochromatose",
-Length: "953",
-Imppact: 8,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/wiYhFK/article/qS0C0f",
-Error: 0
-}, {
-Day: 14,
-Importance: 10,
-Subject: "Innere Medizin",
-Chapter: "Leberzirrhose",
-Length: "2096",
-Imppact: 17,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/wiYhFK/article/PS0W-2",
-Error: 0
-}, {
-Day: 14,
-Importance: 11,
-Subject: "Innere Medizin",
-Chapter: "Portale Hypertension",
-Length: "1158",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/wiYhFK/article/LS0wZf",
-Error: 0
-}, {
-Day: 15,
-Importance: 1,
-Subject: "Innere Medizin",
-Chapter: "Ikterus und Cholestase",
-Length: "1154",
-Imppact: 12,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/9iYNFK/article/jS0_z2",
-Error: 0
-}, {
-Day: 15,
-Importance: 2,
-Subject: "Innere Medizin",
-Chapter: "Akute Pankreatitis",
-Length: "2151",
-Imppact: 16,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/9iYNFK/article/SS0y_2",
-Error: 0
-}, {
-Day: 15,
-Importance: 3,
-Subject: "Innere Medizin",
-Chapter: "Chronische Pankreatitis",
-Length: "1467",
-Imppact: 6,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/9iYNFK/article/hS0cz2",
-Error: 0
-}, {
-Day: 15,
-Importance: 4,
-Subject: "Innere Medizin",
-Chapter: "Pankreaskarzinom",
-Length: "1239",
-Imppact: 15,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/9iYNFK/article/3S0Sz2",
-Error: 0
-}, {
-Day: 15,
-Importance: 5,
-Subject: "Innere Medizin",
-Chapter: "Aszites",
-Length: "1129",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/9iYNFK/article/KS0U0f",
-Error: 0
-}, {
-Day: 16,
-Importance: 1,
-Subject: "Innere Medizin",
-Chapter: "Hypophysenvorderlappeninsuffizienz",
-Length: "863",
-Imppact: 16,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/CiYqFK/article/-T0Dt2",
-Error: 0
-}, {
-Day: 16,
-Importance: 2,
-Subject: "Innere Medizin",
-Chapter: "Prolaktinom",
-Length: "881",
-Imppact: 13,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/CiYqFK/article/0g0eF2",
-Error: 0
-}, {
-Day: 16,
-Importance: 3,
-Subject: "Innere Medizin",
-Chapter: "Akromegalie",
-Length: "538",
-Imppact: 6,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/CiYqFK/article/ag0QF2",
-Error: 0
-}, {
-Day: 16,
-Importance: 4,
-Subject: "Innere Medizin",
-Chapter: "Nebennierenrindeninsuffizienz",
-Length: "1031",
-Imppact: 8,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/CiYqFK/article/Ug0bu2",
-Error: 0
-}, {
-Day: 16,
-Importance: 5,
-Subject: "Innere Medizin",
-Chapter: "Primärer Hyperaldosteronismus",
-Length: "626",
-Imppact: 13,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/CiYqFK/article/2g0Tu2",
-Error: 0
-}, {
-Day: 16,
-Importance: 6,
-Subject: "Innere Medizin",
-Chapter: "Cushing-Syndrom",
-Length: "1022",
-Imppact: 18,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/CiYqFK/article/fg0ku2",
-Error: 0
-}, {
-Day: 16,
-Importance: 7,
-Subject: "Innere Medizin",
-Chapter: "Phäochromozytom",
-Length: "688",
-Imppact: 13,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/CiYqFK/article/Tg06u2",
-Error: 0
-}, {
-Day: 16,
-Importance: 8,
-Subject: "Innere Medizin",
-Chapter: "Multiple endokrine Neoplasie",
-Length: "302",
-Imppact: 3,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/CiYqFK/article/hg0cE2",
-Error: 0
-}, {
-Day: 17,
-Importance: 1,
-Subject: "Innere Medizin",
-Chapter: "Struma",
-Length: "637",
-Imppact: 4,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/xiYEFK/article/Yg0nF2",
-Error: 0
-}, {
-Day: 17,
-Importance: 2,
-Subject: "Innere Medizin",
-Chapter: "Anti-Schilddrüsen-Antikörper",
-Length: "281",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/xiYEFK/article/YM0nMg",
-Error: 0
-}, {
-Day: 17,
-Importance: 3,
-Subject: "Innere Medizin",
-Chapter: "Hyperthyreose",
-Length: "1785",
-Imppact: 32,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/xiYEFK/article/bg0HF2",
-Error: 0
-}, {
-Day: 17,
-Importance: 4,
-Subject: "Innere Medizin",
-Chapter: "Hypothyreose",
-Length: "1408",
-Imppact: 8,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/xiYEFK/article/cg0a82",
-Error: 0
-}, {
-Day: 17,
-Importance: 5,
-Subject: "Innere Medizin",
-Chapter: "Hashimoto-Thyreoiditis",
-Length: "800",
-Imppact: 8,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/xiYEFK/article/1g0282",
-Error: 0
-}, {
-Day: 17,
-Importance: 6,
-Subject: "Innere Medizin",
-Chapter: "Thyreoiditis de Quervain",
-Length: "359",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/xiYEFK/article/dg0o82",
-Error: 0
-}, {
-Day: 17,
-Importance: 7,
-Subject: "Innere Medizin",
-Chapter: "Hyperparathyreoidismus",
-Length: "1013",
-Imppact: 6,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/xiYEFK/article/gg0Fu2",
-Error: 0
-}, {
-Day: 18,
-Importance: 1,
-Subject: "Innere Medizin",
-Chapter: "Metabolisches Syndrom",
-Length: "807",
-Imppact: 19,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/BiYzFK/article/4g03v2",
-Error: 0
-}, {
-Day: 18,
-Importance: 2,
-Subject: "Innere Medizin",
-Chapter: "Diabetes mellitus",
-Length: "4881",
-Imppact: 51,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/BiYzFK/article/3g0SE2",
-Error: 0
-}, {
-Day: 18,
-Importance: 3,
-Subject: "Innere Medizin",
-Chapter: "Hyperglykämisches Koma",
-Length: "1233",
-Imppact: 10,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/BiYzFK/article/jg0_E2",
-Error: 0
-}, {
-Day: 18,
-Importance: 4,
-Subject: "Innere Medizin",
-Chapter: "Hypoglykämie",
-Length: "787",
-Imppact: 13,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/BiYzFK/article/Pg0Wv2",
-Error: 0
-}, {
-Day: 19,
-Importance: 1,
-Subject: "Innere Medizin",
-Chapter: "Diagnostik von Erkrankungen der Niere und der ableitenden Harnwege",
-Length: "773",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/yiYd8K/article/kg0mv2",
-Error: 0
-}, {
-Day: 19,
-Importance: 2,
-Subject: "Innere Medizin",
-Chapter: "Dehydratation",
-Length: "484",
-Imppact: 3,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/yiYd8K/article/Ig0Y92",
-Error: 0
-}, {
-Day: 19,
-Importance: 3,
-Subject: "Innere Medizin",
-Chapter: "Ödeme",
-Length: "390",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/yiYd8K/article/SM0yLg",
-Error: 0
-}, {
-Day: 19,
-Importance: 4,
-Subject: "Innere Medizin",
-Chapter: "Elektrolytstörungen Natrium",
-Length: "1264",
-Imppact: 9,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/yiYd8K/article/rg0f92",
-Error: 0
-}, {
-Day: 19,
-Importance: 5,
-Subject: "Innere Medizin",
-Chapter: "Elektrolytstörungen Kalium",
-Length: "1133",
-Imppact: 12,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/yiYd8K/article/7g0492",
-Error: 0
-}, {
-Day: 19,
-Importance: 6,
-Subject: "Innere Medizin",
-Chapter: "Elektrolytstörungen Calcium",
-Length: "1958",
-Imppact: 12,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/yiYd8K/article/Hg0K92",
-Error: 0
-}, {
-Day: 19,
-Importance: 7,
-Subject: "Innere Medizin",
-Chapter: "Akute Nierenfunktionseinschränkung",
-Length: "1512",
-Imppact: 7,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/yiYd8K/article/Og0Iv2",
-Error: 0
-}, {
-Day: 19,
-Importance: 8,
-Subject: "Innere Medizin",
-Chapter: "Chronische Nierenkrankheit",
-Length: "1637",
-Imppact: 7,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/yiYd8K/article/lg0vv2",
-Error: 0
-}, {
-Day: 19,
-Importance: 9,
-Subject: "Innere Medizin",
-Chapter: "Transplantation",
-Length: "2359",
-Imppact: 9,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/yiYd8K/article/gn0Fsg",
-Error: 0
-}, {
-Day: 20,
-Importance: 1,
-Subject: "Innere Medizin",
-Chapter: "Vasopressin-assoziierte Erkrankungen (Diabetes insipidus)",
-Length: "757",
-Imppact: 6,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/AiYR8K/article/_T05t2",
-Error: 0
-}, {
-Day: 20,
-Importance: 2,
-Subject: "Innere Medizin",
-Chapter: "Syndrom der inadäquaten ADH-Sekretion",
-Length: "496",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/AiYR8K/article/zT0rt2",
-Error: 0
-}, {
-Day: 20,
-Importance: 3,
-Subject: "Innere Medizin",
-Chapter: "Grundlagen nephrologischer Krankheitsbilder",
-Length: "937",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/AiYR8K/article/mg0VD2",
-Error: 0
-}, {
-Day: 20,
-Importance: 4,
-Subject: "Innere Medizin",
-Chapter: "Infektassoziierte Glomerulonephritiden",
-Length: "783",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/AiYR8K/article/Lg0wD2",
-Error: 0
-}, {
-Day: 20,
-Importance: 5,
-Subject: "Innere Medizin",
-Chapter: "Rapid-progressive Glomerulonephritis",
-Length: "942",
-Imppact: 4,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/AiYR8K/article/og00w2",
-Error: 0
-}, {
-Day: 20,
-Importance: 6,
-Subject: "Innere Medizin",
-Chapter: "Nephrotisches Syndrom",
-Length: "1298",
-Imppact: 7,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/AiYR8K/article/Mg0MD2",
-Error: 0
-}, {
-Day: 20,
-Importance: 7,
-Subject: "Innere Medizin",
-Chapter: "IgA-Nephropathie",
-Length: "358",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/AiYR8K/article/GE0BC3",
-Error: 0
-}, {
-Day: 20,
-Importance: 8,
-Subject: "Innere Medizin",
-Chapter: "Renale tubuläre Partialfunktionsstörungen",
-Length: "579",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/AiYR8K/article/2l0TwT",
-Error: 0
-}, {
-Day: 20,
-Importance: 9,
-Subject: "Innere Medizin",
-Chapter: "Proteinurie",
-Length: "1100",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/AiYR8K/article/0Q0euf",
-Error: 0
-}, {
-Day: 20,
-Importance: 10,
-Subject: "Innere Medizin",
-Chapter: "Nierenersatzverfahren",
-Length: "849",
-Imppact: 7,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/AiYR8K/article/S50yjg",
-Error: 0
-}, {
-Day: 21,
-Importance: 1,
-Subject: "Innere Medizin",
-Chapter: "Immunsystem",
-Length: "2062",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/_iY58K/article/x50Emg",
-Error: 0
-}, {
-Day: 21,
-Importance: 2,
-Subject: "Innere Medizin",
-Chapter: "Fieber und Entzündungsreaktionen",
-Length: "1429",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/_iY58K/article/j50_Pg",
-Error: 0
-}, {
-Day: 21,
-Importance: 3,
-Subject: "Innere Medizin",
-Chapter: "Allergische Erkrankungen",
-Length: "2620",
-Imppact: 27,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/_iY58K/article/ek0x5T",
-Error: 0
-}, {
-Day: 21,
-Importance: 4,
-Subject: "Innere Medizin",
-Chapter: "Kontaktekzem",
-Length: "610",
-Imppact: 13,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/_iY58K/article/q90CoR",
-Error: 0
-}, {
-Day: 21,
-Importance: 5,
-Subject: "Innere Medizin",
-Chapter: "Anaphylaxie",
-Length: "971",
-Imppact: 16,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/_iY58K/article/nt07V3",
-Error: 0
-}, {
-Day: 21,
-Importance: 6,
-Subject: "Innere Medizin",
-Chapter: "Raynaud-Syndrom",
-Length: "594",
-Imppact: 9,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/_iY58K/article/Uh0bWf",
-Error: 0
-}, {
-Day: 21,
-Importance: 7,
-Subject: "Innere Medizin",
-Chapter: "Fibromyalgiesyndrom",
-Length: "520",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/_iY58K/article/2T0TJ2",
-Error: 0
-}, {
-Day: 22,
-Importance: 1,
-Subject: "Innere Medizin",
-Chapter: "Rheumatoide Arthritis",
-Length: "1905",
-Imppact: 32,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/ziYr8K/article/-f0DK2",
-Error: 0
-}, {
-Day: 22,
-Importance: 2,
-Subject: "Innere Medizin",
-Chapter: "Axiale Spondylarthritis",
-Length: "1184",
-Imppact: 24,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/ziYr8K/article/ZT0Z62",
-Error: 0
-}, {
-Day: 22,
-Importance: 3,
-Subject: "Innere Medizin",
-Chapter: "Reaktive Arthritis",
-Length: "548",
-Imppact: 15,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/ziYr8K/article/0T0e62",
-Error: 0
-}, {
-Day: 22,
-Importance: 4,
-Subject: "Innere Medizin",
-Chapter: "Psoriasis-Arthritis",
-Length: "482",
-Imppact: 7,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/ziYr8K/article/1Xa2CQ",
-Error: 0
-}, {
-Day: 22,
-Importance: 5,
-Subject: "Innere Medizin",
-Chapter: "Hyperurikämie und Gicht",
-Length: "1506",
-Imppact: 32,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/ziYr8K/article/YT0n62",
-Error: 0
-}, {
-Day: 23,
-Importance: 1,
-Subject: "Innere Medizin",
-Chapter: "Kollagenosen",
-Length: "329",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/-iYD8K/article/WT0Pp2",
-Error: 0
-}, {
-Day: 23,
-Importance: 2,
-Subject: "Innere Medizin",
-Chapter: "Lupus erythematodes",
-Length: "2017",
-Imppact: 24,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/-iYD8K/article/dT0op2",
-Error: 0
-}, {
-Day: 23,
-Importance: 3,
-Subject: "Innere Medizin",
-Chapter: "Polymyositis und Dermatomyositis",
-Length: "651",
-Imppact: 12,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/-iYD8K/article/VT0Gp2",
-Error: 0
-}, {
-Day: 23,
-Importance: 4,
-Subject: "Innere Medizin",
-Chapter: "Systemische Sklerose",
-Length: "1483",
-Imppact: 23,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/-iYD8K/article/eT0xp2",
-Error: 0
-}, {
-Day: 23,
-Importance: 5,
-Subject: "Innere Medizin",
-Chapter: "Vaskulitiden",
-Length: "845",
-Imppact: 6,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/-iYD8K/article/fT0kJ2",
-Error: 0
-}, {
-Day: 23,
-Importance: 6,
-Subject: "Innere Medizin",
-Chapter: "Riesenzellarteriitis",
-Length: "1225",
-Imppact: 28,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/-iYD8K/article/1T02p2",
-Error: 0
-}, {
-Day: 23,
-Importance: 7,
-Subject: "Innere Medizin",
-Chapter: "Polymyalgia rheumatica",
-Length: "706",
-Imppact: 13,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/-iYD8K/article/I90YKR",
-Error: 0
-}, {
-Day: 23,
-Importance: 8,
-Subject: "Innere Medizin",
-Chapter: "Granulomatose mit Polyangiitis",
-Length: "1002",
-Imppact: 7,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/-iYD8K/article/TT06J2",
-Error: 0
-}, {
-Day: 23,
-Importance: 9,
-Subject: "Innere Medizin",
-Chapter: "Kawasaki-Syndrom",
-Length: "841",
-Imppact: 9,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/-iYD8K/article/hT0cq2",
-Error: 0
-}, {
-Day: 23,
-Importance: 10,
-Subject: "Innere Medizin",
-Chapter: "Thrombangiitis obliterans",
-Length: "328",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/-iYD8K/article/2h0TWf",
-Error: 0
-}, {
-Day: 23,
-Importance: 11,
-Subject: "Innere Medizin",
-Chapter: "Rheumatologische Antikörperdiagnostik",
-Length: "400",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/-iYD8K/article/ul0pAT",
-Error: 0
-}, {
-Day: 24,
-Importance: 1,
-Subject: "Infektiologie und Hygiene",
-Chapter: "Mikrobiologische Untersuchungen",
-Length: "615",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/ZQYZuK/article/n507kg",
-Error: 0
-}, {
-Day: 24,
-Importance: 2,
-Subject: "Infektiologie und Hygiene",
-Chapter: "Blutkulturen",
-Length: "752",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/ZQYZuK/article/7l04yT",
-Error: 0
-}, {
-Day: 24,
-Importance: 3,
-Subject: "Infektiologie und Hygiene",
-Chapter: "Sepsis",
-Length: "2723",
-Imppact: 40,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/ZQYZuK/article/xm0E3g",
-Error: 0
-}, {
-Day: 24,
-Importance: 4,
-Subject: "Infektiologie und Hygiene",
-Chapter: "Durchfall",
-Length: "665",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/ZQYZuK/article/6M0jpg",
-Error: 0
-}, {
-Day: 24,
-Importance: 5,
-Subject: "Infektiologie und Hygiene",
-Chapter: "Lebensmittelvergiftung",
-Length: "1090",
-Imppact: 9,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/ZQYZuK/article/Pf0Wm2",
-Error: 0
-}, {
-Day: 24,
-Importance: 6,
-Subject: "Infektiologie und Hygiene",
-Chapter: "Norovirus-Infektion",
-Length: "845",
-Imppact: 7,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/ZQYZuK/article/Gf0Bn2",
-Error: 0
-}, {
-Day: 24,
-Importance: 7,
-Subject: "Infektiologie und Hygiene",
-Chapter: "Rotavirus-Infektion",
-Length: "552",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/ZQYZuK/article/SJ0ytS",
-Error: 0
-}, {
-Day: 24,
-Importance: 8,
-Subject: "Infektiologie und Hygiene",
-Chapter: "Bakterielle Durchfallerkrankungen",
-Length: "1094",
-Imppact: 21,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/ZQYZuK/article/oM00pg",
-Error: 0
-}, {
-Day: 24,
-Importance: 9,
-Subject: "Infektiologie und Hygiene",
-Chapter: "Darmpathogene E.-coli-Infektion",
-Length: "991",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/ZQYZuK/article/yf0dK2",
-Error: 0
-}, {
-Day: 24,
-Importance: 10,
-Subject: "Infektiologie und Hygiene",
-Chapter: "Clostridioides-difficile-Infektion",
-Length: "806",
-Imppact: 11,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/ZQYZuK/article/dS0oA2",
-Error: 0
-}, {
-Day: 24,
-Importance: 11,
-Subject: "Infektiologie und Hygiene",
-Chapter: "Amöbiasis",
-Length: "922",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/ZQYZuK/article/6f0jM2",
-Error: 0
-}, {
-Day: 24,
-Importance: 12,
-Subject: "Infektiologie und Hygiene",
-Chapter: "Giardiasis",
-Length: "551",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/ZQYZuK/article/fJ0ktS",
-Error: 0
-}, {
-Day: 25,
-Importance: 1,
-Subject: "Infektiologie und Hygiene",
-Chapter: "Erkrankungen durch Staphylokokken",
-Length: "946",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/0QYeuK/article/Vl0GDT",
-Error: 0
-}, {
-Day: 25,
-Importance: 2,
-Subject: "Infektiologie und Hygiene",
-Chapter: "Erkrankungen durch Streptokokken",
-Length: "447",
-Imppact: 4,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/0QYeuK/article/dl0oDT",
-Error: 0
-}, {
-Day: 25,
-Importance: 3,
-Subject: "Infektiologie und Hygiene",
-Chapter: "Toxische Schocksyndrome",
-Length: "437",
-Imppact: 6,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/0QYeuK/article/yJ0d9S",
-Error: 0
-}, {
-Day: 25,
-Importance: 4,
-Subject: "Infektiologie und Hygiene",
-Chapter: "Chlamydien-Infektionen",
-Length: "930",
-Imppact: 12,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/0QYeuK/article/ff0kl2",
-Error: 0
-}, {
-Day: 25,
-Importance: 5,
-Subject: "Infektiologie und Hygiene",
-Chapter: "Lyme-Borreliose",
-Length: "1558",
-Imppact: 44,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/0QYeuK/article/4f03m2",
-Error: 0
-}, {
-Day: 25,
-Importance: 6,
-Subject: "Infektiologie und Hygiene",
-Chapter: "Brucellose",
-Length: "366",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/0QYeuK/article/lf0vm2",
-Error: 0
-}, {
-Day: 25,
-Importance: 7,
-Subject: "Infektiologie und Hygiene",
-Chapter: "Typhus, Paratyphus",
-Length: "959",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/0QYeuK/article/Qf0uN2",
-Error: 0
-}, {
-Day: 25,
-Importance: 8,
-Subject: "Infektiologie und Hygiene",
-Chapter: "Milzbrand",
-Length: "407",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/0QYeuK/article/Of0Im2",
-Error: 0
-}, {
-Day: 25,
-Importance: 9,
-Subject: "Infektiologie und Hygiene",
-Chapter: "Leptospirose",
-Length: "453",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/0QYeuK/article/kf0mm2",
-Error: 0
-}, {
-Day: 25,
-Importance: 10,
-Subject: "Infektiologie und Hygiene",
-Chapter: "Diphtherie",
-Length: "566",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/0QYeuK/article/df0oO2",
-Error: 0
-}, {
-Day: 25,
-Importance: 11,
-Subject: "Infektiologie und Hygiene",
-Chapter: "Listeriose",
-Length: "408",
-Imppact: 6,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/0QYeuK/article/Nf0-m2",
-Error: 0
-}, {
-Day: 25,
-Importance: 12,
-Subject: "Infektiologie und Hygiene",
-Chapter: "Katzenkratzkrankheit",
-Length: "303",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/0QYeuK/article/d80ol3",
-Error: 0
-}, {
-Day: 26,
-Importance: 1,
-Subject: "Infektiologie und Hygiene",
-Chapter: "COVID-19",
-Length: "3263",
-Imppact: 13,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/aQYQuK/article/gG0FAh",
-Error: 0
-}, {
-Day: 26,
-Importance: 2,
-Subject: "Infektiologie und Hygiene",
-Chapter: "Influenza",
-Length: "1541",
-Imppact: 8,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/aQYQuK/article/Bm0z3g",
-Error: 0
-}, {
-Day: 26,
-Importance: 3,
-Subject: "Infektiologie und Hygiene",
-Chapter: "Herpesvirus-Infektionen",
-Length: "1359",
-Imppact: 4,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/aQYQuK/article/Mf0M52",
-Error: 0
-}, {
-Day: 26,
-Importance: 4,
-Subject: "Infektiologie und Hygiene",
-Chapter: "Zytomegalievirus-Infektionen",
-Length: "534",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/aQYQuK/article/nf0752",
-Error: 0
-}, {
-Day: 26,
-Importance: 5,
-Subject: "Infektiologie und Hygiene",
-Chapter: "Infektiöse Mononukleose",
-Length: "896",
-Imppact: 23,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/aQYQuK/article/Lf0w52",
-Error: 0
-}, {
-Day: 26,
-Importance: 6,
-Subject: "Infektiologie und Hygiene",
-Chapter: "HIV-Infektion",
-Length: "3407",
-Imppact: 26,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/aQYQuK/article/mf0V52",
-Error: 0
-}, {
-Day: 26,
-Importance: 7,
-Subject: "Infektiologie und Hygiene",
-Chapter: "Virales hämorrhagisches Fieber",
-Length: "1293",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/aQYQuK/article/aL0Qwg",
-Error: 0
-}, {
-Day: 26,
-Importance: 8,
-Subject: "Infektiologie und Hygiene",
-Chapter: "Gelbfieber",
-Length: "558",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/aQYQuK/article/U50bjg",
-Error: 0
-}, {
-Day: 26,
-Importance: 9,
-Subject: "Infektiologie und Hygiene",
-Chapter: "Denguefieber",
-Length: "949",
-Imppact: 4,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/aQYQuK/article/350SPg",
-Error: 0
-}, {
-Day: 26,
-Importance: 10,
-Subject: "Infektiologie und Hygiene",
-Chapter: "Zika-Virus-Infektion",
-Length: "549",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/aQYQuK/article/RJ0lFS",
-Error: 0
-}, {
-Day: 26,
-Importance: 11,
-Subject: "Infektiologie und Hygiene",
-Chapter: "Mpox",
-Length: "622",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/aQYQuK/article/wA0hNi",
-Error: 0
-}, {
-Day: 26,
-Importance: 12,
-Subject: "Infektiologie und Hygiene",
-Chapter: "Tollwut",
-Length: "923",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/aQYQuK/article/Gh0B2f",
-Error: 0
-}, {
-Day: 27,
-Importance: 1,
-Subject: "Infektiologie und Hygiene",
-Chapter: "Aspergillose",
-Length: "918",
-Imppact: 17,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/YQYnuK/article/7f04n2",
-Error: 0
-}, {
-Day: 27,
-Importance: 2,
-Subject: "Infektiologie und Hygiene",
-Chapter: "Malaria",
-Length: "1761",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/YQYnuK/article/Kf0UM2",
-Error: 0
-}, {
-Day: 27,
-Importance: 3,
-Subject: "Infektiologie und Hygiene",
-Chapter: "Toxoplasmose",
-Length: "617",
-Imppact: 4,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/YQYnuK/article/pf0LM2",
-Error: 0
-}, {
-Day: 27,
-Importance: 4,
-Subject: "Infektiologie und Hygiene",
-Chapter: "Leishmaniose",
-Length: "646",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/YQYnuK/article/qf0CM2",
-Error: 0
-}, {
-Day: 27,
-Importance: 5,
-Subject: "Infektiologie und Hygiene",
-Chapter: "Chagas-Krankheit",
-Length: "637",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/YQYnuK/article/cK0a2S",
-Error: 0
-}, {
-Day: 27,
-Importance: 6,
-Subject: "Infektiologie und Hygiene",
-Chapter: "Schlafkrankheit",
-Length: "403",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/YQYnuK/article/T506jg",
-Error: 0
-}, {
-Day: 27,
-Importance: 7,
-Subject: "Infektiologie und Hygiene",
-Chapter: "Wurmerkrankungen",
-Length: "1296",
-Imppact: 6,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/YQYnuK/article/Ff0gL2",
-Error: 0
-}, {
-Day: 27,
-Importance: 8,
-Subject: "Infektiologie und Hygiene",
-Chapter: "Echinokokkose",
-Length: "575",
-Imppact: 3,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/YQYnuK/article/9f0No2",
-Error: 0
-}, {
-Day: 27,
-Importance: 9,
-Subject: "Infektiologie und Hygiene",
-Chapter: "Schistosomiasis",
-Length: "820",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/YQYnuK/article/xf0Eo2",
-Error: 0
-}, {
-Day: 27,
-Importance: 10,
-Subject: "Infektiologie und Hygiene",
-Chapter: "Lepra",
-Length: "619",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/YQYnuK/article/Xk09mT",
-Error: 0
-}, {
-Day: 27,
-Importance: 11,
-Subject: "Infektiologie und Hygiene",
-Chapter: "Seltene Zoonosen",
-Length: "381",
-Imppact: 3,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/YQYnuK/article/250Tjg",
-Error: 0
-}, {
-Day: 28,
-Importance: 1,
-Subject: "Infektiologie und Hygiene",
-Chapter: "Antisepsis",
-Length: "1091",
-Imppact: 16,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/bQYHuK/article/WQ0PEf",
-Error: 0
-}, {
-Day: 28,
-Importance: 2,
-Subject: "Infektiologie und Hygiene",
-Chapter: "Nosokomiale Infektionen",
-Length: "2637",
-Imppact: 30,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/bQYHuK/article/_f05K2",
-Error: 0
-}, {
-Day: 28,
-Importance: 3,
-Subject: "Infektiologie und Hygiene",
-Chapter: "Lymphknotenschwellung",
-Length: "1917",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/bQYHuK/article/iL0Jxg",
-Error: 0
-}, {
-Day: 28,
-Importance: 4,
-Subject: "Infektiologie und Hygiene",
-Chapter: "Impfungen allgemein",
-Length: "1901",
-Imppact: 11,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/bQYHuK/article/_m05Rg",
-Error: 0
-}, {
-Day: 28,
-Importance: 5,
-Subject: "Infektiologie und Hygiene",
-Chapter: "Impfempfehlungen der STIKO",
-Length: "1638",
-Imppact: 13,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/bQYHuK/article/zm0rRg",
-Error: 0
-}, {
-Day: 28,
-Importance: 6,
-Subject: "Infektiologie und Hygiene",
-Chapter: "Infektionsschutzgesetz",
-Length: "1550",
-Imppact: 7,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/bQYHuK/article/aQ0Quf",
-Error: 0
-}, {
-Day: 28,
-Importance: 7,
-Subject: "Infektiologie und Hygiene",
-Chapter: "Wasserhygiene",
-Length: "502",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/bQYHuK/article/bQ0Huf",
-Error: 0
-}, {
-Day: 29,
-Importance: 1,
-Subject: "Pädiatrie",
-Chapter: "Das neugeborene Kind",
-Length: "827",
-Imppact: 13,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/XQY9uK/article/a40Q3T",
-Error: 0
-}, {
-Day: 29,
-Importance: 2,
-Subject: "Pädiatrie",
-Chapter: "Geburtstraumen",
-Length: "1123",
-Imppact: 3,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/XQY9uK/article/S40yiT",
-Error: 0
-}, {
-Day: 29,
-Importance: 3,
-Subject: "Pädiatrie",
-Chapter: "Perinatale Asphyxie und hypoxisch-ischämische Enzephalopathie",
-Length: "824",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/XQY9uK/article/h40cQT",
-Error: 0
-}, {
-Day: 29,
-Importance: 4,
-Subject: "Pädiatrie",
-Chapter: "Zerebralparese",
-Length: "393",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/XQY9uK/article/tM0Xqg",
-Error: 0
-}, {
-Day: 29,
-Importance: 5,
-Subject: "Pädiatrie",
-Chapter: "Neugeboreneninfektion",
-Length: "844",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/XQY9uK/article/gM0FLg",
-Error: 0
-}, {
-Day: 29,
-Importance: 6,
-Subject: "Pädiatrie",
-Chapter: "Omphalitis",
-Length: "296",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/XQY9uK/article/Jv0saR",
-Error: 0
-}, {
-Day: 29,
-Importance: 7,
-Subject: "Pädiatrie",
-Chapter: "Atemnotsyndrom des Neugeborenen",
-Length: "1251",
-Imppact: 7,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/XQY9uK/article/340SQT",
-Error: 0
-}, {
-Day: 29,
-Importance: 8,
-Subject: "Pädiatrie",
-Chapter: "Embryofetopathien durch Noxen",
-Length: "476",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/XQY9uK/article/V40GRT",
-Error: 0
-}, {
-Day: 29,
-Importance: 9,
-Subject: "Pädiatrie",
-Chapter: "Embryofetopathien durch Infektionserreger",
-Length: "1293",
-Imppact: 11,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/XQY9uK/article/d40oRT",
-Error: 0
-}, {
-Day: 29,
-Importance: 10,
-Subject: "Pädiatrie",
-Chapter: "Plötzlicher Säuglingstod",
-Length: "535",
-Imppact: 11,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/XQY9uK/article/T406iT",
-Error: 0
-}, {
-Day: 29,
-Importance: 11,
-Subject: "Pädiatrie",
-Chapter: "Kinderschutzmedizin",
-Length: "1757",
-Imppact: 18,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/XQY9uK/article/mP0V2T",
-Error: 0
-}, {
-Day: 30,
-Importance: 1,
-Subject: "Pädiatrie",
-Chapter: "Icterus neonatorum",
-Length: "956",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/cQYaEK/article/R40lQT",
-Error: 0
-}, {
-Day: 30,
-Importance: 2,
-Subject: "Pädiatrie",
-Chapter: "Morbus haemolyticus neonatorum",
-Length: "685",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/cQYaEK/article/i40JQT",
-Error: 0
-}, {
-Day: 30,
-Importance: 3,
-Subject: "Pädiatrie",
-Chapter: "Morbus haemorrhagicus neonatorum",
-Length: "318",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/cQYaEK/article/Q40uQT",
-Error: 0
-}, {
-Day: 30,
-Importance: 4,
-Subject: "Pädiatrie",
-Chapter: "Hyperbilirubinämie-Syndrome",
-Length: "569",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/cQYaEK/article/iM0Jog",
-Error: 0
-}, {
-Day: 30,
-Importance: 5,
-Subject: "Pädiatrie",
-Chapter: "Nahrungsmittelallergie",
-Length: "1311",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/cQYaEK/article/QM0uog",
-Error: 0
-}, {
-Day: 30,
-Importance: 6,
-Subject: "Pädiatrie",
-Chapter: "Entwicklung des Kindes",
-Length: "1030",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/cQYaEK/article/b40H3T",
-Error: 0
-}, {
-Day: 30,
-Importance: 7,
-Subject: "Pädiatrie",
-Chapter: "Kindervorsorgeuntersuchungen",
-Length: "863",
-Imppact: 7,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/cQYaEK/article/xH0Esh",
-Error: 0
-}, {
-Day: 30,
-Importance: 8,
-Subject: "Pädiatrie",
-Chapter: "Enuresis und funktionelle Harninkontinenz im Kindes- und Jugendalter",
-Length: "497",
-Imppact: 4,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/cQYaEK/article/HP0KTT",
-Error: 0
-}, {
-Day: 30,
-Importance: 9,
-Subject: "Pädiatrie",
-Chapter: "Kleinwuchs",
-Length: "725",
-Imppact: 4,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/cQYaEK/article/c40aRT",
-Error: 0
-}, {
-Day: 30,
-Importance: 10,
-Subject: "Pädiatrie",
-Chapter: "Großwuchs",
-Length: "550",
-Imppact: 4,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/cQYaEK/article/1402RT",
-Error: 0
-}, {
-Day: 30,
-Importance: 11,
-Subject: "Pädiatrie",
-Chapter: "Pubertät",
-Length: "714",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/cQYaEK/article/PM0WKg",
-Error: 0
-}, {
-Day: 31,
-Importance: 1,
-Subject: "Pädiatrie",
-Chapter: "Neuroblastom",
-Length: "511",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/1QY2EK/article/940NlT",
-Error: 0
-}, {
-Day: 31,
-Importance: 2,
-Subject: "Pädiatrie",
-Chapter: "Nephroblastom",
-Length: "541",
-Imppact: 6,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/1QY2EK/article/zi0r8f",
-Error: 0
-}, {
-Day: 31,
-Importance: 3,
-Subject: "Pädiatrie",
-Chapter: "Retinoblastom",
-Length: "477",
-Imppact: 4,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/1QY2EK/article/C40qlT",
-Error: 0
-}, {
-Day: 31,
-Importance: 4,
-Subject: "Pädiatrie",
-Chapter: "Lippen-Kiefer-Gaumen-Spalte",
-Length: "459",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/1QY2EK/article/FM0gqg",
-Error: 0
-}, {
-Day: 31,
-Importance: 5,
-Subject: "Pädiatrie",
-Chapter: "Zystische Fibrose",
-Length: "1900",
-Imppact: 28,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/1QY2EK/article/L40wPT",
-Error: 0
-}, {
-Day: 31,
-Importance: 6,
-Subject: "Pädiatrie",
-Chapter: "Adrenogenitales Syndrom",
-Length: "1808",
-Imppact: 19,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/1QY2EK/article/W40PRT",
-Error: 0
-}, {
-Day: 31,
-Importance: 7,
-Subject: "Pädiatrie",
-Chapter: "Seltene hereditäre Syndrome",
-Length: "1023",
-Imppact: 17,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/1QY2EK/article/240TiT",
-Error: 0
-}, {
-Day: 31,
-Importance: 8,
-Subject: "Pädiatrie",
-Chapter: "Hereditäre Stoffwechselerkrankungen",
-Length: "1060",
-Imppact: 3,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/1QY2EK/article/_Xa50j",
-Error: 0
-}, {
-Day: 31,
-Importance: 9,
-Subject: "Pädiatrie",
-Chapter: "Hereditäre Störungen des Aminosäurestoffwechsels",
-Length: "1380",
-Imppact: 14,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/1QY2EK/article/X1a92j",
-Error: 0
-}, {
-Day: 31,
-Importance: 10,
-Subject: "Pädiatrie",
-Chapter: "Hereditäre Störungen des Kohlenhydratstoffwechsels",
-Length: "800",
-Imppact: 11,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/1QY2EK/article/c1aafj",
-Error: 0
-}, {
-Day: 31,
-Importance: 11,
-Subject: "Pädiatrie",
-Chapter: "Hereditäre Störungen des Fettsäurestoffwechsels",
-Length: "373",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/1QY2EK/article/11a2fj",
-Error: 0
-}, {
-Day: 31,
-Importance: 12,
-Subject: "Pädiatrie",
-Chapter: "Hereditäre Störungen im Abbau komplexer Moleküle",
-Length: "847",
-Imppact: 4,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/1QY2EK/article/W1aPfj",
-Error: 0
-}, {
-Day: 32,
-Importance: 1,
-Subject: "Pädiatrie",
-Chapter: "Atopische Dermatitis",
-Length: "1440",
-Imppact: 11,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/WQYPEK/article/A40RNT",
-Error: 0
-}, {
-Day: 32,
-Importance: 2,
-Subject: "Pädiatrie",
-Chapter: "Windeldermatitis",
-Length: "483",
-Imppact: 4,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/WQYPEK/article/1J02GS",
-Error: 0
-}, {
-Day: 32,
-Importance: 3,
-Subject: "Pädiatrie",
-Chapter: "Masern",
-Length: "1797",
-Imppact: 25,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/WQYPEK/article/r40fkT",
-Error: 0
-}, {
-Day: 32,
-Importance: 4,
-Subject: "Pädiatrie",
-Chapter: "Scharlach",
-Length: "925",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/WQYPEK/article/F40gOT",
-Error: 0
-}, {
-Day: 32,
-Importance: 5,
-Subject: "Pädiatrie",
-Chapter: "Röteln",
-Length: "690",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/WQYPEK/article/7404kT",
-Error: 0
-}, {
-Day: 32,
-Importance: 6,
-Subject: "Pädiatrie",
-Chapter: "Ringelröteln",
-Length: "606",
-Imppact: 4,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/WQYPEK/article/G40BkT",
-Error: 0
-}, {
-Day: 32,
-Importance: 7,
-Subject: "Pädiatrie",
-Chapter: "Exanthema subitum",
-Length: "503",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/WQYPEK/article/s40tkT",
-Error: 0
-}, {
-Day: 32,
-Importance: 8,
-Subject: "Pädiatrie",
-Chapter: "Windpocken",
-Length: "1507",
-Imppact: 10,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/WQYPEK/article/I40YkT",
-Error: 0
-}, {
-Day: 32,
-Importance: 9,
-Subject: "Pädiatrie",
-Chapter: "IgA-Vaskulitis",
-Length: "592",
-Imppact: 13,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/WQYPEK/article/BT0zG2",
-Error: 0
-}, {
-Day: 32,
-Importance: 10,
-Subject: "Pädiatrie",
-Chapter: "Mumps",
-Length: "667",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/WQYPEK/article/H40KkT",
-Error: 0
-}, {
-Day: 32,
-Importance: 11,
-Subject: "Pädiatrie",
-Chapter: "Pertussis",
-Length: "818",
-Imppact: 9,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/WQYPEK/article/840OOT",
-Error: 0
-}, {
-Day: 32,
-Importance: 12,
-Subject: "Pädiatrie",
-Chapter: "Poliomyelitis",
-Length: "983",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/WQYPEK/article/t40XOT",
-Error: 0
-}, {
-Day: 32,
-Importance: 13,
-Subject: "Pädiatrie",
-Chapter: "Fieberkrampf",
-Length: "677",
-Imppact: 3,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/WQYPEK/article/D401lT",
-Error: 0
-}, {
-Day: 33,
-Importance: 1,
-Subject: "Pädiatrie",
-Chapter: "Akute Bronchiolitis im Säuglingsalter",
-Length: "597",
-Imppact: 4,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/dQYoEK/article/EF08P3",
-Error: 0
-}, {
-Day: 33,
-Importance: 2,
-Subject: "Pädiatrie",
-Chapter: "Pseudokrupp",
-Length: "771",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/dQYoEK/article/n407PT",
-Error: 0
-}, {
-Day: 33,
-Importance: 3,
-Subject: "Pädiatrie",
-Chapter: "Epiglottitis",
-Length: "677",
-Imppact: 6,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/dQYoEK/article/f50kjg",
-Error: 0
-}, {
-Day: 33,
-Importance: 4,
-Subject: "Pädiatrie",
-Chapter: "Fremdkörperaspiration",
-Length: "912",
-Imppact: 8,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/dQYoEK/article/K50UOg",
-Error: 0
-}, {
-Day: 33,
-Importance: 5,
-Subject: "Pädiatrie",
-Chapter: "Azyanotische angeborene Herzfehler",
-Length: "1749",
-Imppact: 13,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/dQYoEK/article/4403jT",
-Error: 0
-}, {
-Day: 33,
-Importance: 6,
-Subject: "Pädiatrie",
-Chapter: "Ventrikelseptumdefekt",
-Length: "599",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/dQYoEK/article/ew0x3R",
-Error: 0
-}, {
-Day: 33,
-Importance: 7,
-Subject: "Pädiatrie",
-Chapter: "Atriumseptumdefekt",
-Length: "606",
-Imppact: 4,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/dQYoEK/article/1w023R",
-Error: 0
-}, {
-Day: 33,
-Importance: 8,
-Subject: "Pädiatrie",
-Chapter: "Zyanotische angeborene Herzfehler",
-Length: "1348",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/dQYoEK/article/mw0VjR",
-Error: 0
-}, {
-Day: 33,
-Importance: 9,
-Subject: "Pädiatrie",
-Chapter: "Fallot-Tetralogie",
-Length: "746",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/dQYoEK/article/rw0f4R",
-Error: 0
-}, {
-Day: 33,
-Importance: 10,
-Subject: "Pädiatrie",
-Chapter: "Choanalatresie",
-Length: "314",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/dQYoEK/article/M40MPT",
-Error: 0
-}, {
-Day: 33,
-Importance: 11,
-Subject: "Pädiatrie",
-Chapter: "Ösophagusatresie",
-Length: "548",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/dQYoEK/article/K40U4T",
-Error: 0
-}, {
-Day: 33,
-Importance: 12,
-Subject: "Pädiatrie",
-Chapter: "Hypertrophe Pylorusstenose",
-Length: "232",
-Imppact: 10,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/dQYoEK/article/J40s4T",
-Error: 0
-}, {
-Day: 33,
-Importance: 13,
-Subject: "Pädiatrie",
-Chapter: "Duodenalatresie",
-Length: "353",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/dQYoEK/article/640j4T",
-Error: 0
-}, {
-Day: 33,
-Importance: 14,
-Subject: "Pädiatrie",
-Chapter: "Morbus Hirschsprung",
-Length: "656",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/dQYoEK/article/q40C4T",
-Error: 0
-}, {
-Day: 33,
-Importance: 15,
-Subject: "Pädiatrie",
-Chapter: "Viszerale Fehlbildungen",
-Length: "687",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/dQYoEK/article/p40L4T",
-Error: 0
-}, {
-Day: 33,
-Importance: 16,
-Subject: "Pädiatrie",
-Chapter: "Nekrotisierende Enterokolitis",
-Length: "769",
-Imppact: 3,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/dQYoEK/article/o4004T",
-Error: 0
-}, {
-Day: 33,
-Importance: 17,
-Subject: "Pädiatrie",
-Chapter: "Darminvagination",
-Length: "736",
-Imppact: 6,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/dQYoEK/article/Ah0Rgf",
-Error: 0
-}, {
-Day: 34,
-Importance: 1,
-Subject: "Pädiatrie",
-Chapter: "Hüftreifungsstörung (Developmental Dysplasia of the Hip)",
-Length: "833",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/VQYGEK/article/NQ0-wf",
-Error: 0
-}, {
-Day: 34,
-Importance: 2,
-Subject: "Pädiatrie",
-Chapter: "Morbus Perthes",
-Length: "1451",
-Imppact: 21,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/VQYGEK/article/mQ0V9f",
-Error: 0
-}, {
-Day: 34,
-Importance: 3,
-Subject: "Pädiatrie",
-Chapter: "Epiphyseolysis capitis femoris",
-Length: "781",
-Imppact: 8,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/VQYGEK/article/MQ0M9f",
-Error: 0
-}, {
-Day: 34,
-Importance: 4,
-Subject: "Pädiatrie",
-Chapter: "Juvenile idiopathische Arthritis",
-Length: "1174",
-Imppact: 10,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/VQYGEK/article/w40hlT",
-Error: 0
-}, {
-Day: 34,
-Importance: 5,
-Subject: "Pädiatrie",
-Chapter: "Morbus Scheuermann",
-Length: "257",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/VQYGEK/article/jQ0_Df",
-Error: 0
-}, {
-Day: 34,
-Importance: 6,
-Subject: "Pädiatrie",
-Chapter: "Kraniosynostosen",
-Length: "280",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/VQYGEK/article/g40FiT",
-Error: 0
-}, {
-Day: 34,
-Importance: 7,
-Subject: "Pädiatrie",
-Chapter: "Hydrozephalus",
-Length: "325",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/VQYGEK/article/EM08qg",
-Error: 0
-}, {
-Day: 34,
-Importance: 8,
-Subject: "Pädiatrie",
-Chapter: "Fehlbildungen des kraniozervikalen Übergangs",
-Length: "416",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/VQYGEK/article/Am0RRg",
-Error: 0
-}, {
-Day: 34,
-Importance: 9,
-Subject: "Pädiatrie",
-Chapter: "Neuralrohrdefekte",
-Length: "736",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/VQYGEK/article/el0xDT",
-Error: 0
-}, {
-Day: 35,
-Importance: 1,
-Subject: "Humangenetik",
-Chapter: "Humangenetik (Klinik)",
-Length: "2354",
-Imppact: 46,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/eQYxEK/article/y50d5g",
-Error: 0
-}, {
-Day: 35,
-Importance: 2,
-Subject: "Humangenetik",
-Chapter: "Chromosomenaberrationen",
-Length: "1088",
-Imppact: 15,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/eQYxEK/article/e40xRT",
-Error: 0
-}, {
-Day: 35,
-Importance: 3,
-Subject: "Humangenetik",
-Chapter: "Trisomie 21",
-Length: "1194",
-Imppact: 10,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/eQYxEK/article/U40biT",
-Error: 0
-}, {
-Day: 35,
-Importance: 4,
-Subject: "Humangenetik",
-Chapter: "Ehlers-Danlos-Syndrom und Marfan-Syndrom",
-Length: "686",
-Imppact: 7,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/eQYxEK/article/hk0cnT",
-Error: 0
-}, {
-Day: 36,
-Importance: 1,
-Subject: "Dermatologie",
-Chapter: "Grundlagen der Dermatologie",
-Length: "1488",
-Imppact: 8,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/UQYbvK/article/_405NT",
-Error: 0
-}, {
-Day: 36,
-Importance: 2,
-Subject: "Dermatologie",
-Chapter: "Herpes zoster",
-Length: "1232",
-Imppact: 23,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/UQYbvK/article/HR0Kof",
-Error: 0
-}, {
-Day: 36,
-Importance: 3,
-Subject: "Dermatologie",
-Chapter: "Molluscum contagiosum",
-Length: "290",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/UQYbvK/article/-40DNT",
-Error: 0
-}, {
-Day: 36,
-Importance: 4,
-Subject: "Dermatologie",
-Chapter: "Impetigo contagiosa",
-Length: "385",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/UQYbvK/article/ak0QmT",
-Error: 0
-}, {
-Day: 36,
-Importance: 5,
-Subject: "Dermatologie",
-Chapter: "Staphylococcal scalded Skin Syndrome",
-Length: "451",
-Imppact: 3,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/UQYbvK/article/Yk0nmT",
-Error: 0
-}, {
-Day: 36,
-Importance: 6,
-Subject: "Dermatologie",
-Chapter: "Intertriginöse Dermatosen",
-Length: "658",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/UQYbvK/article/0k0emT",
-Error: 0
-}, {
-Day: 36,
-Importance: 7,
-Subject: "Dermatologie",
-Chapter: "Allgemeine Mykologie",
-Length: "853",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/UQYbvK/article/KM0Upg",
-Error: 0
-}, {
-Day: 36,
-Importance: 8,
-Subject: "Dermatologie",
-Chapter: "Dermatophytosen",
-Length: "777",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/UQYbvK/article/Hf0Kn2",
-Error: 0
-}, {
-Day: 36,
-Importance: 9,
-Subject: "Dermatologie",
-Chapter: "Onychomykose",
-Length: "508",
-Imppact: 3,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/UQYbvK/article/-J0D9S",
-Error: 0
-}, {
-Day: 36,
-Importance: 10,
-Subject: "Dermatologie",
-Chapter: "Kandidosen",
-Length: "807",
-Imppact: 3,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/UQYbvK/article/rf0fn2",
-Error: 0
-}, {
-Day: 36,
-Importance: 11,
-Subject: "Dermatologie",
-Chapter: "Pityriasis versicolor",
-Length: "238",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/UQYbvK/article/Zk0ZmT",
-Error: 0
-}, {
-Day: 36,
-Importance: 12,
-Subject: "Dermatologie",
-Chapter: "Skabies",
-Length: "726",
-Imppact: 16,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/UQYbvK/article/ck0a5T",
-Error: 0
-}, {
-Day: 36,
-Importance: 13,
-Subject: "Dermatologie",
-Chapter: "Lauserkrankungen",
-Length: "646",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/UQYbvK/article/1k025T",
-Error: 0
-}, {
-Day: 36,
-Importance: 14,
-Subject: "Dermatologie",
-Chapter: "Fotodermatosen",
-Length: "591",
-Imppact: 4,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/UQYbvK/article/dk0o5T",
-Error: 0
-}, {
-Day: 36,
-Importance: 15,
-Subject: "Dermatologie",
-Chapter: "Porphyrien",
-Length: "912",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/UQYbvK/article/mk0VoT",
-Error: 0
-}, {
-Day: 36,
-Importance: 16,
-Subject: "Dermatologie",
-Chapter: "Angioödem",
-Length: "1083",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/UQYbvK/article/2k0TMT",
-Error: 0
-}, {
-Day: 36,
-Importance: 17,
-Subject: "Dermatologie",
-Chapter: "Urtikaria",
-Length: "693",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/UQYbvK/article/dD0oWR",
-Error: 0
-}, {
-Day: 37,
-Importance: 1,
-Subject: "Dermatologie",
-Chapter: "Erythema nodosum",
-Length: "501",
-Imppact: 3,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/2QYTvK/article/Fk0gpT",
-Error: 0
-}, {
-Day: 37,
-Importance: 2,
-Subject: "Dermatologie",
-Chapter: "Erythema exsudativum multiforme",
-Length: "450",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/2QYTvK/article/Tk06MT",
-Error: 0
-}, {
-Day: 37,
-Importance: 3,
-Subject: "Dermatologie",
-Chapter: "Epidermale Nekrolyse",
-Length: "638",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/2QYTvK/article/Ko0U1S",
-Error: 0
-}, {
-Day: 37,
-Importance: 4,
-Subject: "Dermatologie",
-Chapter: "Blasenbildende Autoimmundermatosen",
-Length: "1876",
-Imppact: 12,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/2QYTvK/article/jk0_nT",
-Error: 0
-}, {
-Day: 37,
-Importance: 5,
-Subject: "Dermatologie",
-Chapter: "Psoriasis vulgaris",
-Length: "1658",
-Imppact: 9,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/2QYTvK/article/4k03LT",
-Error: 0
-}, {
-Day: 37,
-Importance: 6,
-Subject: "Dermatologie",
-Chapter: "Lichen ruber planus",
-Length: "618",
-Imppact: 12,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/2QYTvK/article/5k0ioT",
-Error: 0
-}, {
-Day: 37,
-Importance: 7,
-Subject: "Dermatologie",
-Chapter: "Ichthyosen",
-Length: "173",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/2QYTvK/article/Qk0unT",
-Error: 0
-}, {
-Day: 37,
-Importance: 8,
-Subject: "Dermatologie",
-Chapter: "Pityriasis rosea",
-Length: "305",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/2QYTvK/article/Pk0WLT",
-Error: 0
-}, {
-Day: 37,
-Importance: 9,
-Subject: "Dermatologie",
-Chapter: "Seborrhoisches Ekzem",
-Length: "434",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/2QYTvK/article/Vk0G5T",
-Error: 0
-}, {
-Day: 37,
-Importance: 10,
-Subject: "Dermatologie",
-Chapter: "Acne vulgaris",
-Length: "1033",
-Imppact: 6,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/2QYTvK/article/nk07oT",
-Error: 0
-}, {
-Day: 37,
-Importance: 11,
-Subject: "Dermatologie",
-Chapter: "Rosazea",
-Length: "538",
-Imppact: 3,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/2QYTvK/article/Lk0woT",
-Error: 0
-}, {
-Day: 37,
-Importance: 12,
-Subject: "Dermatologie",
-Chapter: "Granulomatöse Hauterkrankungen",
-Length: "284",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/2QYTvK/article/Kk0UKT",
-Error: 0
-}, {
-Day: 38,
-Importance: 1,
-Subject: "Dermatologie",
-Chapter: "Benigne Hauttumoren",
-Length: "1399",
-Imppact: 11,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/fQYkvK/article/6k0jKT",
-Error: 0
-}, {
-Day: 38,
-Importance: 2,
-Subject: "Dermatologie",
-Chapter: "Aktinische Keratose",
-Length: "451",
-Imppact: 3,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/fQYkvK/article/pk0LKT",
-Error: 0
-}, {
-Day: 38,
-Importance: 3,
-Subject: "Dermatologie",
-Chapter: "Malignes Melanom",
-Length: "1888",
-Imppact: 24,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/fQYkvK/article/qk0CKT",
-Error: 0
-}, {
-Day: 38,
-Importance: 4,
-Subject: "Dermatologie",
-Chapter: "Plattenepithelkarzinom der Haut",
-Length: "1222",
-Imppact: 3,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/fQYkvK/article/Ik0Y6T",
-Error: 0
-}, {
-Day: 38,
-Importance: 5,
-Subject: "Dermatologie",
-Chapter: "Basalzellkarzinom",
-Length: "742",
-Imppact: 13,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/fQYkvK/article/rk0f6T",
-Error: 0
-}, {
-Day: 38,
-Importance: 6,
-Subject: "Dermatologie",
-Chapter: "Parapsoriasis en plaques",
-Length: "306",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/fQYkvK/article/kk0mLT",
-Error: 0
-}, {
-Day: 38,
-Importance: 7,
-Subject: "Dermatologie",
-Chapter: "Vitiligo",
-Length: "258",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/fQYkvK/article/7k046T",
-Error: 0
-}, {
-Day: 38,
-Importance: 8,
-Subject: "Dermatologie",
-Chapter: "Alopezien",
-Length: "771",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/fQYkvK/article/tk0XpT",
-Error: 0
-}, {
-Day: 38,
-Importance: 9,
-Subject: "Dermatologie",
-Chapter: "Sexuell übertragbare Infektionen",
-Length: "479",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/fQYkvK/article/IM0YJg",
-Error: 0
-}, {
-Day: 38,
-Importance: 10,
-Subject: "Dermatologie",
-Chapter: "Gonorrhö",
-Length: "491",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/fQYkvK/article/Hk0K6T",
-Error: 0
-}, {
-Day: 38,
-Importance: 11,
-Subject: "Dermatologie",
-Chapter: "Syphilis",
-Length: "1604",
-Imppact: 17,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/fQYkvK/article/sk0t6T",
-Error: 0
-}, {
-Day: 38,
-Importance: 12,
-Subject: "Dermatologie",
-Chapter: "Ulcus molle",
-Length: "309",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/fQYkvK/article/650jOg",
-Error: 0
-}, {
-Day: 38,
-Importance: 13,
-Subject: "Dermatologie",
-Chapter: "Sammelsurium der Dermatologie",
-Length: "499",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/fQYkvK/article/eM0xng",
-Error: 0
-}, {
-Day: 38,
-Importance: 14,
-Subject: "Dermatologie",
-Chapter: "Periorale Dermatitis",
-Length: "417",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/fQYkvK/article/rF0fj3",
-Error: 0
-}, {
-Day: 39,
-Importance: 1,
-Subject: "Anästhesie",
-Chapter: "Lokalanästhetika",
-Length: "670",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/TQY6vK/article/wN0hWg",
-Error: 0
-}, {
-Day: 39,
-Importance: 2,
-Subject: "Anästhesie",
-Chapter: "Regionalanästhesie",
-Length: "1734",
-Imppact: 15,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/TQY6vK/article/Sl0ywT",
-Error: 0
-}, {
-Day: 39,
-Importance: 3,
-Subject: "Anästhesie",
-Chapter: "Allgemeinanästhesie",
-Length: "2206",
-Imppact: 7,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/TQY6vK/article/hl0c9T",
-Error: 0
-}, {
-Day: 39,
-Importance: 4,
-Subject: "Anästhesie",
-Chapter: "Maschinelle Beatmung",
-Length: "1291",
-Imppact: 6,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/TQY6vK/article/970NLh",
-Error: 0
-}, {
-Day: 39,
-Importance: 5,
-Subject: "Anästhesie",
-Chapter: "Rapid Sequence Induction",
-Length: "1234",
-Imppact: 10,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/TQY6vK/article/gl0FwT",
-Error: 0
-}, {
-Day: 39,
-Importance: 6,
-Subject: "Anästhesie",
-Chapter: "Inhalationsanästhetika",
-Length: "729",
-Imppact: 3,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/TQY6vK/article/EN081g",
-Error: 0
-}, {
-Day: 39,
-Importance: 7,
-Subject: "Anästhesie",
-Chapter: "Injektionsanästhetika",
-Length: "565",
-Imppact: 10,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/TQY6vK/article/vN0A1g",
-Error: 0
-}, {
-Day: 39,
-Importance: 8,
-Subject: "Anästhesie",
-Chapter: "Muskelrelaxanzien",
-Length: "1020",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/TQY6vK/article/DN01Wg",
-Error: 0
-}, {
-Day: 39,
-Importance: 9,
-Subject: "Anästhesie",
-Chapter: "Benzodiazepine",
-Length: "644",
-Imppact: 4,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/TQY6vK/article/CN0qWg",
-Error: 0
-}, {
-Day: 39,
-Importance: 10,
-Subject: "Anästhesie",
-Chapter: "Maligne Hyperthermie",
-Length: "701",
-Imppact: 3,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/TQY6vK/article/sg0t92",
-Error: 0
-}, {
-Day: 40,
-Importance: 1,
-Subject: "Intensiv- und Notfallmedizin",
-Chapter: "Grundlagen der Schmerztherapie",
-Length: "1661",
-Imppact: 17,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/gQYFvK/article/xN0EWg",
-Error: 0
-}, {
-Day: 40,
-Importance: 2,
-Subject: "Intensiv- und Notfallmedizin",
-Chapter: "Nicht-Opioid-Analgetika",
-Length: "1037",
-Imppact: 19,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/gQYFvK/article/BN0zWg",
-Error: 0
-}, {
-Day: 40,
-Importance: 3,
-Subject: "Intensiv- und Notfallmedizin",
-Chapter: "Opioide",
-Length: "1022",
-Imppact: 10,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/gQYFvK/article/yN0ddg",
-Error: 0
-}, {
-Day: 40,
-Importance: 4,
-Subject: "Intensiv- und Notfallmedizin",
-Chapter: "Pulsoxymetrie und Blutgasanalyse",
-Length: "1459",
-Imppact: 14,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/gQYFvK/article/8l0OAT",
-Error: 0
-}, {
-Day: 40,
-Importance: 5,
-Subject: "Intensiv- und Notfallmedizin",
-Chapter: "Flüssigkeits- und Volumentherapie",
-Length: "1373",
-Imppact: 7,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/gQYFvK/article/fM0kLg",
-Error: 0
-}, {
-Day: 40,
-Importance: 6,
-Subject: "Intensiv- und Notfallmedizin",
-Chapter: "Künstliche Ernährung",
-Length: "584",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/gQYFvK/article/9t0Nf3",
-Error: 0
-}, {
-Day: 40,
-Importance: 7,
-Subject: "Intensiv- und Notfallmedizin",
-Chapter: "Transfusionen",
-Length: "1993",
-Imppact: 11,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/gQYFvK/article/2M0TLg",
-Error: 0
-}, {
-Day: 40,
-Importance: 8,
-Subject: "Intensiv- und Notfallmedizin",
-Chapter: "Präklinische Traumaversorgung",
-Length: "1502",
-Imppact: 19,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/gQYFvK/article/4N03Yg",
-Error: 0
-}, {
-Day: 40,
-Importance: 9,
-Subject: "Intensiv- und Notfallmedizin",
-Chapter: "Grundlagen der Reanimation",
-Length: "1372",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/gQYFvK/article/kN0mYg",
-Error: 0
-}, {
-Day: 40,
-Importance: 10,
-Subject: "Intensiv- und Notfallmedizin",
-Chapter: "Reanimation - AMBOSS-SOP",
-Length: "822",
-Imppact: 13,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/gQYFvK/article/L70wmh",
-Error: 0
-}, {
-Day: 40,
-Importance: 11,
-Subject: "Intensiv- und Notfallmedizin",
-Chapter: "Polytrauma",
-Length: "808",
-Imppact: 11,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/gQYFvK/article/-y0D3i",
-Error: 0
-}, {
-Day: 41,
-Importance: 1,
-Subject: "Intensiv- und Notfallmedizin",
-Chapter: "Schock",
-Length: "1766",
-Imppact: 18,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/SQYyvK/article/kO0msT",
-Error: 0
-}, {
-Day: 41,
-Importance: 2,
-Subject: "Intensiv- und Notfallmedizin",
-Chapter: "Acute Respiratory Distress Syndrome",
-Length: "1226",
-Imppact: 4,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/SQYyvK/article/tg0XC2",
-Error: 0
-}, {
-Day: 41,
-Importance: 3,
-Subject: "Intensiv- und Notfallmedizin",
-Chapter: "Rhabdomyolyse und Crush-Syndrom",
-Length: "406",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/SQYyvK/article/4O03sT",
-Error: 0
-}, {
-Day: 41,
-Importance: 4,
-Subject: "Intensiv- und Notfallmedizin",
-Chapter: "Verbrennung",
-Length: "1036",
-Imppact: 11,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/SQYyvK/article/Jh0sUf",
-Error: 0
-}, {
-Day: 41,
-Importance: 5,
-Subject: "Intensiv- und Notfallmedizin",
-Chapter: "Hypothermie und Erfrierungen",
-Length: "898",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/SQYyvK/article/kK0mgS",
-Error: 0
-}, {
-Day: 41,
-Importance: 6,
-Subject: "Intensiv- und Notfallmedizin",
-Chapter: "Thoraxtrauma",
-Length: "818",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/SQYyvK/article/8h0Off",
-Error: 0
-}, {
-Day: 41,
-Importance: 7,
-Subject: "Intensiv- und Notfallmedizin",
-Chapter: "Pneumothorax",
-Length: "2103",
-Imppact: 32,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/SQYyvK/article/vh0Aff",
-Error: 0
-}, {
-Day: 41,
-Importance: 8,
-Subject: "Intensiv- und Notfallmedizin",
-Chapter: "Intoxikation mit Kohlenstoffmonoxid oder -dioxid",
-Length: "550",
-Imppact: 13,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/SQYyvK/article/4h03Vf",
-Error: 0
-}, {
-Day: 42,
-Importance: 1,
-Subject: "Chirurgie",
-Chapter: "Akute Wunden und Wundverschluss",
-Length: "1449",
-Imppact: 11,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/hQYcDK/article/ph0LUf",
-Error: 0
-}, {
-Day: 42,
-Importance: 2,
-Subject: "Chirurgie",
-Chapter: "Chronische Wunden und Wundbehandlung",
-Length: "1567",
-Imppact: 25,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/hQYcDK/article/f70kOh",
-Error: 0
-}, {
-Day: 42,
-Importance: 3,
-Subject: "Chirurgie",
-Chapter: "Bakterielle Infektionen von Haut und Weichgewebe",
-Length: "1902",
-Imppact: 34,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/hQYcDK/article/qh0CUf",
-Error: 0
-}, {
-Day: 42,
-Importance: 4,
-Subject: "Chirurgie",
-Chapter: "Paronychie und Panaritium",
-Length: "503",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/hQYcDK/article/rh0f2f",
-Error: 0
-}, {
-Day: 42,
-Importance: 5,
-Subject: "Chirurgie",
-Chapter: "Tetanus",
-Length: "754",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/hQYcDK/article/ef0xO2",
-Error: 0
-}, {
-Day: 42,
-Importance: 6,
-Subject: "Chirurgie",
-Chapter: "Aktinomykose",
-Length: "480",
-Imppact: 3,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/hQYcDK/article/7h042f",
-Error: 0
-}, {
-Day: 42,
-Importance: 7,
-Subject: "Chirurgie",
-Chapter: "Perioperatives Management",
-Length: "2058",
-Imppact: 12,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/hQYcDK/article/550ikg",
-Error: 0
-}, {
-Day: 42,
-Importance: 8,
-Subject: "Chirurgie",
-Chapter: "Laparoskopische Chirurgie",
-Length: "520",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/hQYcDK/article/B50zmg",
-Error: 0
-}, {
-Day: 42,
-Importance: 9,
-Subject: "Chirurgie",
-Chapter: "Koronararterielle Bypasschirurgie",
-Length: "557",
-Imppact: 6,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/hQYcDK/article/6l0jBT",
-Error: 0
-}, {
-Day: 42,
-Importance: 10,
-Subject: "Chirurgie",
-Chapter: "Aneurysma",
-Length: "533",
-Imppact: 3,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/hQYcDK/article/Wh0P1f",
-Error: 0
-}, {
-Day: 42,
-Importance: 11,
-Subject: "Chirurgie",
-Chapter: "Aortenaneurysma",
-Length: "1205",
-Imppact: 12,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/hQYcDK/article/dh0o1f",
-Error: 0
-}, {
-Day: 42,
-Importance: 12,
-Subject: "Chirurgie",
-Chapter: "Aortendissektion",
-Length: "1743",
-Imppact: 21,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/hQYcDK/article/M50Mkg",
-Error: 0
-}, {
-Day: 42,
-Importance: 13,
-Subject: "Chirurgie",
-Chapter: "Akuter arterieller Extremitätenverschluss",
-Length: "1082",
-Imppact: 12,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/hQYcDK/article/1h021f",
-Error: 0
-}, {
-Day: 43,
-Importance: 1,
-Subject: "Chirurgie",
-Chapter: "Schilddrüsenkarzinom",
-Length: "1442",
-Imppact: 10,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/3QYSDK/article/Vg0G82",
-Error: 0
-}, {
-Day: 43,
-Importance: 2,
-Subject: "Chirurgie",
-Chapter: "Schilddrüsenchirurgie",
-Length: "600",
-Imppact: 14,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/3QYSDK/article/wl0h_T",
-Error: 0
-}, {
-Day: 43,
-Importance: 3,
-Subject: "Chirurgie",
-Chapter: "Ösophagusdivertikel",
-Length: "600",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/3QYSDK/article/Eg08C2",
-Error: 0
-}, {
-Day: 43,
-Importance: 4,
-Subject: "Chirurgie",
-Chapter: "Boerhaave-Syndrom",
-Length: "340",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/3QYSDK/article/wg0hx2",
-Error: 0
-}, {
-Day: 43,
-Importance: 5,
-Subject: "Chirurgie",
-Chapter: "Ösophaguskarzinom",
-Length: "1151",
-Imppact: 9,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/3QYSDK/article/Cg0qx2",
-Error: 0
-}, {
-Day: 43,
-Importance: 6,
-Subject: "Chirurgie",
-Chapter: "Zwerchfellhernie",
-Length: "1573",
-Imppact: 6,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/3QYSDK/article/Ch0qTf",
-Error: 0
-}, {
-Day: 43,
-Importance: 7,
-Subject: "Chirurgie",
-Chapter: "Milzruptur",
-Length: "1052",
-Imppact: 12,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/3QYSDK/article/Bh0zTf",
-Error: 0
-}, {
-Day: 43,
-Importance: 8,
-Subject: "Chirurgie",
-Chapter: "Magenkarzinom",
-Length: "2132",
-Imppact: 36,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/3QYSDK/article/-g0DB2",
-Error: 0
-}, {
-Day: 43,
-Importance: 9,
-Subject: "Chirurgie",
-Chapter: "Neuroendokrine Neoplasien",
-Length: "2438",
-Imppact: 13,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/3QYSDK/article/_h05gf",
-Error: 0
-}, {
-Day: 43,
-Importance: 10,
-Subject: "Chirurgie",
-Chapter: "Akutes Abdomen",
-Length: "3408",
-Imppact: 7,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/3QYSDK/article/N50-4g",
-Error: 0
-}, {
-Day: 43,
-Importance: 11,
-Subject: "Chirurgie",
-Chapter: "Peritonitis",
-Length: "867",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/3QYSDK/article/GM0BJg",
-Error: 0
-}, {
-Day: 43,
-Importance: 12,
-Subject: "Chirurgie",
-Chapter: "Ileus",
-Length: "1633",
-Imppact: 14,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/3QYSDK/article/230T3f",
-Error: 0
-}, {
-Day: 44,
-Importance: 1,
-Subject: "Chirurgie",
-Chapter: "Mesenteriale Ischämie",
-Length: "1186",
-Imppact: 19,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/RQYlDK/article/cS0aA2",
-Error: 0
-}, {
-Day: 44,
-Importance: 2,
-Subject: "Chirurgie",
-Chapter: "Appendizitis",
-Length: "1679",
-Imppact: 18,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/RQYlDK/article/a30QSf",
-Error: 0
-}, {
-Day: 44,
-Importance: 3,
-Subject: "Chirurgie",
-Chapter: "Kolonpolypen",
-Length: "737",
-Imppact: 6,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/RQYlDK/article/US0b_2",
-Error: 0
-}, {
-Day: 44,
-Importance: 4,
-Subject: "Chirurgie",
-Chapter: "Kolorektales Karzinom",
-Length: "3040",
-Imppact: 39,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/RQYlDK/article/TS06_2",
-Error: 0
-}, {
-Day: 44,
-Importance: 5,
-Subject: "Chirurgie",
-Chapter: "Hereditäres, nicht-polypöses Kolonkarzinom",
-Length: "953",
-Imppact: 7,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/RQYlDK/article/fS0k_2",
-Error: 0
-}, {
-Day: 44,
-Importance: 6,
-Subject: "Chirurgie",
-Chapter: "Obstipation",
-Length: "1696",
-Imppact: 3,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/RQYlDK/article/CM0qIg",
-Error: 0
-}, {
-Day: 44,
-Importance: 7,
-Subject: "Chirurgie",
-Chapter: "Darmchirurgie",
-Length: "2028",
-Imppact: 15,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/RQYlDK/article/Cl0q_T",
-Error: 0
-}, {
-Day: 45,
-Importance: 1,
-Subject: "Chirurgie",
-Chapter: "Cholelithiasis, Cholezystitis und Cholangitis",
-Length: "2356",
-Imppact: 33,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/iQYJDK/article/V30Ghf",
-Error: 0
-}, {
-Day: 45,
-Importance: 2,
-Subject: "Chirurgie",
-Chapter: "Biliäre Karzinome",
-Length: "547",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/iQYJDK/article/e30xhf",
-Error: 0
-}, {
-Day: 45,
-Importance: 3,
-Subject: "Chirurgie",
-Chapter: "Hepatozelluläres Karzinom",
-Length: "1102",
-Imppact: 9,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/iQYJDK/article/6S0j0f",
-Error: 0
-}, {
-Day: 45,
-Importance: 4,
-Subject: "Chirurgie",
-Chapter: "Pankreas- und Leberchirurgie",
-Length: "835",
-Imppact: 6,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/iQYJDK/article/Bl0z_T",
-Error: 0
-}, {
-Day: 45,
-Importance: 5,
-Subject: "Chirurgie",
-Chapter: "Anal- und Rektumprolaps",
-Length: "428",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/iQYJDK/article/W30Phf",
-Error: 0
-}, {
-Day: 45,
-Importance: 6,
-Subject: "Chirurgie",
-Chapter: "Hämorrhoiden und Hämorrhoidalleiden",
-Length: "891",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/iQYJDK/article/c30ahf",
-Error: 0
-}, {
-Day: 45,
-Importance: 7,
-Subject: "Chirurgie",
-Chapter: "Analvenenthrombose",
-Length: "388",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/iQYJDK/article/1302hf",
-Error: 0
-}, {
-Day: 45,
-Importance: 8,
-Subject: "Chirurgie",
-Chapter: "Analfissur",
-Length: "639",
-Imppact: 4,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/iQYJDK/article/X309Sf",
-Error: 0
-}, {
-Day: 45,
-Importance: 9,
-Subject: "Chirurgie",
-Chapter: "Analabszess und Analfistel",
-Length: "684",
-Imppact: 8,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/iQYJDK/article/b30HSf",
-Error: 0
-}, {
-Day: 45,
-Importance: 10,
-Subject: "Chirurgie",
-Chapter: "Analkarzinom",
-Length: "685",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/iQYJDK/article/gS0F_2",
-Error: 0
-}, {
-Day: 45,
-Importance: 11,
-Subject: "Chirurgie",
-Chapter: "Sinus pilonidalis",
-Length: "572",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/iQYJDK/article/Y30nSf",
-Error: 0
-}, {
-Day: 45,
-Importance: 12,
-Subject: "Chirurgie",
-Chapter: "Hernien",
-Length: "1414",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/iQYJDK/article/030eSf",
-Error: 0
-}, {
-Day: 45,
-Importance: 13,
-Subject: "Chirurgie",
-Chapter: "Leistenhernie",
-Length: "1290",
-Imppact: 8,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/iQYJDK/article/zh0rgf",
-Error: 0
-}, {
-Day: 45,
-Importance: 14,
-Subject: "Chirurgie",
-Chapter: "Schenkelhernie",
-Length: "502",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/iQYJDK/article/Z30ZSf",
-Error: 0
-}, {
-Day: 46,
-Importance: 1,
-Subject: "Chirurgie",
-Chapter: "Allgemeine Frakturlehre",
-Length: "1111",
-Imppact: 11,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/QQYuDK/article/T3063f",
-Error: 0
-}, {
-Day: 46,
-Importance: 2,
-Subject: "Chirurgie",
-Chapter: "Konservative Verfahren in der Frakturversorgung",
-Length: "429",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/QQYuDK/article/Dl01_T",
-Error: 0
-}, {
-Day: 46,
-Importance: 3,
-Subject: "Chirurgie",
-Chapter: "Operative Verfahren der Unfallchirurgie/Orthopädie",
-Length: "1073",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/QQYuDK/article/vl0AAT",
-Error: 0
-}, {
-Day: 46,
-Importance: 4,
-Subject: "Chirurgie",
-Chapter: "Frakturen im Kindesalter",
-Length: "582",
-Imppact: 4,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/QQYuDK/article/g30F3f",
-Error: 0
-}, {
-Day: 46,
-Importance: 5,
-Subject: "Chirurgie",
-Chapter: "Kompartmentsyndrom",
-Length: "746",
-Imppact: 10,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/QQYuDK/article/330SRf",
-Error: 0
-}, {
-Day: 46,
-Importance: 6,
-Subject: "Chirurgie",
-Chapter: "Claviculafraktur",
-Length: "467",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/QQYuDK/article/i30JRf",
-Error: 0
-}, {
-Day: 46,
-Importance: 7,
-Subject: "Chirurgie",
-Chapter: "Luxation des Akromioklavikulargelenks",
-Length: "638",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/QQYuDK/article/Q30uRf",
-Error: 0
-}, {
-Day: 46,
-Importance: 8,
-Subject: "Chirurgie",
-Chapter: "Humerusfraktur",
-Length: "769",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/QQYuDK/article/j30_Rf",
-Error: 0
-}, {
-Day: 46,
-Importance: 9,
-Subject: "Chirurgie",
-Chapter: "Distale Radiusfraktur",
-Length: "757",
-Imppact: 8,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/QQYuDK/article/O30Iif",
-Error: 0
-}, {
-Day: 46,
-Importance: 10,
-Subject: "Chirurgie",
-Chapter: "Schaftfrakturen des Unterarmes",
-Length: "381",
-Imppact: 4,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/QQYuDK/article/yr0dPh",
-Error: 0
-}, {
-Day: 47,
-Importance: 1,
-Subject: "Chirurgie",
-Chapter: "Kahnbeinfraktur",
-Length: "573",
-Imppact: 3,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/jQY_DK/article/l30vif",
-Error: 0
-}, {
-Day: 47,
-Importance: 2,
-Subject: "Chirurgie",
-Chapter: "Mittelhandfrakturen",
-Length: "469",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/jQY_DK/article/Wl0PDT",
-Error: 0
-}, {
-Day: 47,
-Importance: 3,
-Subject: "Chirurgie",
-Chapter: "Wirbelsäulenverletzungen",
-Length: "1417",
-Imppact: 12,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/jQY_DK/article/M30MQf",
-Error: 0
-}, {
-Day: 47,
-Importance: 4,
-Subject: "Chirurgie",
-Chapter: "Beckenringfrakturen",
-Length: "1172",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/jQY_DK/article/n307Qf",
-Error: 0
-}, {
-Day: 47,
-Importance: 5,
-Subject: "Chirurgie",
-Chapter: "Proximale Femurfrakturen",
-Length: "1392",
-Imppact: 16,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/jQY_DK/article/L30wQf",
-Error: 0
-}, {
-Day: 47,
-Importance: 6,
-Subject: "Chirurgie",
-Chapter: "Femurschaft- und distale Femurfrakturen",
-Length: "595",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/jQY_DK/article/o300jf",
-Error: 0
-}, {
-Day: 47,
-Importance: 7,
-Subject: "Chirurgie",
-Chapter: "Frakturen des Unterschenkels",
-Length: "519",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/jQY_DK/article/K30Ujf",
-Error: 0
-}, {
-Day: 47,
-Importance: 8,
-Subject: "Chirurgie",
-Chapter: "Sprunggelenksfraktur",
-Length: "693",
-Imppact: 10,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/jQY_DK/article/630jjf",
-Error: 0
-}, {
-Day: 48,
-Importance: 1,
-Subject: "Orthopädie",
-Chapter: "Orthopädische Untersuchungszeichen",
-Length: "952",
-Imppact: 11,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/PQYWwK/article/zl0rzT",
-Error: 0
-}, {
-Day: 48,
-Importance: 2,
-Subject: "Orthopädie",
-Chapter: "Arthrose",
-Length: "1063",
-Imppact: 23,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/PQYWwK/article/bT0H62",
-Error: 0
-}, {
-Day: 48,
-Importance: 3,
-Subject: "Orthopädie",
-Chapter: "Osteomalazie und Rachitis",
-Length: "610",
-Imppact: 7,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/PQYWwK/article/XT0962",
-Error: 0
-}, {
-Day: 48,
-Importance: 4,
-Subject: "Orthopädie",
-Chapter: "Osteodystrophia deformans",
-Length: "507",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/PQYWwK/article/FQ0gBf",
-Error: 0
-}, {
-Day: 48,
-Importance: 5,
-Subject: "Orthopädie",
-Chapter: "Osteoporose",
-Length: "1747",
-Imppact: 29,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/PQYWwK/article/cT0ap2",
-Error: 0
-}, {
-Day: 48,
-Importance: 6,
-Subject: "Orthopädie",
-Chapter: "Laborkonstellation Knochenerkrankungen",
-Length: "153",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/PQYWwK/article/eQ0xEf",
-Error: 0
-}, {
-Day: 48,
-Importance: 7,
-Subject: "Orthopädie",
-Chapter: "Seronegative Spondylarthritis",
-Length: "263",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/PQYWwK/article/J30sjf",
-Error: 0
-}, {
-Day: 48,
-Importance: 8,
-Subject: "Orthopädie",
-Chapter: "Osteomyelitis",
-Length: "851",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/PQYWwK/article/th0Xff",
-Error: 0
-}, {
-Day: 48,
-Importance: 9,
-Subject: "Orthopädie",
-Chapter: "Spondylodiszitis",
-Length: "676",
-Imppact: 10,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/PQYWwK/article/k-0mxi",
-Error: 0
-}, {
-Day: 48,
-Importance: 10,
-Subject: "Orthopädie",
-Chapter: "Bakterielle Arthritis",
-Length: "608",
-Imppact: 7,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/PQYWwK/article/0M0eMg",
-Error: 0
-}, {
-Day: 49,
-Importance: 1,
-Subject: "Orthopädie",
-Chapter: "Benigne Knochen- und Knorpeltumoren",
-Length: "1448",
-Imppact: 13,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/4QY3wK/article/7Q04xf",
-Error: 0
-}, {
-Day: 49,
-Importance: 2,
-Subject: "Orthopädie",
-Chapter: "Maligne Knochen- und Knorpeltumoren",
-Length: "1395",
-Imppact: 14,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/4QY3wK/article/HQ0Kxf",
-Error: 0
-}, {
-Day: 49,
-Importance: 3,
-Subject: "Orthopädie",
-Chapter: "Spondylolisthese",
-Length: "774",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/4QY3wK/article/PQ0Wwf",
-Error: 0
-}, {
-Day: 49,
-Importance: 4,
-Subject: "Orthopädie",
-Chapter: "Bandscheibenprolaps",
-Length: "2413",
-Imppact: 50,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/4QY3wK/article/ji0_rf",
-Error: 0
-}, {
-Day: 49,
-Importance: 5,
-Subject: "Orthopädie",
-Chapter: "Adoleszente idiopathische Skoliose",
-Length: "919",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/4QY3wK/article/4Q03wf",
-Error: 0
-}, {
-Day: 49,
-Importance: 6,
-Subject: "Orthopädie",
-Chapter: "Rückenschmerzen",
-Length: "1311",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/4QY3wK/article/nL07yg",
-Error: 0
-}, {
-Day: 50,
-Importance: 1,
-Subject: "Orthopädie",
-Chapter: "Morbus Dupuytren",
-Length: "416",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/kQYmwK/article/hQ0cDf",
-Error: 0
-}, {
-Day: 50,
-Importance: 2,
-Subject: "Orthopädie",
-Chapter: "Tendovaginitis",
-Length: "479",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/kQYmwK/article/3Q0SDf",
-Error: 0
-}, {
-Day: 50,
-Importance: 3,
-Subject: "Orthopädie",
-Chapter: "Tendinopathie",
-Length: "526",
-Imppact: 3,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/kQYmwK/article/vQ0ABf",
-Error: 0
-}, {
-Day: 50,
-Importance: 4,
-Subject: "Orthopädie",
-Chapter: "Komplexes regionales Schmerzsyndrom",
-Length: "770",
-Imppact: 3,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/kQYmwK/article/R30lRf",
-Error: 0
-}, {
-Day: 50,
-Importance: 5,
-Subject: "Orthopädie",
-Chapter: "Thoracic-Outlet-Syndrom",
-Length: "510",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/kQYmwK/article/QQ0uDf",
-Error: 0
-}, {
-Day: 50,
-Importance: 6,
-Subject: "Orthopädie",
-Chapter: "Schulterläsionen",
-Length: "780",
-Imppact: 7,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/kQYmwK/article/UQ0bvf",
-Error: 0
-}, {
-Day: 50,
-Importance: 7,
-Subject: "Orthopädie",
-Chapter: "Rotatorenmanschettenruptur",
-Length: "443",
-Imppact: 15,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/kQYmwK/article/L1awhj",
-Error: 0
-}, {
-Day: 50,
-Importance: 8,
-Subject: "Orthopädie",
-Chapter: "Schultergelenkluxation",
-Length: "1074",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/kQYmwK/article/P30Wif",
-Error: 0
-}, {
-Day: 50,
-Importance: 9,
-Subject: "Orthopädie",
-Chapter: "Bizepssehnenruptur",
-Length: "578",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/kQYmwK/article/gQ0Fvf",
-Error: 0
-}, {
-Day: 50,
-Importance: 10,
-Subject: "Orthopädie",
-Chapter: "Luxationen des Ellenbogengelenks",
-Length: "501",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/kQYmwK/article/0l0evT",
-Error: 0
-}, {
-Day: 50,
-Importance: 11,
-Subject: "Orthopädie",
-Chapter: "Radiuskopf-Subluxation",
-Length: "412",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/kQYmwK/article/4303if",
-Error: 0
-}, {
-Day: 50,
-Importance: 12,
-Subject: "Orthopädie",
-Chapter: "Karpaltunnelsyndrom",
-Length: "743",
-Imppact: 7,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/kQYmwK/article/sR0tof",
-Error: 0
-}, {
-Day: 50,
-Importance: 13,
-Subject: "Orthopädie",
-Chapter: "Sehnenverletzung der Hand",
-Length: "876",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/kQYmwK/article/N30-if",
-Error: 0
-}, {
-Day: 50,
-Importance: 14,
-Subject: "Orthopädie",
-Chapter: "Sammelsurium der Unfallchirurgie und Orthopädie",
-Length: "836",
-Imppact: 6,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/kQYmwK/article/i50JPg",
-Error: 0
-}, {
-Day: 51,
-Importance: 1,
-Subject: "Orthopädie",
-Chapter: "Osteochondrosis dissecans",
-Length: "395",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/OQYIwK/article/JQ0sCf",
-Error: 0
-}, {
-Day: 51,
-Importance: 2,
-Subject: "Orthopädie",
-Chapter: "Osteonekrosen",
-Length: "926",
-Imppact: 7,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/OQYIwK/article/rQ0fxf",
-Error: 0
-}, {
-Day: 51,
-Importance: 3,
-Subject: "Orthopädie",
-Chapter: "Aseptische Femurkopfnekrose im Erwachsenenalter",
-Length: "439",
-Imppact: 7,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/OQYIwK/article/5Q0i9f",
-Error: 0
-}, {
-Day: 51,
-Importance: 4,
-Subject: "Orthopädie",
-Chapter: "Fehlstellungen der unteren Extremität",
-Length: "993",
-Imppact: 4,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/OQYIwK/article/lQ0vwf",
-Error: 0
-}, {
-Day: 51,
-Importance: 5,
-Subject: "Orthopädie",
-Chapter: "Koxarthrose",
-Length: "887",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/OQYIwK/article/LQ0w9f",
-Error: 0
-}, {
-Day: 51,
-Importance: 6,
-Subject: "Orthopädie",
-Chapter: "Gonarthrose",
-Length: "690",
-Imppact: 4,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/OQYIwK/article/jba_tQ",
-Error: 0
-}, {
-Day: 51,
-Importance: 7,
-Subject: "Orthopädie",
-Chapter: "Sportverletzungen",
-Length: "1085",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/OQYIwK/article/AM0Rrg",
-Error: 0
-}, {
-Day: 51,
-Importance: 8,
-Subject: "Orthopädie",
-Chapter: "Meniskusruptur",
-Length: "801",
-Imppact: 3,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/OQYIwK/article/oQ00Cf",
-Error: 0
-}, {
-Day: 51,
-Importance: 9,
-Subject: "Orthopädie",
-Chapter: "Patellaluxation",
-Length: "625",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/OQYIwK/article/KQ0UCf",
-Error: 0
-}, {
-Day: 51,
-Importance: 10,
-Subject: "Orthopädie",
-Chapter: "Bandverletzungen des Knies",
-Length: "1140",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/OQYIwK/article/pQ0LCf",
-Error: 0
-}, {
-Day: 51,
-Importance: 11,
-Subject: "Orthopädie",
-Chapter: "Achillessehnenruptur",
-Length: "723",
-Imppact: 3,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/OQYIwK/article/p30Ljf",
-Error: 0
-}, {
-Day: 51,
-Importance: 12,
-Subject: "Orthopädie",
-Chapter: "Fußdeformitäten",
-Length: "1626",
-Imppact: 8,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/OQYIwK/article/qQ0CCf",
-Error: 0
-}, {
-Day: 51,
-Importance: 13,
-Subject: "Orthopädie",
-Chapter: "Zehendeformitäten",
-Length: "540",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/OQYIwK/article/IQ0Yxf",
-Error: 0
-}, {
-Day: 52,
-Importance: 1,
-Subject: "Gynäkologie",
-Chapter: "Diagnostik in der Gynäkologie",
-Length: "3049",
-Imppact: 24,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/lQYvwK/article/SN0y0g",
-Error: 0
-}, {
-Day: 52,
-Importance: 2,
-Subject: "Gynäkologie",
-Chapter: "Fehlbildungen der weiblichen Geschlechtsorgane",
-Length: "884",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/lQYvwK/article/vk0ApT",
-Error: 0
-}, {
-Day: 52,
-Importance: 3,
-Subject: "Gynäkologie",
-Chapter: "Androgenresistenz",
-Length: "528",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/lQYvwK/article/9k0NJT",
-Error: 0
-}, {
-Day: 52,
-Importance: 4,
-Subject: "Gynäkologie",
-Chapter: "Östrogenwirkung und assoziierte Erkrankungen",
-Length: "572",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/lQYvwK/article/uk0ppT",
-Error: 0
-}, {
-Day: 52,
-Importance: 5,
-Subject: "Gynäkologie",
-Chapter: "Menstruationszyklus und Zyklusanomalien",
-Length: "1458",
-Imppact: 4,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/lQYvwK/article/Ek08pT",
-Error: 0
-}, {
-Day: 52,
-Importance: 6,
-Subject: "Gynäkologie",
-Chapter: "Endometriose",
-Length: "1270",
-Imppact: 23,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/lQYvwK/article/-k0DqT",
-Error: 0
-}, {
-Day: 52,
-Importance: 7,
-Subject: "Gynäkologie",
-Chapter: "Polyzystisches Ovarialsyndrom",
-Length: "681",
-Imppact: 8,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/lQYvwK/article/AO0RET",
-Error: 0
-}, {
-Day: 52,
-Importance: 8,
-Subject: "Gynäkologie",
-Chapter: "Klimakterium",
-Length: "867",
-Imppact: 6,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/lQYvwK/article/BO0zuT",
-Error: 0
-}, {
-Day: 52,
-Importance: 9,
-Subject: "Gynäkologie",
-Chapter: "Entzündungen des weiblichen Genitaltrakts",
-Length: "1659",
-Imppact: 10,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/lQYvwK/article/xk0EJT",
-Error: 0
-}, {
-Day: 52,
-Importance: 10,
-Subject: "Gynäkologie",
-Chapter: "Entzündliche und benigne Veränderungen der Mamma",
-Length: "925",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/lQYvwK/article/Ak0RqT",
-Error: 0
-}, {
-Day: 53,
-Importance: 1,
-Subject: "Gynäkologie",
-Chapter: "Mammakarzinom",
-Length: "4793",
-Imppact: 58,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/NQY-wK/article/_k05qT",
-Error: 0
-}, {
-Day: 53,
-Importance: 2,
-Subject: "Gynäkologie",
-Chapter: "Uterusmyom",
-Length: "1513",
-Imppact: 16,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/NQY-wK/article/zk0rqT",
-Error: 0
-}, {
-Day: 53,
-Importance: 3,
-Subject: "Gynäkologie",
-Chapter: "Benigne Ovarialtumoren",
-Length: "449",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/NQY-wK/article/-H0DGh",
-Error: 0
-}, {
-Day: 53,
-Importance: 4,
-Subject: "Gynäkologie",
-Chapter: "Maligne Ovarialtumoren",
-Length: "2736",
-Imppact: 23,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/NQY-wK/article/aO0QIT",
-Error: 0
-}, {
-Day: 54,
-Importance: 1,
-Subject: "Gynäkologie",
-Chapter: "Infektion mit humanen Papillomaviren",
-Length: "1511",
-Imppact: 15,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/mQYV9K/article/zO0rET",
-Error: 0
-}, {
-Day: 54,
-Importance: 2,
-Subject: "Gynäkologie",
-Chapter: "Zervixkarzinom",
-Length: "2587",
-Imppact: 27,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/mQYV9K/article/ZO0ZIT",
-Error: 0
-}, {
-Day: 54,
-Importance: 3,
-Subject: "Gynäkologie",
-Chapter: "Endometriumkarzinom",
-Length: "1564",
-Imppact: 11,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/mQYV9K/article/0O0eIT",
-Error: 0
-}, {
-Day: 54,
-Importance: 4,
-Subject: "Gynäkologie",
-Chapter: "Vulvakarzinom",
-Length: "1098",
-Imppact: 4,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/mQYV9K/article/bO0HIT",
-Error: 0
-}, {
-Day: 55,
-Importance: 1,
-Subject: "Gynäkologie",
-Chapter: "Schwangerschaftsabbruch",
-Length: "1243",
-Imppact: 6,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/5QYi9K/article/Dk01JT",
-Error: 0
-}, {
-Day: 55,
-Importance: 2,
-Subject: "Gynäkologie",
-Chapter: "Sterilität, Infertilität und Impotenz",
-Length: "1860",
-Imppact: 24,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/5QYi9K/article/RM0log",
-Error: 0
-}, {
-Day: 55,
-Importance: 3,
-Subject: "Gynäkologie",
-Chapter: "Nicht-hormonelle Kontrazeption",
-Length: "870",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/5QYi9K/article/Ck0qJT",
-Error: 0
-}, {
-Day: 55,
-Importance: 4,
-Subject: "Gynäkologie",
-Chapter: "Schwangerschaft",
-Length: "1890",
-Imppact: 3,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/5QYi9K/article/dO0orT",
-Error: 0
-}, {
-Day: 55,
-Importance: 5,
-Subject: "Gynäkologie",
-Chapter: "Vorsorgeuntersuchungen in der Schwangerschaft",
-Length: "1380",
-Imppact: 4,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/5QYi9K/article/RN0lag",
-Error: 0
-}, {
-Day: 55,
-Importance: 6,
-Subject: "Gynäkologie",
-Chapter: "Pränataldiagnostik",
-Length: "677",
-Imppact: 7,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/5QYi9K/article/--0D-i",
-Error: 0
-}, {
-Day: 55,
-Importance: 7,
-Subject: "Gynäkologie",
-Chapter: "Kardiotokografie (CTG)",
-Length: "896",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/5QYi9K/article/uG0pa3",
-Error: 0
-}, {
-Day: 55,
-Importance: 8,
-Subject: "Gynäkologie",
-Chapter: "Mehrlingsschwangerschaft",
-Length: "670",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/5QYi9K/article/Yl0nvT",
-Error: 0
-}, {
-Day: 55,
-Importance: 9,
-Subject: "Gynäkologie",
-Chapter: "Extrauteringravidität",
-Length: "863",
-Imppact: 15,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/5QYi9K/article/fO0k7T",
-Error: 0
-}, {
-Day: 55,
-Importance: 10,
-Subject: "Gynäkologie",
-Chapter: "Fruchtwasseranomalien",
-Length: "710",
-Imppact: 3,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/5QYi9K/article/PJ0W8S",
-Error: 0
-}, {
-Day: 56,
-Importance: 1,
-Subject: "Gynäkologie",
-Chapter: "Hypertensive Schwangerschaftserkrankungen",
-Length: "1561",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/MQYM9K/article/VO0GrT",
-Error: 0
-}, {
-Day: 56,
-Importance: 2,
-Subject: "Gynäkologie",
-Chapter: "HELLP-Syndrom",
-Length: "582",
-Imppact: 11,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/MQYM9K/article/sG0t03",
-Error: 0
-}, {
-Day: 56,
-Importance: 3,
-Subject: "Gynäkologie",
-Chapter: "Blutungen während der Schwangerschaft",
-Length: "708",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/MQYM9K/article/mM0V6g",
-Error: 0
-}, {
-Day: 56,
-Importance: 4,
-Subject: "Gynäkologie",
-Chapter: "Intra- und postpartale Blutungen",
-Length: "1249",
-Imppact: 7,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/MQYM9K/article/SG0yAh",
-Error: 0
-}, {
-Day: 56,
-Importance: 5,
-Subject: "Gynäkologie",
-Chapter: "Fetale Wachstumsrestriktion",
-Length: "516",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/MQYM9K/article/al0QvT",
-Error: 0
-}, {
-Day: 56,
-Importance: 6,
-Subject: "Gynäkologie",
-Chapter: "Vorzeitige Plazentalösung",
-Length: "819",
-Imppact: 4,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/MQYM9K/article/UO0b7T",
-Error: 0
-}, {
-Day: 56,
-Importance: 7,
-Subject: "Gynäkologie",
-Chapter: "Placenta praevia",
-Length: "667",
-Imppact: 3,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/MQYM9K/article/oI00dh",
-Error: 0
-}, {
-Day: 56,
-Importance: 8,
-Subject: "Gynäkologie",
-Chapter: "Nabelschnurkomplikationen",
-Length: "586",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/MQYM9K/article/jJ0_FS",
-Error: 0
-}, {
-Day: 56,
-Importance: 9,
-Subject: "Gynäkologie",
-Chapter: "Trophoblasttumoren",
-Length: "631",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/MQYM9K/article/2O0T7T",
-Error: 0
-}, {
-Day: 56,
-Importance: 10,
-Subject: "Gynäkologie",
-Chapter: "Geburtsablauf",
-Length: "955",
-Imppact: 7,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/MQYM9K/article/3O0SHT",
-Error: 0
-}, {
-Day: 56,
-Importance: 11,
-Subject: "Gynäkologie",
-Chapter: "Geburtsmechanik",
-Length: "1873",
-Imppact: 4,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/MQYM9K/article/Xl09vT",
-Error: 0
-}, {
-Day: 56,
-Importance: 12,
-Subject: "Gynäkologie",
-Chapter: "Geburtseinleitung",
-Length: "517",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/MQYM9K/article/0t0eX3",
-Error: 0
-}, {
-Day: 56,
-Importance: 13,
-Subject: "Gynäkologie",
-Chapter: "Operative Geburtshilfe",
-Length: "735",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/MQYM9K/article/zG0rb3",
-Error: 0
-}, {
-Day: 56,
-Importance: 14,
-Subject: "Gynäkologie",
-Chapter: "Drohende Frühgeburt",
-Length: "1071",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/MQYM9K/article/gO0F7T",
-Error: 0
-}, {
-Day: 56,
-Importance: 15,
-Subject: "Gynäkologie",
-Chapter: "Abort und intrauteriner Fruchttod",
-Length: "949",
-Imppact: 4,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/MQYM9K/article/MD0MUR",
-Error: 0
-}, {
-Day: 56,
-Importance: 16,
-Subject: "Gynäkologie",
-Chapter: "Uterusruptur",
-Length: "639",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/MQYM9K/article/RO0lHT",
-Error: 0
-}, {
-Day: 56,
-Importance: 17,
-Subject: "Gynäkologie",
-Chapter: "Wochenbett",
-Length: "1410",
-Imppact: 10,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/MQYM9K/article/iO0JHT",
-Error: 0
-}, {
-Day: 57,
-Importance: 1,
-Subject: "Urologie",
-Chapter: "Apparative Diagnostik in der Urologie",
-Length: "688",
-Imppact: 4,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/c50aQg",
-Error: 0
-}, {
-Day: 57,
-Importance: 2,
-Subject: "Urologie",
-Chapter: "Kongenitale Anomalien der Nieren und ableitenden Harnwege",
-Length: "796",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/Oi0I7f",
-Error: 0
-}, {
-Day: 57,
-Importance: 3,
-Subject: "Urologie",
-Chapter: "Polyzystische Nierenerkrankung",
-Length: "1253",
-Imppact: 7,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/li0v7f",
-Error: 0
-}, {
-Day: 57,
-Importance: 4,
-Subject: "Urologie",
-Chapter: "Blasenekstrophie, Fehlanlagen der männlichen Harnröhre und Palmure",
-Length: "489",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/Mi0MHf",
-Error: 0
-}, {
-Day: 57,
-Importance: 5,
-Subject: "Urologie",
-Chapter: "Balanitis und Balanoposthitis",
-Length: "398",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/oi00sf",
-Error: 0
-}, {
-Day: 57,
-Importance: 6,
-Subject: "Urologie",
-Chapter: "Phimose",
-Length: "480",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/_J059S",
-Error: 0
-}, {
-Day: 57,
-Importance: 7,
-Subject: "Urologie",
-Chapter: "Hodenhochstand",
-Length: "579",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/ni07Hf",
-Error: 0
-}, {
-Day: 57,
-Importance: 8,
-Subject: "Urologie",
-Chapter: "Harninkontinenz",
-Length: "546",
-Imppact: 4,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/ZQ0Zuf",
-Error: 0
-}, {
-Day: 57,
-Importance: 9,
-Subject: "Urologie",
-Chapter: "Belastungsinkontinenz",
-Length: "439",
-Imppact: 9,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/Ai0R8f",
-Error: 0
-}, {
-Day: 57,
-Importance: 10,
-Subject: "Urologie",
-Chapter: "Dranginkontinenz",
-Length: "635",
-Imppact: 3,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/yi0d8f",
-Error: 0
-}, {
-Day: 57,
-Importance: 11,
-Subject: "Urologie",
-Chapter: "Harnverhalt",
-Length: "695",
-Imppact: 7,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/Ci0qFf",
-Error: 0
-}, {
-Day: 57,
-Importance: 12,
-Subject: "Urologie",
-Chapter: "Harnabflussstörungen",
-Length: "1040",
-Imppact: 4,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/Ni0-7f",
-Error: 0
-}, {
-Day: 57,
-Importance: 13,
-Subject: "Urologie",
-Chapter: "Vesikoureteraler Reflux",
-Length: "811",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/-i0D8f",
-Error: 0
-}, {
-Day: 57,
-Importance: 14,
-Subject: "Urologie",
-Chapter: "Morbus Ormond",
-Length: "298",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/9h0NTf",
-Error: 0
-}, {
-Day: 57,
-Importance: 15,
-Subject: "Urologie",
-Chapter: "Urozystitis",
-Length: "970",
-Imppact: 15,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/7i04Gf",
-Error: 0
-}, {
-Day: 57,
-Importance: 16,
-Subject: "Urologie",
-Chapter: "Urethritis",
-Length: "285",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/ui0ptf",
-Error: 0
-}, {
-Day: 57,
-Importance: 17,
-Subject: "Urologie",
-Chapter: "Pyelonephritis",
-Length: "852",
-Imppact: 6,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/Hi0KGf",
-Error: 0
-}, {
-Day: 57,
-Importance: 18,
-Subject: "Urologie",
-Chapter: "Perinephritischer Abszess",
-Length: "301",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/si0tGf",
-Error: 0
-}, {
-Day: 57,
-Importance: 19,
-Subject: "Urologie",
-Chapter: "Prostatitis",
-Length: "547",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/ti0Xtf",
-Error: 0
-}, {
-Day: 57,
-Importance: 20,
-Subject: "Urologie",
-Chapter: "Epididymitis und Orchitis",
-Length: "456",
-Imppact: 3,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/Fi0gtf",
-Error: 0
-}, {
-Day: 57,
-Importance: 21,
-Subject: "Urologie",
-Chapter: "Hydrocele testis, Varikozele und Spermatozele",
-Length: "493",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/AJ0R9S",
-Error: 0
-}, {
-Day: 57,
-Importance: 22,
-Subject: "Urologie",
-Chapter: "Skrotalabszess",
-Length: "169",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/vi0Atf",
-Error: 0
-}, {
-Day: 58,
-Importance: 1,
-Subject: "Urologie",
-Chapter: "Nierenzellkarzinom",
-Length: "1173",
-Imppact: 26,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/LQYw9K/article/Ki0Usf",
-Error: 0
-}, {
-Day: 58,
-Importance: 2,
-Subject: "Urologie",
-Chapter: "Benignes Prostatasyndrom",
-Length: "1175",
-Imppact: 15,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/LQYw9K/article/AQ0RAf",
-Error: 0
-}, {
-Day: 58,
-Importance: 3,
-Subject: "Urologie",
-Chapter: "Prostatakarzinom",
-Length: "1007",
-Imppact: 18,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/LQYw9K/article/Ji0ssf",
-Error: 0
-}, {
-Day: 58,
-Importance: 4,
-Subject: "Urologie",
-Chapter: "Urothelkarzinom",
-Length: "1288",
-Imppact: 12,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/LQYw9K/article/6i0jsf",
-Error: 0
-}, {
-Day: 58,
-Importance: 5,
-Subject: "Urologie",
-Chapter: "Maligne Hodentumoren",
-Length: "932",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/LQYw9K/article/Ii0YGf",
-Error: 0
-}, {
-Day: 58,
-Importance: 6,
-Subject: "Urologie",
-Chapter: "Peniskarzinom",
-Length: "712",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/LQYw9K/article/ri0fGf",
-Error: 0
-}, {
-Day: 58,
-Importance: 7,
-Subject: "Urologie",
-Chapter: "Urolithiasis",
-Length: "1524",
-Imppact: 13,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/LQYw9K/article/qg0Cw2",
-Error: 0
-}, {
-Day: 58,
-Importance: 8,
-Subject: "Urologie",
-Chapter: "Traumatische Verletzungen der Niere und der ableitenden Harnwege",
-Length: "447",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/LQYw9K/article/9i0NFf",
-Error: 0
-}, {
-Day: 58,
-Importance: 9,
-Subject: "Urologie",
-Chapter: "Hodentorsion",
-Length: "629",
-Imppact: 10,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/LQYw9K/article/Li0wHf",
-Error: 0
-}, {
-Day: 58,
-Importance: 10,
-Subject: "Urologie",
-Chapter: "Priapismus",
-Length: "446",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/LQYw9K/article/xi0EFf",
-Error: 0
-}, {
-Day: 58,
-Importance: 11,
-Subject: "Urologie",
-Chapter: "Penisruptur",
-Length: "261",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/LQYw9K/article/Bi0zFf",
-Error: 0
-}, {
-Day: 58,
-Importance: 12,
-Subject: "Urologie",
-Chapter: "Sexuelle Funktionsstörungen",
-Length: "695",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/LQYw9K/article/uM0pqg",
-Error: 0
-}, {
-Day: 58,
-Importance: 13,
-Subject: "Urologie",
-Chapter: "Spermiogramm",
-Length: "382",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/LQYw9K/article/_i058f",
-Error: 0
-}, {
-Day: 59,
-Importance: 1,
-Subject: "HNO",
-Chapter: "Audiometrische Verfahren in der HNO",
-Length: "2082",
-Imppact: 6,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/oQY0CK/article/NN0-Yg",
-Error: 0
-}, {
-Day: 59,
-Importance: 2,
-Subject: "HNO",
-Chapter: "Othämatom und Otserom",
-Length: "207",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/oQY0CK/article/qj0CYT",
-Error: 0
-}, {
-Day: 59,
-Importance: 3,
-Subject: "HNO",
-Chapter: "Otitis externa",
-Length: "519",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/oQY0CK/article/mj0VaT",
-Error: 0
-}, {
-Day: 59,
-Importance: 4,
-Subject: "HNO",
-Chapter: "Akute Otitis media",
-Length: "516",
-Imppact: 9,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/oQY0CK/article/Mj0MaT",
-Error: 0
-}, {
-Day: 59,
-Importance: 5,
-Subject: "HNO",
-Chapter: "Mastoiditis und Labyrinthitis",
-Length: "761",
-Imppact: 7,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/oQY0CK/article/zJ0r9S",
-Error: 0
-}, {
-Day: 59,
-Importance: 6,
-Subject: "HNO",
-Chapter: "Tubenfunktionsstörungen",
-Length: "775",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/oQY0CK/article/5j0iaT",
-Error: 0
-}, {
-Day: 59,
-Importance: 7,
-Subject: "HNO",
-Chapter: "Otosklerose",
-Length: "356",
-Imppact: 4,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/oQY0CK/article/Kj0UYT",
-Error: 0
-}, {
-Day: 59,
-Importance: 8,
-Subject: "HNO",
-Chapter: "Chronische Otitis media",
-Length: "1044",
-Imppact: 6,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/oQY0CK/article/Lj0waT",
-Error: 0
-}, {
-Day: 59,
-Importance: 9,
-Subject: "HNO",
-Chapter: "Glomustumor",
-Length: "301",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/oQY0CK/article/oj00YT",
-Error: 0
-}, {
-Day: 59,
-Importance: 10,
-Subject: "HNO",
-Chapter: "Hörsturz",
-Length: "591",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/oQY0CK/article/6j0jYT",
-Error: 0
-}, {
-Day: 59,
-Importance: 11,
-Subject: "HNO",
-Chapter: "Akustisches Trauma",
-Length: "706",
-Imppact: 10,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/oQY0CK/article/Jj0sYT",
-Error: 0
-}, {
-Day: 59,
-Importance: 12,
-Subject: "HNO",
-Chapter: "Tinnitus",
-Length: "751",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/oQY0CK/article/wn0hvg",
-Error: 0
-}, {
-Day: 59,
-Importance: 13,
-Subject: "HNO",
-Chapter: "Peripherer paroxysmaler Lagerungsschwindel",
-Length: "739",
-Imppact: 8,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/oQY0CK/article/Ti06If",
-Error: 0
-}, {
-Day: 59,
-Importance: 14,
-Subject: "HNO",
-Chapter: "Morbus Menière",
-Length: "776",
-Imppact: 7,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/oQY0CK/article/gi0FIf",
-Error: 0
-}, {
-Day: 59,
-Importance: 15,
-Subject: "HNO",
-Chapter: "Neuropathia vestibularis",
-Length: "672",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/oQY0CK/article/Si0yIf",
-Error: 0
-}, {
-Day: 59,
-Importance: 16,
-Subject: "HNO",
-Chapter: "Epistaxis",
-Length: "529",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/oQY0CK/article/Hj0KbT",
-Error: 0
-}, {
-Day: 59,
-Importance: 17,
-Subject: "HNO",
-Chapter: "Tumoren der Nasenhaupthöhle und Nasennebenhöhlen",
-Length: "555",
-Imppact: 3,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/oQY0CK/article/d50oQg",
-Error: 0
-}, {
-Day: 59,
-Importance: 18,
-Subject: "HNO",
-Chapter: "Sinusitis",
-Length: "1314",
-Imppact: 10,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/oQY0CK/article/sj0tbT",
-Error: 0
-}, {
-Day: 59,
-Importance: 19,
-Subject: "HNO",
-Chapter: "Allergische Rhinitis",
-Length: "430",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/oQY0CK/article/K-0Uyi",
-Error: 0
-}, {
-Day: 59,
-Importance: 20,
-Subject: "HNO",
-Chapter: "Gesichts- und Felsenbeinfrakturen",
-Length: "1128",
-Imppact: 4,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/oQY0CK/article/8j0OXT",
-Error: 0
-}, {
-Day: 60,
-Importance: 1,
-Subject: "HNO",
-Chapter: "Adenoide Vegetationen",
-Length: "451",
-Imppact: 3,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/KQYUCK/article/Dj01cT",
-Error: 0
-}, {
-Day: 60,
-Importance: 2,
-Subject: "HNO",
-Chapter: "Juveniles Angiofibrom",
-Length: "315",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/KQYUCK/article/xj0EcT",
-Error: 0
-}, {
-Day: 60,
-Importance: 3,
-Subject: "HNO",
-Chapter: "Zungenveränderungen",
-Length: "351",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/KQYUCK/article/9j0NcT",
-Error: 0
-}, {
-Day: 60,
-Importance: 4,
-Subject: "HNO",
-Chapter: "Akute bakterielle Tonsillopharyngitis",
-Length: "1361",
-Imppact: 6,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/KQYUCK/article/wj0hcT",
-Error: 0
-}, {
-Day: 60,
-Importance: 5,
-Subject: "HNO",
-Chapter: "Peritonsillar-, Parapharyngeal- und Retropharyngealabszess",
-Length: "659",
-Imppact: 6,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/KQYUCK/article/7M04Jg",
-Error: 0
-}, {
-Day: 60,
-Importance: 6,
-Subject: "HNO",
-Chapter: "Pharynxkarzinom",
-Length: "1247",
-Imppact: 15,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/KQYUCK/article/Cj0qcT",
-Error: 0
-}, {
-Day: 60,
-Importance: 7,
-Subject: "HNO",
-Chapter: "Kehlkopflähmung",
-Length: "740",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/KQYUCK/article/_j051T",
-Error: 0
-}, {
-Day: 60,
-Importance: 8,
-Subject: "HNO",
-Chapter: "Benigne Tumoren und Präkanzerosen des Larynx",
-Length: "763",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/KQYUCK/article/zj0r1T",
-Error: 0
-}, {
-Day: 60,
-Importance: 9,
-Subject: "HNO",
-Chapter: "Larynxkarzinom",
-Length: "855",
-Imppact: 4,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/KQYUCK/article/ZP0ZWT",
-Error: 0
-}, {
-Day: 60,
-Importance: 10,
-Subject: "HNO",
-Chapter: "Halszyste und Halsfistel",
-Length: "570",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/KQYUCK/article/aP0QWT",
-Error: 0
-}, {
-Day: 60,
-Importance: 11,
-Subject: "HNO",
-Chapter: "Kopfspeicheldrüsenerkrankungen",
-Length: "1236",
-Imppact: 15,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/KQYUCK/article/bP0HWT",
-Error: 0
-}, {
-Day: 60,
-Importance: 12,
-Subject: "HNO",
-Chapter: "Sjögren-Syndrom",
-Length: "620",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/KQYUCK/article/XP09WT",
-Error: 0
-}, {
-Day: 60,
-Importance: 13,
-Subject: "HNO",
-Chapter: "Sprach- und Sprechentwicklungsstörungen",
-Length: "599",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/KQYUCK/article/WP0PdT",
-Error: 0
-}, {
-Day: 60,
-Importance: 14,
-Subject: "HNO",
-Chapter: "Sammelsurium der HNO",
-Length: "829",
-Imppact: 3,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/KQYUCK/article/a50Qig",
-Error: 0
-}, {
-Day: 61,
-Importance: 1,
-Subject: "Augenheilkunde",
-Chapter: "Untersuchungsmethoden in der Augenheilkunde",
-Length: "1107",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/6QYjCK/article/aM0QMg",
-Error: 0
-}, {
-Day: 61,
-Importance: 2,
-Subject: "Augenheilkunde",
-Chapter: "Störungen der Lidstellung",
-Length: "522",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/6QYjCK/article/lO0vsT",
-Error: 0
-}, {
-Day: 61,
-Importance: 3,
-Subject: "Augenheilkunde",
-Chapter: "Entzündungen der Augenlider",
-Length: "415",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/6QYjCK/article/NO0-sT",
-Error: 0
-}, {
-Day: 61,
-Importance: 4,
-Subject: "Augenheilkunde",
-Chapter: "Erkrankungen des Tränenapparats",
-Length: "501",
-Imppact: 4,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/6QYjCK/article/5O0iGT",
-Error: 0
-}, {
-Day: 61,
-Importance: 5,
-Subject: "Augenheilkunde",
-Chapter: "Infektiöse Konjunktivitis",
-Length: "515",
-Imppact: 6,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/6QYjCK/article/MO0MGT",
-Error: 0
-}, {
-Day: 61,
-Importance: 6,
-Subject: "Augenheilkunde",
-Chapter: "Nicht-infektiöse Konjunktivitis",
-Length: "513",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/6QYjCK/article/gr0Fgh",
-Error: 0
-}, {
-Day: 61,
-Importance: 7,
-Subject: "Augenheilkunde",
-Chapter: "Allergische Konjunktivitiden",
-Length: "509",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/6QYjCK/article/Tr06gh",
-Error: 0
-}, {
-Day: 61,
-Importance: 8,
-Subject: "Augenheilkunde",
-Chapter: "Degenerationen, Dystrophien und Tumoren der Konjunktiven",
-Length: "719",
-Imppact: 4,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/6QYjCK/article/nO07GT",
-Error: 0
-}, {
-Day: 61,
-Importance: 9,
-Subject: "Augenheilkunde",
-Chapter: "Erkrankungen der Hornhaut",
-Length: "816",
-Imppact: 7,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/6QYjCK/article/9O0NuT",
-Error: 0
-}, {
-Day: 61,
-Importance: 10,
-Subject: "Augenheilkunde",
-Chapter: "Keratitis",
-Length: "875",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/6QYjCK/article/oO00tT",
-Error: 0
-}, {
-Day: 61,
-Importance: 11,
-Subject: "Augenheilkunde",
-Chapter: "Entzündungen der Sklera",
-Length: "316",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/6QYjCK/article/KO0UtT",
-Error: 0
-}, {
-Day: 61,
-Importance: 12,
-Subject: "Augenheilkunde",
-Chapter: "Erkrankungen der Linse",
-Length: "325",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/6QYjCK/article/6O0jtT",
-Error: 0
-}, {
-Day: 61,
-Importance: 13,
-Subject: "Augenheilkunde",
-Chapter: "Katarakt",
-Length: "999",
-Imppact: 10,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/6QYjCK/article/pO0LtT",
-Error: 0
-}, {
-Day: 61,
-Importance: 14,
-Subject: "Augenheilkunde",
-Chapter: "Erkrankungen der Uvea",
-Length: "1021",
-Imppact: 9,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/6QYjCK/article/JO0stT",
-Error: 0
-}, {
-Day: 61,
-Importance: 15,
-Subject: "Augenheilkunde",
-Chapter: "Aderhautmelanom",
-Length: "428",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/6QYjCK/article/NM0-Kg",
-Error: 0
-}, {
-Day: 62,
-Importance: 1,
-Subject: "Augenheilkunde",
-Chapter: "Pupillenstörungen",
-Length: "464",
-Imppact: 3,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/pQYLCK/article/qO0CtT",
-Error: 0
-}, {
-Day: 62,
-Importance: 2,
-Subject: "Augenheilkunde",
-Chapter: "Sehstörungen",
-Length: "603",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/pQYLCK/article/jM0_og",
-Error: 0
-}, {
-Day: 62,
-Importance: 3,
-Subject: "Augenheilkunde",
-Chapter: "Erkrankungen des Glaskörpers",
-Length: "779",
-Imppact: 3,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/pQYLCK/article/rO0fFT",
-Error: 0
-}, {
-Day: 62,
-Importance: 4,
-Subject: "Augenheilkunde",
-Chapter: "Endophthalmitis",
-Length: "315",
-Imppact: 3,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/pQYLCK/article/4M03Kg",
-Error: 0
-}, {
-Day: 62,
-Importance: 5,
-Subject: "Augenheilkunde",
-Chapter: "Glaukom",
-Length: "1606",
-Imppact: 22,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/pQYLCK/article/IO0YFT",
-Error: 0
-}, {
-Day: 62,
-Importance: 6,
-Subject: "Augenheilkunde",
-Chapter: "Erkrankungen der Netzhaut",
-Length: "1415",
-Imppact: 12,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/pQYLCK/article/sO0tFT",
-Error: 0
-}, {
-Day: 62,
-Importance: 7,
-Subject: "Augenheilkunde",
-Chapter: "Retinale Gefäßverschlüsse",
-Length: "748",
-Imppact: 6,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/pQYLCK/article/HO0KFT",
-Error: 0
-}, {
-Day: 62,
-Importance: 8,
-Subject: "Augenheilkunde",
-Chapter: "Netzhautablösung",
-Length: "559",
-Imppact: 7,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/pQYLCK/article/tO0X8T",
-Error: 0
-}, {
-Day: 62,
-Importance: 9,
-Subject: "Augenheilkunde",
-Chapter: "Altersbedingte Makuladegeneration",
-Length: "956",
-Imppact: 12,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/pQYLCK/article/GO0BFT",
-Error: 0
-}, {
-Day: 62,
-Importance: 10,
-Subject: "Augenheilkunde",
-Chapter: "Störungen der Sehbahn",
-Length: "957",
-Imppact: 18,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/pQYLCK/article/FO0g8T",
-Error: 0
-}, {
-Day: 62,
-Importance: 11,
-Subject: "Augenheilkunde",
-Chapter: "Erkrankungen der Augenhöhle",
-Length: "635",
-Imppact: 10,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/pQYLCK/article/G50Blg",
-Error: 0
-}, {
-Day: 62,
-Importance: 12,
-Subject: "Augenheilkunde",
-Chapter: "Horner-Syndrom",
-Length: "327",
-Imppact: 4,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/pQYLCK/article/Ui0bIf",
-Error: 0
-}, {
-Day: 62,
-Importance: 13,
-Subject: "Augenheilkunde",
-Chapter: "Störungen der Optik",
-Length: "1082",
-Imppact: 8,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/pQYLCK/article/8O0O8T",
-Error: 0
-}, {
-Day: 62,
-Importance: 14,
-Subject: "Augenheilkunde",
-Chapter: "Störungen der Bulbusmotilität und Strabismus",
-Length: "706",
-Imppact: 7,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/pQYLCK/article/uO0p8T",
-Error: 0
-}, {
-Day: 62,
-Importance: 15,
-Subject: "Augenheilkunde",
-Chapter: "Traumatische Augenverletzungen",
-Length: "847",
-Imppact: 9,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/pQYLCK/article/EO088T",
-Error: 0
-}, {
-Day: 63,
-Importance: 1,
-Subject: "Neurologie",
-Chapter: "Neurologische Untersuchung",
-Length: "8478",
-Imppact: 21,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/JQYsCK/article/o500Og",
-Error: 0
-}, {
-Day: 63,
-Importance: 2,
-Subject: "Neurologie",
-Chapter: "Tremor",
-Length: "461",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/JQYsCK/article/x30Ekf",
-Error: 0
-}, {
-Day: 63,
-Importance: 3,
-Subject: "Neurologie",
-Chapter: "Parkinson-Syndrom und Parkinson-Krankheit",
-Length: "2375",
-Imppact: 29,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/JQYsCK/article/C30qkf",
-Error: 0
-}, {
-Day: 63,
-Importance: 4,
-Subject: "Neurologie",
-Chapter: "Atypische Parkinson-Syndrome",
-Length: "688",
-Imppact: 3,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/JQYsCK/article/B30zkf",
-Error: 0
-}, {
-Day: 63,
-Importance: 5,
-Subject: "Neurologie",
-Chapter: "Normaldruckhydrozephalus",
-Length: "552",
-Imppact: 7,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/IQYYxK/article/E3084f",
-Error: 0
-}, {
-Day: 63,
-Importance: 6,
-Subject: "Neurologie",
-Chapter: "Huntington-Erkrankung",
-Length: "735",
-Imppact: 10,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/JQYsCK/article/y30dOf",
-Error: 0
-}, {
-Day: 63,
-Importance: 7,
-Subject: "Neurologie",
-Chapter: "Restless-Legs-Syndrom",
-Length: "611",
-Imppact: 7,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/JQYsCK/article/z30rOf",
-Error: 0
-}, {
-Day: 63,
-Importance: 8,
-Subject: "Neurologie",
-Chapter: "Grundlagen der Kleinhirnerkrankungen",
-Length: "501",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/JQYsCK/article/BR0z6f",
-Error: 0
-}, {
-Day: 63,
-Importance: 9,
-Subject: "Neurologie",
-Chapter: "Friedreich-Ataxie",
-Length: "511",
-Imppact: 6,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/HQYKxK/article/KR0ULf",
-Error: 0
-}, {
-Day: 64,
-Importance: 1,
-Subject: "Neurologie",
-Chapter: "Epileptische Anfälle",
-Length: "1615",
-Imppact: 14,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/qQYCCK/article/RR0l5f",
-Error: 0
-}, {
-Day: 64,
-Importance: 2,
-Subject: "Neurologie",
-Chapter: "Status epilepticus",
-Length: "599",
-Imppact: 11,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/qQYCCK/article/FG0ga3",
-Error: 0
-}, {
-Day: 64,
-Importance: 3,
-Subject: "Neurologie",
-Chapter: "Epilepsien und Epilepsiesyndrome",
-Length: "1230",
-Imppact: 23,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/qQYCCK/article/jR0_5f",
-Error: 0
-}, {
-Day: 64,
-Importance: 4,
-Subject: "Neurologie",
-Chapter: "Transiente globale Amnesie",
-Length: "321",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/qQYCCK/article/4R03Mf",
-Error: 0
-}, {
-Day: 64,
-Importance: 5,
-Subject: "Neurologie",
-Chapter: "Narkolepsie",
-Length: "897",
-Imppact: 14,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/qQYCCK/article/kR0mMf",
-Error: 0
-}, {
-Day: 64,
-Importance: 6,
-Subject: "Neurologie",
-Chapter: "Vigilanzminderung",
-Length: "1138",
-Imppact: 8,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/qQYCCK/article/eR0xNf",
-Error: 0
-}, {
-Day: 64,
-Importance: 7,
-Subject: "Neurologie",
-Chapter: "Irreversibler Hirnfunktionsausfall",
-Length: "702",
-Imppact: 6,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/qQYCCK/article/KI0Udh",
-Error: 0
-}, {
-Day: 64,
-Importance: 8,
-Subject: "Neurologie",
-Chapter: "Syndrome mit anhaltender minimaler Interaktionsfähigkeit",
-Length: "333",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/IQYYxK/article/bi0HJf",
-Error: 0
-}, {
-Day: 64,
-Importance: 9,
-Subject: "Neurologie",
-Chapter: "Intrakranielle Druckerhöhung",
-Length: "1412",
-Imppact: 14,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/qQYCCK/article/r70fMh",
-Error: 0
-}, {
-Day: 64,
-Importance: 10,
-Subject: "Neurologie",
-Chapter: "Schädel-Hirn-Trauma",
-Length: "819",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/qQYCCK/article/l70vNh",
-Error: 0
-}, {
-Day: 65,
-Importance: 1,
-Subject: "Neurologie",
-Chapter: "Intrazerebrale Blutung",
-Length: "1212",
-Imppact: 11,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/7QY4xK/article/fR0kmf",
-Error: 0
-}, {
-Day: 65,
-Importance: 2,
-Subject: "Neurologie",
-Chapter: "Epidurales Hämatom",
-Length: "559",
-Imppact: 9,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/qQYCCK/article/VR0GNf",
-Error: 0
-}, {
-Day: 65,
-Importance: 3,
-Subject: "Neurologie",
-Chapter: "Subdurales Hämatom",
-Length: "713",
-Imppact: 8,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/qQYCCK/article/dR0oNf",
-Error: 0
-}, {
-Day: 65,
-Importance: 4,
-Subject: "Neurologie",
-Chapter: "Subarachnoidalblutung",
-Length: "1653",
-Imppact: 36,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/qQYCCK/article/2R0Tmf",
-Error: 0
-}, {
-Day: 65,
-Importance: 5,
-Subject: "Neurologie",
-Chapter: "Ischämischer Schlaganfall",
-Length: "3536",
-Imppact: 82,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/7QY4xK/article/UR0bmf",
-Error: 0
-}, {
-Day: 65,
-Importance: 6,
-Subject: "Neurologie",
-Chapter: "Karotis- und Vertebralisdissektion",
-Length: "631",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/7QY4xK/article/Pi0W7f",
-Error: 0
-}, {
-Day: 65,
-Importance: 7,
-Subject: "Neurologie",
-Chapter: "Zerebrale Sinus- und Venenthrombose",
-Length: "799",
-Imppact: 10,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/7QY4xK/article/SR0ymf",
-Error: 0
-}, {
-Day: 65,
-Importance: 8,
-Subject: "Neurologie",
-Chapter: "Carotis-Sinus-cavernosus-Fistel",
-Length: "285",
-Imppact: 3,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/7QY4xK/article/2i0TIf",
-Error: 0
-}, {
-Day: 66,
-Importance: 1,
-Subject: "Neurologie",
-Chapter: "Kopfschmerzen",
-Length: "1318",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/7QY4xK/article/YL0nwg",
-Error: 0
-}, {
-Day: 66,
-Importance: 2,
-Subject: "Neurologie",
-Chapter: "Migräne",
-Length: "1503",
-Imppact: 27,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/7QY4xK/article/hi0crf",
-Error: 0
-}, {
-Day: 66,
-Importance: 3,
-Subject: "Neurologie",
-Chapter: "Kopfschmerz vom Spannungstyp",
-Length: "437",
-Imppact: 4,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/7QY4xK/article/3i0Srf",
-Error: 0
-}, {
-Day: 66,
-Importance: 4,
-Subject: "Neurologie",
-Chapter: "Cluster-Kopfschmerz",
-Length: "480",
-Imppact: 4,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/7QY4xK/article/Ri0lrf",
-Error: 0
-}, {
-Day: 66,
-Importance: 5,
-Subject: "Neurologie",
-Chapter: "Trigeminusneuralgie",
-Length: "617",
-Imppact: 3,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/7QY4xK/article/ii0Jrf",
-Error: 0
-}, {
-Day: 66,
-Importance: 6,
-Subject: "Neurologie",
-Chapter: "Kopfschmerz bei Medikamentenübergebrauch",
-Length: "347",
-Imppact: 4,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/7QY4xK/article/dq0oxS",
-Error: 0
-}, {
-Day: 66,
-Importance: 7,
-Subject: "Neurologie",
-Chapter: "Idiopathische intrakranielle Hypertension",
-Length: "501",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/IQYYxK/article/u30p4f",
-Error: 0
-}, {
-Day: 66,
-Importance: 8,
-Subject: "Neurologie",
-Chapter: "Meningitis",
-Length: "2466",
-Imppact: 56,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/rQYfxK/article/ZR0Zlf",
-Error: 0
-}, {
-Day: 66,
-Importance: 9,
-Subject: "Neurologie",
-Chapter: "Liquorpunktion",
-Length: "1120",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/JQYsCK/article/-l0DzT",
-Error: 0
-}, {
-Day: 66,
-Importance: 10,
-Subject: "Neurologie",
-Chapter: "FSME-Virus-Infektion",
-Length: "552",
-Imppact: 3,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/rQYfxK/article/Sr0ygh",
-Error: 0
-}, {
-Day: 66,
-Importance: 11,
-Subject: "Neurologie",
-Chapter: "Herpes-simplex-Enzephalitis",
-Length: "989",
-Imppact: 14,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/rQYfxK/article/YR0nlf",
-Error: 0
-}, {
-Day: 66,
-Importance: 12,
-Subject: "Neurologie",
-Chapter: "Hirnabszess",
-Length: "519",
-Imppact: 9,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/rQYfxK/article/1R02Nf",
-Error: 0
-}, {
-Day: 66,
-Importance: 13,
-Subject: "Neurologie",
-Chapter: "Creutzfeldt-Jakob-Krankheit",
-Length: "503",
-Imppact: 7,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/rQYfxK/article/cR0aNf",
-Error: 0
-}, {
-Day: 67,
-Importance: 1,
-Subject: "Neurologie",
-Chapter: "Multiple Sklerose",
-Length: "2308",
-Imppact: 22,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/HQYKxK/article/WR0PNf",
-Error: 0
-}, {
-Day: 67,
-Importance: 2,
-Subject: "Neurologie",
-Chapter: "Neuromyelitis-optica-Spektrum-Erkrankungen",
-Length: "408",
-Imppact: 6,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/HQYKxK/article/OI0I1h",
-Error: 0
-}, {
-Day: 67,
-Importance: 3,
-Subject: "Neurologie",
-Chapter: "Amyotrophe Lateralsklerose",
-Length: "1343",
-Imppact: 12,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/HQYKxK/article/LR0wnf",
-Error: 0
-}, {
-Day: 67,
-Importance: 4,
-Subject: "Neurologie",
-Chapter: "Spinale Muskelatrophien",
-Length: "498",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/HQYKxK/article/MR0Mnf",
-Error: 0
-}, {
-Day: 67,
-Importance: 5,
-Subject: "Neurologie",
-Chapter: "Myasthenia gravis",
-Length: "1388",
-Imppact: 16,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/HQYKxK/article/DR016f",
-Error: 0
-}, {
-Day: 67,
-Importance: 6,
-Subject: "Neurologie",
-Chapter: "Myotone Dystrophien und nicht-dystrophe Myotonien",
-Length: "1110",
-Imppact: 13,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/HQYKxK/article/uR0pKf",
-Error: 0
-}, {
-Day: 67,
-Importance: 7,
-Subject: "Neurologie",
-Chapter: "Progressive Muskeldystrophien",
-Length: "905",
-Imppact: 9,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/HQYKxK/article/8R0OKf",
-Error: 0
-}, {
-Day: 67,
-Importance: 8,
-Subject: "Neurologie",
-Chapter: "Stiff-Person-Syndrom",
-Length: "337",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/HQYKxK/article/wR0h6f",
-Error: 0
-}, {
-Day: 67,
-Importance: 9,
-Subject: "Neurologie",
-Chapter: "Dystonie",
-Length: "399",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/HQYKxK/article/A30ROf",
-Error: 0
-}, {
-Day: 67,
-Importance: 10,
-Subject: "Neurologie",
-Chapter: "Hereditäre spastische Paraplegie",
-Length: "212",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/HQYKxK/article/oR00Lf",
-Error: 0
-}, {
-Day: 68,
-Importance: 1,
-Subject: "Neurologie",
-Chapter: "Tumoren des zentralen Nervensystems",
-Length: "1026",
-Imppact: 10,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/rQYfxK/article/H50Klg",
-Error: 0
-}, {
-Day: 68,
-Importance: 2,
-Subject: "Neurologie",
-Chapter: "Gliome",
-Length: "870",
-Imppact: 19,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/rQYfxK/article/7504lg",
-Error: 0
-}, {
-Day: 68,
-Importance: 3,
-Subject: "Neurologie",
-Chapter: "Meningeom",
-Length: "541",
-Imppact: 8,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/rQYfxK/article/I30YPf",
-Error: 0
-}, {
-Day: 68,
-Importance: 4,
-Subject: "Neurologie",
-Chapter: "Vestibularisschwannom und andere Neurinome",
-Length: "754",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/rQYfxK/article/H30KPf",
-Error: 0
-}, {
-Day: 68,
-Importance: 5,
-Subject: "Neurologie",
-Chapter: "Meningeosis neoplastica",
-Length: "306",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/rQYfxK/article/XR09lf",
-Error: 0
-}, {
-Day: 68,
-Importance: 6,
-Subject: "Neurologie",
-Chapter: "Hirnnerven-Syndrome",
-Length: "1263",
-Imppact: 7,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/IQYYxK/article/tR0XKf",
-Error: 0
-}, {
-Day: 68,
-Importance: 7,
-Subject: "Neurologie",
-Chapter: "Periphere Fazialisparese",
-Length: "954",
-Imppact: 9,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/sQYtxK/article/FR0gKf",
-Error: 0
-}, {
-Day: 68,
-Importance: 8,
-Subject: "Neurologie",
-Chapter: "Syndrome der Schädelbasis",
-Length: "751",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/IQYYxK/article/P50W4g",
-Error: 0
-}, {
-Day: 68,
-Importance: 9,
-Subject: "Neurologie",
-Chapter: "Komplettes Querschnittsyndrom",
-Length: "402",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/IQYYxK/article/Wi0Pqf",
-Error: 0
-}, {
-Day: 68,
-Importance: 10,
-Subject: "Neurologie",
-Chapter: "Inkomplette Querschnittsyndrome",
-Length: "509",
-Imppact: 4,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/IQYYxK/article/NR0-Mf",
-Error: 0
-}, {
-Day: 68,
-Importance: 11,
-Subject: "Neurologie",
-Chapter: "Arteria-spinalis-anterior-Syndrom",
-Length: "386",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/IQYYxK/article/5R0inf",
-Error: 0
-}, {
-Day: 68,
-Importance: 12,
-Subject: "Neurologie",
-Chapter: "Zervikale Myelopathie",
-Length: "365",
-Imppact: 3,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/sQYtxK/article/X509ig",
-Error: 0
-}, {
-Day: 68,
-Importance: 13,
-Subject: "Neurologie",
-Chapter: "Degenerative Spinalkanalstenose",
-Length: "509",
-Imppact: 10,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/sQYtxK/article/JR0sLf",
-Error: 0
-}, {
-Day: 69,
-Importance: 1,
-Subject: "Neurologie",
-Chapter: "Neurophysiologische Diagnostik",
-Length: "831",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/JQYsCK/article/Cn0qvg",
-Error: 0
-}, {
-Day: 69,
-Importance: 2,
-Subject: "Neurologie",
-Chapter: "Periphere Nervenläsionen",
-Length: "1056",
-Imppact: 13,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/sQYtxK/article/Zi0ZJf",
-Error: 0
-}, {
-Day: 69,
-Importance: 3,
-Subject: "Neurologie",
-Chapter: "Läsion des N. radialis",
-Length: "504",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/sQYtxK/article/_R05pf",
-Error: 0
-}, {
-Day: 69,
-Importance: 4,
-Subject: "Neurologie",
-Chapter: "Läsion des N. ulnaris",
-Length: "771",
-Imppact: 15,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/sQYtxK/article/AR0Rpf",
-Error: 0
-}, {
-Day: 69,
-Importance: 5,
-Subject: "Neurologie",
-Chapter: "Läsion des N. medianus",
-Length: "619",
-Imppact: 6,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/sQYtxK/article/zR0rpf",
-Error: 0
-}, {
-Day: 69,
-Importance: 6,
-Subject: "Neurologie",
-Chapter: "Neuralgische Amyotrophie",
-Length: "219",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/sQYtxK/article/0i0eJf",
-Error: 0
-}, {
-Day: 69,
-Importance: 7,
-Subject: "Neurologie",
-Chapter: "Polyneuropathie",
-Length: "2327",
-Imppact: 23,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/sQYtxK/article/qR0CLf",
-Error: 0
-}, {
-Day: 69,
-Importance: 8,
-Subject: "Neurologie",
-Chapter: "Guillain-Barré-Syndrom",
-Length: "1344",
-Imppact: 24,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/sQYtxK/article/7R04of",
-Error: 0
-}, {
-Day: 69,
-Importance: 9,
-Subject: "Neurologie",
-Chapter: "Vitamin-B12-Mangel",
-Length: "1037",
-Imppact: 23,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/sQYtxK/article/6R0jLf",
-Error: 0
-}, {
-Day: 70,
-Importance: 1,
-Subject: "Psychiatrie",
-Chapter: "Psychopathologischer Befund",
-Length: "2061",
-Imppact: 26,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/GQYBxK/article/pM0Lpg",
-Error: 0
-}, {
-Day: 70,
-Importance: 2,
-Subject: "Psychiatrie",
-Chapter: "Psychotherapeutische Verfahren (Klinik)",
-Length: "2238",
-Imppact: 21,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/GQYBxK/article/PN0WYg",
-Error: 0
-}, {
-Day: 70,
-Importance: 3,
-Subject: "Psychiatrie",
-Chapter: "Delir",
-Length: "1581",
-Imppact: 12,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/GQYBxK/article/6P0jfT",
-Error: 0
-}, {
-Day: 70,
-Importance: 4,
-Subject: "Psychiatrie",
-Chapter: "Demenzen",
-Length: "1598",
-Imppact: 15,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/GQYBxK/article/v30A4f",
-Error: 0
-}, {
-Day: 70,
-Importance: 5,
-Subject: "Psychiatrie",
-Chapter: "Alzheimer-Krankheit",
-Length: "701",
-Imppact: 19,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/GQYBxK/article/D301kf",
-Error: 0
-}, {
-Day: 70,
-Importance: 6,
-Subject: "Psychiatrie",
-Chapter: "Frontotemporale Demenz",
-Length: "535",
-Imppact: 3,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/GQYBxK/article/w30hkf",
-Error: 0
-}, {
-Day: 70,
-Importance: 7,
-Subject: "Psychiatrie",
-Chapter: "Vaskuläre Demenz",
-Length: "463",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/GQYBxK/article/930Nkf",
-Error: 0
-}, {
-Day: 70,
-Importance: 8,
-Subject: "Psychiatrie",
-Chapter: "Somatoforme Störungen",
-Length: "593",
-Imppact: 7,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/GQYBxK/article/MP0M2T",
-Error: 0
-}, {
-Day: 70,
-Importance: 9,
-Subject: "Psychiatrie",
-Chapter: "Unipolare Depression",
-Length: "1584",
-Imppact: 27,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/GQYBxK/article/PP0WUT",
-Error: 0
-}, {
-Day: 70,
-Importance: 10,
-Subject: "Psychiatrie",
-Chapter: "Bipolare affektive Störung",
-Length: "1489",
-Imppact: 16,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/GQYBxK/article/4P03UT",
-Error: 0
-}, {
-Day: 70,
-Importance: 11,
-Subject: "Psychiatrie",
-Chapter: "Neuromodulationsverfahren",
-Length: "428",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/GQYBxK/article/wM0hIg",
-Error: 0
-}, {
-Day: 71,
-Importance: 1,
-Subject: "Psychiatrie",
-Chapter: "Zwangsstörungen",
-Length: "751",
-Imppact: 25,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/tQYXBK/article/OP0IUT",
-Error: 0
-}, {
-Day: 71,
-Importance: 2,
-Subject: "Psychiatrie",
-Chapter: "Reaktionen auf schwere Belastungen und Anpassungsstörungen",
-Length: "1359",
-Imppact: 40,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/tQYXBK/article/lP0vUT",
-Error: 0
-}, {
-Day: 71,
-Importance: 3,
-Subject: "Psychiatrie",
-Chapter: "Dissoziative Störungen",
-Length: "654",
-Imppact: 7,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/tQYXBK/article/NP0-UT",
-Error: 0
-}, {
-Day: 71,
-Importance: 4,
-Subject: "Psychiatrie",
-Chapter: "Opioidbezogene Störungen",
-Length: "635",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/tQYXBK/article/Ar0RPh",
-Error: 0
-}, {
-Day: 71,
-Importance: 5,
-Subject: "Psychiatrie",
-Chapter: "Cannabinoide",
-Length: "605",
-Imppact: 4,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/tQYXBK/article/_r05Ph",
-Error: 0
-}, {
-Day: 71,
-Importance: 6,
-Subject: "Psychiatrie",
-Chapter: "Sedativa (Intoxikation und Abhängigkeit)",
-Length: "531",
-Imppact: 6,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/tQYXBK/article/zr0rPh",
-Error: 0
-}, {
-Day: 71,
-Importance: 7,
-Subject: "Psychiatrie",
-Chapter: "Rauchen und Tabakkonsum",
-Length: "445",
-Imppact: 7,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/tQYXBK/article/Z70Z4h",
-Error: 0
-}, {
-Day: 71,
-Importance: 8,
-Subject: "Psychiatrie",
-Chapter: "Psychostimulanzien",
-Length: "592",
-Imppact: 3,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/tQYXBK/article/-r0DPh",
-Error: 0
-}, {
-Day: 71,
-Importance: 9,
-Subject: "Psychiatrie",
-Chapter: "Alkoholbezogene Störungen",
-Length: "1975",
-Imppact: 22,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/tQYXBK/article/KP0UfT",
-Error: 0
-}, {
-Day: 71,
-Importance: 10,
-Subject: "Psychiatrie",
-Chapter: "Wernicke-Enzephalopathie",
-Length: "678",
-Imppact: 8,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/tQYXBK/article/9R0N6f",
-Error: 0
-}, {
-Day: 71,
-Importance: 11,
-Subject: "Psychiatrie",
-Chapter: "Schizophrenie",
-Length: "2520",
-Imppact: 22,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/tQYXBK/article/pP0LfT",
-Error: 0
-}, {
-Day: 72,
-Importance: 1,
-Subject: "Psychiatrie",
-Chapter: "Persönlichkeitsstörungen",
-Length: "743",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/FQYgBK/article/nP072T",
-Error: 0
-}, {
-Day: 72,
-Importance: 2,
-Subject: "Psychiatrie",
-Chapter: "Borderline-Persönlichkeitsstörung",
-Length: "752",
-Imppact: 13,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/FQYgBK/article/LP0w2T",
-Error: 0
-}, {
-Day: 72,
-Importance: 3,
-Subject: "Psychiatrie",
-Chapter: "Tiefgreifende Entwicklungsstörungen",
-Length: "1057",
-Imppact: 13,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/FQYgBK/article/IP0YTT",
-Error: 0
-}, {
-Day: 72,
-Importance: 4,
-Subject: "Psychiatrie",
-Chapter: "Tic-Störungen",
-Length: "595",
-Imppact: 9,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/FQYgBK/article/sP0tTT",
-Error: 0
-}, {
-Day: 72,
-Importance: 5,
-Subject: "Psychiatrie",
-Chapter: "Essstörungen",
-Length: "1462",
-Imppact: 38,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/FQYgBK/article/GP0BTT",
-Error: 0
-}, {
-Day: 72,
-Importance: 6,
-Subject: "Psychiatrie",
-Chapter: "Angststörungen",
-Length: "1126",
-Imppact: 37,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/FQYgBK/article/kP0mUT",
-Error: 0
-}, {
-Day: 72,
-Importance: 7,
-Subject: "Psychiatrie",
-Chapter: "Insomnien",
-Length: "612",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/FQYgBK/article/t70Xnh",
-Error: 0
-}, {
-Day: 72,
-Importance: 8,
-Subject: "Psychiatrie",
-Chapter: "Parasomnien",
-Length: "664",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/FQYgBK/article/tP0XgT",
-Error: 0
-}, {
-Day: 73,
-Importance: 1,
-Subject: "Psychiatrie",
-Chapter: "Verhaltens- und emotionale Störungen im Kindes- und Jugendalter",
-Length: "608",
-Imppact: 16,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/8QYOBK/article/_5055g",
-Error: 0
-}, {
-Day: 73,
-Importance: 2,
-Subject: "Psychiatrie",
-Chapter: "Aufmerksamkeitsdefizit-/Hyperaktivitätsstörung",
-Length: "590",
-Imppact: 8,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/8QYOBK/article/rP0fTT",
-Error: 0
-}, {
-Day: 73,
-Importance: 3,
-Subject: "Psychiatrie",
-Chapter: "Geschlechtsinkongruenz",
-Length: "423",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/8QYOBK/article/DM01Ig",
-Error: 0
-}, {
-Day: 73,
-Importance: 4,
-Subject: "Psychiatrie",
-Chapter: "Paraphile Störungen",
-Length: "321",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/8QYOBK/article/Xr09fh",
-Error: 0
-}, {
-Day: 73,
-Importance: 5,
-Subject: "Psychiatrie",
-Chapter: "Suizidalität",
-Length: "2122",
-Imppact: 13,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/8QYOBK/article/8P0OgT",
-Error: 0
-}, {
-Day: 73,
-Importance: 6,
-Subject: "Psychiatrie",
-Chapter: "Betreuung und Zwangsmaßnahmen",
-Length: "1383",
-Imppact: 6,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/8QYOBK/article/uP0pgT",
-Error: 0
-}, {
-Day: 74,
-Importance: 1,
-Subject: "Pharmakologie",
-Chapter: "Pharmakologische Grundlagen",
-Length: "1932",
-Imppact: 13,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/uQYpBK/article/7N04cg",
-Error: 0
-}, {
-Day: 74,
-Importance: 2,
-Subject: "Pharmakologie",
-Chapter: "Arzneimittelrezept",
-Length: "613",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/uQYpBK/article/XM09Mg",
-Error: 0
-}, {
-Day: 74,
-Importance: 3,
-Subject: "Pharmakologie",
-Chapter: "Parasympathomimetika",
-Length: "446",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/uQYpBK/article/HN0Kcg",
-Error: 0
-}, {
-Day: 74,
-Importance: 4,
-Subject: "Pharmakologie",
-Chapter: "Parasympatholytika",
-Length: "637",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/uQYpBK/article/sN0tcg",
-Error: 0
-}, {
-Day: 74,
-Importance: 5,
-Subject: "Pharmakologie",
-Chapter: "Anticholinerges Syndrom",
-Length: "628",
-Imppact: 7,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/uQYpBK/article/Yt0nX3",
-Error: 0
-}, {
-Day: 74,
-Importance: 6,
-Subject: "Pharmakologie",
-Chapter: "β2-Sympathomimetika",
-Length: "290",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/uQYpBK/article/GN0Bcg",
-Error: 0
-}, {
-Day: 74,
-Importance: 7,
-Subject: "Pharmakologie",
-Chapter: "Sympathomimetika",
-Length: "1050",
-Imppact: 7,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/uQYpBK/article/tN0X1g",
-Error: 0
-}, {
-Day: 74,
-Importance: 8,
-Subject: "Pharmakologie",
-Chapter: "Antisympathotonika",
-Length: "705",
-Imppact: 7,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/uQYpBK/article/8N0O1g",
-Error: 0
-}, {
-Day: 74,
-Importance: 9,
-Subject: "Pharmakologie",
-Chapter: "Betablocker",
-Length: "857",
-Imppact: 12,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/uQYpBK/article/uN0p1g",
-Error: 0
-}, {
-Day: 74,
-Importance: 10,
-Subject: "Pharmakologie",
-Chapter: "Calciumantagonisten",
-Length: "602",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/uQYpBK/article/cm0aeg",
-Error: 0
-}, {
-Day: 74,
-Importance: 11,
-Subject: "Pharmakologie",
-Chapter: "RAAS-Inhibitoren",
-Length: "778",
-Imppact: 13,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/uQYpBK/article/1m02eg",
-Error: 0
-}, {
-Day: 75,
-Importance: 1,
-Subject: "Pharmakologie",
-Chapter: "Amiodaron",
-Length: "512",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/EQY8BK/article/Xm09Vg",
-Error: 0
-}, {
-Day: 75,
-Importance: 2,
-Subject: "Pharmakologie",
-Chapter: "Nitrate und Molsidomin",
-Length: "406",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/EQY8BK/article/Wm0Peg",
-Error: 0
-}, {
-Day: 75,
-Importance: 3,
-Subject: "Pharmakologie",
-Chapter: "Phosphodiesterase-Hemmer",
-Length: "449",
-Imppact: 3,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/EQY8BK/article/em0xeg",
-Error: 0
-}, {
-Day: 75,
-Importance: 4,
-Subject: "Pharmakologie",
-Chapter: "Herzglykoside",
-Length: "664",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/EQY8BK/article/Vm0Geg",
-Error: 0
-}, {
-Day: 75,
-Importance: 5,
-Subject: "Pharmakologie",
-Chapter: "Thrombozytenaggregationshemmer",
-Length: "996",
-Imppact: 6,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/EQY8BK/article/Um0bUg",
-Error: 0
-}, {
-Day: 75,
-Importance: 6,
-Subject: "Pharmakologie",
-Chapter: "Parenterale Antikoagulanzien",
-Length: "974",
-Imppact: 17,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/EQY8BK/article/2m0TUg",
-Error: 0
-}, {
-Day: 75,
-Importance: 7,
-Subject: "Pharmakologie",
-Chapter: "Orale Antikoagulanzien",
-Length: "1658",
-Imppact: 38,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/EQY8BK/article/Tm06Ug",
-Error: 0
-}, {
-Day: 75,
-Importance: 8,
-Subject: "Pharmakologie",
-Chapter: "Diuretika",
-Length: "364",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/EQY8BK/article/gm0FUg",
-Error: 0
-}, {
-Day: 75,
-Importance: 9,
-Subject: "Pharmakologie",
-Chapter: "Thiaziddiuretika",
-Length: "429",
-Imppact: 4,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/EQY8BK/article/Sm0yUg",
-Error: 0
-}, {
-Day: 75,
-Importance: 10,
-Subject: "Pharmakologie",
-Chapter: "Schleifendiuretika",
-Length: "589",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/EQY8BK/article/hm0c2g",
-Error: 0
-}, {
-Day: 75,
-Importance: 11,
-Subject: "Pharmakologie",
-Chapter: "Kaliumsparende Diuretika",
-Length: "564",
-Imppact: 4,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/EQY8BK/article/3m0S2g",
-Error: 0
-}, {
-Day: 75,
-Importance: 12,
-Subject: "Pharmakologie",
-Chapter: "Überblick über Vergiftungen",
-Length: "1153",
-Imppact: 4,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/EQY8BK/article/Af0RK2",
-Error: 0
-}, {
-Day: 76,
-Importance: 1,
-Subject: "Pharmakologie",
-Chapter: "Antihistaminika",
-Length: "501",
-Imppact: 3,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/vQYABK/article/Pm0Wfg",
-Error: 0
-}, {
-Day: 76,
-Importance: 2,
-Subject: "Pharmakologie",
-Chapter: "Glucocorticoide",
-Length: "926",
-Imppact: 14,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/vQYABK/article/km0mfg",
-Error: 0
-}, {
-Day: 76,
-Importance: 3,
-Subject: "Pharmakologie",
-Chapter: "Protonenpumpenhemmer",
-Length: "272",
-Imppact: 3,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/vQYABK/article/rm0fSg",
-Error: 0
-}, {
-Day: 76,
-Importance: 4,
-Subject: "Pharmakologie",
-Chapter: "Lipidsenker",
-Length: "1010",
-Imppact: 10,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/vQYABK/article/am0QVg",
-Error: 0
-}, {
-Day: 76,
-Importance: 5,
-Subject: "Pharmakologie",
-Chapter: "Antidiabetika",
-Length: "1393",
-Imppact: 29,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/vQYABK/article/7m04Sg",
-Error: 0
-}, {
-Day: 76,
-Importance: 6,
-Subject: "Pharmakologie",
-Chapter: "Insuline",
-Length: "616",
-Imppact: 9,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/vQYABK/article/Gm0BSg",
-Error: 0
-}, {
-Day: 76,
-Importance: 7,
-Subject: "Pharmakologie",
-Chapter: "Bisphosphonate und andere antiosteoporotische Medikamente",
-Length: "575",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/vQYABK/article/tm0Xhg",
-Error: 0
-}, {
-Day: 76,
-Importance: 8,
-Subject: "Pharmakologie",
-Chapter: "Thyreostatika",
-Length: "402",
-Imppact: 4,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/vQYABK/article/Fm0ghg",
-Error: 0
-}, {
-Day: 76,
-Importance: 9,
-Subject: "Pharmakologie",
-Chapter: "Hormonelle Kontrazeption",
-Length: "1248",
-Imppact: 6,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/vQYABK/article/Em08hg",
-Error: 0
-}, {
-Day: 76,
-Importance: 10,
-Subject: "Pharmakologie",
-Chapter: "Pharmakotherapie in der Schwangerschaft",
-Length: "469",
-Imppact: 7,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/vQYABK/article/dm0oeg",
-Error: 0
-}, {
-Day: 77,
-Importance: 1,
-Subject: "Pharmakologie",
-Chapter: "Antipsychotika",
-Length: "1491",
-Imppact: 20,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/DQY1yK/article/AN0Rdg",
-Error: 0
-}, {
-Day: 77,
-Importance: 2,
-Subject: "Pharmakologie",
-Chapter: "Antidepressiva",
-Length: "1131",
-Imppact: 13,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/DQY1yK/article/_N05dg",
-Error: 0
-}, {
-Day: 77,
-Importance: 3,
-Subject: "Pharmakologie",
-Chapter: "Lithium",
-Length: "855",
-Imppact: 3,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/DQY1yK/article/zN0rdg",
-Error: 0
-}, {
-Day: 77,
-Importance: 4,
-Subject: "Pharmakologie",
-Chapter: "Anfallssuppressiva",
-Length: "676",
-Imppact: 12,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/DQY1yK/article/-N0Ddg",
-Error: 0
-}, {
-Day: 77,
-Importance: 5,
-Subject: "Pharmakologie",
-Chapter: "Parkinson-Medikamente",
-Length: "880",
-Imppact: 13,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/DQY1yK/article/Zm0ZVg",
-Error: 0
-}, {
-Day: 78,
-Importance: 1,
-Subject: "Pharmakologie",
-Chapter: "Antibiotika",
-Length: "2664",
-Imppact: 27,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/wQYhyK/article/mm0VTg",
-Error: 0
-}, {
-Day: 78,
-Importance: 2,
-Subject: "Pharmakologie",
-Chapter: "Virostatika",
-Length: "799",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/wQYhyK/article/pm0Lgg",
-Error: 0
-}, {
-Day: 78,
-Importance: 3,
-Subject: "Pharmakologie",
-Chapter: "Interferontherapie",
-Length: "356",
-Imppact: 3,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/wQYhyK/article/1K022S",
-Error: 0
-}, {
-Day: 78,
-Importance: 4,
-Subject: "Pharmakologie",
-Chapter: "Antimykotika",
-Length: "583",
-Imppact: 6,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/wQYhyK/article/6m0jgg",
-Error: 0
-}, {
-Day: 78,
-Importance: 5,
-Subject: "Pharmakologie",
-Chapter: "Immunsuppressiva",
-Length: "1954",
-Imppact: 13,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/wQYhyK/article/qM0Cpg",
-Error: 0
-}, {
-Day: 78,
-Importance: 6,
-Subject: "Pharmakologie",
-Chapter: "Chloroquin und Hydroxychloroquin",
-Length: "241",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/wQYhyK/article/8M0Oqg",
-Error: 0
-}, {
-Day: 78,
-Importance: 7,
-Subject: "Pharmakologie",
-Chapter: "Zytostatika",
-Length: "1559",
-Imppact: 24,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/wQYhyK/article/4m03fg",
-Error: 0
-}, {
-Day: 78,
-Importance: 8,
-Subject: "Pharmakologie",
-Chapter: "Medikamente der zielgerichteten Tumortherapie",
-Length: "1197",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/wQYhyK/article/TE06E3",
-Error: 0
-}, {
-Day: 78,
-Importance: 9,
-Subject: "Pharmakologie",
-Chapter: "Antiemetika",
-Length: "639",
-Imppact: 9,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/wQYhyK/article/qm0Cgg",
-Error: 0
-}, {
-Day: 79,
-Importance: 1,
-Subject: "Radiologie",
-Chapter: "Röntgen",
-Length: "1265",
-Imppact: 4,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/9QYNyK/article/in0JGg",
-Error: 0
-}, {
-Day: 79,
-Importance: 2,
-Subject: "Radiologie",
-Chapter: "Computertomografie",
-Length: "1064",
-Imppact: 12,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/9QYNyK/article/KN0UXg",
-Error: 0
-}, {
-Day: 79,
-Importance: 3,
-Subject: "Radiologie",
-Chapter: "Magnetresonanztomografie",
-Length: "997",
-Imppact: 9,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/9QYNyK/article/pN0LXg",
-Error: 0
-}, {
-Day: 79,
-Importance: 4,
-Subject: "Radiologie",
-Chapter: "Strahlentherapie",
-Length: "545",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/9QYNyK/article/L50wkg",
-Error: 0
-}, {
-Day: 79,
-Importance: 5,
-Subject: "Radiologie",
-Chapter: "Radioiodtherapie",
-Length: "362",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/9QYNyK/article/Gl0ByT",
-Error: 0
-}, {
-Day: 79,
-Importance: 6,
-Subject: "Radiologie",
-Chapter: "Schilddrüsenszintigrafie",
-Length: "550",
-Imppact: 3,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/9QYNyK/article/il0J9T",
-Error: 0
-}, {
-Day: 79,
-Importance: 7,
-Subject: "Radiologie",
-Chapter: "Knochenszintigrafie",
-Length: "373",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/9QYNyK/article/JN0sXg",
-Error: 0
-}, {
-Day: 79,
-Importance: 8,
-Subject: "Radiologie",
-Chapter: "Ösophagusbreischluck und Störungen der Ösophagusmotilität",
-Length: "330",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/9QYNyK/article/D501mg",
-Error: 0
-}, {
-Day: 79,
-Importance: 9,
-Subject: "Radiologie",
-Chapter: "Tag 79 M2-Lernplan - Wiederholung des Querschnittbereichs Radiologie",
-Length: "191",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/9QYNyK/article/Bq0z0h",
-Error: 0
-}, {
-Day: 80,
-Importance: 1,
-Subject: "Arbeits- und Umweltmedizin",
-Chapter: "Arbeitsmedizinische Organe und Gesetze",
-Length: "946",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/CQYqyK/article/wQ0hyf",
-Error: 0
-}, {
-Day: 80,
-Importance: 2,
-Subject: "Arbeits- und Umweltmedizin",
-Chapter: "Verhütung und Früherkennung beruflich bedingter Schäden",
-Length: "498",
-Imppact: 6,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/CQYqyK/article/9Q0Nyf",
-Error: 0
-}, {
-Day: 80,
-Importance: 3,
-Subject: "Arbeits- und Umweltmedizin",
-Chapter: "Anerkennung von Berufskrankheiten",
-Length: "363",
-Imppact: 13,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/CQYqyK/article/yQ0dAf",
-Error: 0
-}, {
-Day: 80,
-Importance: 4,
-Subject: "Arbeits- und Umweltmedizin",
-Chapter: "Messkriterien der Arbeitsplatzbelastung",
-Length: "430",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/CQYqyK/article/BQ0zyf",
-Error: 0
-}, {
-Day: 80,
-Importance: 5,
-Subject: "Arbeits- und Umweltmedizin",
-Chapter: "Berufskrankheiten durch physikalische Belastungen",
-Length: "516",
-Imppact: 7,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/CQYqyK/article/-Q0DAf",
-Error: 0
-}, {
-Day: 80,
-Importance: 6,
-Subject: "Arbeits- und Umweltmedizin",
-Chapter: "Erkrankungen durch Metalle",
-Length: "866",
-Imppact: 15,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/CQYqyK/article/AQ0RAf",
-Error: 0
-}, {
-Day: 80,
-Importance: 7,
-Subject: "Arbeits- und Umweltmedizin",
-Chapter: "Erkrankungen durch organische Lösungsmittel, Insektizide, Halogenkohlenwasserstoffe, Benzol und Homologe",
-Length: "961",
-Imppact: 8,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/CQYqyK/article/zQ0rAf",
-Error: 0
-}, {
-Day: 80,
-Importance: 8,
-Subject: "Arbeits- und Umweltmedizin",
-Chapter: "Lungenerkrankungen durch Inhalation anorganischer Stäube",
-Length: "304",
-Imppact: 3,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/CQYqyK/article/aj0Q_f",
-Error: 0
-}, {
-Day: 80,
-Importance: 9,
-Subject: "Arbeits- und Umweltmedizin",
-Chapter: "Asbestose und Mesotheliom",
-Length: "653",
-Imppact: 9,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/CQYqyK/article/lh0vVf",
-Error: 0
-}, {
-Day: 80,
-Importance: 10,
-Subject: "Arbeits- und Umweltmedizin",
-Chapter: "Silikose",
-Length: "509",
-Imppact: 11,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/CQYqyK/article/Oh0IVf",
-Error: 0
-}, {
-Day: 80,
-Importance: 11,
-Subject: "Arbeits- und Umweltmedizin",
-Chapter: "Lungenerkrankungen durch Inhalation organischer Stäube",
-Length: "316",
-Imppact: 3,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/CQYqyK/article/Yj0n_f",
-Error: 0
-}, {
-Day: 80,
-Importance: 12,
-Subject: "Arbeits- und Umweltmedizin",
-Chapter: "Erkrankungen durch Einwirkung reizender Gase",
-Length: "341",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/CQYqyK/article/_Q05Af",
-Error: 0
-}, {
-Day: 80,
-Importance: 13,
-Subject: "Arbeits- und Umweltmedizin",
-Chapter: "Berufserkrankungen der Haut",
-Length: "365",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/CQYqyK/article/RQ0lDf",
-Error: 0
-}, {
-Day: 80,
-Importance: 14,
-Subject: "Arbeits- und Umweltmedizin",
-Chapter: "Erkrankungen durch chlorierte und polyzyklische aromatische Kohlenwasserstoffe",
-Length: "287",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/CQYqyK/article/050eig",
-Error: 0
-}, {
-Day: 81,
-Importance: 1,
-Subject: "Rechtsmedizin",
-Chapter: "Ärztliche Rechtskunde",
-Length: "3545",
-Imppact: 27,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/xQYEyK/article/DO01uT",
-Error: 0
-}, {
-Day: 81,
-Importance: 2,
-Subject: "Rechtsmedizin",
-Chapter: "Thanatologie",
-Length: "1647",
-Imppact: 33,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/xQYEyK/article/vP0AgT",
-Error: 0
-}, {
-Day: 81,
-Importance: 3,
-Subject: "Rechtsmedizin",
-Chapter: "Verletzungen und Gewalteinwirkung",
-Length: "836",
-Imppact: 13,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/xQYEyK/article/9P0NST",
-Error: 0
-}, {
-Day: 82,
-Importance: 1,
-Subject: "Rechtsmedizin",
-Chapter: "Strangulation und Ersticken",
-Length: "833",
-Imppact: 13,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/BQYzyK/article/BP0zST",
-Error: 0
-}, {
-Day: 82,
-Importance: 2,
-Subject: "Rechtsmedizin",
-Chapter: "Ertrinken",
-Length: "582",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/BQYzyK/article/AP0RhT",
-Error: 0
-}, {
-Day: 82,
-Importance: 3,
-Subject: "Rechtsmedizin",
-Chapter: "Zeichen thermischer Schädigungen",
-Length: "683",
-Imppact: 9,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/BQYzyK/article/Z40Z3T",
-Error: 0
-}, {
-Day: 82,
-Importance: 4,
-Subject: "Rechtsmedizin",
-Chapter: "Schussverletzungen",
-Length: "560",
-Imppact: 6,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/BQYzyK/article/_P05hT",
-Error: 0
-}, {
-Day: 82,
-Importance: 5,
-Subject: "Rechtsmedizin",
-Chapter: "Spurensicherung",
-Length: "408",
-Imppact: 4,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/BQYzyK/article/zP0rhT",
-Error: 0
-}, {
-Day: 82,
-Importance: 6,
-Subject: "Rechtsmedizin",
-Chapter: "Artifizielle Störungen",
-Length: "183",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/BQYzyK/article/040e3T",
-Error: 0
-}, {
-Day: 83,
-Importance: 1,
-Subject: "Pathologie",
-Chapter: "Zelluläre Veränderungen und Anpassungsreaktionen",
-Length: "1162",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/yQYdAK/article/VP0GdT",
-Error: 0
-}, {
-Day: 83,
-Importance: 2,
-Subject: "Pathologie",
-Chapter: "Untersuchungsmethoden in der Pathologie",
-Length: "1129",
-Imppact: 3,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/yQYdAK/article/dP0odT",
-Error: 0
-}, {
-Day: 83,
-Importance: 3,
-Subject: "Pathologie",
-Chapter: "Allgemeine Onkologie",
-Length: "2181",
-Imppact: 17,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/yQYdAK/article/WM0Png",
-Error: 0
-}, {
-Day: 83,
-Importance: 4,
-Subject: "Pathologie",
-Chapter: "Tumormarker",
-Length: "492",
-Imppact: 3,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/yQYdAK/article/ol00BT",
-Error: 0
-}, {
-Day: 83,
-Importance: 5,
-Subject: "Pathologie",
-Chapter: "Neurokutane Syndrome",
-Length: "679",
-Imppact: 7,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/yQYdAK/article/Rk0lnT",
-Error: 0
-}, {
-Day: 83,
-Importance: 6,
-Subject: "Pathologie",
-Chapter: "Paraneoplastische Syndrome",
-Length: "765",
-Imppact: 4,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/yQYdAK/article/lk0vLT",
-Error: 0
-}, {
-Day: 83,
-Importance: 7,
-Subject: "Pathologie",
-Chapter: "Systemische Amyloidose",
-Length: "838",
-Imppact: 8,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/yQYdAK/article/fP0kVT",
-Error: 0
-}, {
-Day: 84,
-Importance: 1,
-Subject: "Epidemiologie",
-Chapter: "Grundbegriffe medizinischer Forschung",
-Length: "743",
-Imppact: 5,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/AQYRAK/article/nn07Fg",
-Error: 0
-}, {
-Day: 84,
-Importance: 2,
-Subject: "Epidemiologie",
-Chapter: "Angewandte Statistik",
-Length: "2782",
-Imppact: 12,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/AQYRAK/article/CI0qUh",
-Error: 0
-}, {
-Day: 84,
-Importance: 3,
-Subject: "Epidemiologie",
-Chapter: "Epidemiologie und Wahrscheinlichkeiten",
-Length: "2621",
-Imppact: 71,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/AQYRAK/article/Xj09_f",
-Error: 0
-}, {
-Day: 84,
-Importance: 4,
-Subject: "Epidemiologie",
-Chapter: "Studientypen der medizinischen Forschung",
-Length: "2315",
-Imppact: 35,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/AQYRAK/article/1j02zf",
-Error: 0
-}, {
-Day: 84,
-Importance: 5,
-Subject: "Epidemiologie",
-Chapter: "Sammelsurium der Epidemiologie",
-Length: "1299",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/AQYRAK/article/dr0oTh",
-Error: 0
-}, {
-Day: 84,
-Importance: 6,
-Subject: "Epidemiologie",
-Chapter: "Diagnose- und Klassifikationssysteme",
-Length: "1199",
-Imppact: 10,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/AQYRAK/article/dj0ozf",
-Error: 0
-}, {
-Day: 84,
-Importance: 7,
-Subject: "Epidemiologie",
-Chapter: "Qualitätsmanagement",
-Length: "570",
-Imppact: 3,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/AQYRAK/article/TM06Lg",
-Error: 0
-}, {
-Day: 84,
-Importance: 8,
-Subject: "Epidemiologie",
-Chapter: "Prävention",
-Length: "923",
-Imppact: 12,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/AQYRAK/article/Wj0Pzf",
-Error: 0
-}, {
-Day: 85,
-Importance: 1,
-Subject: "Sozialmedizin & Alternative Heilverfahren und Rehabilitation",
-Chapter: "Soziale Sicherung",
-Length: "1462",
-Imppact: 20,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/_QY5AK/article/Uj0b-f",
-Error: 0
-}, {
-Day: 85,
-Importance: 2,
-Subject: "Sozialmedizin & Alternative Heilverfahren und Rehabilitation",
-Chapter: "Gesetzliche Unfallversicherung",
-Length: "745",
-Imppact: 13,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/_QY5AK/article/jP0_eT",
-Error: 0
-}, {
-Day: 85,
-Importance: 3,
-Subject: "Sozialmedizin & Alternative Heilverfahren und Rehabilitation",
-Chapter: "Gesetzliche Krankenversicherung",
-Length: "2505",
-Imppact: 28,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/_QY5AK/article/HM0KJg",
-Error: 0
-}, {
-Day: 85,
-Importance: 4,
-Subject: "Sozialmedizin & Alternative Heilverfahren und Rehabilitation",
-Chapter: "Ökonomische Aspekte von Gesundheit und Krankheit",
-Length: "440",
-Imppact: 6,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/_QY5AK/article/2j0T-f",
-Error: 0
-}, {
-Day: 85,
-Importance: 5,
-Subject: "Sozialmedizin & Alternative Heilverfahren und Rehabilitation",
-Chapter: "Behinderung und Einschränkung der Arbeitsfähigkeit",
-Length: "622",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/_QY5AK/article/ej0xzf",
-Error: 0
-}, {
-Day: 85,
-Importance: 6,
-Subject: "Sozialmedizin & Alternative Heilverfahren und Rehabilitation",
-Chapter: "Grundlagen der allgemeinmedizinischen Versorgung",
-Length: "1310",
-Imppact: 3,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/_QY5AK/article/Rn0lGg",
-Error: 0
-}, {
-Day: 85,
-Importance: 7,
-Subject: "Sozialmedizin & Alternative Heilverfahren und Rehabilitation",
-Chapter: "Übersicht Geriatrie",
-Length: "1258",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/_QY5AK/article/On0Itg",
-Error: 0
-}, {
-Day: 85,
-Importance: 8,
-Subject: "Sozialmedizin & Alternative Heilverfahren und Rehabilitation",
-Chapter: "Palliativmedizin",
-Length: "2655",
-Imppact: 3,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/_QY5AK/article/3n0SGg",
-Error: 0
-}, {
-Day: 85,
-Importance: 9,
-Subject: "Sozialmedizin & Alternative Heilverfahren und Rehabilitation",
-Chapter: "Rehabilitation",
-Length: "1148",
-Imppact: 25,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/_QY5AK/article/kn0mtg",
-Error: 0
-}, {
-Day: 85,
-Importance: 10,
-Subject: "Sozialmedizin & Alternative Heilverfahren und Rehabilitation",
-Chapter: "Physikalische Therapie",
-Length: "782",
-Imppact: 2,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/_QY5AK/article/WN0PZg",
-Error: 0
-}, {
-Day: 85,
-Importance: 11,
-Subject: "Sozialmedizin & Alternative Heilverfahren und Rehabilitation",
-Chapter: "Phytotherapeutika",
-Length: "1310",
-Imppact: 6,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/_QY5AK/article/Rj0lZT",
-Error: 0
-}, {
-Day: 85,
-Importance: 12,
-Subject: "Sozialmedizin & Alternative Heilverfahren und Rehabilitation",
-Chapter: "Komplementärmedizin einschließlich Naturheilkunde",
-Length: "786",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/_QY5AK/article/VN0GZg",
-Error: 0
-}, {
-Day: 85,
-Importance: 13,
-Subject: "Sozialmedizin & Alternative Heilverfahren und Rehabilitation",
-Chapter: "Ernährungsmedizin",
-Length: "840",
-Imppact: 1,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/_QY5AK/article/kcamcj",
-Error: 0
-}, {
-Day: 85,
-Importance: 14,
-Subject: "Sozialmedizin & Alternative Heilverfahren und Rehabilitation",
-Chapter: "Zweites Staatsexamen",
-Length: "1028",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/_QY5AK/article/eL0x9g",
-Error: 0
-}, {
-Day: 86,
-Importance: 1,
-Subject: "Wiederholung: 2022/H Tag 1",
-Chapter: "Tag 86 Lernplan 2. STEX – Wiederholungs- und Probe-Examenszeit",
-Length: "223",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/zQYrAK/article/yq0dah",
-Error: 0
-}, {
-Day: 87,
-Importance: 1,
-Subject: "Wiederholung: 2022/H Tag 2",
-Chapter: "Tag 87 Lernplan 2. STEX – Wiederholungs- und Probe-Examenszeit",
-Length: "223",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/-QYDAK/article/Aq0Rah",
-Error: 0
-}, {
-Day: 88,
-Importance: 1,
-Subject: "Wiederholung: 2022/H Tag 3",
-Chapter: "Tag 88 Lernplan 2. STEX – Wiederholungs- und Probe-Examenszeit",
-Length: "223",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/ZjYZ_K/article/_q05ah",
-Error: 0
-}, {
-Day: 89,
-Importance: 1,
-Subject: "Wiederholung: 2023/F Tag 1",
-Chapter: "Tag 89 Lernplan 2. STEX – Wiederholungs- und Probe-Examenszeit",
-Length: "223",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/0jYe_K/article/zq0rah",
-Error: 0
-}, {
-Day: 90,
-Importance: 1,
-Subject: "Wiederholung: 2023/F Tag 2",
-Chapter: "Tag 90 Lernplan 2. STEX – Wiederholungs- und Probe-Examenszeit",
-Length: "223",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/ajYQ_K/article/-q0Dah",
-Error: 0
-}, {
-Day: 91,
-Importance: 1,
-Subject: "Wiederholung: 2023/F Tag 3",
-Chapter: "Tag 91 Lernplan 2. STEX – Wiederholungs- und Probe-Examenszeit",
-Length: "222",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/YjYn_K/article/ZI0ZYh",
-Error: 0
-}, {
-Day: 92,
-Importance: 1,
-Subject: "Generalprobe: 2023/H Tag 1",
-Chapter: "Tag 92 Lernplan 2. STEX – Wiederholungs- und Probe-Examenszeit",
-Length: "224",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/bjYH_K/article/0I0eYh",
-Error: 0
-}, {
-Day: 93,
-Importance: 1,
-Subject: "Generalprobe: 2023/H Tag 2",
-Chapter: "Tag 93 Lernplan 2. STEX – Wiederholungs- und Probe-Examenszeit",
-Length: "224",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/XjY9_K/article/aI0QYh",
-Error: 0
-}, {
-Day: 94,
-Importance: 1,
-Subject: "Generalprobe: 2023/H Tag 3",
-Chapter: "Tag 94 Lernplan 2. STEX – Wiederholungs- und Probe-Examenszeit",
-Length: "223",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/cjYazK/article/YI0nYh",
-Error: 0
-}, {
-Day: 95,
-Importance: 1,
-Subject: "Generalprobe: 2024/F Tag 1",
-Chapter: "Tag 95 Lernplan 2. STEX – Wiederholungs- und Probe-Examenszeit",
-Length: "223",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/1jY2zK/article/bI0HYh",
-Error: 0
-}, {
-Day: 96,
-Importance: 1,
-Subject: "Generalprobe: 2024/F Tag 2",
-Chapter: "Tag 96 Lernplan 2. STEX – Wiederholungs- und Probe-Examenszeit",
-Length: "223",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/WjYPzK/article/XI09Yh",
-Error: 0
-}, {
-Day: 97,
-Importance: 1,
-Subject: "Generalprobe: 2024/F Tag 3",
-Chapter: "Tag 97 Lernplan 2. STEX – Wiederholungs- und Probe-Examenszeit",
-Length: "223",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/djYozK/article/cI0abh",
-Error: 0
-}, {
-Day: 98,
-Importance: 1,
-Subject: "Generalprobe: 2024/H Tag 1",
-Chapter: "Tag 98 Lernplan 2. STEX – Wiederholungs- und Probe-Examenszeit",
-Length: "223",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/VjYGzK/article/1I02bh",
-Error: 0
-}, {
-Day: 99,
-Importance: 1,
-Subject: "Generalprobe: 2024/H Tag 2",
-Chapter: "Tag 99 Lernplan 2. STEX – Wiederholungs- und Probe-Examenszeit",
-Length: "223",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/ejYxzK/article/WI0Pbh",
-Error: 0
-}, {
-Day: 100,
-Importance: 1,
-Subject: "Generalprobe: 2024/H Tag 3",
-Chapter: "Tag 100 Lernplan 2. STEX – Wiederholungs- und Probe-Examenszeit",
-Length: "223",
-Imppact: 0,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/UjYb-K/article/dI0obh",
-Error: 0}],
+        Day: 1,
+        Importance: 1,
+        Subject: "Innere Medizin",
+        Chapter: "Handbuch - Vorbereitung auf das Zweite Staatsexamen",
+        Length: "2626",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/IiYYGK/article/Wn0PHg",
+        Error: 0
+    }, {
+        Day: 1,
+        Importance: 2,
+        Subject: "Innere Medizin",
+        Chapter: "Kreuztipps zum Zweiten Staatsexamen",
+        Length: "3512",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/IiYYGK/article/UL0bCg",
+        Error: 0
+    }, {
+        Day: 1,
+        Importance: 3,
+        Subject: "Innere Medizin",
+        Chapter: "Untersuchungsmethoden in der Kardiologie",
+        Length: "1326",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/IiYYGK/article/rM0fJg",
+        Error: 0
+    }, {
+        Day: 1,
+        Importance: 4,
+        Subject: "Innere Medizin",
+        Chapter: "EKG",
+        Length: "2796",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/IiYYGK/article/pl0LBT",
+        Error: 0
+    }, {
+        Day: 1,
+        Importance: 5,
+        Subject: "Innere Medizin",
+        Chapter: "Herzrhythmusstörungen",
+        Length: "1388",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/IiYYGK/article/7S04af",
+        Error: 0
+    }, {
+        Day: 1,
+        Importance: 6,
+        Subject: "Innere Medizin",
+        Chapter: "Supraventrikuläre Extrasystolen",
+        Length: "186",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/IiYYGK/article/sS0taf",
+        Error: 0
+    }, {
+        Day: 1,
+        Importance: 7,
+        Subject: "Innere Medizin",
+        Chapter: "Vorhofflimmern",
+        Length: "2230",
+        Imppact: 3,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/IiYYGK/article/GS0Baf",
+        Error: 0
+    }, {
+        Day: 1,
+        Importance: 8,
+        Subject: "Innere Medizin",
+        Chapter: "Sick-Sinus-Syndrom",
+        Length: "257",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/IiYYGK/article/HS0Kaf",
+        Error: 0
+    }, {
+        Day: 1,
+        Importance: 9,
+        Subject: "Innere Medizin",
+        Chapter: "AV-Block",
+        Length: "791",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/IiYYGK/article/I50Ylg",
+        Error: 0
+    }, {
+        Day: 1,
+        Importance: 10,
+        Subject: "Innere Medizin",
+        Chapter: "AV-Knoten-Reentrytachykardie",
+        Length: "428",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/IiYYGK/article/tS0XYf",
+        Error: 0
+    }, {
+        Day: 1,
+        Importance: 11,
+        Subject: "Innere Medizin",
+        Chapter: "Atrioventrikuläre Reentrytachykardie",
+        Length: "328",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/IiYYGK/article/FS0gYf",
+        Error: 0
+    }, {
+        Day: 2,
+        Importance: 1,
+        Subject: "Innere Medizin",
+        Chapter: "Ventrikuläre Extrasystolen",
+        Length: "369",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/riYfGK/article/8S0OYf",
+        Error: 0
+    }, {
+        Day: 2,
+        Importance: 2,
+        Subject: "Innere Medizin",
+        Chapter: "Ventrikuläre Tachykardie",
+        Length: "604",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/riYfGK/article/ES08Yf",
+        Error: 0
+    }, {
+        Day: 2,
+        Importance: 3,
+        Subject: "Innere Medizin",
+        Chapter: "Kammerflattern und -flimmern",
+        Length: "288",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/riYfGK/article/vS0AYf",
+        Error: 0
+    }, {
+        Day: 2,
+        Importance: 4,
+        Subject: "Innere Medizin",
+        Chapter: "Herzschrittmacher",
+        Length: "1375",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/riYfGK/article/ql0CBT",
+        Error: 0
+    }, {
+        Day: 2,
+        Importance: 5,
+        Subject: "Innere Medizin",
+        Chapter: "Synkope",
+        Length: "1392",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/riYfGK/article/b50Hig",
+        Error: 0
+    }, {
+        Day: 2,
+        Importance: 6,
+        Subject: "Innere Medizin",
+        Chapter: "Subclavian-Steal-Syndrom",
+        Length: "355",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/riYfGK/article/bM0HMg",
+        Error: 0
+    }, {
+        Day: 3,
+        Importance: 1,
+        Subject: "Innere Medizin",
+        Chapter: "Dyslipidämien",
+        Length: "894",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/7iY4GK/article/on008g",
+        Error: 0
+    }, {
+        Day: 3,
+        Importance: 2,
+        Subject: "Innere Medizin",
+        Chapter: "Atherosklerose und kardiovaskuläre Prävention",
+        Length: "1275",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/7iY4GK/article/s70tMh",
+        Error: 0
+    }, {
+        Day: 3,
+        Importance: 3,
+        Subject: "Innere Medizin",
+        Chapter: "Koronare Herzkrankheit",
+        Length: "1999",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/7iY4GK/article/DS01bf",
+        Error: 0
+    }, {
+        Day: 3,
+        Importance: 4,
+        Subject: "Innere Medizin",
+        Chapter: "Thoraxschmerz",
+        Length: "559",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/7iY4GK/article/ML0Myg",
+        Error: 0
+    }, {
+        Day: 3,
+        Importance: 5,
+        Subject: "Innere Medizin",
+        Chapter: "Akutes Koronarsyndrom",
+        Length: "919",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/7iY4GK/article/p70L5h",
+        Error: 0
+    }, {
+        Day: 3,
+        Importance: 6,
+        Subject: "Innere Medizin",
+        Chapter: "Myokardinfarkt",
+        Length: "3415",
+        Imppact: 3,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/7iY4GK/article/wS0hbf",
+        Error: 0
+    }, {
+        Day: 3,
+        Importance: 7,
+        Subject: "Innere Medizin",
+        Chapter: "Herzkatheteruntersuchung",
+        Length: "1473",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/7iY4GK/article/rl0fyT",
+        Error: 0
+    }, {
+        Day: 4,
+        Importance: 1,
+        Subject: "Innere Medizin",
+        Chapter: "Herzinsuffizienz",
+        Length: "3075",
+        Imppact: 2,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/HiYKGK/article/rS0faf",
+        Error: 0
+    }, {
+        Day: 4,
+        Importance: 2,
+        Subject: "Innere Medizin",
+        Chapter: "Kardiomyopathien",
+        Length: "857",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/HiYKGK/article/yS0dXf",
+        Error: 0
+    }, {
+        Day: 4,
+        Importance: 3,
+        Subject: "Innere Medizin",
+        Chapter: "Dilatative Kardiomyopathie",
+        Length: "621",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/HiYKGK/article/AS0RXf",
+        Error: 0
+    }, {
+        Day: 4,
+        Importance: 4,
+        Subject: "Innere Medizin",
+        Chapter: "Hypertrophe Kardiomyopathie",
+        Length: "751",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/HiYKGK/article/_S05Xf",
+        Error: 0
+    }, {
+        Day: 4,
+        Importance: 5,
+        Subject: "Innere Medizin",
+        Chapter: "Herzklappenerkrankungen",
+        Length: "947",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/HiYKGK/article/-S0DXf",
+        Error: 0
+    }, {
+        Day: 4,
+        Importance: 6,
+        Subject: "Innere Medizin",
+        Chapter: "Aortenklappenstenose",
+        Length: "1341",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/HiYKGK/article/Zh0Zcf",
+        Error: 0
+    }, {
+        Day: 4,
+        Importance: 7,
+        Subject: "Innere Medizin",
+        Chapter: "Aortenklappeninsuffizienz",
+        Length: "545",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/HiYKGK/article/0h0ecf",
+        Error: 0
+    }, {
+        Day: 4,
+        Importance: 8,
+        Subject: "Innere Medizin",
+        Chapter: "Mitralklappenstenose",
+        Length: "655",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/HiYKGK/article/Yh0ncf",
+        Error: 0
+    }, {
+        Day: 4,
+        Importance: 9,
+        Subject: "Innere Medizin",
+        Chapter: "Mitralklappeninsuffizienz",
+        Length: "817",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/HiYKGK/article/PI0W1h",
+        Error: 0
+    }, {
+        Day: 5,
+        Importance: 1,
+        Subject: "Innere Medizin",
+        Chapter: "Infektiöse Endokarditis",
+        Length: "1141",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/siYtGK/article/CS0qbf",
+        Error: 0
+    }, {
+        Day: 5,
+        Importance: 2,
+        Subject: "Innere Medizin",
+        Chapter: "Rheumatisches Fieber",
+        Length: "868",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/siYtGK/article/9S0Nbf",
+        Error: 0
+    }, {
+        Day: 5,
+        Importance: 3,
+        Subject: "Innere Medizin",
+        Chapter: "Myokarditis",
+        Length: "1500",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/siYtGK/article/xS0Ebf",
+        Error: 0
+    }, {
+        Day: 5,
+        Importance: 4,
+        Subject: "Innere Medizin",
+        Chapter: "Perikarditis",
+        Length: "1968",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/siYtGK/article/Gu0Bs3",
+        Error: 0
+    }, {
+        Day: 5,
+        Importance: 5,
+        Subject: "Innere Medizin",
+        Chapter: "Coxsackievirus-Infektionen",
+        Length: "627",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/siYtGK/article/E408OT",
+        Error: 0
+    }, {
+        Day: 5,
+        Importance: 6,
+        Subject: "Innere Medizin",
+        Chapter: "Perikarderguss und Perikardtamponade",
+        Length: "824",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/siYtGK/article/uh0pff",
+        Error: 0
+    }, {
+        Day: 6,
+        Importance: 1,
+        Subject: "Innere Medizin",
+        Chapter: "Arterielle Hypertonie",
+        Length: "3342",
+        Imppact: 2,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/GiYBGK/article/Xh09cf",
+        Error: 0
+    }, {
+        Day: 6,
+        Importance: 2,
+        Subject: "Innere Medizin",
+        Chapter: "Pulmonale Hypertonie",
+        Length: "1303",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/GiYBGK/article/w50hmg",
+        Error: 0
+    }, {
+        Day: 6,
+        Importance: 3,
+        Subject: "Innere Medizin",
+        Chapter: "Varikosis und chronisch-venöse Insuffizienz",
+        Length: "1035",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/GiYBGK/article/gh0FWf",
+        Error: 0
+    }, {
+        Day: 6,
+        Importance: 4,
+        Subject: "Innere Medizin",
+        Chapter: "Phlebothrombose",
+        Length: "2141",
+        Imppact: 2,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/GiYBGK/article/fh0kWf",
+        Error: 0
+    }, {
+        Day: 6,
+        Importance: 5,
+        Subject: "Innere Medizin",
+        Chapter: "Lungenembolie",
+        Length: "2100",
+        Imppact: 2,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/GiYBGK/article/oh00Uf",
+        Error: 0
+    }, {
+        Day: 7,
+        Importance: 1,
+        Subject: "Innere Medizin",
+        Chapter: "Periphere arterielle Verschlusskrankheit",
+        Length: "1874",
+        Imppact: 2,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/tiYXtK/article/ch0a1f",
+        Error: 0
+    }, {
+        Day: 7,
+        Importance: 2,
+        Subject: "Innere Medizin",
+        Chapter: "Erythrozytenmorphologie und Hämoglobinvarianten",
+        Length: "611",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/tiYXtK/article/WS0PA2",
+        Error: 0
+    }, {
+        Day: 7,
+        Importance: 3,
+        Subject: "Innere Medizin",
+        Chapter: "Anämie",
+        Length: "1318",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/tiYXtK/article/6T0j72",
+        Error: 0
+    }, {
+        Day: 7,
+        Importance: 4,
+        Subject: "Innere Medizin",
+        Chapter: "Eisenmangel",
+        Length: "1409",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/tiYXtK/article/pT0L72",
+        Error: 0
+    }, {
+        Day: 7,
+        Importance: 5,
+        Subject: "Innere Medizin",
+        Chapter: "Hämolytische Anämie",
+        Length: "1013",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/tiYXtK/article/rT0fH2",
+        Error: 0
+    }, {
+        Day: 7,
+        Importance: 6,
+        Subject: "Innere Medizin",
+        Chapter: "Kugelzellanämie",
+        Length: "427",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/tiYXtK/article/7T04H2",
+        Error: 0
+    }, {
+        Day: 7,
+        Importance: 7,
+        Subject: "Innere Medizin",
+        Chapter: "Glucose-6-phosphat-Dehydrogenase-Mangel",
+        Length: "524",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/tiYXtK/article/HT0KH2",
+        Error: 0
+    }, {
+        Day: 7,
+        Importance: 8,
+        Subject: "Innere Medizin",
+        Chapter: "Sichelzellkrankheit",
+        Length: "659",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/tiYXtK/article/GT0BH2",
+        Error: 0
+    }, {
+        Day: 7,
+        Importance: 9,
+        Subject: "Innere Medizin",
+        Chapter: "Thalassämie",
+        Length: "945",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/tiYXtK/article/tT0Xs2",
+        Error: 0
+    }, {
+        Day: 7,
+        Importance: 10,
+        Subject: "Innere Medizin",
+        Chapter: "Myelodysplastische Syndrome",
+        Length: "674",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/tiYXtK/article/3T0Sq2",
+        Error: 0
+    }, {
+        Day: 8,
+        Importance: 1,
+        Subject: "Innere Medizin",
+        Chapter: "Akute Leukämien",
+        Length: "1756",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/FiYgtK/article/iT0Jq2",
+        Error: 0
+    }, {
+        Day: 8,
+        Importance: 2,
+        Subject: "Innere Medizin",
+        Chapter: "Myeloproliferative Neoplasien",
+        Length: "827",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/FiYgtK/article/lT0vI2",
+        Error: 0
+    }, {
+        Day: 8,
+        Importance: 3,
+        Subject: "Innere Medizin",
+        Chapter: "Chronische myeloische Leukämie",
+        Length: "1093",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/FiYgtK/article/PT0WI2",
+        Error: 0
+    }, {
+        Day: 8,
+        Importance: 4,
+        Subject: "Innere Medizin",
+        Chapter: "Polycythaemia vera",
+        Length: "692",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/FiYgtK/article/kT0mI2",
+        Error: 0
+    }, {
+        Day: 8,
+        Importance: 5,
+        Subject: "Innere Medizin",
+        Chapter: "Hodgkin-Lymphom",
+        Length: "1472",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/FiYgtK/article/mT0Vr2",
+        Error: 0
+    }, {
+        Day: 8,
+        Importance: 6,
+        Subject: "Innere Medizin",
+        Chapter: "Non-Hodgkin-Lymphome",
+        Length: "1558",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/FiYgtK/article/NT0-I2",
+        Error: 0
+    }, {
+        Day: 8,
+        Importance: 7,
+        Subject: "Innere Medizin",
+        Chapter: "Multiples Myelom",
+        Length: "1442",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/FiYgtK/article/5T0ir2",
+        Error: 0
+    }, {
+        Day: 8,
+        Importance: 8,
+        Subject: "Innere Medizin",
+        Chapter: "Chronische lymphatische Leukämie",
+        Length: "1179",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/FiYgtK/article/jT0_q2",
+        Error: 0
+    }, {
+        Day: 8,
+        Importance: 9,
+        Subject: "Innere Medizin",
+        Chapter: "MALT-Lymphom",
+        Length: "382",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/FiYgtK/article/LT0wr2",
+        Error: 0
+    }, {
+        Day: 8,
+        Importance: 10,
+        Subject: "Innere Medizin",
+        Chapter: "Kutane Lymphome",
+        Length: "657",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/FiYgtK/article/oT0072",
+        Error: 0
+    }, {
+        Day: 9,
+        Importance: 1,
+        Subject: "Innere Medizin",
+        Chapter: "Blutgerinnung und hämorrhagische Diathesen",
+        Length: "2260",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/8iYOtK/article/8T0Os2",
+        Error: 0
+    }, {
+        Day: 9,
+        Importance: 2,
+        Subject: "Innere Medizin",
+        Chapter: "Von-Willebrand-Syndrom",
+        Length: "531",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/8iYOtK/article/V90GmR",
+        Error: 0
+    }, {
+        Day: 9,
+        Importance: 3,
+        Subject: "Innere Medizin",
+        Chapter: "Hämophilie",
+        Length: "489",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/8iYOtK/article/uT0ps2",
+        Error: 0
+    }, {
+        Day: 9,
+        Importance: 4,
+        Subject: "Innere Medizin",
+        Chapter: "Antiphospholipid-Syndrom",
+        Length: "572",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/8iYOtK/article/hR0c5f",
+        Error: 0
+    }, {
+        Day: 9,
+        Importance: 5,
+        Subject: "Innere Medizin",
+        Chapter: "Thrombozytopenien",
+        Length: "822",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/8iYOtK/article/wT0hG2",
+        Error: 0
+    }, {
+        Day: 9,
+        Importance: 6,
+        Subject: "Innere Medizin",
+        Chapter: "Thrombotische Mikroangiopathie",
+        Length: "783",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/8iYOtK/article/xT0EG2",
+        Error: 0
+    }, {
+        Day: 9,
+        Importance: 7,
+        Subject: "Innere Medizin",
+        Chapter: "Splenomegalie",
+        Length: "360",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/8iYOtK/article/KT0U72",
+        Error: 0
+    }, {
+        Day: 9,
+        Importance: 8,
+        Subject: "Innere Medizin",
+        Chapter: "Asplenie und Hyposplenismus",
+        Length: "541",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/8iYOtK/article/v40AOT",
+        Error: 0
+    }, {
+        Day: 10,
+        Importance: 1,
+        Subject: "Innere Medizin",
+        Chapter: "Klinische Untersuchung der Lunge",
+        Length: "716",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/uiYptK/article/tl0XAT",
+        Error: 0
+    }, {
+        Day: 10,
+        Importance: 2,
+        Subject: "Innere Medizin",
+        Chapter: "Lungenfunktionsuntersuchung",
+        Length: "1130",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/uiYptK/article/Fl0gAT",
+        Error: 0
+    }, {
+        Day: 10,
+        Importance: 3,
+        Subject: "Innere Medizin",
+        Chapter: "Akute Bronchitis",
+        Length: "524",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/uiYptK/article/hh0cdf",
+        Error: 0
+    }, {
+        Day: 10,
+        Importance: 4,
+        Subject: "Innere Medizin",
+        Chapter: "Pneumonie",
+        Length: "1907",
+        Imppact: 2,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/uiYptK/article/mh0Vef",
+        Error: 0
+    }, {
+        Day: 10,
+        Importance: 5,
+        Subject: "Innere Medizin",
+        Chapter: "Ambulant erworbene Pneumonie",
+        Length: "1576",
+        Imppact: 2,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/uiYptK/article/wYahrQ",
+        Error: 0
+    }, {
+        Day: 10,
+        Importance: 6,
+        Subject: "Innere Medizin",
+        Chapter: "Nosokomiale Pneumonie",
+        Length: "620",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/uiYptK/article/KZaUcQ",
+        Error: 0
+    }, {
+        Day: 10,
+        Importance: 7,
+        Subject: "Innere Medizin",
+        Chapter: "Akute unkomplizierte Atemwegsinfektionen",
+        Length: "385",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/uiYptK/article/Ax0R_R",
+        Error: 0
+    }, {
+        Day: 10,
+        Importance: 8,
+        Subject: "Innere Medizin",
+        Chapter: "Legionellose",
+        Length: "592",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/uiYptK/article/Vf0GO2",
+        Error: 0
+    }, {
+        Day: 10,
+        Importance: 9,
+        Subject: "Innere Medizin",
+        Chapter: "Pneumocystis-jirovecii-Pneumonie",
+        Length: "541",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/uiYptK/article/If0Yn2",
+        Error: 0
+    }, {
+        Day: 10,
+        Importance: 10,
+        Subject: "Innere Medizin",
+        Chapter: "Tuberkulose",
+        Length: "3426",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/uiYptK/article/5h0ief",
+        Error: 0
+    }, {
+        Day: 10,
+        Importance: 11,
+        Subject: "Innere Medizin",
+        Chapter: "Sarkoidose",
+        Length: "1429",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/uiYptK/article/Mh0Mef",
+        Error: 0
+    }, {
+        Day: 11,
+        Importance: 1,
+        Subject: "Innere Medizin",
+        Chapter: "Lungenkarzinom",
+        Length: "2774",
+        Imppact: 4,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/EiY8tK/article/nh07ef",
+        Error: 0
+    }, {
+        Day: 11,
+        Importance: 2,
+        Subject: "Innere Medizin",
+        Chapter: "Pleuraerguss",
+        Length: "1482",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/EiY8tK/article/F50gNg",
+        Error: 0
+    }, {
+        Day: 11,
+        Importance: 3,
+        Subject: "Innere Medizin",
+        Chapter: "Atelektase",
+        Length: "412",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/EiY8tK/article/sM0tJg",
+        Error: 0
+    }, {
+        Day: 11,
+        Importance: 4,
+        Subject: "Innere Medizin",
+        Chapter: "Asthma bronchiale",
+        Length: "2209",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/EiY8tK/article/Ph0WVf",
+        Error: 0
+    }, {
+        Day: 11,
+        Importance: 5,
+        Subject: "Innere Medizin",
+        Chapter: "Chronisch-obstruktive Lungenerkrankung",
+        Length: "3046",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/EiY8tK/article/3h0Sdf",
+        Error: 0
+    }, {
+        Day: 11,
+        Importance: 6,
+        Subject: "Innere Medizin",
+        Chapter: "Interstitielle Lungenparenchymerkrankungen",
+        Length: "614",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/EiY8tK/article/Nh0-Vf",
+        Error: 0
+    }, {
+        Day: 11,
+        Importance: 7,
+        Subject: "Innere Medizin",
+        Chapter: "Exogen-allergische Alveolitis",
+        Length: "565",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/EiY8tK/article/kh0mVf",
+        Error: 0
+    }, {
+        Day: 11,
+        Importance: 8,
+        Subject: "Innere Medizin",
+        Chapter: "Schlafbezogene Atmungsstörungen",
+        Length: "853",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/EiY8tK/article/Lh0wef",
+        Error: 0
+    }, {
+        Day: 11,
+        Importance: 9,
+        Subject: "Innere Medizin",
+        Chapter: "Husten",
+        Length: "1569",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/EiY8tK/article/3L0Sxg",
+        Error: 0
+    }, {
+        Day: 12,
+        Importance: 1,
+        Subject: "Innere Medizin",
+        Chapter: "Achalasie",
+        Length: "388",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/viYAtK/article/ug0pC2",
+        Error: 0
+    }, {
+        Day: 12,
+        Importance: 2,
+        Subject: "Innere Medizin",
+        Chapter: "Gastrointestinale Blutung",
+        Length: "989",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/viYAtK/article/ZS0Zy2",
+        Error: 0
+    }, {
+        Day: 12,
+        Importance: 3,
+        Subject: "Innere Medizin",
+        Chapter: "Mallory-Weiss-Syndrom",
+        Length: "240",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/viYAtK/article/9g0Nx2",
+        Error: 0
+    }, {
+        Day: 12,
+        Importance: 4,
+        Subject: "Innere Medizin",
+        Chapter: "Gastroösophageale Refluxkrankheit",
+        Length: "1082",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/viYAtK/article/vg0AC2",
+        Error: 0
+    }, {
+        Day: 12,
+        Importance: 5,
+        Subject: "Innere Medizin",
+        Chapter: "Gastroduodenale Ulkuskrankheit",
+        Length: "1525",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/viYAtK/article/zg0rB2",
+        Error: 0
+    }, {
+        Day: 12,
+        Importance: 6,
+        Subject: "Innere Medizin",
+        Chapter: "Chronische Gastritis",
+        Length: "1295",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/viYAtK/article/Ag0RB2",
+        Error: 0
+    }, {
+        Day: 12,
+        Importance: 7,
+        Subject: "Innere Medizin",
+        Chapter: "Malassimilation",
+        Length: "689",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/viYAtK/article/0S0ey2",
+        Error: 0
+    }, {
+        Day: 12,
+        Importance: 8,
+        Subject: "Innere Medizin",
+        Chapter: "Zöliakie",
+        Length: "1943",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/viYAtK/article/YS0ny2",
+        Error: 0
+    }, {
+        Day: 12,
+        Importance: 9,
+        Subject: "Innere Medizin",
+        Chapter: "Lactoseintoleranz",
+        Length: "523",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/viYAtK/article/bS0Hy2",
+        Error: 0
+    }, {
+        Day: 13,
+        Importance: 1,
+        Subject: "Innere Medizin",
+        Chapter: "Morbus Crohn",
+        Length: "2630",
+        Imppact: 2,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/DiY1FK/article/VS0GA2",
+        Error: 0
+    }, {
+        Day: 13,
+        Importance: 2,
+        Subject: "Innere Medizin",
+        Chapter: "Colitis ulcerosa",
+        Length: "1693",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/DiY1FK/article/eS0xA2",
+        Error: 0
+    }, {
+        Day: 13,
+        Importance: 3,
+        Subject: "Innere Medizin",
+        Chapter: "Divertikulose, Divertikelkrankheit und Divertikulitis",
+        Length: "1914",
+        Imppact: 2,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/DiY1FK/article/1S02A2",
+        Error: 0
+    }, {
+        Day: 13,
+        Importance: 4,
+        Subject: "Innere Medizin",
+        Chapter: "Reizdarmsyndrom",
+        Length: "464",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/DiY1FK/article/XS09y2",
+        Error: 0
+    }, {
+        Day: 13,
+        Importance: 5,
+        Subject: "Innere Medizin",
+        Chapter: "Gutartige Leberraumforderungen",
+        Length: "580",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/DiY1FK/article/pS0L0f",
+        Error: 0
+    }, {
+        Day: 13,
+        Importance: 6,
+        Subject: "Innere Medizin",
+        Chapter: "Leberabszess",
+        Length: "240",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/DiY1FK/article/Lo0wcS",
+        Error: 0
+    }, {
+        Day: 14,
+        Importance: 1,
+        Subject: "Innere Medizin",
+        Chapter: "Hepatitis A",
+        Length: "641",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/wiYhFK/article/kS0m-2",
+        Error: 0
+    }, {
+        Day: 14,
+        Importance: 2,
+        Subject: "Innere Medizin",
+        Chapter: "Hepatitis B und HBV-Infektion",
+        Length: "2431",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/wiYhFK/article/OS0I-2",
+        Error: 0
+    }, {
+        Day: 14,
+        Importance: 3,
+        Subject: "Innere Medizin",
+        Chapter: "Hepatitis C und HCV-Infektion",
+        Length: "1578",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/wiYhFK/article/lS0v-2",
+        Error: 0
+    }, {
+        Day: 14,
+        Importance: 4,
+        Subject: "Innere Medizin",
+        Chapter: "Alkoholtoxischer Leberschaden",
+        Length: "1522",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/wiYhFK/article/5S0iZf",
+        Error: 0
+    }, {
+        Day: 14,
+        Importance: 5,
+        Subject: "Innere Medizin",
+        Chapter: "Autoimmunhepatitis",
+        Length: "569",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/wiYhFK/article/JM0spg",
+        Error: 0
+    }, {
+        Day: 14,
+        Importance: 6,
+        Subject: "Innere Medizin",
+        Chapter: "Primär biliäre Cholangitis",
+        Length: "577",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/wiYhFK/article/MS0MZf",
+        Error: 0
+    }, {
+        Day: 14,
+        Importance: 7,
+        Subject: "Innere Medizin",
+        Chapter: "Primär sklerosierende Cholangitis",
+        Length: "809",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/wiYhFK/article/nS07Zf",
+        Error: 0
+    }, {
+        Day: 14,
+        Importance: 8,
+        Subject: "Innere Medizin",
+        Chapter: "Morbus Wilson",
+        Length: "581",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/wiYhFK/article/IS0Yaf",
+        Error: 0
+    }, {
+        Day: 14,
+        Importance: 9,
+        Subject: "Innere Medizin",
+        Chapter: "Hämochromatose",
+        Length: "953",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/wiYhFK/article/qS0C0f",
+        Error: 0
+    }, {
+        Day: 14,
+        Importance: 10,
+        Subject: "Innere Medizin",
+        Chapter: "Leberzirrhose",
+        Length: "2096",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/wiYhFK/article/PS0W-2",
+        Error: 0
+    }, {
+        Day: 14,
+        Importance: 11,
+        Subject: "Innere Medizin",
+        Chapter: "Portale Hypertension",
+        Length: "1158",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/wiYhFK/article/LS0wZf",
+        Error: 0
+    }, {
+        Day: 15,
+        Importance: 1,
+        Subject: "Innere Medizin",
+        Chapter: "Ikterus und Cholestase",
+        Length: "1154",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/9iYNFK/article/jS0_z2",
+        Error: 0
+    }, {
+        Day: 15,
+        Importance: 2,
+        Subject: "Innere Medizin",
+        Chapter: "Akute Pankreatitis",
+        Length: "2151",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/9iYNFK/article/SS0y_2",
+        Error: 0
+    }, {
+        Day: 15,
+        Importance: 3,
+        Subject: "Innere Medizin",
+        Chapter: "Chronische Pankreatitis",
+        Length: "1467",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/9iYNFK/article/hS0cz2",
+        Error: 0
+    }, {
+        Day: 15,
+        Importance: 4,
+        Subject: "Innere Medizin",
+        Chapter: "Pankreaskarzinom",
+        Length: "1239",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/9iYNFK/article/3S0Sz2",
+        Error: 0
+    }, {
+        Day: 15,
+        Importance: 5,
+        Subject: "Innere Medizin",
+        Chapter: "Aszites",
+        Length: "1129",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/9iYNFK/article/KS0U0f",
+        Error: 0
+    }, {
+        Day: 16,
+        Importance: 1,
+        Subject: "Innere Medizin",
+        Chapter: "Hypophysenvorderlappeninsuffizienz",
+        Length: "863",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/CiYqFK/article/-T0Dt2",
+        Error: 0
+    }, {
+        Day: 16,
+        Importance: 2,
+        Subject: "Innere Medizin",
+        Chapter: "Prolaktinom",
+        Length: "881",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/CiYqFK/article/0g0eF2",
+        Error: 0
+    }, {
+        Day: 16,
+        Importance: 3,
+        Subject: "Innere Medizin",
+        Chapter: "Akromegalie",
+        Length: "538",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/CiYqFK/article/ag0QF2",
+        Error: 0
+    }, {
+        Day: 16,
+        Importance: 4,
+        Subject: "Innere Medizin",
+        Chapter: "Nebennierenrindeninsuffizienz",
+        Length: "1031",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/CiYqFK/article/Ug0bu2",
+        Error: 0
+    }, {
+        Day: 16,
+        Importance: 5,
+        Subject: "Innere Medizin",
+        Chapter: "Primärer Hyperaldosteronismus",
+        Length: "626",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/CiYqFK/article/2g0Tu2",
+        Error: 0
+    }, {
+        Day: 16,
+        Importance: 6,
+        Subject: "Innere Medizin",
+        Chapter: "Cushing-Syndrom",
+        Length: "1022",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/CiYqFK/article/fg0ku2",
+        Error: 0
+    }, {
+        Day: 16,
+        Importance: 7,
+        Subject: "Innere Medizin",
+        Chapter: "Phäochromozytom",
+        Length: "688",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/CiYqFK/article/Tg06u2",
+        Error: 0
+    }, {
+        Day: 16,
+        Importance: 8,
+        Subject: "Innere Medizin",
+        Chapter: "Multiple endokrine Neoplasie",
+        Length: "302",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/CiYqFK/article/hg0cE2",
+        Error: 0
+    }, {
+        Day: 17,
+        Importance: 1,
+        Subject: "Innere Medizin",
+        Chapter: "Struma",
+        Length: "637",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/xiYEFK/article/Yg0nF2",
+        Error: 0
+    }, {
+        Day: 17,
+        Importance: 2,
+        Subject: "Innere Medizin",
+        Chapter: "Anti-Schilddrüsen-Antikörper",
+        Length: "281",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/xiYEFK/article/YM0nMg",
+        Error: 0
+    }, {
+        Day: 17,
+        Importance: 3,
+        Subject: "Innere Medizin",
+        Chapter: "Hyperthyreose",
+        Length: "1785",
+        Imppact: 2,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/xiYEFK/article/bg0HF2",
+        Error: 0
+    }, {
+        Day: 17,
+        Importance: 4,
+        Subject: "Innere Medizin",
+        Chapter: "Hypothyreose",
+        Length: "1408",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/xiYEFK/article/cg0a82",
+        Error: 0
+    }, {
+        Day: 17,
+        Importance: 5,
+        Subject: "Innere Medizin",
+        Chapter: "Hashimoto-Thyreoiditis",
+        Length: "800",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/xiYEFK/article/1g0282",
+        Error: 0
+    }, {
+        Day: 17,
+        Importance: 6,
+        Subject: "Innere Medizin",
+        Chapter: "Thyreoiditis de Quervain",
+        Length: "359",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/xiYEFK/article/dg0o82",
+        Error: 0
+    }, {
+        Day: 17,
+        Importance: 7,
+        Subject: "Innere Medizin",
+        Chapter: "Hyperparathyreoidismus",
+        Length: "1013",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/xiYEFK/article/gg0Fu2",
+        Error: 0
+    }, {
+        Day: 18,
+        Importance: 1,
+        Subject: "Innere Medizin",
+        Chapter: "Metabolisches Syndrom",
+        Length: "807",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/BiYzFK/article/4g03v2",
+        Error: 0
+    }, {
+        Day: 18,
+        Importance: 2,
+        Subject: "Innere Medizin",
+        Chapter: "Diabetes mellitus",
+        Length: "4881",
+        Imppact: 3,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/BiYzFK/article/3g0SE2",
+        Error: 0
+    }, {
+        Day: 18,
+        Importance: 3,
+        Subject: "Innere Medizin",
+        Chapter: "Hyperglykämisches Koma",
+        Length: "1233",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/BiYzFK/article/jg0_E2",
+        Error: 0
+    }, {
+        Day: 18,
+        Importance: 4,
+        Subject: "Innere Medizin",
+        Chapter: "Hypoglykämie",
+        Length: "787",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/BiYzFK/article/Pg0Wv2",
+        Error: 0
+    }, {
+        Day: 19,
+        Importance: 1,
+        Subject: "Innere Medizin",
+        Chapter: "Diagnostik von Erkrankungen der Niere und der ableitenden Harnwege",
+        Length: "773",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/yiYd8K/article/kg0mv2",
+        Error: 0
+    }, {
+        Day: 19,
+        Importance: 2,
+        Subject: "Innere Medizin",
+        Chapter: "Dehydratation",
+        Length: "484",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/yiYd8K/article/Ig0Y92",
+        Error: 0
+    }, {
+        Day: 19,
+        Importance: 3,
+        Subject: "Innere Medizin",
+        Chapter: "Ödeme",
+        Length: "390",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/yiYd8K/article/SM0yLg",
+        Error: 0
+    }, {
+        Day: 19,
+        Importance: 4,
+        Subject: "Innere Medizin",
+        Chapter: "Elektrolytstörungen Natrium",
+        Length: "1264",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/yiYd8K/article/rg0f92",
+        Error: 0
+    }, {
+        Day: 19,
+        Importance: 5,
+        Subject: "Innere Medizin",
+        Chapter: "Elektrolytstörungen Kalium",
+        Length: "1133",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/yiYd8K/article/7g0492",
+        Error: 0
+    }, {
+        Day: 19,
+        Importance: 6,
+        Subject: "Innere Medizin",
+        Chapter: "Elektrolytstörungen Calcium",
+        Length: "1958",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/yiYd8K/article/Hg0K92",
+        Error: 0
+    }, {
+        Day: 19,
+        Importance: 7,
+        Subject: "Innere Medizin",
+        Chapter: "Akute Nierenfunktionseinschränkung",
+        Length: "1512",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/yiYd8K/article/Og0Iv2",
+        Error: 0
+    }, {
+        Day: 19,
+        Importance: 8,
+        Subject: "Innere Medizin",
+        Chapter: "Chronische Nierenkrankheit",
+        Length: "1637",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/yiYd8K/article/lg0vv2",
+        Error: 0
+    }, {
+        Day: 19,
+        Importance: 9,
+        Subject: "Innere Medizin",
+        Chapter: "Transplantation",
+        Length: "2359",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/yiYd8K/article/gn0Fsg",
+        Error: 0
+    }, {
+        Day: 20,
+        Importance: 1,
+        Subject: "Innere Medizin",
+        Chapter: "Vasopressin-assoziierte Erkrankungen (Diabetes insipidus)",
+        Length: "757",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/AiYR8K/article/_T05t2",
+        Error: 0
+    }, {
+        Day: 20,
+        Importance: 2,
+        Subject: "Innere Medizin",
+        Chapter: "Syndrom der inadäquaten ADH-Sekretion",
+        Length: "496",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/AiYR8K/article/zT0rt2",
+        Error: 0
+    }, {
+        Day: 20,
+        Importance: 3,
+        Subject: "Innere Medizin",
+        Chapter: "Grundlagen nephrologischer Krankheitsbilder",
+        Length: "937",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/AiYR8K/article/mg0VD2",
+        Error: 0
+    }, {
+        Day: 20,
+        Importance: 4,
+        Subject: "Innere Medizin",
+        Chapter: "Infektassoziierte Glomerulonephritiden",
+        Length: "783",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/AiYR8K/article/Lg0wD2",
+        Error: 0
+    }, {
+        Day: 20,
+        Importance: 5,
+        Subject: "Innere Medizin",
+        Chapter: "Rapid-progressive Glomerulonephritis",
+        Length: "942",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/AiYR8K/article/og00w2",
+        Error: 0
+    }, {
+        Day: 20,
+        Importance: 6,
+        Subject: "Innere Medizin",
+        Chapter: "Nephrotisches Syndrom",
+        Length: "1298",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/AiYR8K/article/Mg0MD2",
+        Error: 0
+    }, {
+        Day: 20,
+        Importance: 7,
+        Subject: "Innere Medizin",
+        Chapter: "IgA-Nephropathie",
+        Length: "358",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/AiYR8K/article/GE0BC3",
+        Error: 0
+    }, {
+        Day: 20,
+        Importance: 8,
+        Subject: "Innere Medizin",
+        Chapter: "Renale tubuläre Partialfunktionsstörungen",
+        Length: "579",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/AiYR8K/article/2l0TwT",
+        Error: 0
+    }, {
+        Day: 20,
+        Importance: 9,
+        Subject: "Innere Medizin",
+        Chapter: "Proteinurie",
+        Length: "1100",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/AiYR8K/article/0Q0euf",
+        Error: 0
+    }, {
+        Day: 20,
+        Importance: 10,
+        Subject: "Innere Medizin",
+        Chapter: "Nierenersatzverfahren",
+        Length: "849",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/AiYR8K/article/S50yjg",
+        Error: 0
+    }, {
+        Day: 21,
+        Importance: 1,
+        Subject: "Innere Medizin",
+        Chapter: "Immunsystem",
+        Length: "2062",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/_iY58K/article/x50Emg",
+        Error: 0
+    }, {
+        Day: 21,
+        Importance: 2,
+        Subject: "Innere Medizin",
+        Chapter: "Fieber und Entzündungsreaktionen",
+        Length: "1429",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/_iY58K/article/j50_Pg",
+        Error: 0
+    }, {
+        Day: 21,
+        Importance: 3,
+        Subject: "Innere Medizin",
+        Chapter: "Allergische Erkrankungen",
+        Length: "2620",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/_iY58K/article/ek0x5T",
+        Error: 0
+    }, {
+        Day: 21,
+        Importance: 4,
+        Subject: "Innere Medizin",
+        Chapter: "Kontaktekzem",
+        Length: "610",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/_iY58K/article/q90CoR",
+        Error: 0
+    }, {
+        Day: 21,
+        Importance: 5,
+        Subject: "Innere Medizin",
+        Chapter: "Anaphylaxie",
+        Length: "971",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/_iY58K/article/nt07V3",
+        Error: 0
+    }, {
+        Day: 21,
+        Importance: 6,
+        Subject: "Innere Medizin",
+        Chapter: "Raynaud-Syndrom",
+        Length: "594",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/_iY58K/article/Uh0bWf",
+        Error: 0
+    }, {
+        Day: 21,
+        Importance: 7,
+        Subject: "Innere Medizin",
+        Chapter: "Fibromyalgiesyndrom",
+        Length: "520",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/_iY58K/article/2T0TJ2",
+        Error: 0
+    }, {
+        Day: 22,
+        Importance: 1,
+        Subject: "Innere Medizin",
+        Chapter: "Rheumatoide Arthritis",
+        Length: "1905",
+        Imppact: 2,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/ziYr8K/article/-f0DK2",
+        Error: 0
+    }, {
+        Day: 22,
+        Importance: 2,
+        Subject: "Innere Medizin",
+        Chapter: "Axiale Spondylarthritis",
+        Length: "1184",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/ziYr8K/article/ZT0Z62",
+        Error: 0
+    }, {
+        Day: 22,
+        Importance: 3,
+        Subject: "Innere Medizin",
+        Chapter: "Reaktive Arthritis",
+        Length: "548",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/ziYr8K/article/0T0e62",
+        Error: 0
+    }, {
+        Day: 22,
+        Importance: 4,
+        Subject: "Innere Medizin",
+        Chapter: "Psoriasis-Arthritis",
+        Length: "482",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/ziYr8K/article/1Xa2CQ",
+        Error: 0
+    }, {
+        Day: 22,
+        Importance: 5,
+        Subject: "Innere Medizin",
+        Chapter: "Hyperurikämie und Gicht",
+        Length: "1506",
+        Imppact: 2,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/ziYr8K/article/YT0n62",
+        Error: 0
+    }, {
+        Day: 23,
+        Importance: 1,
+        Subject: "Innere Medizin",
+        Chapter: "Kollagenosen",
+        Length: "329",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/-iYD8K/article/WT0Pp2",
+        Error: 0
+    }, {
+        Day: 23,
+        Importance: 2,
+        Subject: "Innere Medizin",
+        Chapter: "Lupus erythematodes",
+        Length: "2017",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/-iYD8K/article/dT0op2",
+        Error: 0
+    }, {
+        Day: 23,
+        Importance: 3,
+        Subject: "Innere Medizin",
+        Chapter: "Polymyositis und Dermatomyositis",
+        Length: "651",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/-iYD8K/article/VT0Gp2",
+        Error: 0
+    }, {
+        Day: 23,
+        Importance: 4,
+        Subject: "Innere Medizin",
+        Chapter: "Systemische Sklerose",
+        Length: "1483",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/-iYD8K/article/eT0xp2",
+        Error: 0
+    }, {
+        Day: 23,
+        Importance: 5,
+        Subject: "Innere Medizin",
+        Chapter: "Vaskulitiden",
+        Length: "845",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/-iYD8K/article/fT0kJ2",
+        Error: 0
+    }, {
+        Day: 23,
+        Importance: 6,
+        Subject: "Innere Medizin",
+        Chapter: "Riesenzellarteriitis",
+        Length: "1225",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/-iYD8K/article/1T02p2",
+        Error: 0
+    }, {
+        Day: 23,
+        Importance: 7,
+        Subject: "Innere Medizin",
+        Chapter: "Polymyalgia rheumatica",
+        Length: "706",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/-iYD8K/article/I90YKR",
+        Error: 0
+    }, {
+        Day: 23,
+        Importance: 8,
+        Subject: "Innere Medizin",
+        Chapter: "Granulomatose mit Polyangiitis",
+        Length: "1002",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/-iYD8K/article/TT06J2",
+        Error: 0
+    }, {
+        Day: 23,
+        Importance: 9,
+        Subject: "Innere Medizin",
+        Chapter: "Kawasaki-Syndrom",
+        Length: "841",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/-iYD8K/article/hT0cq2",
+        Error: 0
+    }, {
+        Day: 23,
+        Importance: 10,
+        Subject: "Innere Medizin",
+        Chapter: "Thrombangiitis obliterans",
+        Length: "328",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/-iYD8K/article/2h0TWf",
+        Error: 0
+    }, {
+        Day: 23,
+        Importance: 11,
+        Subject: "Innere Medizin",
+        Chapter: "Rheumatologische Antikörperdiagnostik",
+        Length: "400",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/-iYD8K/article/ul0pAT",
+        Error: 0
+    }, {
+        Day: 24,
+        Importance: 1,
+        Subject: "Infektiologie und Hygiene",
+        Chapter: "Mikrobiologische Untersuchungen",
+        Length: "615",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/ZQYZuK/article/n507kg",
+        Error: 0
+    }, {
+        Day: 24,
+        Importance: 2,
+        Subject: "Infektiologie und Hygiene",
+        Chapter: "Blutkulturen",
+        Length: "752",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/ZQYZuK/article/7l04yT",
+        Error: 0
+    }, {
+        Day: 24,
+        Importance: 3,
+        Subject: "Infektiologie und Hygiene",
+        Chapter: "Sepsis",
+        Length: "2723",
+        Imppact: 3,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/ZQYZuK/article/xm0E3g",
+        Error: 0
+    }, {
+        Day: 24,
+        Importance: 4,
+        Subject: "Infektiologie und Hygiene",
+        Chapter: "Durchfall",
+        Length: "665",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/ZQYZuK/article/6M0jpg",
+        Error: 0
+    }, {
+        Day: 24,
+        Importance: 5,
+        Subject: "Infektiologie und Hygiene",
+        Chapter: "Lebensmittelvergiftung",
+        Length: "1090",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/ZQYZuK/article/Pf0Wm2",
+        Error: 0
+    }, {
+        Day: 24,
+        Importance: 6,
+        Subject: "Infektiologie und Hygiene",
+        Chapter: "Norovirus-Infektion",
+        Length: "845",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/ZQYZuK/article/Gf0Bn2",
+        Error: 0
+    }, {
+        Day: 24,
+        Importance: 7,
+        Subject: "Infektiologie und Hygiene",
+        Chapter: "Rotavirus-Infektion",
+        Length: "552",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/ZQYZuK/article/SJ0ytS",
+        Error: 0
+    }, {
+        Day: 24,
+        Importance: 8,
+        Subject: "Infektiologie und Hygiene",
+        Chapter: "Bakterielle Durchfallerkrankungen",
+        Length: "1094",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/ZQYZuK/article/oM00pg",
+        Error: 0
+    }, {
+        Day: 24,
+        Importance: 9,
+        Subject: "Infektiologie und Hygiene",
+        Chapter: "Darmpathogene E.-coli-Infektion",
+        Length: "991",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/ZQYZuK/article/yf0dK2",
+        Error: 0
+    }, {
+        Day: 24,
+        Importance: 10,
+        Subject: "Infektiologie und Hygiene",
+        Chapter: "Clostridioides-difficile-Infektion",
+        Length: "806",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/ZQYZuK/article/dS0oA2",
+        Error: 0
+    }, {
+        Day: 24,
+        Importance: 11,
+        Subject: "Infektiologie und Hygiene",
+        Chapter: "Amöbiasis",
+        Length: "922",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/ZQYZuK/article/6f0jM2",
+        Error: 0
+    }, {
+        Day: 24,
+        Importance: 12,
+        Subject: "Infektiologie und Hygiene",
+        Chapter: "Giardiasis",
+        Length: "551",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/ZQYZuK/article/fJ0ktS",
+        Error: 0
+    }, {
+        Day: 25,
+        Importance: 1,
+        Subject: "Infektiologie und Hygiene",
+        Chapter: "Erkrankungen durch Staphylokokken",
+        Length: "946",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/0QYeuK/article/Vl0GDT",
+        Error: 0
+    }, {
+        Day: 25,
+        Importance: 2,
+        Subject: "Infektiologie und Hygiene",
+        Chapter: "Erkrankungen durch Streptokokken",
+        Length: "447",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/0QYeuK/article/dl0oDT",
+        Error: 0
+    }, {
+        Day: 25,
+        Importance: 3,
+        Subject: "Infektiologie und Hygiene",
+        Chapter: "Toxische Schocksyndrome",
+        Length: "437",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/0QYeuK/article/yJ0d9S",
+        Error: 0
+    }, {
+        Day: 25,
+        Importance: 4,
+        Subject: "Infektiologie und Hygiene",
+        Chapter: "Chlamydien-Infektionen",
+        Length: "930",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/0QYeuK/article/ff0kl2",
+        Error: 0
+    }, {
+        Day: 25,
+        Importance: 5,
+        Subject: "Infektiologie und Hygiene",
+        Chapter: "Lyme-Borreliose",
+        Length: "1558",
+        Imppact: 3,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/0QYeuK/article/4f03m2",
+        Error: 0
+    }, {
+        Day: 25,
+        Importance: 6,
+        Subject: "Infektiologie und Hygiene",
+        Chapter: "Brucellose",
+        Length: "366",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/0QYeuK/article/lf0vm2",
+        Error: 0
+    }, {
+        Day: 25,
+        Importance: 7,
+        Subject: "Infektiologie und Hygiene",
+        Chapter: "Typhus, Paratyphus",
+        Length: "959",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/0QYeuK/article/Qf0uN2",
+        Error: 0
+    }, {
+        Day: 25,
+        Importance: 8,
+        Subject: "Infektiologie und Hygiene",
+        Chapter: "Milzbrand",
+        Length: "407",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/0QYeuK/article/Of0Im2",
+        Error: 0
+    }, {
+        Day: 25,
+        Importance: 9,
+        Subject: "Infektiologie und Hygiene",
+        Chapter: "Leptospirose",
+        Length: "453",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/0QYeuK/article/kf0mm2",
+        Error: 0
+    }, {
+        Day: 25,
+        Importance: 10,
+        Subject: "Infektiologie und Hygiene",
+        Chapter: "Diphtherie",
+        Length: "566",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/0QYeuK/article/df0oO2",
+        Error: 0
+    }, {
+        Day: 25,
+        Importance: 11,
+        Subject: "Infektiologie und Hygiene",
+        Chapter: "Listeriose",
+        Length: "408",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/0QYeuK/article/Nf0-m2",
+        Error: 0
+    }, {
+        Day: 25,
+        Importance: 12,
+        Subject: "Infektiologie und Hygiene",
+        Chapter: "Katzenkratzkrankheit",
+        Length: "303",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/0QYeuK/article/d80ol3",
+        Error: 0
+    }, {
+        Day: 26,
+        Importance: 1,
+        Subject: "Infektiologie und Hygiene",
+        Chapter: "COVID-19",
+        Length: "3263",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/aQYQuK/article/gG0FAh",
+        Error: 0
+    }, {
+        Day: 26,
+        Importance: 2,
+        Subject: "Infektiologie und Hygiene",
+        Chapter: "Influenza",
+        Length: "1541",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/aQYQuK/article/Bm0z3g",
+        Error: 0
+    }, {
+        Day: 26,
+        Importance: 3,
+        Subject: "Infektiologie und Hygiene",
+        Chapter: "Herpesvirus-Infektionen",
+        Length: "1359",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/aQYQuK/article/Mf0M52",
+        Error: 0
+    }, {
+        Day: 26,
+        Importance: 4,
+        Subject: "Infektiologie und Hygiene",
+        Chapter: "Zytomegalievirus-Infektionen",
+        Length: "534",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/aQYQuK/article/nf0752",
+        Error: 0
+    }, {
+        Day: 26,
+        Importance: 5,
+        Subject: "Infektiologie und Hygiene",
+        Chapter: "Infektiöse Mononukleose",
+        Length: "896",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/aQYQuK/article/Lf0w52",
+        Error: 0
+    }, {
+        Day: 26,
+        Importance: 6,
+        Subject: "Infektiologie und Hygiene",
+        Chapter: "HIV-Infektion",
+        Length: "3407",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/aQYQuK/article/mf0V52",
+        Error: 0
+    }, {
+        Day: 26,
+        Importance: 7,
+        Subject: "Infektiologie und Hygiene",
+        Chapter: "Virales hämorrhagisches Fieber",
+        Length: "1293",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/aQYQuK/article/aL0Qwg",
+        Error: 0
+    }, {
+        Day: 26,
+        Importance: 8,
+        Subject: "Infektiologie und Hygiene",
+        Chapter: "Gelbfieber",
+        Length: "558",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/aQYQuK/article/U50bjg",
+        Error: 0
+    }, {
+        Day: 26,
+        Importance: 9,
+        Subject: "Infektiologie und Hygiene",
+        Chapter: "Denguefieber",
+        Length: "949",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/aQYQuK/article/350SPg",
+        Error: 0
+    }, {
+        Day: 26,
+        Importance: 10,
+        Subject: "Infektiologie und Hygiene",
+        Chapter: "Zika-Virus-Infektion",
+        Length: "549",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/aQYQuK/article/RJ0lFS",
+        Error: 0
+    }, {
+        Day: 26,
+        Importance: 11,
+        Subject: "Infektiologie und Hygiene",
+        Chapter: "Mpox",
+        Length: "622",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/aQYQuK/article/wA0hNi",
+        Error: 0
+    }, {
+        Day: 26,
+        Importance: 12,
+        Subject: "Infektiologie und Hygiene",
+        Chapter: "Tollwut",
+        Length: "923",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/aQYQuK/article/Gh0B2f",
+        Error: 0
+    }, {
+        Day: 27,
+        Importance: 1,
+        Subject: "Infektiologie und Hygiene",
+        Chapter: "Aspergillose",
+        Length: "918",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/YQYnuK/article/7f04n2",
+        Error: 0
+    }, {
+        Day: 27,
+        Importance: 2,
+        Subject: "Infektiologie und Hygiene",
+        Chapter: "Malaria",
+        Length: "1761",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/YQYnuK/article/Kf0UM2",
+        Error: 0
+    }, {
+        Day: 27,
+        Importance: 3,
+        Subject: "Infektiologie und Hygiene",
+        Chapter: "Toxoplasmose",
+        Length: "617",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/YQYnuK/article/pf0LM2",
+        Error: 0
+    }, {
+        Day: 27,
+        Importance: 4,
+        Subject: "Infektiologie und Hygiene",
+        Chapter: "Leishmaniose",
+        Length: "646",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/YQYnuK/article/qf0CM2",
+        Error: 0
+    }, {
+        Day: 27,
+        Importance: 5,
+        Subject: "Infektiologie und Hygiene",
+        Chapter: "Chagas-Krankheit",
+        Length: "637",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/YQYnuK/article/cK0a2S",
+        Error: 0
+    }, {
+        Day: 27,
+        Importance: 6,
+        Subject: "Infektiologie und Hygiene",
+        Chapter: "Schlafkrankheit",
+        Length: "403",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/YQYnuK/article/T506jg",
+        Error: 0
+    }, {
+        Day: 27,
+        Importance: 7,
+        Subject: "Infektiologie und Hygiene",
+        Chapter: "Wurmerkrankungen",
+        Length: "1296",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/YQYnuK/article/Ff0gL2",
+        Error: 0
+    }, {
+        Day: 27,
+        Importance: 8,
+        Subject: "Infektiologie und Hygiene",
+        Chapter: "Echinokokkose",
+        Length: "575",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/YQYnuK/article/9f0No2",
+        Error: 0
+    }, {
+        Day: 27,
+        Importance: 9,
+        Subject: "Infektiologie und Hygiene",
+        Chapter: "Schistosomiasis",
+        Length: "820",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/YQYnuK/article/xf0Eo2",
+        Error: 0
+    }, {
+        Day: 27,
+        Importance: 10,
+        Subject: "Infektiologie und Hygiene",
+        Chapter: "Lepra",
+        Length: "619",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/YQYnuK/article/Xk09mT",
+        Error: 0
+    }, {
+        Day: 27,
+        Importance: 11,
+        Subject: "Infektiologie und Hygiene",
+        Chapter: "Seltene Zoonosen",
+        Length: "381",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/YQYnuK/article/250Tjg",
+        Error: 0
+    }, {
+        Day: 28,
+        Importance: 1,
+        Subject: "Infektiologie und Hygiene",
+        Chapter: "Antisepsis",
+        Length: "1091",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/bQYHuK/article/WQ0PEf",
+        Error: 0
+    }, {
+        Day: 28,
+        Importance: 2,
+        Subject: "Infektiologie und Hygiene",
+        Chapter: "Nosokomiale Infektionen",
+        Length: "2637",
+        Imppact: 2,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/bQYHuK/article/_f05K2",
+        Error: 0
+    }, {
+        Day: 28,
+        Importance: 3,
+        Subject: "Infektiologie und Hygiene",
+        Chapter: "Lymphknotenschwellung",
+        Length: "1917",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/bQYHuK/article/iL0Jxg",
+        Error: 0
+    }, {
+        Day: 28,
+        Importance: 4,
+        Subject: "Infektiologie und Hygiene",
+        Chapter: "Impfungen allgemein",
+        Length: "1901",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/bQYHuK/article/_m05Rg",
+        Error: 0
+    }, {
+        Day: 28,
+        Importance: 5,
+        Subject: "Infektiologie und Hygiene",
+        Chapter: "Impfempfehlungen der STIKO",
+        Length: "1638",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/bQYHuK/article/zm0rRg",
+        Error: 0
+    }, {
+        Day: 28,
+        Importance: 6,
+        Subject: "Infektiologie und Hygiene",
+        Chapter: "Infektionsschutzgesetz",
+        Length: "1550",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/bQYHuK/article/aQ0Quf",
+        Error: 0
+    }, {
+        Day: 28,
+        Importance: 7,
+        Subject: "Infektiologie und Hygiene",
+        Chapter: "Wasserhygiene",
+        Length: "502",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/bQYHuK/article/bQ0Huf",
+        Error: 0
+    }, {
+        Day: 29,
+        Importance: 1,
+        Subject: "Pädiatrie",
+        Chapter: "Das neugeborene Kind",
+        Length: "827",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/XQY9uK/article/a40Q3T",
+        Error: 0
+    }, {
+        Day: 29,
+        Importance: 2,
+        Subject: "Pädiatrie",
+        Chapter: "Geburtstraumen",
+        Length: "1123",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/XQY9uK/article/S40yiT",
+        Error: 0
+    }, {
+        Day: 29,
+        Importance: 3,
+        Subject: "Pädiatrie",
+        Chapter: "Perinatale Asphyxie und hypoxisch-ischämische Enzephalopathie",
+        Length: "824",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/XQY9uK/article/h40cQT",
+        Error: 0
+    }, {
+        Day: 29,
+        Importance: 4,
+        Subject: "Pädiatrie",
+        Chapter: "Zerebralparese",
+        Length: "393",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/XQY9uK/article/tM0Xqg",
+        Error: 0
+    }, {
+        Day: 29,
+        Importance: 5,
+        Subject: "Pädiatrie",
+        Chapter: "Neugeboreneninfektion",
+        Length: "844",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/XQY9uK/article/gM0FLg",
+        Error: 0
+    }, {
+        Day: 29,
+        Importance: 6,
+        Subject: "Pädiatrie",
+        Chapter: "Omphalitis",
+        Length: "296",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/XQY9uK/article/Jv0saR",
+        Error: 0
+    }, {
+        Day: 29,
+        Importance: 7,
+        Subject: "Pädiatrie",
+        Chapter: "Atemnotsyndrom des Neugeborenen",
+        Length: "1251",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/XQY9uK/article/340SQT",
+        Error: 0
+    }, {
+        Day: 29,
+        Importance: 8,
+        Subject: "Pädiatrie",
+        Chapter: "Embryofetopathien durch Noxen",
+        Length: "476",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/XQY9uK/article/V40GRT",
+        Error: 0
+    }, {
+        Day: 29,
+        Importance: 9,
+        Subject: "Pädiatrie",
+        Chapter: "Embryofetopathien durch Infektionserreger",
+        Length: "1293",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/XQY9uK/article/d40oRT",
+        Error: 0
+    }, {
+        Day: 29,
+        Importance: 10,
+        Subject: "Pädiatrie",
+        Chapter: "Plötzlicher Säuglingstod",
+        Length: "535",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/XQY9uK/article/T406iT",
+        Error: 0
+    }, {
+        Day: 29,
+        Importance: 11,
+        Subject: "Pädiatrie",
+        Chapter: "Kinderschutzmedizin",
+        Length: "1757",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/XQY9uK/article/mP0V2T",
+        Error: 0
+    }, {
+        Day: 30,
+        Importance: 1,
+        Subject: "Pädiatrie",
+        Chapter: "Icterus neonatorum",
+        Length: "956",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/cQYaEK/article/R40lQT",
+        Error: 0
+    }, {
+        Day: 30,
+        Importance: 2,
+        Subject: "Pädiatrie",
+        Chapter: "Morbus haemolyticus neonatorum",
+        Length: "685",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/cQYaEK/article/i40JQT",
+        Error: 0
+    }, {
+        Day: 30,
+        Importance: 3,
+        Subject: "Pädiatrie",
+        Chapter: "Morbus haemorrhagicus neonatorum",
+        Length: "318",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/cQYaEK/article/Q40uQT",
+        Error: 0
+    }, {
+        Day: 30,
+        Importance: 4,
+        Subject: "Pädiatrie",
+        Chapter: "Hyperbilirubinämie-Syndrome",
+        Length: "569",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/cQYaEK/article/iM0Jog",
+        Error: 0
+    }, {
+        Day: 30,
+        Importance: 5,
+        Subject: "Pädiatrie",
+        Chapter: "Nahrungsmittelallergie",
+        Length: "1311",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/cQYaEK/article/QM0uog",
+        Error: 0
+    }, {
+        Day: 30,
+        Importance: 6,
+        Subject: "Pädiatrie",
+        Chapter: "Entwicklung des Kindes",
+        Length: "1030",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/cQYaEK/article/b40H3T",
+        Error: 0
+    }, {
+        Day: 30,
+        Importance: 7,
+        Subject: "Pädiatrie",
+        Chapter: "Kindervorsorgeuntersuchungen",
+        Length: "863",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/cQYaEK/article/xH0Esh",
+        Error: 0
+    }, {
+        Day: 30,
+        Importance: 8,
+        Subject: "Pädiatrie",
+        Chapter: "Enuresis und funktionelle Harninkontinenz im Kindes- und Jugendalter",
+        Length: "497",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/cQYaEK/article/HP0KTT",
+        Error: 0
+    }, {
+        Day: 30,
+        Importance: 9,
+        Subject: "Pädiatrie",
+        Chapter: "Kleinwuchs",
+        Length: "725",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/cQYaEK/article/c40aRT",
+        Error: 0
+    }, {
+        Day: 30,
+        Importance: 10,
+        Subject: "Pädiatrie",
+        Chapter: "Großwuchs",
+        Length: "550",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/cQYaEK/article/1402RT",
+        Error: 0
+    }, {
+        Day: 30,
+        Importance: 11,
+        Subject: "Pädiatrie",
+        Chapter: "Pubertät",
+        Length: "714",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/cQYaEK/article/PM0WKg",
+        Error: 0
+    }, {
+        Day: 31,
+        Importance: 1,
+        Subject: "Pädiatrie",
+        Chapter: "Neuroblastom",
+        Length: "511",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/1QY2EK/article/940NlT",
+        Error: 0
+    }, {
+        Day: 31,
+        Importance: 2,
+        Subject: "Pädiatrie",
+        Chapter: "Nephroblastom",
+        Length: "541",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/1QY2EK/article/zi0r8f",
+        Error: 0
+    }, {
+        Day: 31,
+        Importance: 3,
+        Subject: "Pädiatrie",
+        Chapter: "Retinoblastom",
+        Length: "477",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/1QY2EK/article/C40qlT",
+        Error: 0
+    }, {
+        Day: 31,
+        Importance: 4,
+        Subject: "Pädiatrie",
+        Chapter: "Lippen-Kiefer-Gaumen-Spalte",
+        Length: "459",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/1QY2EK/article/FM0gqg",
+        Error: 0
+    }, {
+        Day: 31,
+        Importance: 5,
+        Subject: "Pädiatrie",
+        Chapter: "Zystische Fibrose",
+        Length: "1900",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/1QY2EK/article/L40wPT",
+        Error: 0
+    }, {
+        Day: 31,
+        Importance: 6,
+        Subject: "Pädiatrie",
+        Chapter: "Adrenogenitales Syndrom",
+        Length: "1808",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/1QY2EK/article/W40PRT",
+        Error: 0
+    }, {
+        Day: 31,
+        Importance: 7,
+        Subject: "Pädiatrie",
+        Chapter: "Seltene hereditäre Syndrome",
+        Length: "1023",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/1QY2EK/article/240TiT",
+        Error: 0
+    }, {
+        Day: 31,
+        Importance: 8,
+        Subject: "Pädiatrie",
+        Chapter: "Hereditäre Stoffwechselerkrankungen",
+        Length: "1060",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/1QY2EK/article/_Xa50j",
+        Error: 0
+    }, {
+        Day: 31,
+        Importance: 9,
+        Subject: "Pädiatrie",
+        Chapter: "Hereditäre Störungen des Aminosäurestoffwechsels",
+        Length: "1380",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/1QY2EK/article/X1a92j",
+        Error: 0
+    }, {
+        Day: 31,
+        Importance: 10,
+        Subject: "Pädiatrie",
+        Chapter: "Hereditäre Störungen des Kohlenhydratstoffwechsels",
+        Length: "800",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/1QY2EK/article/c1aafj",
+        Error: 0
+    }, {
+        Day: 31,
+        Importance: 11,
+        Subject: "Pädiatrie",
+        Chapter: "Hereditäre Störungen des Fettsäurestoffwechsels",
+        Length: "373",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/1QY2EK/article/11a2fj",
+        Error: 0
+    }, {
+        Day: 31,
+        Importance: 12,
+        Subject: "Pädiatrie",
+        Chapter: "Hereditäre Störungen im Abbau komplexer Moleküle",
+        Length: "847",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/1QY2EK/article/W1aPfj",
+        Error: 0
+    }, {
+        Day: 32,
+        Importance: 1,
+        Subject: "Pädiatrie",
+        Chapter: "Atopische Dermatitis",
+        Length: "1440",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/WQYPEK/article/A40RNT",
+        Error: 0
+    }, {
+        Day: 32,
+        Importance: 2,
+        Subject: "Pädiatrie",
+        Chapter: "Windeldermatitis",
+        Length: "483",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/WQYPEK/article/1J02GS",
+        Error: 0
+    }, {
+        Day: 32,
+        Importance: 3,
+        Subject: "Pädiatrie",
+        Chapter: "Masern",
+        Length: "1797",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/WQYPEK/article/r40fkT",
+        Error: 0
+    }, {
+        Day: 32,
+        Importance: 4,
+        Subject: "Pädiatrie",
+        Chapter: "Scharlach",
+        Length: "925",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/WQYPEK/article/F40gOT",
+        Error: 0
+    }, {
+        Day: 32,
+        Importance: 5,
+        Subject: "Pädiatrie",
+        Chapter: "Röteln",
+        Length: "690",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/WQYPEK/article/7404kT",
+        Error: 0
+    }, {
+        Day: 32,
+        Importance: 6,
+        Subject: "Pädiatrie",
+        Chapter: "Ringelröteln",
+        Length: "606",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/WQYPEK/article/G40BkT",
+        Error: 0
+    }, {
+        Day: 32,
+        Importance: 7,
+        Subject: "Pädiatrie",
+        Chapter: "Exanthema subitum",
+        Length: "503",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/WQYPEK/article/s40tkT",
+        Error: 0
+    }, {
+        Day: 32,
+        Importance: 8,
+        Subject: "Pädiatrie",
+        Chapter: "Windpocken",
+        Length: "1507",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/WQYPEK/article/I40YkT",
+        Error: 0
+    }, {
+        Day: 32,
+        Importance: 9,
+        Subject: "Pädiatrie",
+        Chapter: "IgA-Vaskulitis",
+        Length: "592",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/WQYPEK/article/BT0zG2",
+        Error: 0
+    }, {
+        Day: 32,
+        Importance: 10,
+        Subject: "Pädiatrie",
+        Chapter: "Mumps",
+        Length: "667",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/WQYPEK/article/H40KkT",
+        Error: 0
+    }, {
+        Day: 32,
+        Importance: 11,
+        Subject: "Pädiatrie",
+        Chapter: "Pertussis",
+        Length: "818",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/WQYPEK/article/840OOT",
+        Error: 0
+    }, {
+        Day: 32,
+        Importance: 12,
+        Subject: "Pädiatrie",
+        Chapter: "Poliomyelitis",
+        Length: "983",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/WQYPEK/article/t40XOT",
+        Error: 0
+    }, {
+        Day: 32,
+        Importance: 13,
+        Subject: "Pädiatrie",
+        Chapter: "Fieberkrampf",
+        Length: "677",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/WQYPEK/article/D401lT",
+        Error: 0
+    }, {
+        Day: 33,
+        Importance: 1,
+        Subject: "Pädiatrie",
+        Chapter: "Akute Bronchiolitis im Säuglingsalter",
+        Length: "597",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/dQYoEK/article/EF08P3",
+        Error: 0
+    }, {
+        Day: 33,
+        Importance: 2,
+        Subject: "Pädiatrie",
+        Chapter: "Pseudokrupp",
+        Length: "771",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/dQYoEK/article/n407PT",
+        Error: 0
+    }, {
+        Day: 33,
+        Importance: 3,
+        Subject: "Pädiatrie",
+        Chapter: "Epiglottitis",
+        Length: "677",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/dQYoEK/article/f50kjg",
+        Error: 0
+    }, {
+        Day: 33,
+        Importance: 4,
+        Subject: "Pädiatrie",
+        Chapter: "Fremdkörperaspiration",
+        Length: "912",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/dQYoEK/article/K50UOg",
+        Error: 0
+    }, {
+        Day: 33,
+        Importance: 5,
+        Subject: "Pädiatrie",
+        Chapter: "Azyanotische angeborene Herzfehler",
+        Length: "1749",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/dQYoEK/article/4403jT",
+        Error: 0
+    }, {
+        Day: 33,
+        Importance: 6,
+        Subject: "Pädiatrie",
+        Chapter: "Ventrikelseptumdefekt",
+        Length: "599",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/dQYoEK/article/ew0x3R",
+        Error: 0
+    }, {
+        Day: 33,
+        Importance: 7,
+        Subject: "Pädiatrie",
+        Chapter: "Atriumseptumdefekt",
+        Length: "606",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/dQYoEK/article/1w023R",
+        Error: 0
+    }, {
+        Day: 33,
+        Importance: 8,
+        Subject: "Pädiatrie",
+        Chapter: "Zyanotische angeborene Herzfehler",
+        Length: "1348",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/dQYoEK/article/mw0VjR",
+        Error: 0
+    }, {
+        Day: 33,
+        Importance: 9,
+        Subject: "Pädiatrie",
+        Chapter: "Fallot-Tetralogie",
+        Length: "746",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/dQYoEK/article/rw0f4R",
+        Error: 0
+    }, {
+        Day: 33,
+        Importance: 10,
+        Subject: "Pädiatrie",
+        Chapter: "Choanalatresie",
+        Length: "314",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/dQYoEK/article/M40MPT",
+        Error: 0
+    }, {
+        Day: 33,
+        Importance: 11,
+        Subject: "Pädiatrie",
+        Chapter: "Ösophagusatresie",
+        Length: "548",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/dQYoEK/article/K40U4T",
+        Error: 0
+    }, {
+        Day: 33,
+        Importance: 12,
+        Subject: "Pädiatrie",
+        Chapter: "Hypertrophe Pylorusstenose",
+        Length: "232",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/dQYoEK/article/J40s4T",
+        Error: 0
+    }, {
+        Day: 33,
+        Importance: 13,
+        Subject: "Pädiatrie",
+        Chapter: "Duodenalatresie",
+        Length: "353",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/dQYoEK/article/640j4T",
+        Error: 0
+    }, {
+        Day: 33,
+        Importance: 14,
+        Subject: "Pädiatrie",
+        Chapter: "Morbus Hirschsprung",
+        Length: "656",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/dQYoEK/article/q40C4T",
+        Error: 0
+    }, {
+        Day: 33,
+        Importance: 15,
+        Subject: "Pädiatrie",
+        Chapter: "Viszerale Fehlbildungen",
+        Length: "687",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/dQYoEK/article/p40L4T",
+        Error: 0
+    }, {
+        Day: 33,
+        Importance: 16,
+        Subject: "Pädiatrie",
+        Chapter: "Nekrotisierende Enterokolitis",
+        Length: "769",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/dQYoEK/article/o4004T",
+        Error: 0
+    }, {
+        Day: 33,
+        Importance: 17,
+        Subject: "Pädiatrie",
+        Chapter: "Darminvagination",
+        Length: "736",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/dQYoEK/article/Ah0Rgf",
+        Error: 0
+    }, {
+        Day: 34,
+        Importance: 1,
+        Subject: "Pädiatrie",
+        Chapter: "Hüftreifungsstörung (Developmental Dysplasia of the Hip)",
+        Length: "833",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/VQYGEK/article/NQ0-wf",
+        Error: 0
+    }, {
+        Day: 34,
+        Importance: 2,
+        Subject: "Pädiatrie",
+        Chapter: "Morbus Perthes",
+        Length: "1451",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/VQYGEK/article/mQ0V9f",
+        Error: 0
+    }, {
+        Day: 34,
+        Importance: 3,
+        Subject: "Pädiatrie",
+        Chapter: "Epiphyseolysis capitis femoris",
+        Length: "781",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/VQYGEK/article/MQ0M9f",
+        Error: 0
+    }, {
+        Day: 34,
+        Importance: 4,
+        Subject: "Pädiatrie",
+        Chapter: "Juvenile idiopathische Arthritis",
+        Length: "1174",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/VQYGEK/article/w40hlT",
+        Error: 0
+    }, {
+        Day: 34,
+        Importance: 5,
+        Subject: "Pädiatrie",
+        Chapter: "Morbus Scheuermann",
+        Length: "257",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/VQYGEK/article/jQ0_Df",
+        Error: 0
+    }, {
+        Day: 34,
+        Importance: 6,
+        Subject: "Pädiatrie",
+        Chapter: "Kraniosynostosen",
+        Length: "280",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/VQYGEK/article/g40FiT",
+        Error: 0
+    }, {
+        Day: 34,
+        Importance: 7,
+        Subject: "Pädiatrie",
+        Chapter: "Hydrozephalus",
+        Length: "325",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/VQYGEK/article/EM08qg",
+        Error: 0
+    }, {
+        Day: 34,
+        Importance: 8,
+        Subject: "Pädiatrie",
+        Chapter: "Fehlbildungen des kraniozervikalen Übergangs",
+        Length: "416",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/VQYGEK/article/Am0RRg",
+        Error: 0
+    }, {
+        Day: 34,
+        Importance: 9,
+        Subject: "Pädiatrie",
+        Chapter: "Neuralrohrdefekte",
+        Length: "736",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/VQYGEK/article/el0xDT",
+        Error: 0
+    }, {
+        Day: 35,
+        Importance: 1,
+        Subject: "Humangenetik",
+        Chapter: "Humangenetik (Klinik)",
+        Length: "2354",
+        Imppact: 3,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/eQYxEK/article/y50d5g",
+        Error: 0
+    }, {
+        Day: 35,
+        Importance: 2,
+        Subject: "Humangenetik",
+        Chapter: "Chromosomenaberrationen",
+        Length: "1088",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/eQYxEK/article/e40xRT",
+        Error: 0
+    }, {
+        Day: 35,
+        Importance: 3,
+        Subject: "Humangenetik",
+        Chapter: "Trisomie 21",
+        Length: "1194",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/eQYxEK/article/U40biT",
+        Error: 0
+    }, {
+        Day: 35,
+        Importance: 4,
+        Subject: "Humangenetik",
+        Chapter: "Ehlers-Danlos-Syndrom und Marfan-Syndrom",
+        Length: "686",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/eQYxEK/article/hk0cnT",
+        Error: 0
+    }, {
+        Day: 36,
+        Importance: 1,
+        Subject: "Dermatologie",
+        Chapter: "Grundlagen der Dermatologie",
+        Length: "1488",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/UQYbvK/article/_405NT",
+        Error: 0
+    }, {
+        Day: 36,
+        Importance: 2,
+        Subject: "Dermatologie",
+        Chapter: "Herpes zoster",
+        Length: "1232",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/UQYbvK/article/HR0Kof",
+        Error: 0
+    }, {
+        Day: 36,
+        Importance: 3,
+        Subject: "Dermatologie",
+        Chapter: "Molluscum contagiosum",
+        Length: "290",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/UQYbvK/article/-40DNT",
+        Error: 0
+    }, {
+        Day: 36,
+        Importance: 4,
+        Subject: "Dermatologie",
+        Chapter: "Impetigo contagiosa",
+        Length: "385",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/UQYbvK/article/ak0QmT",
+        Error: 0
+    }, {
+        Day: 36,
+        Importance: 5,
+        Subject: "Dermatologie",
+        Chapter: "Staphylococcal scalded Skin Syndrome",
+        Length: "451",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/UQYbvK/article/Yk0nmT",
+        Error: 0
+    }, {
+        Day: 36,
+        Importance: 6,
+        Subject: "Dermatologie",
+        Chapter: "Intertriginöse Dermatosen",
+        Length: "658",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/UQYbvK/article/0k0emT",
+        Error: 0
+    }, {
+        Day: 36,
+        Importance: 7,
+        Subject: "Dermatologie",
+        Chapter: "Allgemeine Mykologie",
+        Length: "853",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/UQYbvK/article/KM0Upg",
+        Error: 0
+    }, {
+        Day: 36,
+        Importance: 8,
+        Subject: "Dermatologie",
+        Chapter: "Dermatophytosen",
+        Length: "777",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/UQYbvK/article/Hf0Kn2",
+        Error: 0
+    }, {
+        Day: 36,
+        Importance: 9,
+        Subject: "Dermatologie",
+        Chapter: "Onychomykose",
+        Length: "508",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/UQYbvK/article/-J0D9S",
+        Error: 0
+    }, {
+        Day: 36,
+        Importance: 10,
+        Subject: "Dermatologie",
+        Chapter: "Kandidosen",
+        Length: "807",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/UQYbvK/article/rf0fn2",
+        Error: 0
+    }, {
+        Day: 36,
+        Importance: 11,
+        Subject: "Dermatologie",
+        Chapter: "Pityriasis versicolor",
+        Length: "238",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/UQYbvK/article/Zk0ZmT",
+        Error: 0
+    }, {
+        Day: 36,
+        Importance: 12,
+        Subject: "Dermatologie",
+        Chapter: "Skabies",
+        Length: "726",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/UQYbvK/article/ck0a5T",
+        Error: 0
+    }, {
+        Day: 36,
+        Importance: 13,
+        Subject: "Dermatologie",
+        Chapter: "Lauserkrankungen",
+        Length: "646",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/UQYbvK/article/1k025T",
+        Error: 0
+    }, {
+        Day: 36,
+        Importance: 14,
+        Subject: "Dermatologie",
+        Chapter: "Fotodermatosen",
+        Length: "591",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/UQYbvK/article/dk0o5T",
+        Error: 0
+    }, {
+        Day: 36,
+        Importance: 15,
+        Subject: "Dermatologie",
+        Chapter: "Porphyrien",
+        Length: "912",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/UQYbvK/article/mk0VoT",
+        Error: 0
+    }, {
+        Day: 36,
+        Importance: 16,
+        Subject: "Dermatologie",
+        Chapter: "Angioödem",
+        Length: "1083",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/UQYbvK/article/2k0TMT",
+        Error: 0
+    }, {
+        Day: 36,
+        Importance: 17,
+        Subject: "Dermatologie",
+        Chapter: "Urtikaria",
+        Length: "693",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/UQYbvK/article/dD0oWR",
+        Error: 0
+    }, {
+        Day: 37,
+        Importance: 1,
+        Subject: "Dermatologie",
+        Chapter: "Erythema nodosum",
+        Length: "501",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/2QYTvK/article/Fk0gpT",
+        Error: 0
+    }, {
+        Day: 37,
+        Importance: 2,
+        Subject: "Dermatologie",
+        Chapter: "Erythema exsudativum multiforme",
+        Length: "450",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/2QYTvK/article/Tk06MT",
+        Error: 0
+    }, {
+        Day: 37,
+        Importance: 3,
+        Subject: "Dermatologie",
+        Chapter: "Epidermale Nekrolyse",
+        Length: "638",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/2QYTvK/article/Ko0U1S",
+        Error: 0
+    }, {
+        Day: 37,
+        Importance: 4,
+        Subject: "Dermatologie",
+        Chapter: "Blasenbildende Autoimmundermatosen",
+        Length: "1876",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/2QYTvK/article/jk0_nT",
+        Error: 0
+    }, {
+        Day: 37,
+        Importance: 5,
+        Subject: "Dermatologie",
+        Chapter: "Psoriasis vulgaris",
+        Length: "1658",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/2QYTvK/article/4k03LT",
+        Error: 0
+    }, {
+        Day: 37,
+        Importance: 6,
+        Subject: "Dermatologie",
+        Chapter: "Lichen ruber planus",
+        Length: "618",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/2QYTvK/article/5k0ioT",
+        Error: 0
+    }, {
+        Day: 37,
+        Importance: 7,
+        Subject: "Dermatologie",
+        Chapter: "Ichthyosen",
+        Length: "173",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/2QYTvK/article/Qk0unT",
+        Error: 0
+    }, {
+        Day: 37,
+        Importance: 8,
+        Subject: "Dermatologie",
+        Chapter: "Pityriasis rosea",
+        Length: "305",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/2QYTvK/article/Pk0WLT",
+        Error: 0
+    }, {
+        Day: 37,
+        Importance: 9,
+        Subject: "Dermatologie",
+        Chapter: "Seborrhoisches Ekzem",
+        Length: "434",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/2QYTvK/article/Vk0G5T",
+        Error: 0
+    }, {
+        Day: 37,
+        Importance: 10,
+        Subject: "Dermatologie",
+        Chapter: "Acne vulgaris",
+        Length: "1033",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/2QYTvK/article/nk07oT",
+        Error: 0
+    }, {
+        Day: 37,
+        Importance: 11,
+        Subject: "Dermatologie",
+        Chapter: "Rosazea",
+        Length: "538",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/2QYTvK/article/Lk0woT",
+        Error: 0
+    }, {
+        Day: 37,
+        Importance: 12,
+        Subject: "Dermatologie",
+        Chapter: "Granulomatöse Hauterkrankungen",
+        Length: "284",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/2QYTvK/article/Kk0UKT",
+        Error: 0
+    }, {
+        Day: 38,
+        Importance: 1,
+        Subject: "Dermatologie",
+        Chapter: "Benigne Hauttumoren",
+        Length: "1399",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/fQYkvK/article/6k0jKT",
+        Error: 0
+    }, {
+        Day: 38,
+        Importance: 2,
+        Subject: "Dermatologie",
+        Chapter: "Aktinische Keratose",
+        Length: "451",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/fQYkvK/article/pk0LKT",
+        Error: 0
+    }, {
+        Day: 38,
+        Importance: 3,
+        Subject: "Dermatologie",
+        Chapter: "Malignes Melanom",
+        Length: "1888",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/fQYkvK/article/qk0CKT",
+        Error: 0
+    }, {
+        Day: 38,
+        Importance: 4,
+        Subject: "Dermatologie",
+        Chapter: "Plattenepithelkarzinom der Haut",
+        Length: "1222",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/fQYkvK/article/Ik0Y6T",
+        Error: 0
+    }, {
+        Day: 38,
+        Importance: 5,
+        Subject: "Dermatologie",
+        Chapter: "Basalzellkarzinom",
+        Length: "742",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/fQYkvK/article/rk0f6T",
+        Error: 0
+    }, {
+        Day: 38,
+        Importance: 6,
+        Subject: "Dermatologie",
+        Chapter: "Parapsoriasis en plaques",
+        Length: "306",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/fQYkvK/article/kk0mLT",
+        Error: 0
+    }, {
+        Day: 38,
+        Importance: 7,
+        Subject: "Dermatologie",
+        Chapter: "Vitiligo",
+        Length: "258",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/fQYkvK/article/7k046T",
+        Error: 0
+    }, {
+        Day: 38,
+        Importance: 8,
+        Subject: "Dermatologie",
+        Chapter: "Alopezien",
+        Length: "771",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/fQYkvK/article/tk0XpT",
+        Error: 0
+    }, {
+        Day: 38,
+        Importance: 9,
+        Subject: "Dermatologie",
+        Chapter: "Sexuell übertragbare Infektionen",
+        Length: "479",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/fQYkvK/article/IM0YJg",
+        Error: 0
+    }, {
+        Day: 38,
+        Importance: 10,
+        Subject: "Dermatologie",
+        Chapter: "Gonorrhö",
+        Length: "491",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/fQYkvK/article/Hk0K6T",
+        Error: 0
+    }, {
+        Day: 38,
+        Importance: 11,
+        Subject: "Dermatologie",
+        Chapter: "Syphilis",
+        Length: "1604",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/fQYkvK/article/sk0t6T",
+        Error: 0
+    }, {
+        Day: 38,
+        Importance: 12,
+        Subject: "Dermatologie",
+        Chapter: "Ulcus molle",
+        Length: "309",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/fQYkvK/article/650jOg",
+        Error: 0
+    }, {
+        Day: 38,
+        Importance: 13,
+        Subject: "Dermatologie",
+        Chapter: "Sammelsurium der Dermatologie",
+        Length: "499",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/fQYkvK/article/eM0xng",
+        Error: 0
+    }, {
+        Day: 38,
+        Importance: 14,
+        Subject: "Dermatologie",
+        Chapter: "Periorale Dermatitis",
+        Length: "417",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/fQYkvK/article/rF0fj3",
+        Error: 0
+    }, {
+        Day: 39,
+        Importance: 1,
+        Subject: "Anästhesie",
+        Chapter: "Lokalanästhetika",
+        Length: "670",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/TQY6vK/article/wN0hWg",
+        Error: 0
+    }, {
+        Day: 39,
+        Importance: 2,
+        Subject: "Anästhesie",
+        Chapter: "Regionalanästhesie",
+        Length: "1734",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/TQY6vK/article/Sl0ywT",
+        Error: 0
+    }, {
+        Day: 39,
+        Importance: 3,
+        Subject: "Anästhesie",
+        Chapter: "Allgemeinanästhesie",
+        Length: "2206",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/TQY6vK/article/hl0c9T",
+        Error: 0
+    }, {
+        Day: 39,
+        Importance: 4,
+        Subject: "Anästhesie",
+        Chapter: "Maschinelle Beatmung",
+        Length: "1291",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/TQY6vK/article/970NLh",
+        Error: 0
+    }, {
+        Day: 39,
+        Importance: 5,
+        Subject: "Anästhesie",
+        Chapter: "Rapid Sequence Induction",
+        Length: "1234",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/TQY6vK/article/gl0FwT",
+        Error: 0
+    }, {
+        Day: 39,
+        Importance: 6,
+        Subject: "Anästhesie",
+        Chapter: "Inhalationsanästhetika",
+        Length: "729",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/TQY6vK/article/EN081g",
+        Error: 0
+    }, {
+        Day: 39,
+        Importance: 7,
+        Subject: "Anästhesie",
+        Chapter: "Injektionsanästhetika",
+        Length: "565",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/TQY6vK/article/vN0A1g",
+        Error: 0
+    }, {
+        Day: 39,
+        Importance: 8,
+        Subject: "Anästhesie",
+        Chapter: "Muskelrelaxanzien",
+        Length: "1020",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/TQY6vK/article/DN01Wg",
+        Error: 0
+    }, {
+        Day: 39,
+        Importance: 9,
+        Subject: "Anästhesie",
+        Chapter: "Benzodiazepine",
+        Length: "644",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/TQY6vK/article/CN0qWg",
+        Error: 0
+    }, {
+        Day: 39,
+        Importance: 10,
+        Subject: "Anästhesie",
+        Chapter: "Maligne Hyperthermie",
+        Length: "701",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/TQY6vK/article/sg0t92",
+        Error: 0
+    }, {
+        Day: 40,
+        Importance: 1,
+        Subject: "Intensiv- und Notfallmedizin",
+        Chapter: "Grundlagen der Schmerztherapie",
+        Length: "1661",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/gQYFvK/article/xN0EWg",
+        Error: 0
+    }, {
+        Day: 40,
+        Importance: 2,
+        Subject: "Intensiv- und Notfallmedizin",
+        Chapter: "Nicht-Opioid-Analgetika",
+        Length: "1037",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/gQYFvK/article/BN0zWg",
+        Error: 0
+    }, {
+        Day: 40,
+        Importance: 3,
+        Subject: "Intensiv- und Notfallmedizin",
+        Chapter: "Opioide",
+        Length: "1022",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/gQYFvK/article/yN0ddg",
+        Error: 0
+    }, {
+        Day: 40,
+        Importance: 4,
+        Subject: "Intensiv- und Notfallmedizin",
+        Chapter: "Pulsoxymetrie und Blutgasanalyse",
+        Length: "1459",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/gQYFvK/article/8l0OAT",
+        Error: 0
+    }, {
+        Day: 40,
+        Importance: 5,
+        Subject: "Intensiv- und Notfallmedizin",
+        Chapter: "Flüssigkeits- und Volumentherapie",
+        Length: "1373",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/gQYFvK/article/fM0kLg",
+        Error: 0
+    }, {
+        Day: 40,
+        Importance: 6,
+        Subject: "Intensiv- und Notfallmedizin",
+        Chapter: "Künstliche Ernährung",
+        Length: "584",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/gQYFvK/article/9t0Nf3",
+        Error: 0
+    }, {
+        Day: 40,
+        Importance: 7,
+        Subject: "Intensiv- und Notfallmedizin",
+        Chapter: "Transfusionen",
+        Length: "1993",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/gQYFvK/article/2M0TLg",
+        Error: 0
+    }, {
+        Day: 40,
+        Importance: 8,
+        Subject: "Intensiv- und Notfallmedizin",
+        Chapter: "Präklinische Traumaversorgung",
+        Length: "1502",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/gQYFvK/article/4N03Yg",
+        Error: 0
+    }, {
+        Day: 40,
+        Importance: 9,
+        Subject: "Intensiv- und Notfallmedizin",
+        Chapter: "Grundlagen der Reanimation",
+        Length: "1372",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/gQYFvK/article/kN0mYg",
+        Error: 0
+    }, {
+        Day: 40,
+        Importance: 10,
+        Subject: "Intensiv- und Notfallmedizin",
+        Chapter: "Reanimation - AMBOSS-SOP",
+        Length: "822",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/gQYFvK/article/L70wmh",
+        Error: 0
+    }, {
+        Day: 40,
+        Importance: 11,
+        Subject: "Intensiv- und Notfallmedizin",
+        Chapter: "Polytrauma",
+        Length: "808",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/gQYFvK/article/-y0D3i",
+        Error: 0
+    }, {
+        Day: 41,
+        Importance: 1,
+        Subject: "Intensiv- und Notfallmedizin",
+        Chapter: "Schock",
+        Length: "1766",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/SQYyvK/article/kO0msT",
+        Error: 0
+    }, {
+        Day: 41,
+        Importance: 2,
+        Subject: "Intensiv- und Notfallmedizin",
+        Chapter: "Acute Respiratory Distress Syndrome",
+        Length: "1226",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/SQYyvK/article/tg0XC2",
+        Error: 0
+    }, {
+        Day: 41,
+        Importance: 3,
+        Subject: "Intensiv- und Notfallmedizin",
+        Chapter: "Rhabdomyolyse und Crush-Syndrom",
+        Length: "406",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/SQYyvK/article/4O03sT",
+        Error: 0
+    }, {
+        Day: 41,
+        Importance: 4,
+        Subject: "Intensiv- und Notfallmedizin",
+        Chapter: "Verbrennung",
+        Length: "1036",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/SQYyvK/article/Jh0sUf",
+        Error: 0
+    }, {
+        Day: 41,
+        Importance: 5,
+        Subject: "Intensiv- und Notfallmedizin",
+        Chapter: "Hypothermie und Erfrierungen",
+        Length: "898",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/SQYyvK/article/kK0mgS",
+        Error: 0
+    }, {
+        Day: 41,
+        Importance: 6,
+        Subject: "Intensiv- und Notfallmedizin",
+        Chapter: "Thoraxtrauma",
+        Length: "818",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/SQYyvK/article/8h0Off",
+        Error: 0
+    }, {
+        Day: 41,
+        Importance: 7,
+        Subject: "Intensiv- und Notfallmedizin",
+        Chapter: "Pneumothorax",
+        Length: "2103",
+        Imppact: 2,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/SQYyvK/article/vh0Aff",
+        Error: 0
+    }, {
+        Day: 41,
+        Importance: 8,
+        Subject: "Intensiv- und Notfallmedizin",
+        Chapter: "Intoxikation mit Kohlenstoffmonoxid oder -dioxid",
+        Length: "550",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/SQYyvK/article/4h03Vf",
+        Error: 0
+    }, {
+        Day: 42,
+        Importance: 1,
+        Subject: "Chirurgie",
+        Chapter: "Akute Wunden und Wundverschluss",
+        Length: "1449",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/hQYcDK/article/ph0LUf",
+        Error: 0
+    }, {
+        Day: 42,
+        Importance: 2,
+        Subject: "Chirurgie",
+        Chapter: "Chronische Wunden und Wundbehandlung",
+        Length: "1567",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/hQYcDK/article/f70kOh",
+        Error: 0
+    }, {
+        Day: 42,
+        Importance: 3,
+        Subject: "Chirurgie",
+        Chapter: "Bakterielle Infektionen von Haut und Weichgewebe",
+        Length: "1902",
+        Imppact: 2,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/hQYcDK/article/qh0CUf",
+        Error: 0
+    }, {
+        Day: 42,
+        Importance: 4,
+        Subject: "Chirurgie",
+        Chapter: "Paronychie und Panaritium",
+        Length: "503",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/hQYcDK/article/rh0f2f",
+        Error: 0
+    }, {
+        Day: 42,
+        Importance: 5,
+        Subject: "Chirurgie",
+        Chapter: "Tetanus",
+        Length: "754",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/hQYcDK/article/ef0xO2",
+        Error: 0
+    }, {
+        Day: 42,
+        Importance: 6,
+        Subject: "Chirurgie",
+        Chapter: "Aktinomykose",
+        Length: "480",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/hQYcDK/article/7h042f",
+        Error: 0
+    }, {
+        Day: 42,
+        Importance: 7,
+        Subject: "Chirurgie",
+        Chapter: "Perioperatives Management",
+        Length: "2058",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/hQYcDK/article/550ikg",
+        Error: 0
+    }, {
+        Day: 42,
+        Importance: 8,
+        Subject: "Chirurgie",
+        Chapter: "Laparoskopische Chirurgie",
+        Length: "520",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/hQYcDK/article/B50zmg",
+        Error: 0
+    }, {
+        Day: 42,
+        Importance: 9,
+        Subject: "Chirurgie",
+        Chapter: "Koronararterielle Bypasschirurgie",
+        Length: "557",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/hQYcDK/article/6l0jBT",
+        Error: 0
+    }, {
+        Day: 42,
+        Importance: 10,
+        Subject: "Chirurgie",
+        Chapter: "Aneurysma",
+        Length: "533",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/hQYcDK/article/Wh0P1f",
+        Error: 0
+    }, {
+        Day: 42,
+        Importance: 11,
+        Subject: "Chirurgie",
+        Chapter: "Aortenaneurysma",
+        Length: "1205",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/hQYcDK/article/dh0o1f",
+        Error: 0
+    }, {
+        Day: 42,
+        Importance: 12,
+        Subject: "Chirurgie",
+        Chapter: "Aortendissektion",
+        Length: "1743",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/hQYcDK/article/M50Mkg",
+        Error: 0
+    }, {
+        Day: 42,
+        Importance: 13,
+        Subject: "Chirurgie",
+        Chapter: "Akuter arterieller Extremitätenverschluss",
+        Length: "1082",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/hQYcDK/article/1h021f",
+        Error: 0
+    }, {
+        Day: 43,
+        Importance: 1,
+        Subject: "Chirurgie",
+        Chapter: "Schilddrüsenkarzinom",
+        Length: "1442",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/3QYSDK/article/Vg0G82",
+        Error: 0
+    }, {
+        Day: 43,
+        Importance: 2,
+        Subject: "Chirurgie",
+        Chapter: "Schilddrüsenchirurgie",
+        Length: "600",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/3QYSDK/article/wl0h_T",
+        Error: 0
+    }, {
+        Day: 43,
+        Importance: 3,
+        Subject: "Chirurgie",
+        Chapter: "Ösophagusdivertikel",
+        Length: "600",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/3QYSDK/article/Eg08C2",
+        Error: 0
+    }, {
+        Day: 43,
+        Importance: 4,
+        Subject: "Chirurgie",
+        Chapter: "Boerhaave-Syndrom",
+        Length: "340",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/3QYSDK/article/wg0hx2",
+        Error: 0
+    }, {
+        Day: 43,
+        Importance: 5,
+        Subject: "Chirurgie",
+        Chapter: "Ösophaguskarzinom",
+        Length: "1151",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/3QYSDK/article/Cg0qx2",
+        Error: 0
+    }, {
+        Day: 43,
+        Importance: 6,
+        Subject: "Chirurgie",
+        Chapter: "Zwerchfellhernie",
+        Length: "1573",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/3QYSDK/article/Ch0qTf",
+        Error: 0
+    }, {
+        Day: 43,
+        Importance: 7,
+        Subject: "Chirurgie",
+        Chapter: "Milzruptur",
+        Length: "1052",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/3QYSDK/article/Bh0zTf",
+        Error: 0
+    }, {
+        Day: 43,
+        Importance: 8,
+        Subject: "Chirurgie",
+        Chapter: "Magenkarzinom",
+        Length: "2132",
+        Imppact: 2,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/3QYSDK/article/-g0DB2",
+        Error: 0
+    }, {
+        Day: 43,
+        Importance: 9,
+        Subject: "Chirurgie",
+        Chapter: "Neuroendokrine Neoplasien",
+        Length: "2438",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/3QYSDK/article/_h05gf",
+        Error: 0
+    }, {
+        Day: 43,
+        Importance: 10,
+        Subject: "Chirurgie",
+        Chapter: "Akutes Abdomen",
+        Length: "3408",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/3QYSDK/article/N50-4g",
+        Error: 0
+    }, {
+        Day: 43,
+        Importance: 11,
+        Subject: "Chirurgie",
+        Chapter: "Peritonitis",
+        Length: "867",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/3QYSDK/article/GM0BJg",
+        Error: 0
+    }, {
+        Day: 43,
+        Importance: 12,
+        Subject: "Chirurgie",
+        Chapter: "Ileus",
+        Length: "1633",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/3QYSDK/article/230T3f",
+        Error: 0
+    }, {
+        Day: 44,
+        Importance: 1,
+        Subject: "Chirurgie",
+        Chapter: "Mesenteriale Ischämie",
+        Length: "1186",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/RQYlDK/article/cS0aA2",
+        Error: 0
+    }, {
+        Day: 44,
+        Importance: 2,
+        Subject: "Chirurgie",
+        Chapter: "Appendizitis",
+        Length: "1679",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/RQYlDK/article/a30QSf",
+        Error: 0
+    }, {
+        Day: 44,
+        Importance: 3,
+        Subject: "Chirurgie",
+        Chapter: "Kolonpolypen",
+        Length: "737",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/RQYlDK/article/US0b_2",
+        Error: 0
+    }, {
+        Day: 44,
+        Importance: 4,
+        Subject: "Chirurgie",
+        Chapter: "Kolorektales Karzinom",
+        Length: "3040",
+        Imppact: 2,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/RQYlDK/article/TS06_2",
+        Error: 0
+    }, {
+        Day: 44,
+        Importance: 5,
+        Subject: "Chirurgie",
+        Chapter: "Hereditäres, nicht-polypöses Kolonkarzinom",
+        Length: "953",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/RQYlDK/article/fS0k_2",
+        Error: 0
+    }, {
+        Day: 44,
+        Importance: 6,
+        Subject: "Chirurgie",
+        Chapter: "Obstipation",
+        Length: "1696",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/RQYlDK/article/CM0qIg",
+        Error: 0
+    }, {
+        Day: 44,
+        Importance: 7,
+        Subject: "Chirurgie",
+        Chapter: "Darmchirurgie",
+        Length: "2028",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/RQYlDK/article/Cl0q_T",
+        Error: 0
+    }, {
+        Day: 45,
+        Importance: 1,
+        Subject: "Chirurgie",
+        Chapter: "Cholelithiasis, Cholezystitis und Cholangitis",
+        Length: "2356",
+        Imppact: 2,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/iQYJDK/article/V30Ghf",
+        Error: 0
+    }, {
+        Day: 45,
+        Importance: 2,
+        Subject: "Chirurgie",
+        Chapter: "Biliäre Karzinome",
+        Length: "547",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/iQYJDK/article/e30xhf",
+        Error: 0
+    }, {
+        Day: 45,
+        Importance: 3,
+        Subject: "Chirurgie",
+        Chapter: "Hepatozelluläres Karzinom",
+        Length: "1102",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/iQYJDK/article/6S0j0f",
+        Error: 0
+    }, {
+        Day: 45,
+        Importance: 4,
+        Subject: "Chirurgie",
+        Chapter: "Pankreas- und Leberchirurgie",
+        Length: "835",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/iQYJDK/article/Bl0z_T",
+        Error: 0
+    }, {
+        Day: 45,
+        Importance: 5,
+        Subject: "Chirurgie",
+        Chapter: "Anal- und Rektumprolaps",
+        Length: "428",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/iQYJDK/article/W30Phf",
+        Error: 0
+    }, {
+        Day: 45,
+        Importance: 6,
+        Subject: "Chirurgie",
+        Chapter: "Hämorrhoiden und Hämorrhoidalleiden",
+        Length: "891",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/iQYJDK/article/c30ahf",
+        Error: 0
+    }, {
+        Day: 45,
+        Importance: 7,
+        Subject: "Chirurgie",
+        Chapter: "Analvenenthrombose",
+        Length: "388",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/iQYJDK/article/1302hf",
+        Error: 0
+    }, {
+        Day: 45,
+        Importance: 8,
+        Subject: "Chirurgie",
+        Chapter: "Analfissur",
+        Length: "639",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/iQYJDK/article/X309Sf",
+        Error: 0
+    }, {
+        Day: 45,
+        Importance: 9,
+        Subject: "Chirurgie",
+        Chapter: "Analabszess und Analfistel",
+        Length: "684",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/iQYJDK/article/b30HSf",
+        Error: 0
+    }, {
+        Day: 45,
+        Importance: 10,
+        Subject: "Chirurgie",
+        Chapter: "Analkarzinom",
+        Length: "685",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/iQYJDK/article/gS0F_2",
+        Error: 0
+    }, {
+        Day: 45,
+        Importance: 11,
+        Subject: "Chirurgie",
+        Chapter: "Sinus pilonidalis",
+        Length: "572",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/iQYJDK/article/Y30nSf",
+        Error: 0
+    }, {
+        Day: 45,
+        Importance: 12,
+        Subject: "Chirurgie",
+        Chapter: "Hernien",
+        Length: "1414",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/iQYJDK/article/030eSf",
+        Error: 0
+    }, {
+        Day: 45,
+        Importance: 13,
+        Subject: "Chirurgie",
+        Chapter: "Leistenhernie",
+        Length: "1290",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/iQYJDK/article/zh0rgf",
+        Error: 0
+    }, {
+        Day: 45,
+        Importance: 14,
+        Subject: "Chirurgie",
+        Chapter: "Schenkelhernie",
+        Length: "502",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/iQYJDK/article/Z30ZSf",
+        Error: 0
+    }, {
+        Day: 46,
+        Importance: 1,
+        Subject: "Chirurgie",
+        Chapter: "Allgemeine Frakturlehre",
+        Length: "1111",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/QQYuDK/article/T3063f",
+        Error: 0
+    }, {
+        Day: 46,
+        Importance: 2,
+        Subject: "Chirurgie",
+        Chapter: "Konservative Verfahren in der Frakturversorgung",
+        Length: "429",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/QQYuDK/article/Dl01_T",
+        Error: 0
+    }, {
+        Day: 46,
+        Importance: 3,
+        Subject: "Chirurgie",
+        Chapter: "Operative Verfahren der Unfallchirurgie/Orthopädie",
+        Length: "1073",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/QQYuDK/article/vl0AAT",
+        Error: 0
+    }, {
+        Day: 46,
+        Importance: 4,
+        Subject: "Chirurgie",
+        Chapter: "Frakturen im Kindesalter",
+        Length: "582",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/QQYuDK/article/g30F3f",
+        Error: 0
+    }, {
+        Day: 46,
+        Importance: 5,
+        Subject: "Chirurgie",
+        Chapter: "Kompartmentsyndrom",
+        Length: "746",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/QQYuDK/article/330SRf",
+        Error: 0
+    }, {
+        Day: 46,
+        Importance: 6,
+        Subject: "Chirurgie",
+        Chapter: "Claviculafraktur",
+        Length: "467",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/QQYuDK/article/i30JRf",
+        Error: 0
+    }, {
+        Day: 46,
+        Importance: 7,
+        Subject: "Chirurgie",
+        Chapter: "Luxation des Akromioklavikulargelenks",
+        Length: "638",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/QQYuDK/article/Q30uRf",
+        Error: 0
+    }, {
+        Day: 46,
+        Importance: 8,
+        Subject: "Chirurgie",
+        Chapter: "Humerusfraktur",
+        Length: "769",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/QQYuDK/article/j30_Rf",
+        Error: 0
+    }, {
+        Day: 46,
+        Importance: 9,
+        Subject: "Chirurgie",
+        Chapter: "Distale Radiusfraktur",
+        Length: "757",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/QQYuDK/article/O30Iif",
+        Error: 0
+    }, {
+        Day: 46,
+        Importance: 10,
+        Subject: "Chirurgie",
+        Chapter: "Schaftfrakturen des Unterarmes",
+        Length: "381",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/QQYuDK/article/yr0dPh",
+        Error: 0
+    }, {
+        Day: 47,
+        Importance: 1,
+        Subject: "Chirurgie",
+        Chapter: "Kahnbeinfraktur",
+        Length: "573",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/jQY_DK/article/l30vif",
+        Error: 0
+    }, {
+        Day: 47,
+        Importance: 2,
+        Subject: "Chirurgie",
+        Chapter: "Mittelhandfrakturen",
+        Length: "469",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/jQY_DK/article/Wl0PDT",
+        Error: 0
+    }, {
+        Day: 47,
+        Importance: 3,
+        Subject: "Chirurgie",
+        Chapter: "Wirbelsäulenverletzungen",
+        Length: "1417",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/jQY_DK/article/M30MQf",
+        Error: 0
+    }, {
+        Day: 47,
+        Importance: 4,
+        Subject: "Chirurgie",
+        Chapter: "Beckenringfrakturen",
+        Length: "1172",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/jQY_DK/article/n307Qf",
+        Error: 0
+    }, {
+        Day: 47,
+        Importance: 5,
+        Subject: "Chirurgie",
+        Chapter: "Proximale Femurfrakturen",
+        Length: "1392",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/jQY_DK/article/L30wQf",
+        Error: 0
+    }, {
+        Day: 47,
+        Importance: 6,
+        Subject: "Chirurgie",
+        Chapter: "Femurschaft- und distale Femurfrakturen",
+        Length: "595",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/jQY_DK/article/o300jf",
+        Error: 0
+    }, {
+        Day: 47,
+        Importance: 7,
+        Subject: "Chirurgie",
+        Chapter: "Frakturen des Unterschenkels",
+        Length: "519",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/jQY_DK/article/K30Ujf",
+        Error: 0
+    }, {
+        Day: 47,
+        Importance: 8,
+        Subject: "Chirurgie",
+        Chapter: "Sprunggelenksfraktur",
+        Length: "693",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/jQY_DK/article/630jjf",
+        Error: 0
+    }, {
+        Day: 48,
+        Importance: 1,
+        Subject: "Orthopädie",
+        Chapter: "Orthopädische Untersuchungszeichen",
+        Length: "952",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/PQYWwK/article/zl0rzT",
+        Error: 0
+    }, {
+        Day: 48,
+        Importance: 2,
+        Subject: "Orthopädie",
+        Chapter: "Arthrose",
+        Length: "1063",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/PQYWwK/article/bT0H62",
+        Error: 0
+    }, {
+        Day: 48,
+        Importance: 3,
+        Subject: "Orthopädie",
+        Chapter: "Osteomalazie und Rachitis",
+        Length: "610",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/PQYWwK/article/XT0962",
+        Error: 0
+    }, {
+        Day: 48,
+        Importance: 4,
+        Subject: "Orthopädie",
+        Chapter: "Osteodystrophia deformans",
+        Length: "507",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/PQYWwK/article/FQ0gBf",
+        Error: 0
+    }, {
+        Day: 48,
+        Importance: 5,
+        Subject: "Orthopädie",
+        Chapter: "Osteoporose",
+        Length: "1747",
+        Imppact: 2,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/PQYWwK/article/cT0ap2",
+        Error: 0
+    }, {
+        Day: 48,
+        Importance: 6,
+        Subject: "Orthopädie",
+        Chapter: "Laborkonstellation Knochenerkrankungen",
+        Length: "153",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/PQYWwK/article/eQ0xEf",
+        Error: 0
+    }, {
+        Day: 48,
+        Importance: 7,
+        Subject: "Orthopädie",
+        Chapter: "Seronegative Spondylarthritis",
+        Length: "263",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/PQYWwK/article/J30sjf",
+        Error: 0
+    }, {
+        Day: 48,
+        Importance: 8,
+        Subject: "Orthopädie",
+        Chapter: "Osteomyelitis",
+        Length: "851",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/PQYWwK/article/th0Xff",
+        Error: 0
+    }, {
+        Day: 48,
+        Importance: 9,
+        Subject: "Orthopädie",
+        Chapter: "Spondylodiszitis",
+        Length: "676",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/PQYWwK/article/k-0mxi",
+        Error: 0
+    }, {
+        Day: 48,
+        Importance: 10,
+        Subject: "Orthopädie",
+        Chapter: "Bakterielle Arthritis",
+        Length: "608",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/PQYWwK/article/0M0eMg",
+        Error: 0
+    }, {
+        Day: 49,
+        Importance: 1,
+        Subject: "Orthopädie",
+        Chapter: "Benigne Knochen- und Knorpeltumoren",
+        Length: "1448",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/4QY3wK/article/7Q04xf",
+        Error: 0
+    }, {
+        Day: 49,
+        Importance: 2,
+        Subject: "Orthopädie",
+        Chapter: "Maligne Knochen- und Knorpeltumoren",
+        Length: "1395",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/4QY3wK/article/HQ0Kxf",
+        Error: 0
+    }, {
+        Day: 49,
+        Importance: 3,
+        Subject: "Orthopädie",
+        Chapter: "Spondylolisthese",
+        Length: "774",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/4QY3wK/article/PQ0Wwf",
+        Error: 0
+    }, {
+        Day: 49,
+        Importance: 4,
+        Subject: "Orthopädie",
+        Chapter: "Bandscheibenprolaps",
+        Length: "2413",
+        Imppact: 3,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/4QY3wK/article/ji0_rf",
+        Error: 0
+    }, {
+        Day: 49,
+        Importance: 5,
+        Subject: "Orthopädie",
+        Chapter: "Adoleszente idiopathische Skoliose",
+        Length: "919",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/4QY3wK/article/4Q03wf",
+        Error: 0
+    }, {
+        Day: 49,
+        Importance: 6,
+        Subject: "Orthopädie",
+        Chapter: "Rückenschmerzen",
+        Length: "1311",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/4QY3wK/article/nL07yg",
+        Error: 0
+    }, {
+        Day: 50,
+        Importance: 1,
+        Subject: "Orthopädie",
+        Chapter: "Morbus Dupuytren",
+        Length: "416",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/kQYmwK/article/hQ0cDf",
+        Error: 0
+    }, {
+        Day: 50,
+        Importance: 2,
+        Subject: "Orthopädie",
+        Chapter: "Tendovaginitis",
+        Length: "479",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/kQYmwK/article/3Q0SDf",
+        Error: 0
+    }, {
+        Day: 50,
+        Importance: 3,
+        Subject: "Orthopädie",
+        Chapter: "Tendinopathie",
+        Length: "526",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/kQYmwK/article/vQ0ABf",
+        Error: 0
+    }, {
+        Day: 50,
+        Importance: 4,
+        Subject: "Orthopädie",
+        Chapter: "Komplexes regionales Schmerzsyndrom",
+        Length: "770",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/kQYmwK/article/R30lRf",
+        Error: 0
+    }, {
+        Day: 50,
+        Importance: 5,
+        Subject: "Orthopädie",
+        Chapter: "Thoracic-Outlet-Syndrom",
+        Length: "510",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/kQYmwK/article/QQ0uDf",
+        Error: 0
+    }, {
+        Day: 50,
+        Importance: 6,
+        Subject: "Orthopädie",
+        Chapter: "Schulterläsionen",
+        Length: "780",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/kQYmwK/article/UQ0bvf",
+        Error: 0
+    }, {
+        Day: 50,
+        Importance: 7,
+        Subject: "Orthopädie",
+        Chapter: "Rotatorenmanschettenruptur",
+        Length: "443",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/kQYmwK/article/L1awhj",
+        Error: 0
+    }, {
+        Day: 50,
+        Importance: 8,
+        Subject: "Orthopädie",
+        Chapter: "Schultergelenkluxation",
+        Length: "1074",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/kQYmwK/article/P30Wif",
+        Error: 0
+    }, {
+        Day: 50,
+        Importance: 9,
+        Subject: "Orthopädie",
+        Chapter: "Bizepssehnenruptur",
+        Length: "578",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/kQYmwK/article/gQ0Fvf",
+        Error: 0
+    }, {
+        Day: 50,
+        Importance: 10,
+        Subject: "Orthopädie",
+        Chapter: "Luxationen des Ellenbogengelenks",
+        Length: "501",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/kQYmwK/article/0l0evT",
+        Error: 0
+    }, {
+        Day: 50,
+        Importance: 11,
+        Subject: "Orthopädie",
+        Chapter: "Radiuskopf-Subluxation",
+        Length: "412",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/kQYmwK/article/4303if",
+        Error: 0
+    }, {
+        Day: 50,
+        Importance: 12,
+        Subject: "Orthopädie",
+        Chapter: "Karpaltunnelsyndrom",
+        Length: "743",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/kQYmwK/article/sR0tof",
+        Error: 0
+    }, {
+        Day: 50,
+        Importance: 13,
+        Subject: "Orthopädie",
+        Chapter: "Sehnenverletzung der Hand",
+        Length: "876",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/kQYmwK/article/N30-if",
+        Error: 0
+    }, {
+        Day: 50,
+        Importance: 14,
+        Subject: "Orthopädie",
+        Chapter: "Sammelsurium der Unfallchirurgie und Orthopädie",
+        Length: "836",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/kQYmwK/article/i50JPg",
+        Error: 0
+    }, {
+        Day: 51,
+        Importance: 1,
+        Subject: "Orthopädie",
+        Chapter: "Osteochondrosis dissecans",
+        Length: "395",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/OQYIwK/article/JQ0sCf",
+        Error: 0
+    }, {
+        Day: 51,
+        Importance: 2,
+        Subject: "Orthopädie",
+        Chapter: "Osteonekrosen",
+        Length: "926",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/OQYIwK/article/rQ0fxf",
+        Error: 0
+    }, {
+        Day: 51,
+        Importance: 3,
+        Subject: "Orthopädie",
+        Chapter: "Aseptische Femurkopfnekrose im Erwachsenenalter",
+        Length: "439",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/OQYIwK/article/5Q0i9f",
+        Error: 0
+    }, {
+        Day: 51,
+        Importance: 4,
+        Subject: "Orthopädie",
+        Chapter: "Fehlstellungen der unteren Extremität",
+        Length: "993",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/OQYIwK/article/lQ0vwf",
+        Error: 0
+    }, {
+        Day: 51,
+        Importance: 5,
+        Subject: "Orthopädie",
+        Chapter: "Koxarthrose",
+        Length: "887",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/OQYIwK/article/LQ0w9f",
+        Error: 0
+    }, {
+        Day: 51,
+        Importance: 6,
+        Subject: "Orthopädie",
+        Chapter: "Gonarthrose",
+        Length: "690",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/OQYIwK/article/jba_tQ",
+        Error: 0
+    }, {
+        Day: 51,
+        Importance: 7,
+        Subject: "Orthopädie",
+        Chapter: "Sportverletzungen",
+        Length: "1085",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/OQYIwK/article/AM0Rrg",
+        Error: 0
+    }, {
+        Day: 51,
+        Importance: 8,
+        Subject: "Orthopädie",
+        Chapter: "Meniskusruptur",
+        Length: "801",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/OQYIwK/article/oQ00Cf",
+        Error: 0
+    }, {
+        Day: 51,
+        Importance: 9,
+        Subject: "Orthopädie",
+        Chapter: "Patellaluxation",
+        Length: "625",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/OQYIwK/article/KQ0UCf",
+        Error: 0
+    }, {
+        Day: 51,
+        Importance: 10,
+        Subject: "Orthopädie",
+        Chapter: "Bandverletzungen des Knies",
+        Length: "1140",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/OQYIwK/article/pQ0LCf",
+        Error: 0
+    }, {
+        Day: 51,
+        Importance: 11,
+        Subject: "Orthopädie",
+        Chapter: "Achillessehnenruptur",
+        Length: "723",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/OQYIwK/article/p30Ljf",
+        Error: 0
+    }, {
+        Day: 51,
+        Importance: 12,
+        Subject: "Orthopädie",
+        Chapter: "Fußdeformitäten",
+        Length: "1626",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/OQYIwK/article/qQ0CCf",
+        Error: 0
+    }, {
+        Day: 51,
+        Importance: 13,
+        Subject: "Orthopädie",
+        Chapter: "Zehendeformitäten",
+        Length: "540",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/OQYIwK/article/IQ0Yxf",
+        Error: 0
+    }, {
+        Day: 52,
+        Importance: 1,
+        Subject: "Gynäkologie",
+        Chapter: "Diagnostik in der Gynäkologie",
+        Length: "3049",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/lQYvwK/article/SN0y0g",
+        Error: 0
+    }, {
+        Day: 52,
+        Importance: 2,
+        Subject: "Gynäkologie",
+        Chapter: "Fehlbildungen der weiblichen Geschlechtsorgane",
+        Length: "884",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/lQYvwK/article/vk0ApT",
+        Error: 0
+    }, {
+        Day: 52,
+        Importance: 3,
+        Subject: "Gynäkologie",
+        Chapter: "Androgenresistenz",
+        Length: "528",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/lQYvwK/article/9k0NJT",
+        Error: 0
+    }, {
+        Day: 52,
+        Importance: 4,
+        Subject: "Gynäkologie",
+        Chapter: "Östrogenwirkung und assoziierte Erkrankungen",
+        Length: "572",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/lQYvwK/article/uk0ppT",
+        Error: 0
+    }, {
+        Day: 52,
+        Importance: 5,
+        Subject: "Gynäkologie",
+        Chapter: "Menstruationszyklus und Zyklusanomalien",
+        Length: "1458",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/lQYvwK/article/Ek08pT",
+        Error: 0
+    }, {
+        Day: 52,
+        Importance: 6,
+        Subject: "Gynäkologie",
+        Chapter: "Endometriose",
+        Length: "1270",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/lQYvwK/article/-k0DqT",
+        Error: 0
+    }, {
+        Day: 52,
+        Importance: 7,
+        Subject: "Gynäkologie",
+        Chapter: "Polyzystisches Ovarialsyndrom",
+        Length: "681",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/lQYvwK/article/AO0RET",
+        Error: 0
+    }, {
+        Day: 52,
+        Importance: 8,
+        Subject: "Gynäkologie",
+        Chapter: "Klimakterium",
+        Length: "867",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/lQYvwK/article/BO0zuT",
+        Error: 0
+    }, {
+        Day: 52,
+        Importance: 9,
+        Subject: "Gynäkologie",
+        Chapter: "Entzündungen des weiblichen Genitaltrakts",
+        Length: "1659",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/lQYvwK/article/xk0EJT",
+        Error: 0
+    }, {
+        Day: 52,
+        Importance: 10,
+        Subject: "Gynäkologie",
+        Chapter: "Entzündliche und benigne Veränderungen der Mamma",
+        Length: "925",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/lQYvwK/article/Ak0RqT",
+        Error: 0
+    }, {
+        Day: 53,
+        Importance: 1,
+        Subject: "Gynäkologie",
+        Chapter: "Mammakarzinom",
+        Length: "4793",
+        Imppact: 4,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/NQY-wK/article/_k05qT",
+        Error: 0
+    }, {
+        Day: 53,
+        Importance: 2,
+        Subject: "Gynäkologie",
+        Chapter: "Uterusmyom",
+        Length: "1513",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/NQY-wK/article/zk0rqT",
+        Error: 0
+    }, {
+        Day: 53,
+        Importance: 3,
+        Subject: "Gynäkologie",
+        Chapter: "Benigne Ovarialtumoren",
+        Length: "449",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/NQY-wK/article/-H0DGh",
+        Error: 0
+    }, {
+        Day: 53,
+        Importance: 4,
+        Subject: "Gynäkologie",
+        Chapter: "Maligne Ovarialtumoren",
+        Length: "2736",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/NQY-wK/article/aO0QIT",
+        Error: 0
+    }, {
+        Day: 54,
+        Importance: 1,
+        Subject: "Gynäkologie",
+        Chapter: "Infektion mit humanen Papillomaviren",
+        Length: "1511",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/mQYV9K/article/zO0rET",
+        Error: 0
+    }, {
+        Day: 54,
+        Importance: 2,
+        Subject: "Gynäkologie",
+        Chapter: "Zervixkarzinom",
+        Length: "2587",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/mQYV9K/article/ZO0ZIT",
+        Error: 0
+    }, {
+        Day: 54,
+        Importance: 3,
+        Subject: "Gynäkologie",
+        Chapter: "Endometriumkarzinom",
+        Length: "1564",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/mQYV9K/article/0O0eIT",
+        Error: 0
+    }, {
+        Day: 54,
+        Importance: 4,
+        Subject: "Gynäkologie",
+        Chapter: "Vulvakarzinom",
+        Length: "1098",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/mQYV9K/article/bO0HIT",
+        Error: 0
+    }, {
+        Day: 55,
+        Importance: 1,
+        Subject: "Gynäkologie",
+        Chapter: "Schwangerschaftsabbruch",
+        Length: "1243",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/5QYi9K/article/Dk01JT",
+        Error: 0
+    }, {
+        Day: 55,
+        Importance: 2,
+        Subject: "Gynäkologie",
+        Chapter: "Sterilität, Infertilität und Impotenz",
+        Length: "1860",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/5QYi9K/article/RM0log",
+        Error: 0
+    }, {
+        Day: 55,
+        Importance: 3,
+        Subject: "Gynäkologie",
+        Chapter: "Nicht-hormonelle Kontrazeption",
+        Length: "870",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/5QYi9K/article/Ck0qJT",
+        Error: 0
+    }, {
+        Day: 55,
+        Importance: 4,
+        Subject: "Gynäkologie",
+        Chapter: "Schwangerschaft",
+        Length: "1890",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/5QYi9K/article/dO0orT",
+        Error: 0
+    }, {
+        Day: 55,
+        Importance: 5,
+        Subject: "Gynäkologie",
+        Chapter: "Vorsorgeuntersuchungen in der Schwangerschaft",
+        Length: "1380",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/5QYi9K/article/RN0lag",
+        Error: 0
+    }, {
+        Day: 55,
+        Importance: 6,
+        Subject: "Gynäkologie",
+        Chapter: "Pränataldiagnostik",
+        Length: "677",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/5QYi9K/article/--0D-i",
+        Error: 0
+    }, {
+        Day: 55,
+        Importance: 7,
+        Subject: "Gynäkologie",
+        Chapter: "Kardiotokografie (CTG)",
+        Length: "896",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/5QYi9K/article/uG0pa3",
+        Error: 0
+    }, {
+        Day: 55,
+        Importance: 8,
+        Subject: "Gynäkologie",
+        Chapter: "Mehrlingsschwangerschaft",
+        Length: "670",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/5QYi9K/article/Yl0nvT",
+        Error: 0
+    }, {
+        Day: 55,
+        Importance: 9,
+        Subject: "Gynäkologie",
+        Chapter: "Extrauteringravidität",
+        Length: "863",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/5QYi9K/article/fO0k7T",
+        Error: 0
+    }, {
+        Day: 55,
+        Importance: 10,
+        Subject: "Gynäkologie",
+        Chapter: "Fruchtwasseranomalien",
+        Length: "710",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/5QYi9K/article/PJ0W8S",
+        Error: 0
+    }, {
+        Day: 56,
+        Importance: 1,
+        Subject: "Gynäkologie",
+        Chapter: "Hypertensive Schwangerschaftserkrankungen",
+        Length: "1561",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/MQYM9K/article/VO0GrT",
+        Error: 0
+    }, {
+        Day: 56,
+        Importance: 2,
+        Subject: "Gynäkologie",
+        Chapter: "HELLP-Syndrom",
+        Length: "582",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/MQYM9K/article/sG0t03",
+        Error: 0
+    }, {
+        Day: 56,
+        Importance: 3,
+        Subject: "Gynäkologie",
+        Chapter: "Blutungen während der Schwangerschaft",
+        Length: "708",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/MQYM9K/article/mM0V6g",
+        Error: 0
+    }, {
+        Day: 56,
+        Importance: 4,
+        Subject: "Gynäkologie",
+        Chapter: "Intra- und postpartale Blutungen",
+        Length: "1249",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/MQYM9K/article/SG0yAh",
+        Error: 0
+    }, {
+        Day: 56,
+        Importance: 5,
+        Subject: "Gynäkologie",
+        Chapter: "Fetale Wachstumsrestriktion",
+        Length: "516",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/MQYM9K/article/al0QvT",
+        Error: 0
+    }, {
+        Day: 56,
+        Importance: 6,
+        Subject: "Gynäkologie",
+        Chapter: "Vorzeitige Plazentalösung",
+        Length: "819",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/MQYM9K/article/UO0b7T",
+        Error: 0
+    }, {
+        Day: 56,
+        Importance: 7,
+        Subject: "Gynäkologie",
+        Chapter: "Placenta praevia",
+        Length: "667",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/MQYM9K/article/oI00dh",
+        Error: 0
+    }, {
+        Day: 56,
+        Importance: 8,
+        Subject: "Gynäkologie",
+        Chapter: "Nabelschnurkomplikationen",
+        Length: "586",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/MQYM9K/article/jJ0_FS",
+        Error: 0
+    }, {
+        Day: 56,
+        Importance: 9,
+        Subject: "Gynäkologie",
+        Chapter: "Trophoblasttumoren",
+        Length: "631",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/MQYM9K/article/2O0T7T",
+        Error: 0
+    }, {
+        Day: 56,
+        Importance: 10,
+        Subject: "Gynäkologie",
+        Chapter: "Geburtsablauf",
+        Length: "955",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/MQYM9K/article/3O0SHT",
+        Error: 0
+    }, {
+        Day: 56,
+        Importance: 11,
+        Subject: "Gynäkologie",
+        Chapter: "Geburtsmechanik",
+        Length: "1873",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/MQYM9K/article/Xl09vT",
+        Error: 0
+    }, {
+        Day: 56,
+        Importance: 12,
+        Subject: "Gynäkologie",
+        Chapter: "Geburtseinleitung",
+        Length: "517",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/MQYM9K/article/0t0eX3",
+        Error: 0
+    }, {
+        Day: 56,
+        Importance: 13,
+        Subject: "Gynäkologie",
+        Chapter: "Operative Geburtshilfe",
+        Length: "735",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/MQYM9K/article/zG0rb3",
+        Error: 0
+    }, {
+        Day: 56,
+        Importance: 14,
+        Subject: "Gynäkologie",
+        Chapter: "Drohende Frühgeburt",
+        Length: "1071",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/MQYM9K/article/gO0F7T",
+        Error: 0
+    }, {
+        Day: 56,
+        Importance: 15,
+        Subject: "Gynäkologie",
+        Chapter: "Abort und intrauteriner Fruchttod",
+        Length: "949",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/MQYM9K/article/MD0MUR",
+        Error: 0
+    }, {
+        Day: 56,
+        Importance: 16,
+        Subject: "Gynäkologie",
+        Chapter: "Uterusruptur",
+        Length: "639",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/MQYM9K/article/RO0lHT",
+        Error: 0
+    }, {
+        Day: 56,
+        Importance: 17,
+        Subject: "Gynäkologie",
+        Chapter: "Wochenbett",
+        Length: "1410",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/MQYM9K/article/iO0JHT",
+        Error: 0
+    }, {
+        Day: 57,
+        Importance: 1,
+        Subject: "Urologie",
+        Chapter: "Apparative Diagnostik in der Urologie",
+        Length: "688",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/c50aQg",
+        Error: 0
+    }, {
+        Day: 57,
+        Importance: 2,
+        Subject: "Urologie",
+        Chapter: "Kongenitale Anomalien der Nieren und ableitenden Harnwege",
+        Length: "796",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/Oi0I7f",
+        Error: 0
+    }, {
+        Day: 57,
+        Importance: 3,
+        Subject: "Urologie",
+        Chapter: "Polyzystische Nierenerkrankung",
+        Length: "1253",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/li0v7f",
+        Error: 0
+    }, {
+        Day: 57,
+        Importance: 4,
+        Subject: "Urologie",
+        Chapter: "Blasenekstrophie, Fehlanlagen der männlichen Harnröhre und Palmure",
+        Length: "489",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/Mi0MHf",
+        Error: 0
+    }, {
+        Day: 57,
+        Importance: 5,
+        Subject: "Urologie",
+        Chapter: "Balanitis und Balanoposthitis",
+        Length: "398",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/oi00sf",
+        Error: 0
+    }, {
+        Day: 57,
+        Importance: 6,
+        Subject: "Urologie",
+        Chapter: "Phimose",
+        Length: "480",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/_J059S",
+        Error: 0
+    }, {
+        Day: 57,
+        Importance: 7,
+        Subject: "Urologie",
+        Chapter: "Hodenhochstand",
+        Length: "579",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/ni07Hf",
+        Error: 0
+    }, {
+        Day: 57,
+        Importance: 8,
+        Subject: "Urologie",
+        Chapter: "Harninkontinenz",
+        Length: "546",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/ZQ0Zuf",
+        Error: 0
+    }, {
+        Day: 57,
+        Importance: 9,
+        Subject: "Urologie",
+        Chapter: "Belastungsinkontinenz",
+        Length: "439",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/Ai0R8f",
+        Error: 0
+    }, {
+        Day: 57,
+        Importance: 10,
+        Subject: "Urologie",
+        Chapter: "Dranginkontinenz",
+        Length: "635",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/yi0d8f",
+        Error: 0
+    }, {
+        Day: 57,
+        Importance: 11,
+        Subject: "Urologie",
+        Chapter: "Harnverhalt",
+        Length: "695",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/Ci0qFf",
+        Error: 0
+    }, {
+        Day: 57,
+        Importance: 12,
+        Subject: "Urologie",
+        Chapter: "Harnabflussstörungen",
+        Length: "1040",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/Ni0-7f",
+        Error: 0
+    }, {
+        Day: 57,
+        Importance: 13,
+        Subject: "Urologie",
+        Chapter: "Vesikoureteraler Reflux",
+        Length: "811",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/-i0D8f",
+        Error: 0
+    }, {
+        Day: 57,
+        Importance: 14,
+        Subject: "Urologie",
+        Chapter: "Morbus Ormond",
+        Length: "298",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/9h0NTf",
+        Error: 0
+    }, {
+        Day: 57,
+        Importance: 15,
+        Subject: "Urologie",
+        Chapter: "Urozystitis",
+        Length: "970",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/7i04Gf",
+        Error: 0
+    }, {
+        Day: 57,
+        Importance: 16,
+        Subject: "Urologie",
+        Chapter: "Urethritis",
+        Length: "285",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/ui0ptf",
+        Error: 0
+    }, {
+        Day: 57,
+        Importance: 17,
+        Subject: "Urologie",
+        Chapter: "Pyelonephritis",
+        Length: "852",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/Hi0KGf",
+        Error: 0
+    }, {
+        Day: 57,
+        Importance: 18,
+        Subject: "Urologie",
+        Chapter: "Perinephritischer Abszess",
+        Length: "301",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/si0tGf",
+        Error: 0
+    }, {
+        Day: 57,
+        Importance: 19,
+        Subject: "Urologie",
+        Chapter: "Prostatitis",
+        Length: "547",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/ti0Xtf",
+        Error: 0
+    }, {
+        Day: 57,
+        Importance: 20,
+        Subject: "Urologie",
+        Chapter: "Epididymitis und Orchitis",
+        Length: "456",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/Fi0gtf",
+        Error: 0
+    }, {
+        Day: 57,
+        Importance: 21,
+        Subject: "Urologie",
+        Chapter: "Hydrocele testis, Varikozele und Spermatozele",
+        Length: "493",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/AJ0R9S",
+        Error: 0
+    }, {
+        Day: 57,
+        Importance: 22,
+        Subject: "Urologie",
+        Chapter: "Skrotalabszess",
+        Length: "169",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/nQY79K/article/vi0Atf",
+        Error: 0
+    }, {
+        Day: 58,
+        Importance: 1,
+        Subject: "Urologie",
+        Chapter: "Nierenzellkarzinom",
+        Length: "1173",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/LQYw9K/article/Ki0Usf",
+        Error: 0
+    }, {
+        Day: 58,
+        Importance: 2,
+        Subject: "Urologie",
+        Chapter: "Benignes Prostatasyndrom",
+        Length: "1175",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/LQYw9K/article/AQ0RAf",
+        Error: 0
+    }, {
+        Day: 58,
+        Importance: 3,
+        Subject: "Urologie",
+        Chapter: "Prostatakarzinom",
+        Length: "1007",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/LQYw9K/article/Ji0ssf",
+        Error: 0
+    }, {
+        Day: 58,
+        Importance: 4,
+        Subject: "Urologie",
+        Chapter: "Urothelkarzinom",
+        Length: "1288",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/LQYw9K/article/6i0jsf",
+        Error: 0
+    }, {
+        Day: 58,
+        Importance: 5,
+        Subject: "Urologie",
+        Chapter: "Maligne Hodentumoren",
+        Length: "932",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/LQYw9K/article/Ii0YGf",
+        Error: 0
+    }, {
+        Day: 58,
+        Importance: 6,
+        Subject: "Urologie",
+        Chapter: "Peniskarzinom",
+        Length: "712",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/LQYw9K/article/ri0fGf",
+        Error: 0
+    }, {
+        Day: 58,
+        Importance: 7,
+        Subject: "Urologie",
+        Chapter: "Urolithiasis",
+        Length: "1524",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/LQYw9K/article/qg0Cw2",
+        Error: 0
+    }, {
+        Day: 58,
+        Importance: 8,
+        Subject: "Urologie",
+        Chapter: "Traumatische Verletzungen der Niere und der ableitenden Harnwege",
+        Length: "447",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/LQYw9K/article/9i0NFf",
+        Error: 0
+    }, {
+        Day: 58,
+        Importance: 9,
+        Subject: "Urologie",
+        Chapter: "Hodentorsion",
+        Length: "629",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/LQYw9K/article/Li0wHf",
+        Error: 0
+    }, {
+        Day: 58,
+        Importance: 10,
+        Subject: "Urologie",
+        Chapter: "Priapismus",
+        Length: "446",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/LQYw9K/article/xi0EFf",
+        Error: 0
+    }, {
+        Day: 58,
+        Importance: 11,
+        Subject: "Urologie",
+        Chapter: "Penisruptur",
+        Length: "261",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/LQYw9K/article/Bi0zFf",
+        Error: 0
+    }, {
+        Day: 58,
+        Importance: 12,
+        Subject: "Urologie",
+        Chapter: "Sexuelle Funktionsstörungen",
+        Length: "695",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/LQYw9K/article/uM0pqg",
+        Error: 0
+    }, {
+        Day: 58,
+        Importance: 13,
+        Subject: "Urologie",
+        Chapter: "Spermiogramm",
+        Length: "382",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/LQYw9K/article/_i058f",
+        Error: 0
+    }, {
+        Day: 59,
+        Importance: 1,
+        Subject: "HNO",
+        Chapter: "Audiometrische Verfahren in der HNO",
+        Length: "2082",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/oQY0CK/article/NN0-Yg",
+        Error: 0
+    }, {
+        Day: 59,
+        Importance: 2,
+        Subject: "HNO",
+        Chapter: "Othämatom und Otserom",
+        Length: "207",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/oQY0CK/article/qj0CYT",
+        Error: 0
+    }, {
+        Day: 59,
+        Importance: 3,
+        Subject: "HNO",
+        Chapter: "Otitis externa",
+        Length: "519",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/oQY0CK/article/mj0VaT",
+        Error: 0
+    }, {
+        Day: 59,
+        Importance: 4,
+        Subject: "HNO",
+        Chapter: "Akute Otitis media",
+        Length: "516",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/oQY0CK/article/Mj0MaT",
+        Error: 0
+    }, {
+        Day: 59,
+        Importance: 5,
+        Subject: "HNO",
+        Chapter: "Mastoiditis und Labyrinthitis",
+        Length: "761",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/oQY0CK/article/zJ0r9S",
+        Error: 0
+    }, {
+        Day: 59,
+        Importance: 6,
+        Subject: "HNO",
+        Chapter: "Tubenfunktionsstörungen",
+        Length: "775",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/oQY0CK/article/5j0iaT",
+        Error: 0
+    }, {
+        Day: 59,
+        Importance: 7,
+        Subject: "HNO",
+        Chapter: "Otosklerose",
+        Length: "356",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/oQY0CK/article/Kj0UYT",
+        Error: 0
+    }, {
+        Day: 59,
+        Importance: 8,
+        Subject: "HNO",
+        Chapter: "Chronische Otitis media",
+        Length: "1044",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/oQY0CK/article/Lj0waT",
+        Error: 0
+    }, {
+        Day: 59,
+        Importance: 9,
+        Subject: "HNO",
+        Chapter: "Glomustumor",
+        Length: "301",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/oQY0CK/article/oj00YT",
+        Error: 0
+    }, {
+        Day: 59,
+        Importance: 10,
+        Subject: "HNO",
+        Chapter: "Hörsturz",
+        Length: "591",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/oQY0CK/article/6j0jYT",
+        Error: 0
+    }, {
+        Day: 59,
+        Importance: 11,
+        Subject: "HNO",
+        Chapter: "Akustisches Trauma",
+        Length: "706",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/oQY0CK/article/Jj0sYT",
+        Error: 0
+    }, {
+        Day: 59,
+        Importance: 12,
+        Subject: "HNO",
+        Chapter: "Tinnitus",
+        Length: "751",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/oQY0CK/article/wn0hvg",
+        Error: 0
+    }, {
+        Day: 59,
+        Importance: 13,
+        Subject: "HNO",
+        Chapter: "Peripherer paroxysmaler Lagerungsschwindel",
+        Length: "739",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/oQY0CK/article/Ti06If",
+        Error: 0
+    }, {
+        Day: 59,
+        Importance: 14,
+        Subject: "HNO",
+        Chapter: "Morbus Menière",
+        Length: "776",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/oQY0CK/article/gi0FIf",
+        Error: 0
+    }, {
+        Day: 59,
+        Importance: 15,
+        Subject: "HNO",
+        Chapter: "Neuropathia vestibularis",
+        Length: "672",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/oQY0CK/article/Si0yIf",
+        Error: 0
+    }, {
+        Day: 59,
+        Importance: 16,
+        Subject: "HNO",
+        Chapter: "Epistaxis",
+        Length: "529",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/oQY0CK/article/Hj0KbT",
+        Error: 0
+    }, {
+        Day: 59,
+        Importance: 17,
+        Subject: "HNO",
+        Chapter: "Tumoren der Nasenhaupthöhle und Nasennebenhöhlen",
+        Length: "555",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/oQY0CK/article/d50oQg",
+        Error: 0
+    }, {
+        Day: 59,
+        Importance: 18,
+        Subject: "HNO",
+        Chapter: "Sinusitis",
+        Length: "1314",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/oQY0CK/article/sj0tbT",
+        Error: 0
+    }, {
+        Day: 59,
+        Importance: 19,
+        Subject: "HNO",
+        Chapter: "Allergische Rhinitis",
+        Length: "430",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/oQY0CK/article/K-0Uyi",
+        Error: 0
+    }, {
+        Day: 59,
+        Importance: 20,
+        Subject: "HNO",
+        Chapter: "Gesichts- und Felsenbeinfrakturen",
+        Length: "1128",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/oQY0CK/article/8j0OXT",
+        Error: 0
+    }, {
+        Day: 60,
+        Importance: 1,
+        Subject: "HNO",
+        Chapter: "Adenoide Vegetationen",
+        Length: "451",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/KQYUCK/article/Dj01cT",
+        Error: 0
+    }, {
+        Day: 60,
+        Importance: 2,
+        Subject: "HNO",
+        Chapter: "Juveniles Angiofibrom",
+        Length: "315",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/KQYUCK/article/xj0EcT",
+        Error: 0
+    }, {
+        Day: 60,
+        Importance: 3,
+        Subject: "HNO",
+        Chapter: "Zungenveränderungen",
+        Length: "351",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/KQYUCK/article/9j0NcT",
+        Error: 0
+    }, {
+        Day: 60,
+        Importance: 4,
+        Subject: "HNO",
+        Chapter: "Akute bakterielle Tonsillopharyngitis",
+        Length: "1361",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/KQYUCK/article/wj0hcT",
+        Error: 0
+    }, {
+        Day: 60,
+        Importance: 5,
+        Subject: "HNO",
+        Chapter: "Peritonsillar-, Parapharyngeal- und Retropharyngealabszess",
+        Length: "659",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/KQYUCK/article/7M04Jg",
+        Error: 0
+    }, {
+        Day: 60,
+        Importance: 6,
+        Subject: "HNO",
+        Chapter: "Pharynxkarzinom",
+        Length: "1247",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/KQYUCK/article/Cj0qcT",
+        Error: 0
+    }, {
+        Day: 60,
+        Importance: 7,
+        Subject: "HNO",
+        Chapter: "Kehlkopflähmung",
+        Length: "740",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/KQYUCK/article/_j051T",
+        Error: 0
+    }, {
+        Day: 60,
+        Importance: 8,
+        Subject: "HNO",
+        Chapter: "Benigne Tumoren und Präkanzerosen des Larynx",
+        Length: "763",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/KQYUCK/article/zj0r1T",
+        Error: 0
+    }, {
+        Day: 60,
+        Importance: 9,
+        Subject: "HNO",
+        Chapter: "Larynxkarzinom",
+        Length: "855",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/KQYUCK/article/ZP0ZWT",
+        Error: 0
+    }, {
+        Day: 60,
+        Importance: 10,
+        Subject: "HNO",
+        Chapter: "Halszyste und Halsfistel",
+        Length: "570",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/KQYUCK/article/aP0QWT",
+        Error: 0
+    }, {
+        Day: 60,
+        Importance: 11,
+        Subject: "HNO",
+        Chapter: "Kopfspeicheldrüsenerkrankungen",
+        Length: "1236",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/KQYUCK/article/bP0HWT",
+        Error: 0
+    }, {
+        Day: 60,
+        Importance: 12,
+        Subject: "HNO",
+        Chapter: "Sjögren-Syndrom",
+        Length: "620",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/KQYUCK/article/XP09WT",
+        Error: 0
+    }, {
+        Day: 60,
+        Importance: 13,
+        Subject: "HNO",
+        Chapter: "Sprach- und Sprechentwicklungsstörungen",
+        Length: "599",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/KQYUCK/article/WP0PdT",
+        Error: 0
+    }, {
+        Day: 60,
+        Importance: 14,
+        Subject: "HNO",
+        Chapter: "Sammelsurium der HNO",
+        Length: "829",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/KQYUCK/article/a50Qig",
+        Error: 0
+    }, {
+        Day: 61,
+        Importance: 1,
+        Subject: "Augenheilkunde",
+        Chapter: "Untersuchungsmethoden in der Augenheilkunde",
+        Length: "1107",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/6QYjCK/article/aM0QMg",
+        Error: 0
+    }, {
+        Day: 61,
+        Importance: 2,
+        Subject: "Augenheilkunde",
+        Chapter: "Störungen der Lidstellung",
+        Length: "522",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/6QYjCK/article/lO0vsT",
+        Error: 0
+    }, {
+        Day: 61,
+        Importance: 3,
+        Subject: "Augenheilkunde",
+        Chapter: "Entzündungen der Augenlider",
+        Length: "415",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/6QYjCK/article/NO0-sT",
+        Error: 0
+    }, {
+        Day: 61,
+        Importance: 4,
+        Subject: "Augenheilkunde",
+        Chapter: "Erkrankungen des Tränenapparats",
+        Length: "501",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/6QYjCK/article/5O0iGT",
+        Error: 0
+    }, {
+        Day: 61,
+        Importance: 5,
+        Subject: "Augenheilkunde",
+        Chapter: "Infektiöse Konjunktivitis",
+        Length: "515",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/6QYjCK/article/MO0MGT",
+        Error: 0
+    }, {
+        Day: 61,
+        Importance: 6,
+        Subject: "Augenheilkunde",
+        Chapter: "Nicht-infektiöse Konjunktivitis",
+        Length: "513",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/6QYjCK/article/gr0Fgh",
+        Error: 0
+    }, {
+        Day: 61,
+        Importance: 7,
+        Subject: "Augenheilkunde",
+        Chapter: "Allergische Konjunktivitiden",
+        Length: "509",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/6QYjCK/article/Tr06gh",
+        Error: 0
+    }, {
+        Day: 61,
+        Importance: 8,
+        Subject: "Augenheilkunde",
+        Chapter: "Degenerationen, Dystrophien und Tumoren der Konjunktiven",
+        Length: "719",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/6QYjCK/article/nO07GT",
+        Error: 0
+    }, {
+        Day: 61,
+        Importance: 9,
+        Subject: "Augenheilkunde",
+        Chapter: "Erkrankungen der Hornhaut",
+        Length: "816",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/6QYjCK/article/9O0NuT",
+        Error: 0
+    }, {
+        Day: 61,
+        Importance: 10,
+        Subject: "Augenheilkunde",
+        Chapter: "Keratitis",
+        Length: "875",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/6QYjCK/article/oO00tT",
+        Error: 0
+    }, {
+        Day: 61,
+        Importance: 11,
+        Subject: "Augenheilkunde",
+        Chapter: "Entzündungen der Sklera",
+        Length: "316",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/6QYjCK/article/KO0UtT",
+        Error: 0
+    }, {
+        Day: 61,
+        Importance: 12,
+        Subject: "Augenheilkunde",
+        Chapter: "Erkrankungen der Linse",
+        Length: "325",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/6QYjCK/article/6O0jtT",
+        Error: 0
+    }, {
+        Day: 61,
+        Importance: 13,
+        Subject: "Augenheilkunde",
+        Chapter: "Katarakt",
+        Length: "999",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/6QYjCK/article/pO0LtT",
+        Error: 0
+    }, {
+        Day: 61,
+        Importance: 14,
+        Subject: "Augenheilkunde",
+        Chapter: "Erkrankungen der Uvea",
+        Length: "1021",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/6QYjCK/article/JO0stT",
+        Error: 0
+    }, {
+        Day: 61,
+        Importance: 15,
+        Subject: "Augenheilkunde",
+        Chapter: "Aderhautmelanom",
+        Length: "428",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/6QYjCK/article/NM0-Kg",
+        Error: 0
+    }, {
+        Day: 62,
+        Importance: 1,
+        Subject: "Augenheilkunde",
+        Chapter: "Pupillenstörungen",
+        Length: "464",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/pQYLCK/article/qO0CtT",
+        Error: 0
+    }, {
+        Day: 62,
+        Importance: 2,
+        Subject: "Augenheilkunde",
+        Chapter: "Sehstörungen",
+        Length: "603",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/pQYLCK/article/jM0_og",
+        Error: 0
+    }, {
+        Day: 62,
+        Importance: 3,
+        Subject: "Augenheilkunde",
+        Chapter: "Erkrankungen des Glaskörpers",
+        Length: "779",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/pQYLCK/article/rO0fFT",
+        Error: 0
+    }, {
+        Day: 62,
+        Importance: 4,
+        Subject: "Augenheilkunde",
+        Chapter: "Endophthalmitis",
+        Length: "315",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/pQYLCK/article/4M03Kg",
+        Error: 0
+    }, {
+        Day: 62,
+        Importance: 5,
+        Subject: "Augenheilkunde",
+        Chapter: "Glaukom",
+        Length: "1606",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/pQYLCK/article/IO0YFT",
+        Error: 0
+    }, {
+        Day: 62,
+        Importance: 6,
+        Subject: "Augenheilkunde",
+        Chapter: "Erkrankungen der Netzhaut",
+        Length: "1415",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/pQYLCK/article/sO0tFT",
+        Error: 0
+    }, {
+        Day: 62,
+        Importance: 7,
+        Subject: "Augenheilkunde",
+        Chapter: "Retinale Gefäßverschlüsse",
+        Length: "748",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/pQYLCK/article/HO0KFT",
+        Error: 0
+    }, {
+        Day: 62,
+        Importance: 8,
+        Subject: "Augenheilkunde",
+        Chapter: "Netzhautablösung",
+        Length: "559",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/pQYLCK/article/tO0X8T",
+        Error: 0
+    }, {
+        Day: 62,
+        Importance: 9,
+        Subject: "Augenheilkunde",
+        Chapter: "Altersbedingte Makuladegeneration",
+        Length: "956",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/pQYLCK/article/GO0BFT",
+        Error: 0
+    }, {
+        Day: 62,
+        Importance: 10,
+        Subject: "Augenheilkunde",
+        Chapter: "Störungen der Sehbahn",
+        Length: "957",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/pQYLCK/article/FO0g8T",
+        Error: 0
+    }, {
+        Day: 62,
+        Importance: 11,
+        Subject: "Augenheilkunde",
+        Chapter: "Erkrankungen der Augenhöhle",
+        Length: "635",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/pQYLCK/article/G50Blg",
+        Error: 0
+    }, {
+        Day: 62,
+        Importance: 12,
+        Subject: "Augenheilkunde",
+        Chapter: "Horner-Syndrom",
+        Length: "327",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/pQYLCK/article/Ui0bIf",
+        Error: 0
+    }, {
+        Day: 62,
+        Importance: 13,
+        Subject: "Augenheilkunde",
+        Chapter: "Störungen der Optik",
+        Length: "1082",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/pQYLCK/article/8O0O8T",
+        Error: 0
+    }, {
+        Day: 62,
+        Importance: 14,
+        Subject: "Augenheilkunde",
+        Chapter: "Störungen der Bulbusmotilität und Strabismus",
+        Length: "706",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/pQYLCK/article/uO0p8T",
+        Error: 0
+    }, {
+        Day: 62,
+        Importance: 15,
+        Subject: "Augenheilkunde",
+        Chapter: "Traumatische Augenverletzungen",
+        Length: "847",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/pQYLCK/article/EO088T",
+        Error: 0
+    }, {Day: 63,
+        Importance: 1,
+        Subject: "Neurologie",
+        Chapter: "Neurologische Untersuchung",
+        Length: "8478",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/JQYsCK/article/o500Og",
+        Error: 0
+    }, {
+        Day: 63,
+        Importance: 2,
+        Subject: "Neurologie",
+        Chapter: "Tremor",
+        Length: "461",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/JQYsCK/article/x30Ekf",
+        Error: 0
+    }, {
+        Day: 63,
+        Importance: 3,
+        Subject: "Neurologie",
+        Chapter: "Parkinson-Syndrom und Parkinson-Krankheit",
+        Length: "2375",
+        Imppact: 2,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/JQYsCK/article/C30qkf",
+        Error: 0
+    }, {
+        Day: 63,
+        Importance: 4,
+        Subject: "Neurologie",
+        Chapter: "Atypische Parkinson-Syndrome",
+        Length: "688",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/JQYsCK/article/B30zkf",
+        Error: 0
+    }, {
+        Day: 63,
+        Importance: 5,
+        Subject: "Neurologie",
+        Chapter: "Normaldruckhydrozephalus",
+        Length: "552",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/IQYYxK/article/E3084f",
+        Error: 0
+    }, {
+        Day: 63,
+        Importance: 6,
+        Subject: "Neurologie",
+        Chapter: "Huntington-Erkrankung",
+        Length: "735",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/JQYsCK/article/y30dOf",
+        Error: 0
+    }, {
+        Day: 63,
+        Importance: 7,
+        Subject: "Neurologie",
+        Chapter: "Restless-Legs-Syndrom",
+        Length: "611",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/JQYsCK/article/z30rOf",
+        Error: 0
+    }, {
+        Day: 63,
+        Importance: 8,
+        Subject: "Neurologie",
+        Chapter: "Grundlagen der Kleinhirnerkrankungen",
+        Length: "501",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/JQYsCK/article/BR0z6f",
+        Error: 0
+    }, {
+        Day: 63,
+        Importance: 9,
+        Subject: "Neurologie",
+        Chapter: "Friedreich-Ataxie",
+        Length: "511",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/HQYKxK/article/KR0ULf",
+        Error: 0
+    }, {
+        Day: 64,
+        Importance: 1,
+        Subject: "Neurologie",
+        Chapter: "Epileptische Anfälle",
+        Length: "1615",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/qQYCCK/article/RR0l5f",
+        Error: 0
+    }, {
+        Day: 64,
+        Importance: 2,
+        Subject: "Neurologie",
+        Chapter: "Status epilepticus",
+        Length: "599",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/qQYCCK/article/FG0ga3",
+        Error: 0
+    }, {
+        Day: 64,
+        Importance: 3,
+        Subject: "Neurologie",
+        Chapter: "Epilepsien und Epilepsiesyndrome",
+        Length: "1230",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/qQYCCK/article/jR0_5f",
+        Error: 0
+    }, {
+        Day: 64,
+        Importance: 4,
+        Subject: "Neurologie",
+        Chapter: "Transiente globale Amnesie",
+        Length: "321",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/qQYCCK/article/4R03Mf",
+        Error: 0
+    }, {
+        Day: 64,
+        Importance: 5,
+        Subject: "Neurologie",
+        Chapter: "Narkolepsie",
+        Length: "897",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/qQYCCK/article/kR0mMf",
+        Error: 0
+    }, {
+        Day: 64,
+        Importance: 6,
+        Subject: "Neurologie",
+        Chapter: "Vigilanzminderung",
+        Length: "1138",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/qQYCCK/article/eR0xNf",
+        Error: 0
+    }, {
+        Day: 64,
+        Importance: 7,
+        Subject: "Neurologie",
+        Chapter: "Irreversibler Hirnfunktionsausfall",
+        Length: "702",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/qQYCCK/article/KI0Udh",
+        Error: 0
+    }, {
+        Day: 64,
+        Importance: 8,
+        Subject: "Neurologie",
+        Chapter: "Syndrome mit anhaltender minimaler Interaktionsfähigkeit",
+        Length: "333",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/IQYYxK/article/bi0HJf",
+        Error: 0
+    }, {
+        Day: 64,
+        Importance: 9,
+        Subject: "Neurologie",
+        Chapter: "Intrakranielle Druckerhöhung",
+        Length: "1412",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/qQYCCK/article/r70fMh",
+        Error: 0
+    }, {
+        Day: 64,
+        Importance: 10,
+        Subject: "Neurologie",
+        Chapter: "Schädel-Hirn-Trauma",
+        Length: "819",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/qQYCCK/article/l70vNh",
+        Error: 0
+    }, {
+        Day: 65,
+        Importance: 1,
+        Subject: "Neurologie",
+        Chapter: "Intrazerebrale Blutung",
+        Length: "1212",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/7QY4xK/article/fR0kmf",
+        Error: 0
+    }, {
+        Day: 65,
+        Importance: 2,
+        Subject: "Neurologie",
+        Chapter: "Epidurales Hämatom",
+        Length: "559",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/qQYCCK/article/VR0GNf",
+        Error: 0
+    }, {
+        Day: 65,
+        Importance: 3,
+        Subject: "Neurologie",
+        Chapter: "Subdurales Hämatom",
+        Length: "713",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/qQYCCK/article/dR0oNf",
+        Error: 0
+    }, {
+        Day: 65,
+        Importance: 4,
+        Subject: "Neurologie",
+        Chapter: "Subarachnoidalblutung",
+        Length: "1653",
+        Imppact: 2,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/qQYCCK/article/2R0Tmf",
+        Error: 0
+    }, {
+        Day: 65,
+        Importance: 5,
+        Subject: "Neurologie",
+        Chapter: "Ischämischer Schlaganfall",
+        Length: "3536",
+        Imppact: 5,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/7QY4xK/article/UR0bmf",
+        Error: 0
+    }, {
+        Day: 65,
+        Importance: 6,
+        Subject: "Neurologie",
+        Chapter: "Karotis- und Vertebralisdissektion",
+        Length: "631",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/7QY4xK/article/Pi0W7f",
+        Error: 0
+    }, {
+        Day: 65,
+        Importance: 7,
+        Subject: "Neurologie",
+        Chapter: "Zerebrale Sinus- und Venenthrombose",
+        Length: "799",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/7QY4xK/article/SR0ymf",
+        Error: 0
+    }, {
+        Day: 65,
+        Importance: 8,
+        Subject: "Neurologie",
+        Chapter: "Carotis-Sinus-cavernosus-Fistel",
+        Length: "285",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/7QY4xK/article/2i0TIf",
+        Error: 0
+    }, {
+        Day: 66,
+        Importance: 1,
+        Subject: "Neurologie",
+        Chapter: "Kopfschmerzen",
+        Length: "1318",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/7QY4xK/article/YL0nwg",
+        Error: 0
+    }, {
+        Day: 66,
+        Importance: 2,
+        Subject: "Neurologie",
+        Chapter: "Migräne",
+        Length: "1503",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/7QY4xK/article/hi0crf",
+        Error: 0
+    }, {
+        Day: 66,
+        Importance: 3,
+        Subject: "Neurologie",
+        Chapter: "Kopfschmerz vom Spannungstyp",
+        Length: "437",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/7QY4xK/article/3i0Srf",
+        Error: 0
+    }, {
+        Day: 66,
+        Importance: 4,
+        Subject: "Neurologie",
+        Chapter: "Cluster-Kopfschmerz",
+        Length: "480",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/7QY4xK/article/Ri0lrf",
+        Error: 0
+    }, {
+        Day: 66,
+        Importance: 5,
+        Subject: "Neurologie",
+        Chapter: "Trigeminusneuralgie",
+        Length: "617",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/7QY4xK/article/ii0Jrf",
+        Error: 0
+    }, {
+        Day: 66,
+        Importance: 6,
+        Subject: "Neurologie",
+        Chapter: "Kopfschmerz bei Medikamentenübergebrauch",
+        Length: "347",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/7QY4xK/article/dq0oxS",
+        Error: 0
+    }, {
+        Day: 66,
+        Importance: 7,
+        Subject: "Neurologie",
+        Chapter: "Idiopathische intrakranielle Hypertension",
+        Length: "501",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/IQYYxK/article/u30p4f",
+        Error: 0
+    }, {
+        Day: 66,
+        Importance: 8,
+        Subject: "Neurologie",
+        Chapter: "Meningitis",
+        Length: "2466",
+        Imppact: 4,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/rQYfxK/article/ZR0Zlf",
+        Error: 0
+    }, {
+        Day: 66,
+        Importance: 9,
+        Subject: "Neurologie",
+        Chapter: "Liquorpunktion",
+        Length: "1120",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/JQYsCK/article/-l0DzT",
+        Error: 0
+    }, {
+        Day: 66,
+        Importance: 10,
+        Subject: "Neurologie",
+        Chapter: "FSME-Virus-Infektion",
+        Length: "552",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/rQYfxK/article/Sr0ygh",
+        Error: 0
+    }, {
+        Day: 66,
+        Importance: 11,
+        Subject: "Neurologie",
+        Chapter: "Herpes-simplex-Enzephalitis",
+        Length: "989",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/rQYfxK/article/YR0nlf",
+        Error: 0
+    }, {
+        Day: 66,
+        Importance: 12,
+        Subject: "Neurologie",
+        Chapter: "Hirnabszess",
+        Length: "519",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/rQYfxK/article/1R02Nf",
+        Error: 0
+    }, {
+        Day: 66,
+        Importance: 13,
+        Subject: "Neurologie",
+        Chapter: "Creutzfeldt-Jakob-Krankheit",
+        Length: "503",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/rQYfxK/article/cR0aNf",
+        Error: 0
+    }, {
+        Day: 67,
+        Importance: 1,
+        Subject: "Neurologie",
+        Chapter: "Multiple Sklerose",
+        Length: "2308",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/HQYKxK/article/WR0PNf",
+        Error: 0
+    }, {
+        Day: 67,
+        Importance: 2,
+        Subject: "Neurologie",
+        Chapter: "Neuromyelitis-optica-Spektrum-Erkrankungen",
+        Length: "408",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/HQYKxK/article/OI0I1h",
+        Error: 0
+    }, {
+        Day: 67,
+        Importance: 3,
+        Subject: "Neurologie",
+        Chapter: "Amyotrophe Lateralsklerose",
+        Length: "1343",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/HQYKxK/article/LR0wnf",
+        Error: 0
+    }, {
+        Day: 67,
+        Importance: 4,
+        Subject: "Neurologie",
+        Chapter: "Spinale Muskelatrophien",
+        Length: "498",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/HQYKxK/article/MR0Mnf",
+        Error: 0
+    }, {
+        Day: 67,
+        Importance: 5,
+        Subject: "Neurologie",
+        Chapter: "Myasthenia gravis",
+        Length: "1388",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/HQYKxK/article/DR016f",
+        Error: 0
+    }, {
+        Day: 67,
+        Importance: 6,
+        Subject: "Neurologie",
+        Chapter: "Myotone Dystrophien und nicht-dystrophe Myotonien",
+        Length: "1110",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/HQYKxK/article/uR0pKf",
+        Error: 0
+    }, {
+        Day: 67,
+        Importance: 7,
+        Subject: "Neurologie",
+        Chapter: "Progressive Muskeldystrophien",
+        Length: "905",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/HQYKxK/article/8R0OKf",
+        Error: 0
+    }, {
+        Day: 67,
+        Importance: 8,
+        Subject: "Neurologie",
+        Chapter: "Stiff-Person-Syndrom",
+        Length: "337",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/HQYKxK/article/wR0h6f",
+        Error: 0
+    }, {
+        Day: 67,
+        Importance: 9,
+        Subject: "Neurologie",
+        Chapter: "Dystonie",
+        Length: "399",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/HQYKxK/article/A30ROf",
+        Error: 0
+    }, {
+        Day: 67,
+        Importance: 10,
+        Subject: "Neurologie",
+        Chapter: "Hereditäre spastische Paraplegie",
+        Length: "212",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/HQYKxK/article/oR00Lf",
+        Error: 0
+    }, {
+        Day: 68,
+        Importance: 1,
+        Subject: "Neurologie",
+        Chapter: "Tumoren des zentralen Nervensystems",
+        Length: "1026",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/rQYfxK/article/H50Klg",
+        Error: 0
+    }, {
+        Day: 68,
+        Importance: 2,
+        Subject: "Neurologie",
+        Chapter: "Gliome",
+        Length: "870",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/rQYfxK/article/7504lg",
+        Error: 0
+    }, {
+        Day: 68,
+        Importance: 3,
+        Subject: "Neurologie",
+        Chapter: "Meningeom",
+        Length: "541",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/rQYfxK/article/I30YPf",
+        Error: 0
+    }, {
+        Day: 68,
+        Importance: 4,
+        Subject: "Neurologie",
+        Chapter: "Vestibularisschwannom und andere Neurinome",
+        Length: "754",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/rQYfxK/article/H30KPf",
+        Error: 0
+    }, {
+        Day: 68,
+        Importance: 5,
+        Subject: "Neurologie",
+        Chapter: "Meningeosis neoplastica",
+        Length: "306",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/rQYfxK/article/XR09lf",
+        Error: 0
+    }, {
+        Day: 68,
+        Importance: 6,
+        Subject: "Neurologie",
+        Chapter: "Hirnnerven-Syndrome",
+        Length: "1263",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/IQYYxK/article/tR0XKf",
+        Error: 0
+    }, {
+        Day: 68,
+        Importance: 7,
+        Subject: "Neurologie",
+        Chapter: "Periphere Fazialisparese",
+        Length: "954",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/sQYtxK/article/FR0gKf",
+        Error: 0
+    }, {
+        Day: 68,
+        Importance: 8,
+        Subject: "Neurologie",
+        Chapter: "Syndrome der Schädelbasis",
+        Length: "751",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/IQYYxK/article/P50W4g",
+        Error: 0
+    }, {
+        Day: 68,
+        Importance: 9,
+        Subject: "Neurologie",
+        Chapter: "Komplettes Querschnittsyndrom",
+        Length: "402",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/IQYYxK/article/Wi0Pqf",
+        Error: 0
+    }, {
+        Day: 68,
+        Importance: 10,
+        Subject: "Neurologie",
+        Chapter: "Inkomplette Querschnittsyndrome",
+        Length: "509",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/IQYYxK/article/NR0-Mf",
+        Error: 0
+    }, {
+        Day: 68,
+        Importance: 11,
+        Subject: "Neurologie",
+        Chapter: "Arteria-spinalis-anterior-Syndrom",
+        Length: "386",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/IQYYxK/article/5R0inf",
+        Error: 0
+    }, {
+        Day: 68,
+        Importance: 12,
+        Subject: "Neurologie",
+        Chapter: "Zervikale Myelopathie",
+        Length: "365",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/sQYtxK/article/X509ig",
+        Error: 0
+    }, {
+        Day: 68,
+        Importance: 13,
+        Subject: "Neurologie",
+        Chapter: "Degenerative Spinalkanalstenose",
+        Length: "509",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/sQYtxK/article/JR0sLf",
+        Error: 0
+    }, {
+        Day: 69,
+        Importance: 1,
+        Subject: "Neurologie",
+        Chapter: "Neurophysiologische Diagnostik",
+        Length: "831",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/JQYsCK/article/Cn0qvg",
+        Error: 0
+    }, {
+        Day: 69,
+        Importance: 2,
+        Subject: "Neurologie",
+        Chapter: "Periphere Nervenläsionen",
+        Length: "1056",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/sQYtxK/article/Zi0ZJf",
+        Error: 0
+    }, {
+        Day: 69,
+        Importance: 3,
+        Subject: "Neurologie",
+        Chapter: "Läsion des N. radialis",
+        Length: "504",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/sQYtxK/article/_R05pf",
+        Error: 0
+    }, {
+        Day: 69,
+        Importance: 4,
+        Subject: "Neurologie",
+        Chapter: "Läsion des N. ulnaris",
+        Length: "771",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/sQYtxK/article/AR0Rpf",
+        Error: 0
+    }, {
+        Day: 69,
+        Importance: 5,
+        Subject: "Neurologie",
+        Chapter: "Läsion des N. medianus",
+        Length: "619",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/sQYtxK/article/zR0rpf",
+        Error: 0
+    }, {
+        Day: 69,
+        Importance: 6,
+        Subject: "Neurologie",
+        Chapter: "Neuralgische Amyotrophie",
+        Length: "219",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/sQYtxK/article/0i0eJf",
+        Error: 0
+    }, {
+        Day: 69,
+        Importance: 7,
+        Subject: "Neurologie",
+        Chapter: "Polyneuropathie",
+        Length: "2327",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/sQYtxK/article/qR0CLf",
+        Error: 0
+    }, {
+        Day: 69,
+        Importance: 8,
+        Subject: "Neurologie",
+        Chapter: "Guillain-Barré-Syndrom",
+        Length: "1344",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/sQYtxK/article/7R04of",
+        Error: 0
+    }, {
+        Day: 69,
+        Importance: 9,
+        Subject: "Neurologie",
+        Chapter: "Vitamin-B12-Mangel",
+        Length: "1037",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/sQYtxK/article/6R0jLf",
+        Error: 0
+    }, {
+        Day: 70,
+        Importance: 1,
+        Subject: "Psychiatrie",
+        Chapter: "Psychopathologischer Befund",
+        Length: "2061",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/GQYBxK/article/pM0Lpg",
+        Error: 0
+    }, {
+        Day: 70,
+        Importance: 2,
+        Subject: "Psychiatrie",
+        Chapter: "Psychotherapeutische Verfahren (Klinik)",
+        Length: "2238",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/GQYBxK/article/PN0WYg",
+        Error: 0
+    }, {
+        Day: 70,
+        Importance: 3,
+        Subject: "Psychiatrie",
+        Chapter: "Delir",
+        Length: "1581",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/GQYBxK/article/6P0jfT",
+        Error: 0
+    }, {
+        Day: 70,
+        Importance: 4,
+        Subject: "Psychiatrie",
+        Chapter: "Demenzen",
+        Length: "1598",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/GQYBxK/article/v30A4f",
+        Error: 0
+    }, {
+        Day: 70,
+        Importance: 5,
+        Subject: "Psychiatrie",
+        Chapter: "Alzheimer-Krankheit",
+        Length: "701",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/GQYBxK/article/D301kf",
+        Error: 0
+    }, {
+        Day: 70,
+        Importance: 6,
+        Subject: "Psychiatrie",
+        Chapter: "Frontotemporale Demenz",
+        Length: "535",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/GQYBxK/article/w30hkf",
+        Error: 0
+    }, {
+        Day: 70,
+        Importance: 7,
+        Subject: "Psychiatrie",
+        Chapter: "Vaskuläre Demenz",
+        Length: "463",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/GQYBxK/article/930Nkf",
+        Error: 0
+    }, {
+        Day: 70,
+        Importance: 8,
+        Subject: "Psychiatrie",
+        Chapter: "Somatoforme Störungen",
+        Length: "593",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/GQYBxK/article/MP0M2T",
+        Error: 0
+    }, {
+        Day: 70,
+        Importance: 9,
+        Subject: "Psychiatrie",
+        Chapter: "Unipolare Depression",
+        Length: "1584",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/GQYBxK/article/PP0WUT",
+        Error: 0
+    }, {
+        Day: 70,
+        Importance: 10,
+        Subject: "Psychiatrie",
+        Chapter: "Bipolare affektive Störung",
+        Length: "1489",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/GQYBxK/article/4P03UT",
+        Error: 0
+    }, {
+        Day: 70,
+        Importance: 11,
+        Subject: "Psychiatrie",
+        Chapter: "Neuromodulationsverfahren",
+        Length: "428",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/GQYBxK/article/wM0hIg",
+        Error: 0
+    }, {
+        Day: 71,
+        Importance: 1,
+        Subject: "Psychiatrie",
+        Chapter: "Zwangsstörungen",
+        Length: "751",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/tQYXBK/article/OP0IUT",
+        Error: 0
+    }, {
+        Day: 71,
+        Importance: 2,
+        Subject: "Psychiatrie",
+        Chapter: "Reaktionen auf schwere Belastungen und Anpassungsstörungen",
+        Length: "1359",
+        Imppact: 2,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/tQYXBK/article/lP0vUT",
+        Error: 0
+    }, {
+        Day: 71,
+        Importance: 3,
+        Subject: "Psychiatrie",
+        Chapter: "Dissoziative Störungen",
+        Length: "654",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/tQYXBK/article/NP0-UT",
+        Error: 0
+    }, {
+        Day: 71,
+        Importance: 4,
+        Subject: "Psychiatrie",
+        Chapter: "Opioidbezogene Störungen",
+        Length: "635",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/tQYXBK/article/Ar0RPh",
+        Error: 0
+    }, {
+        Day: 71,
+        Importance: 5,
+        Subject: "Psychiatrie",
+        Chapter: "Cannabinoide",
+        Length: "605",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/tQYXBK/article/_r05Ph",
+        Error: 0
+    }, {
+        Day: 71,
+        Importance: 6,
+        Subject: "Psychiatrie",
+        Chapter: "Sedativa (Intoxikation und Abhängigkeit)",
+        Length: "531",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/tQYXBK/article/zr0rPh",
+        Error: 0
+    }, {
+        Day: 71,
+        Importance: 7,
+        Subject: "Psychiatrie",
+        Chapter: "Rauchen und Tabakkonsum",
+        Length: "445",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/tQYXBK/article/Z70Z4h",
+        Error: 0
+    }, {
+        Day: 71,
+        Importance: 8,
+        Subject: "Psychiatrie",
+        Chapter: "Psychostimulanzien",
+        Length: "592",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/tQYXBK/article/-r0DPh",
+        Error: 0
+    }, {
+        Day: 71,
+        Importance: 9,
+        Subject: "Psychiatrie",
+        Chapter: "Alkoholbezogene Störungen",
+        Length: "1975",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/tQYXBK/article/KP0UfT",
+        Error: 0
+    }, {
+        Day: 71,
+        Importance: 10,
+        Subject: "Psychiatrie",
+        Chapter: "Wernicke-Enzephalopathie",
+        Length: "678",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/tQYXBK/article/9R0N6f",
+        Error: 0
+    }, {
+        Day: 71,
+        Importance: 11,
+        Subject: "Psychiatrie",
+        Chapter: "Schizophrenie",
+        Length: "2520",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/tQYXBK/article/pP0LfT",
+        Error: 0
+    }, {
+        Day: 72,
+        Importance: 1,
+        Subject: "Psychiatrie",
+        Chapter: "Persönlichkeitsstörungen",
+        Length: "743",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/FQYgBK/article/nP072T",
+        Error: 0
+    }, {
+        Day: 72,
+        Importance: 2,
+        Subject: "Psychiatrie",
+        Chapter: "Borderline-Persönlichkeitsstörung",
+        Length: "752",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/FQYgBK/article/LP0w2T",
+        Error: 0
+    }, {
+        Day: 72,
+        Importance: 3,
+        Subject: "Psychiatrie",
+        Chapter: "Tiefgreifende Entwicklungsstörungen",
+        Length: "1057",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/FQYgBK/article/IP0YTT",
+        Error: 0
+    }, {
+        Day: 72,
+        Importance: 4,
+        Subject: "Psychiatrie",
+        Chapter: "Tic-Störungen",
+        Length: "595",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/FQYgBK/article/sP0tTT",
+        Error: 0
+    }, {
+        Day: 72,
+        Importance: 5,
+        Subject: "Psychiatrie",
+        Chapter: "Essstörungen",
+        Length: "1462",
+        Imppact: 2,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/FQYgBK/article/GP0BTT",
+        Error: 0
+    }, {
+        Day: 72,
+        Importance: 6,
+        Subject: "Psychiatrie",
+        Chapter: "Angststörungen",
+        Length: "1126",
+        Imppact: 2,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/FQYgBK/article/kP0mUT",
+        Error: 0
+    }, {
+        Day: 72,
+        Importance: 7,
+        Subject: "Psychiatrie",
+        Chapter: "Insomnien",
+        Length: "612",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/FQYgBK/article/t70Xnh",
+        Error: 0
+    }, {
+        Day: 72,
+        Importance: 8,
+        Subject: "Psychiatrie",
+        Chapter: "Parasomnien",
+        Length: "664",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/FQYgBK/article/tP0XgT",
+        Error: 0
+    }, {
+        Day: 73,
+        Importance: 1,
+        Subject: "Psychiatrie",
+        Chapter: "Verhaltens- und emotionale Störungen im Kindes- und Jugendalter",
+        Length: "608",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/8QYOBK/article/_5055g",
+        Error: 0
+    }, {
+        Day: 73,
+        Importance: 2,
+        Subject: "Psychiatrie",
+        Chapter: "Aufmerksamkeitsdefizit-/Hyperaktivitätsstörung",
+        Length: "590",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/8QYOBK/article/rP0fTT",
+        Error: 0
+    }, {
+        Day: 73,
+        Importance: 3,
+        Subject: "Psychiatrie",
+        Chapter: "Geschlechtsinkongruenz",
+        Length: "423",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/8QYOBK/article/DM01Ig",
+        Error: 0
+    }, {
+        Day: 73,
+        Importance: 4,
+        Subject: "Psychiatrie",
+        Chapter: "Paraphile Störungen",
+        Length: "321",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/8QYOBK/article/Xr09fh",
+        Error: 0
+    }, {
+        Day: 73,
+        Importance: 5,
+        Subject: "Psychiatrie",
+        Chapter: "Suizidalität",
+        Length: "2122",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/8QYOBK/article/8P0OgT",
+        Error: 0
+    }, {
+        Day: 73,
+        Importance: 6,
+        Subject: "Psychiatrie",
+        Chapter: "Betreuung und Zwangsmaßnahmen",
+        Length: "1383",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/8QYOBK/article/uP0pgT",
+        Error: 0
+    }, {
+        Day: 74,
+        Importance: 1,
+        Subject: "Pharmakologie",
+        Chapter: "Pharmakologische Grundlagen",
+        Length: "1932",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/uQYpBK/article/7N04cg",
+        Error: 0
+    }, {
+        Day: 74,
+        Importance: 2,
+        Subject: "Pharmakologie",
+        Chapter: "Arzneimittelrezept",
+        Length: "613",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/uQYpBK/article/XM09Mg",
+        Error: 0
+    }, {
+        Day: 74,
+        Importance: 3,
+        Subject: "Pharmakologie",
+        Chapter: "Parasympathomimetika",
+        Length: "446",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/uQYpBK/article/HN0Kcg",
+        Error: 0
+    }, {
+        Day: 74,
+        Importance: 4,
+        Subject: "Pharmakologie",
+        Chapter: "Parasympatholytika",
+        Length: "637",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/uQYpBK/article/sN0tcg",
+        Error: 0
+    }, {
+        Day: 74,
+        Importance: 5,
+        Subject: "Pharmakologie",
+        Chapter: "Anticholinerges Syndrom",
+        Length: "628",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/uQYpBK/article/Yt0nX3",
+        Error: 0
+    }, {
+        Day: 74,
+        Importance: 6,
+        Subject: "Pharmakologie",
+        Chapter: "β2-Sympathomimetika",
+        Length: "290",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/uQYpBK/article/GN0Bcg",
+        Error: 0
+    }, {
+        Day: 74,
+        Importance: 7,
+        Subject: "Pharmakologie",
+        Chapter: "Sympathomimetika",
+        Length: "1050",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/uQYpBK/article/tN0X1g",
+        Error: 0
+    }, {
+        Day: 74,
+        Importance: 8,
+        Subject: "Pharmakologie",
+        Chapter: "Antisympathotonika",
+        Length: "705",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/uQYpBK/article/8N0O1g",
+        Error: 0
+    }, {
+        Day: 74,
+        Importance: 9,
+        Subject: "Pharmakologie",
+        Chapter: "Betablocker",
+        Length: "857",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/uQYpBK/article/uN0p1g",
+        Error: 0
+    }, {
+        Day: 74,
+        Importance: 10,
+        Subject: "Pharmakologie",
+        Chapter: "Calciumantagonisten",
+        Length: "602",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/uQYpBK/article/cm0aeg",
+        Error: 0
+    }, {
+        Day: 74,
+        Importance: 11,
+        Subject: "Pharmakologie",
+        Chapter: "RAAS-Inhibitoren",
+        Length: "778",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/uQYpBK/article/1m02eg",
+        Error: 0
+    }, {
+        Day: 75,
+        Importance: 1,
+        Subject: "Pharmakologie",
+        Chapter: "Amiodaron",
+        Length: "512",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/EQY8BK/article/Xm09Vg",
+        Error: 0
+    }, {
+        Day: 75,
+        Importance: 2,
+        Subject: "Pharmakologie",
+        Chapter: "Nitrate und Molsidomin",
+        Length: "406",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/EQY8BK/article/Wm0Peg",
+        Error: 0
+    }, {
+        Day: 75,
+        Importance: 3,
+        Subject: "Pharmakologie",
+        Chapter: "Phosphodiesterase-Hemmer",
+        Length: "449",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/EQY8BK/article/em0xeg",
+        Error: 0
+    }, {
+        Day: 75,
+        Importance: 4,
+        Subject: "Pharmakologie",
+        Chapter: "Herzglykoside",
+        Length: "664",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/EQY8BK/article/Vm0Geg",
+        Error: 0
+    }, {
+        Day: 75,
+        Importance: 5,
+        Subject: "Pharmakologie",
+        Chapter: "Thrombozytenaggregationshemmer",
+        Length: "996",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/EQY8BK/article/Um0bUg",
+        Error: 0
+    }, {
+        Day: 75,
+        Importance: 6,
+        Subject: "Pharmakologie",
+        Chapter: "Parenterale Antikoagulanzien",
+        Length: "974",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/EQY8BK/article/2m0TUg",
+        Error: 0
+    }, {
+        Day: 75,
+        Importance: 7,
+        Subject: "Pharmakologie",
+        Chapter: "Orale Antikoagulanzien",
+        Length: "1658",
+        Imppact: 2,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/EQY8BK/article/Tm06Ug",
+        Error: 0
+    }, {
+        Day: 75,
+        Importance: 8,
+        Subject: "Pharmakologie",
+        Chapter: "Diuretika",
+        Length: "364",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/EQY8BK/article/gm0FUg",
+        Error: 0
+    }, {
+        Day: 75,
+        Importance: 9,
+        Subject: "Pharmakologie",
+        Chapter: "Thiaziddiuretika",
+        Length: "429",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/EQY8BK/article/Sm0yUg",
+        Error: 0
+    }, {
+        Day: 75,
+        Importance: 10,
+        Subject: "Pharmakologie",
+        Chapter: "Schleifendiuretika",
+        Length: "589",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/EQY8BK/article/hm0c2g",
+        Error: 0
+    }, {
+        Day: 75,
+        Importance: 11,
+        Subject: "Pharmakologie",
+        Chapter: "Kaliumsparende Diuretika",
+        Length: "564",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/EQY8BK/article/3m0S2g",
+        Error: 0
+    }, {
+        Day: 75,
+        Importance: 12,
+        Subject: "Pharmakologie",
+        Chapter: "Überblick über Vergiftungen",
+        Length: "1153",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/EQY8BK/article/Af0RK2",
+        Error: 0
+    }, {
+        Day: 76,
+        Importance: 1,
+        Subject: "Pharmakologie",
+        Chapter: "Antihistaminika",
+        Length: "501",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/vQYABK/article/Pm0Wfg",
+        Error: 0
+    }, {
+        Day: 76,
+        Importance: 2,
+        Subject: "Pharmakologie",
+        Chapter: "Glucocorticoide",
+        Length: "926",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/vQYABK/article/km0mfg",
+        Error: 0
+    }, {
+        Day: 76,
+        Importance: 3,
+        Subject: "Pharmakologie",
+        Chapter: "Protonenpumpenhemmer",
+        Length: "272",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/vQYABK/article/rm0fSg",
+        Error: 0
+    }, {
+        Day: 76,
+        Importance: 4,
+        Subject: "Pharmakologie",
+        Chapter: "Lipidsenker",
+        Length: "1010",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/vQYABK/article/am0QVg",
+        Error: 0
+    }, {
+        Day: 76,
+        Importance: 5,
+        Subject: "Pharmakologie",
+        Chapter: "Antidiabetika",
+        Length: "1393",
+        Imppact: 2,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/vQYABK/article/7m04Sg",
+        Error: 0
+    }, {
+        Day: 76,
+        Importance: 6,
+        Subject: "Pharmakologie",
+        Chapter: "Insuline",
+        Length: "616",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/vQYABK/article/Gm0BSg",
+        Error: 0
+    }, {
+        Day: 76,
+        Importance: 7,
+        Subject: "Pharmakologie",
+        Chapter: "Bisphosphonate und andere antiosteoporotische Medikamente",
+        Length: "575",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/vQYABK/article/tm0Xhg",
+        Error: 0
+    }, {
+        Day: 76,
+        Importance: 8,
+        Subject: "Pharmakologie",
+        Chapter: "Thyreostatika",
+        Length: "402",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/vQYABK/article/Fm0ghg",
+        Error: 0
+    }, {
+        Day: 76,
+        Importance: 9,
+        Subject: "Pharmakologie",
+        Chapter: "Hormonelle Kontrazeption",
+        Length: "1248",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/vQYABK/article/Em08hg",
+        Error: 0
+    }, {
+        Day: 76,
+        Importance: 10,
+        Subject: "Pharmakologie",
+        Chapter: "Pharmakotherapie in der Schwangerschaft",
+        Length: "469",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/vQYABK/article/dm0oeg",
+        Error: 0
+    }, {
+        Day: 77,
+        Importance: 1,
+        Subject: "Pharmakologie",
+        Chapter: "Antipsychotika",
+        Length: "1491",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/DQY1yK/article/AN0Rdg",
+        Error: 0
+    }, {
+        Day: 77,
+        Importance: 2,
+        Subject: "Pharmakologie",
+        Chapter: "Antidepressiva",
+        Length: "1131",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/DQY1yK/article/_N05dg",
+        Error: 0
+    }, {
+        Day: 77,
+        Importance: 3,
+        Subject: "Pharmakologie",
+        Chapter: "Lithium",
+        Length: "855",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/DQY1yK/article/zN0rdg",
+        Error: 0
+    }, {
+        Day: 77,
+        Importance: 4,
+        Subject: "Pharmakologie",
+        Chapter: "Anfallssuppressiva",
+        Length: "676",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/DQY1yK/article/-N0Ddg",
+        Error: 0
+    }, {
+        Day: 77,
+        Importance: 5,
+        Subject: "Pharmakologie",
+        Chapter: "Parkinson-Medikamente",
+        Length: "880",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/DQY1yK/article/Zm0ZVg",
+        Error: 0
+    }, {
+        Day: 78,
+        Importance: 1,
+        Subject: "Pharmakologie",
+        Chapter: "Antibiotika",
+        Length: "2664",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/wQYhyK/article/mm0VTg",
+        Error: 0
+    }, {
+        Day: 78,
+        Importance: 2,
+        Subject: "Pharmakologie",
+        Chapter: "Virostatika",
+        Length: "799",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/wQYhyK/article/pm0Lgg",
+        Error: 0
+    }, {
+        Day: 78,
+        Importance: 3,
+        Subject: "Pharmakologie",
+        Chapter: "Interferontherapie",
+        Length: "356",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/wQYhyK/article/1K022S",
+        Error: 0
+    }, {
+        Day: 78,
+        Importance: 4,
+        Subject: "Pharmakologie",
+        Chapter: "Antimykotika",
+        Length: "583",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/wQYhyK/article/6m0jgg",
+        Error: 0
+    }, {
+        Day: 78,
+        Importance: 5,
+        Subject: "Pharmakologie",
+        Chapter: "Immunsuppressiva",
+        Length: "1954",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/wQYhyK/article/qM0Cpg",
+        Error: 0
+    }, {
+        Day: 78,
+        Importance: 6,
+        Subject: "Pharmakologie",
+        Chapter: "Chloroquin und Hydroxychloroquin",
+        Length: "241",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/wQYhyK/article/8M0Oqg",
+        Error: 0
+    }, {
+        Day: 78,
+        Importance: 7,
+        Subject: "Pharmakologie",
+        Chapter: "Zytostatika",
+        Length: "1559",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/wQYhyK/article/4m03fg",
+        Error: 0
+    }, {
+        Day: 78,
+        Importance: 8,
+        Subject: "Pharmakologie",
+        Chapter: "Medikamente der zielgerichteten Tumortherapie",
+        Length: "1197",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/wQYhyK/article/TE06E3",
+        Error: 0
+    }, {
+        Day: 78,
+        Importance: 9,
+        Subject: "Pharmakologie",
+        Chapter: "Antiemetika",
+        Length: "639",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/wQYhyK/article/qm0Cgg",
+        Error: 0
+    }, {
+        Day: 79,
+        Importance: 1,
+        Subject: "Radiologie",
+        Chapter: "Röntgen",
+        Length: "1265",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/9QYNyK/article/in0JGg",
+        Error: 0
+    }, {
+        Day: 79,
+        Importance: 2,
+        Subject: "Radiologie",
+        Chapter: "Computertomografie",
+        Length: "1064",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/9QYNyK/article/KN0UXg",
+        Error: 0
+    }, {
+        Day: 79,
+        Importance: 3,
+        Subject: "Radiologie",
+        Chapter: "Magnetresonanztomografie",
+        Length: "997",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/9QYNyK/article/pN0LXg",
+        Error: 0
+    }, {
+        Day: 79,
+        Importance: 4,
+        Subject: "Radiologie",
+        Chapter: "Strahlentherapie",
+        Length: "545",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/9QYNyK/article/L50wkg",
+        Error: 0
+    }, {
+        Day: 79,
+        Importance: 5,
+        Subject: "Radiologie",
+        Chapter: "Radioiodtherapie",
+        Length: "362",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/9QYNyK/article/Gl0ByT",
+        Error: 0
+    }, {
+        Day: 79,
+        Importance: 6,
+        Subject: "Radiologie",
+        Chapter: "Schilddrüsenszintigrafie",
+        Length: "550",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/9QYNyK/article/il0J9T",
+        Error: 0
+    }, {
+        Day: 79,
+        Importance: 7,
+        Subject: "Radiologie",
+        Chapter: "Knochenszintigrafie",
+        Length: "373",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/9QYNyK/article/JN0sXg",
+        Error: 0
+    }, {
+        Day: 79,
+        Importance: 8,
+        Subject: "Radiologie",
+        Chapter: "Ösophagusbreischluck und Störungen der Ösophagusmotilität",
+        Length: "330",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/9QYNyK/article/D501mg",
+        Error: 0
+    }, {
+        Day: 79,
+        Importance: 9,
+        Subject: "Radiologie",
+        Chapter: "Tag 79 M2-Lernplan - Wiederholung des Querschnittbereichs Radiologie",
+        Length: "191",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/9QYNyK/article/Bq0z0h",
+        Error: 0
+    }, {
+        Day: 80,
+        Importance: 1,
+        Subject: "Arbeits- und Umweltmedizin",
+        Chapter: "Arbeitsmedizinische Organe und Gesetze",
+        Length: "946",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/CQYqyK/article/wQ0hyf",
+        Error: 0
+    }, {
+        Day: 80,
+        Importance: 2,
+        Subject: "Arbeits- und Umweltmedizin",
+        Chapter: "Verhütung und Früherkennung beruflich bedingter Schäden",
+        Length: "498",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/CQYqyK/article/9Q0Nyf",
+        Error: 0
+    }, {
+        Day: 80,
+        Importance: 3,
+        Subject: "Arbeits- und Umweltmedizin",
+        Chapter: "Anerkennung von Berufskrankheiten",
+        Length: "363",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/CQYqyK/article/yQ0dAf",
+        Error: 0
+    }, {
+        Day: 80,
+        Importance: 4,
+        Subject: "Arbeits- und Umweltmedizin",
+        Chapter: "Messkriterien der Arbeitsplatzbelastung",
+        Length: "430",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/CQYqyK/article/BQ0zyf",
+        Error: 0
+    }, {
+        Day: 80,
+        Importance: 5,
+        Subject: "Arbeits- und Umweltmedizin",
+        Chapter: "Berufskrankheiten durch physikalische Belastungen",
+        Length: "516",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/CQYqyK/article/-Q0DAf",
+        Error: 0
+    }, {
+        Day: 80,
+        Importance: 6,
+        Subject: "Arbeits- und Umweltmedizin",
+        Chapter: "Erkrankungen durch Metalle",
+        Length: "866",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/CQYqyK/article/AQ0RAf",
+        Error: 0
+    }, {
+        Day: 80,
+        Importance: 7,
+        Subject: "Arbeits- und Umweltmedizin",
+        Chapter: "Erkrankungen durch organische Lösungsmittel, Insektizide, Halogenkohlenwasserstoffe, Benzol und Homologe",
+        Length: "961",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/CQYqyK/article/zQ0rAf",
+        Error: 0
+    }, {
+        Day: 80,
+        Importance: 8,
+        Subject: "Arbeits- und Umweltmedizin",
+        Chapter: "Lungenerkrankungen durch Inhalation anorganischer Stäube",
+        Length: "304",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/CQYqyK/article/aj0Q_f",
+        Error: 0
+    }, {
+        Day: 80,
+        Importance: 9,
+        Subject: "Arbeits- und Umweltmedizin",
+        Chapter: "Asbestose und Mesotheliom",
+        Length: "653",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/CQYqyK/article/lh0vVf",
+        Error: 0
+    }, {
+        Day: 80,
+        Importance: 10,
+        Subject: "Arbeits- und Umweltmedizin",
+        Chapter: "Silikose",
+        Length: "509",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/CQYqyK/article/Oh0IVf",
+        Error: 0
+    }, {
+        Day: 80,
+        Importance: 11,
+        Subject: "Arbeits- und Umweltmedizin",
+        Chapter: "Lungenerkrankungen durch Inhalation organischer Stäube",
+        Length: "316",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/CQYqyK/article/Yj0n_f",
+        Error: 0
+    }, {
+        Day: 80,
+        Importance: 12,
+        Subject: "Arbeits- und Umweltmedizin",
+        Chapter: "Erkrankungen durch Einwirkung reizender Gase",
+        Length: "341",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/CQYqyK/article/_Q05Af",
+        Error: 0
+    }, {
+        Day: 80,
+        Importance: 13,
+        Subject: "Arbeits- und Umweltmedizin",
+        Chapter: "Berufserkrankungen der Haut",
+        Length: "365",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/CQYqyK/article/RQ0lDf",
+        Error: 0
+    }, {
+        Day: 80,
+        Importance: 14,
+        Subject: "Arbeits- und Umweltmedizin",
+        Chapter: "Erkrankungen durch chlorierte und polyzyklische aromatische Kohlenwasserstoffe",
+        Length: "287",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/CQYqyK/article/050eig",
+        Error: 0
+    }, {
+        Day: 81,
+        Importance: 1,
+        Subject: "Rechtsmedizin",
+        Chapter: "Ärztliche Rechtskunde",
+        Length: "3545",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/xQYEyK/article/DO01uT",
+        Error: 0
+    }, {
+        Day: 81,
+        Importance: 2,
+        Subject: "Rechtsmedizin",
+        Chapter: "Thanatologie",
+        Length: "1647",
+        Imppact: 2,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/xQYEyK/article/vP0AgT",
+        Error: 0
+    }, {
+        Day: 81,
+        Importance: 3,
+        Subject: "Rechtsmedizin",
+        Chapter: "Verletzungen und Gewalteinwirkung",
+        Length: "836",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/xQYEyK/article/9P0NST",
+        Error: 0
+    }, {
+        Day: 82,
+        Importance: 1,
+        Subject: "Rechtsmedizin",
+        Chapter: "Strangulation und Ersticken",
+        Length: "833",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/BQYzyK/article/BP0zST",
+        Error: 0
+    }, {
+        Day: 82,
+        Importance: 2,
+        Subject: "Rechtsmedizin",
+        Chapter: "Ertrinken",
+        Length: "582",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/BQYzyK/article/AP0RhT",
+        Error: 0
+    }, {
+        Day: 82,
+        Importance: 3,
+        Subject: "Rechtsmedizin",
+        Chapter: "Zeichen thermischer Schädigungen",
+        Length: "683",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/BQYzyK/article/Z40Z3T",
+        Error: 0
+    }, {
+        Day: 82,
+        Importance: 4,
+        Subject: "Rechtsmedizin",
+        Chapter: "Schussverletzungen",
+        Length: "560",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/BQYzyK/article/_P05hT",
+        Error: 0
+    }, {
+        Day: 82,
+        Importance: 5,
+        Subject: "Rechtsmedizin",
+        Chapter: "Spurensicherung",
+        Length: "408",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/BQYzyK/article/zP0rhT",
+        Error: 0
+    }, {
+        Day: 82,
+        Importance: 6,
+        Subject: "Rechtsmedizin",
+        Chapter: "Artifizielle Störungen",
+        Length: "183",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/BQYzyK/article/040e3T",
+        Error: 0
+    }, {
+        Day: 83,
+        Importance: 1,
+        Subject: "Pathologie",
+        Chapter: "Zelluläre Veränderungen und Anpassungsreaktionen",
+        Length: "1162",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/yQYdAK/article/VP0GdT",
+        Error: 0
+    }, {
+        Day: 83,
+        Importance: 2,
+        Subject: "Pathologie",
+        Chapter: "Untersuchungsmethoden in der Pathologie",
+        Length: "1129",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/yQYdAK/article/dP0odT",
+        Error: 0
+    }, {
+        Day: 83,
+        Importance: 3,
+        Subject: "Pathologie",
+        Chapter: "Allgemeine Onkologie",
+        Length: "2181",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/yQYdAK/article/WM0Png",
+        Error: 0
+    }, {
+        Day: 83,
+        Importance: 4,
+        Subject: "Pathologie",
+        Chapter: "Tumormarker",
+        Length: "492",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/yQYdAK/article/ol00BT",
+        Error: 0
+    }, {
+        Day: 83,
+        Importance: 5,
+        Subject: "Pathologie",
+        Chapter: "Neurokutane Syndrome",
+        Length: "679",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/yQYdAK/article/Rk0lnT",
+        Error: 0
+    }, {
+        Day: 83,
+        Importance: 6,
+        Subject: "Pathologie",
+        Chapter: "Paraneoplastische Syndrome",
+        Length: "765",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/yQYdAK/article/lk0vLT",
+        Error: 0
+    }, {
+        Day: 83,
+        Importance: 7,
+        Subject: "Pathologie",
+        Chapter: "Systemische Amyloidose",
+        Length: "838",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/yQYdAK/article/fP0kVT",
+        Error: 0
+    }, {
+        Day: 84,
+        Importance: 1,
+        Subject: "Epidemiologie",
+        Chapter: "Grundbegriffe medizinischer Forschung",
+        Length: "743",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/AQYRAK/article/nn07Fg",
+        Error: 0
+    }, {
+        Day: 84,
+        Importance: 2,
+        Subject: "Epidemiologie",
+        Chapter: "Angewandte Statistik",
+        Length: "2782",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/AQYRAK/article/CI0qUh",
+        Error: 0
+    }, {
+        Day: 84,
+        Importance: 3,
+        Subject: "Epidemiologie",
+        Chapter: "Epidemiologie und Wahrscheinlichkeiten",
+        Length: "2621",
+        Imppact: 5,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/AQYRAK/article/Xj09_f",
+        Error: 0
+    }, {
+        Day: 84,
+        Importance: 4,
+        Subject: "Epidemiologie",
+        Chapter: "Studientypen der medizinischen Forschung",
+        Length: "2315",
+        Imppact: 2,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/AQYRAK/article/1j02zf",
+        Error: 0
+    }, {
+        Day: 84,
+        Importance: 5,
+        Subject: "Epidemiologie",
+        Chapter: "Sammelsurium der Epidemiologie",
+        Length: "1299",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/AQYRAK/article/dr0oTh",
+        Error: 0
+    }, {
+        Day: 84,
+        Importance: 6,
+        Subject: "Epidemiologie",
+        Chapter: "Diagnose- und Klassifikationssysteme",
+        Length: "1199",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/AQYRAK/article/dj0ozf",
+        Error: 0
+    }, {
+        Day: 84,
+        Importance: 7,
+        Subject: "Epidemiologie",
+        Chapter: "Qualitätsmanagement",
+        Length: "570",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/AQYRAK/article/TM06Lg",
+        Error: 0
+    }, {
+        Day: 84,
+        Importance: 8,
+        Subject: "Epidemiologie",
+        Chapter: "Prävention",
+        Length: "923",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/AQYRAK/article/Wj0Pzf",
+        Error: 0
+    }, {
+        Day: 85,
+        Importance: 1,
+        Subject: "Sozialmedizin & Alternative Heilverfahren und Rehabilitation",
+        Chapter: "Soziale Sicherung",
+        Length: "1462",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/_QY5AK/article/Uj0b-f",
+        Error: 0
+    }, {
+        Day: 85,
+        Importance: 2,
+        Subject: "Sozialmedizin & Alternative Heilverfahren und Rehabilitation",
+        Chapter: "Gesetzliche Unfallversicherung",
+        Length: "745",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/_QY5AK/article/jP0_eT",
+        Error: 0
+    }, {
+        Day: 85,
+        Importance: 3,
+        Subject: "Sozialmedizin & Alternative Heilverfahren und Rehabilitation",
+        Chapter: "Gesetzliche Krankenversicherung",
+        Length: "2505",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/_QY5AK/article/HM0KJg",
+        Error: 0
+    }, {
+        Day: 85,
+        Importance: 4,
+        Subject: "Sozialmedizin & Alternative Heilverfahren und Rehabilitation",
+        Chapter: "Ökonomische Aspekte von Gesundheit und Krankheit",
+        Length: "440",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/_QY5AK/article/2j0T-f",
+        Error: 0
+    }, {
+        Day: 85,
+        Importance: 5,
+        Subject: "Sozialmedizin & Alternative Heilverfahren und Rehabilitation",
+        Chapter: "Behinderung und Einschränkung der Arbeitsfähigkeit",
+        Length: "622",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/_QY5AK/article/ej0xzf",
+        Error: 0
+    }, {
+        Day: 85,
+        Importance: 6,
+        Subject: "Sozialmedizin & Alternative Heilverfahren und Rehabilitation",
+        Chapter: "Grundlagen der allgemeinmedizinischen Versorgung",
+        Length: "1310",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/_QY5AK/article/Rn0lGg",
+        Error: 0
+    }, {
+        Day: 85,
+        Importance: 7,
+        Subject: "Sozialmedizin & Alternative Heilverfahren und Rehabilitation",
+        Chapter: "Übersicht Geriatrie",
+        Length: "1258",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/_QY5AK/article/On0Itg",
+        Error: 0
+    }, {
+        Day: 85,
+        Importance: 8,
+        Subject: "Sozialmedizin & Alternative Heilverfahren und Rehabilitation",
+        Chapter: "Palliativmedizin",
+        Length: "2655",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/_QY5AK/article/3n0SGg",
+        Error: 0
+    }, {
+        Day: 85,
+        Importance: 9,
+        Subject: "Sozialmedizin & Alternative Heilverfahren und Rehabilitation",
+        Chapter: "Rehabilitation",
+        Length: "1148",
+        Imppact: 1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/_QY5AK/article/kn0mtg",
+        Error: 0
+    }, {
+        Day: 85,
+        Importance: 10,
+        Subject: "Sozialmedizin & Alternative Heilverfahren und Rehabilitation",
+        Chapter: "Physikalische Therapie",
+        Length: "782",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/_QY5AK/article/WN0PZg",
+        Error: 0
+    }, {
+        Day: 85,
+        Importance: 11,
+        Subject: "Sozialmedizin & Alternative Heilverfahren und Rehabilitation",
+        Chapter: "Phytotherapeutika",
+        Length: "1310",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/_QY5AK/article/Rj0lZT",
+        Error: 0
+    }, {
+        Day: 85,
+        Importance: 12,
+        Subject: "Sozialmedizin & Alternative Heilverfahren und Rehabilitation",
+        Chapter: "Komplementärmedizin einschließlich Naturheilkunde",
+        Length: "786",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/_QY5AK/article/VN0GZg",
+        Error: 0
+    }, {
+        Day: 85,
+        Importance: 13,
+        Subject: "Sozialmedizin & Alternative Heilverfahren und Rehabilitation",
+        Chapter: "Ernährungsmedizin",
+        Length: "840",
+        Imppact: 0,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/_QY5AK/article/kcamcj",
+        Error: 0
+    }, {
+        Day: 85,
+        Importance: 14,
+        Subject: "Sozialmedizin & Alternative Heilverfahren und Rehabilitation",
+        Chapter: "Zweites Staatsexamen",
+        Length: "1028",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/_QY5AK/article/eL0x9g",
+        Error: 0
+    }, {
+        Day: 86,
+        Importance: 1,
+        Subject: "Wiederholung: 2022/H Tag 1",
+        Chapter: "Tag 86 Lernplan 2. STEX – Wiederholungs- und Probe-Examenszeit",
+        Length: "223",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/zQYrAK/article/yq0dah",
+        Error: 0
+    }, {
+        Day: 87,
+        Importance: 1,
+        Subject: "Wiederholung: 2022/H Tag 2",
+        Chapter: "Tag 87 Lernplan 2. STEX – Wiederholungs- und Probe-Examenszeit",
+        Length: "223",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/-QYDAK/article/Aq0Rah",
+        Error: 0
+    }, {
+        Day: 88,
+        Importance: 1,
+        Subject: "Wiederholung: 2022/H Tag 3",
+        Chapter: "Tag 88 Lernplan 2. STEX – Wiederholungs- und Probe-Examenszeit",
+        Length: "223",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/ZjYZ_K/article/_q05ah",
+        Error: 0
+    }, {
+        Day: 89,
+        Importance: 1,
+        Subject: "Wiederholung: 2023/F Tag 1",
+        Chapter: "Tag 89 Lernplan 2. STEX – Wiederholungs- und Probe-Examenszeit",
+        Length: "223",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/0jYe_K/article/zq0rah",
+        Error: 0
+    }, {
+        Day: 90,
+        Importance: 1,
+        Subject: "Wiederholung: 2023/F Tag 2",
+        Chapter: "Tag 90 Lernplan 2. STEX – Wiederholungs- und Probe-Examenszeit",
+        Length: "223",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/ajYQ_K/article/-q0Dah",
+        Error: 0
+    }, {
+        Day: 91,
+        Importance: 1,
+        Subject: "Wiederholung: 2023/F Tag 3",
+        Chapter: "Tag 91 Lernplan 2. STEX – Wiederholungs- und Probe-Examenszeit",
+        Length: "222",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/YjYn_K/article/ZI0ZYh",
+        Error: 0
+    }, {
+        Day: 92,
+        Importance: 1,
+        Subject: "Generalprobe: 2023/H Tag 1",
+        Chapter: "Tag 92 Lernplan 2. STEX – Wiederholungs- und Probe-Examenszeit",
+        Length: "224",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/bjYH_K/article/0I0eYh",
+        Error: 0
+    }, {
+        Day: 93,
+        Importance: 1,
+        Subject: "Generalprobe: 2023/H Tag 2",
+        Chapter: "Tag 93 Lernplan 2. STEX – Wiederholungs- und Probe-Examenszeit",
+        Length: "224",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/XjY9_K/article/aI0QYh",
+        Error: 0
+    }, {
+        Day: 94,
+        Importance: 1,
+        Subject: "Generalprobe: 2023/H Tag 3",
+        Chapter: "Tag 94 Lernplan 2. STEX – Wiederholungs- und Probe-Examenszeit",
+        Length: "223",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/cjYazK/article/YI0nYh",
+        Error: 0
+    }, {
+        Day: 95,
+        Importance: 1,
+        Subject: "Generalprobe: 2024/F Tag 1",
+        Chapter: "Tag 95 Lernplan 2. STEX – Wiederholungs- und Probe-Examenszeit",
+        Length: "223",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/1jY2zK/article/bI0HYh",
+        Error: 0
+    }, {
+        Day: 96,
+        Importance: 1,
+        Subject: "Generalprobe: 2024/F Tag 2",
+        Chapter: "Tag 96 Lernplan 2. STEX – Wiederholungs- und Probe-Examenszeit",
+        Length: "223",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/WjYPzK/article/XI09Yh",
+        Error: 0
+    }, {
+        Day: 97,
+        Importance: 1,
+        Subject: "Generalprobe: 2024/F Tag 3",
+        Chapter: "Tag 97 Lernplan 2. STEX – Wiederholungs- und Probe-Examenszeit",
+        Length: "223",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/djYozK/article/cI0abh",
+        Error: 0
+    }, {
+        Day: 98,
+        Importance: 1,
+        Subject: "Generalprobe: 2024/H Tag 1",
+        Chapter: "Tag 98 Lernplan 2. STEX – Wiederholungs- und Probe-Examenszeit",
+        Length: "223",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/VjYGzK/article/1I02bh",
+        Error: 0
+    }, {
+        Day: 99,
+        Importance: 1,
+        Subject: "Generalprobe: 2024/H Tag 2",
+        Chapter: "Tag 99 Lernplan 2. STEX – Wiederholungs- und Probe-Examenszeit",
+        Length: "223",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/ejYxzK/article/WI0Pbh",
+        Error: 0
+    }, {
+        Day: 100,
+        Importance: 1,
+        Subject: "Generalprobe: 2024/H Tag 3",
+        Chapter: "Tag 100 Lernplan 2. STEX – Wiederholungs- und Probe-Examenszeit",
+        Length: "223",
+        Imppact: -1,
+        Url: "https://next.amboss.com/de/courses/AQ0RAf/UjYb-K/article/dI0obh",
+        Error: 0
+    }],
     hs = {
         lastUpdated: Ku,
         heading: Au,
