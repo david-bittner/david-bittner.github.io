@@ -4,16 +4,17 @@
 
 	<style>
 		.questionnumber rect:not(:hover) {
-		    stroke: #DDD !important;
+		    stroke: #777 !important;
 		}
 		.flashcardcount rect:not(:hover) {
-		    stroke: #DDD !important;
+		    stroke: #777 !important;
 		}
 		.bars rect:not(:hover):not([stroke="#F30"]) {
-		    stroke: #DDD !important;
+		    stroke: #777 !important;
 		}
 		.bars rect:hover:not([stroke="#F30"]) {
 		    stroke: black !important;
+			z-index: 10000 !important
 		}
 		.bars rect[stroke-width="2"] {
 		    stroke: #F30 !important;
