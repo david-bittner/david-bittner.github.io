@@ -10643,8 +10643,8 @@ Importance: 2,
 Subject: "Urologie",
 Chapter: "Benignes Prostatasyndrom",
 Length: "1175",
-Imppact: 15,
-Url: "https://next.amboss.com/de/courses/AQ0RAf/LQYw9K/article/AQ0RAf",
+Imppact: 23,
+Url: "https://next.amboss.com/de/courses/AQ0RAf/LQYw9K/article/pi0Lsf",
 Error: 0
 }, {
 Day: 58,
